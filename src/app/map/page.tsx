@@ -65,10 +65,10 @@ export default function MapPage() {
 
   return (
     <div className="container mx-auto px-4 py-8">
-      <h1 className="text-4xl font-bold mb-6">Memorial Highways Map</h1>
+      <h1 className="text-4xl font-bold mb-6">Florida Memorial Highways Map</h1>
       <p className="text-gray-600 mb-8">
-        Explore {data?.metadata.totalCount} memorial highways across the United
-        States
+        Explore {data?.metadata.totalCount} memorial highways across Florida.
+        Click on any marker to view detailed demographic information about the honoree.
       </p>
 
       <MapControls

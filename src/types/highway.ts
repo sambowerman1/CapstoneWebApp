@@ -5,6 +5,21 @@ export interface Honoree {
   birthYear?: number;
   deathYear?: number;
   conflictEra?: string;
+
+  // Florida CSV demographic fields
+  age?: number;
+  tour?: number; // years of service
+  causeOfDeath?: string;
+  incidentDescription?: string;
+  summary?: string; // biographical summary
+  education?: string;
+  placeOfBirth?: string;
+  placeOfDeath?: string;
+  gender?: string;
+  involvedInSports?: boolean;
+  involvedInPolitics?: boolean;
+  involvedInMilitary?: boolean;
+  involvedInMusic?: boolean;
 }
 
 export interface Location {
@@ -28,6 +43,10 @@ export interface Highway {
   location: Location;
   designation: Designation;
   description?: string;
+
+  // Florida CSV additional fields
+  county: string;
+  bill?: string;
 }
 
 export interface HighwayDataset {
@@ -45,6 +64,9 @@ export interface AnalysisData {
     byState: Record<string, number>;
     byDecade: Record<string, number>;
     byConflict: Record<string, number>;
+    byCounty?: Record<string, number>; // Florida county breakdown
+    byGender?: Record<string, number>;
+    byInvolvement?: Record<string, number>;
   };
   findings: Array<{
     id: string;
@@ -52,5 +74,6 @@ export interface AnalysisData {
     description: string;
     visualizationType: "chart" | "map" | "table";
     data: any;
+    imageUrl?: string; // For static visualization images
   }>;
 }

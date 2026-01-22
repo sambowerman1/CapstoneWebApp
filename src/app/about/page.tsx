@@ -53,7 +53,7 @@ export default function AboutPage() {
         </CardContent>
       </Card>
 
-      <Card>
+      <Card className="mb-6">
         <CardHeader>
           <CardTitle>Technology</CardTitle>
         </CardHeader>
@@ -76,6 +76,35 @@ export default function AboutPage() {
               <strong>Vercel</strong> for deployment and hosting
             </li>
           </ul>
+        </CardContent>
+      </Card>
+
+      <Card className="mb-6">
+        <CardHeader>
+          <CardTitle>The Team</CardTitle>
+        </CardHeader>
+        <CardContent>
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
+            {[
+              { name: "Noah Barnes", github: "nbarnes4" },
+              { name: "Sam Bowerman", github: "sambowerman1" },
+              { name: "Lucas Koch", github: "deltalucas" },
+              { name: "Dhana Patel", github: "Dbshort02" },
+            ].map((member) => (
+              <div key={member.github} className="text-center">
+                <p className="font-semibold text-gray-900 mb-1">{member.name}</p>
+                <a
+                  href={`https://github.com/${member.github}`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="font-mono text-sm text-green-600 hover:text-green-700 hover:underline transition-colors"
+                  style={{ fontFamily: "'Fira Code', 'Courier New', Courier, monospace" }}
+                >
+                  @{member.github}
+                </a>
+              </div>
+            ))}
+          </div>
         </CardContent>
       </Card>
 

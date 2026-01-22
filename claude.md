@@ -171,22 +171,28 @@ npm start
 
 ## Current State
 
-**Status:** ✅ Fully functional MVP complete
+**Status:** ✅ Florida Data Integration Complete
 
-**Sample Data:** The app currently has 6 sample memorial highways representing different states and branches. This is for demonstration purposes.
+**Real Data:** The app now includes 1,033 Florida memorial highways with full demographic data including:
+- Honoree biographical information (summary, education, birth/death places)
+- Involvement flags (military, politics, sports, music)
+- ODMP data for law enforcement officers (age, tour of duty, cause of death)
 
 **Pages:**
 - ✅ Landing page with hero, features, and statistics
-- ✅ About page explaining the project
-- ✅ Interactive map with filters (state, search, branch)
-- ✅ Findings page with data table and statistics cards
+- ✅ About page with project info and team members (with GitHub links)
+- ✅ Interactive map centered on Florida with demographic popups
+- ✅ Findings page with data table, statistics cards, and visualizations
 
 **Features Working:**
 - Responsive navigation (mobile menu)
-- Interactive Leaflet map with markers/polylines
+- Interactive Leaflet map with markers centered on Florida
+- Rich popup content showing demographic info and involvement badges
 - Map filtering (state, honoree name search, military branch)
 - Data table with sorting, pagination, and global search
 - Statistics cards showing demographic breakdowns
+- Commemorative Inequality Matrix visualization
+- Team section with GitHub links in hacker-style font
 - Fully responsive design (mobile, tablet, desktop)
 
 ## Important Architectural Decisions
@@ -208,11 +214,15 @@ npm start
 
 ## Next Steps / TODO
 
-### High Priority
-- [ ] Replace sample data in `public/data/highways.json` with real memorial highway data
-- [ ] Update `public/data/analysis.json` with actual demographic analysis
-- [ ] Create data processing script to transform ArcGIS exports (see plan file for details)
-- [ ] Test with full dataset to ensure map performance (may need marker clustering)
+### High Priority (Completed)
+- [x] Replace sample data in `public/data/highways.json` with real Florida memorial highway data (1,033 entries)
+- [x] Update `public/data/analysis.json` with actual demographic analysis
+- [x] Create data processing script (`scripts/process-florida-data.ts`) to transform CSV exports
+- [x] Add team section to About page with GitHub links
+- [x] Add Commemorative Inequality Matrix visualization to Findings page
+
+### High Priority (Remaining)
+- [ ] Test with full dataset to ensure map performance (may need marker clustering for 1000+ markers)
 
 ### Medium Priority
 - [ ] Add data export functionality (CSV/JSON download)
