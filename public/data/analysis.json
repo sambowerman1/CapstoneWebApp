@@ -1,0 +1,50 @@
+{
+  "demographics": {
+    "byBranch": {
+      "Army": 4,
+      "Navy": 1,
+      "Marines": 1,
+      "Air Force": 0,
+      "Coast Guard": 0
+    },
+    "byState": {
+      "CA": 1,
+      "TX": 1,
+      "NY": 1,
+      "FL": 1,
+      "OH": 1,
+      "WA": 1
+    },
+    "byDecade": {
+      "2000s": 2,
+      "2010s": 4
+    },
+    "byConflict": {
+      "Iraq War": 3,
+      "Afghanistan War": 3
+    }
+  },
+  "findings": [
+    {
+      "id": "finding-001",
+      "title": "Most memorial highways honor Iraq and Afghanistan War veterans",
+      "description": "100% of memorial highways in our current dataset commemorate service members who served in Iraq or Afghanistan conflicts.",
+      "visualizationType": "chart",
+      "data": null
+    },
+    {
+      "id": "finding-002",
+      "title": "Army receives majority of memorial designations",
+      "description": "67% of memorial highways honor Army service members, reflecting the branch's larger size and ground combat role.",
+      "visualizationType": "chart",
+      "data": null
+    },
+    {
+      "id": "finding-003",
+      "title": "Geographic distribution is evenly spread",
+      "description": "Memorial highways are distributed across multiple regions with no single state dominating designations.",
+      "visualizationType": "map",
+      "data": null
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "highways": [
+    {
+      "id": "ca-001",
+      "shapeId": "ARCGIS_CA_001",
+      "name": "SGT Daniel Sakai Memorial Highway",
+      "state": "CA",
+      "honoree": {
+        "name": "Daniel Sakai",
+        "branch": "Army",
+        "rank": "Sergeant",
+        "birthYear": 1982,
+        "deathYear": 2009,
+        "conflictEra": "Iraq War"
+      },
+      "location": {
+        "coordinates": [[34.0522, -118.2437], [34.0622, -118.2537]],
+        "county": "Los Angeles",
+        "city": "Los Angeles",
+        "state": "CA"
+      },
+      "designation": {
+        "year": 2011,
+        "legislation": "ACR 124"
+      },
+      "description": "SGT Sakai served honorably in Iraq and made the ultimate sacrifice for his country."
+    },
+    {
+      "id": "tx-001",
+      "shapeId": "ARCGIS_TX_001",
+      "name": "CPL Kyle Carpenter Memorial Highway",
+      "state": "TX",
+      "honoree": {
+        "name": "Kyle Carpenter",
+        "branch": "Marines",
+        "rank": "Corporal",
+        "birthYear": 1989,
+        "deathYear": 2010,
+        "conflictEra": "Afghanistan War"
+      },
+      "location": {
+        "coordinates": [[29.7604, -95.3698], [29.7704, -95.3798]],
+        "county": "Harris",
+        "city": "Houston",
+        "state": "TX"
+      },
+      "designation": {
+        "year": 2012,
+        "legislation": "HB 2468"
+      },
+      "description": "CPL Carpenter was awarded the Medal of Honor for his heroic actions in Afghanistan."
+    },
+    {
+      "id": "ny-001",
+      "shapeId": "ARCGIS_NY_001",
+      "name": "LT Michael Murphy Memorial Highway",
+      "state": "NY",
+      "honoree": {
+        "name": "Michael Murphy",
+        "branch": "Navy",
+        "rank": "Lieutenant",
+        "birthYear": 1976,
+        "deathYear": 2005,
+        "conflictEra": "Afghanistan War"
+      },
+      "location": {
+        "coordinates": [40.7128, -74.0060],
+        "county": "Suffolk",
+        "city": "Patchogue",
+        "state": "NY"
+      },
+      "designation": {
+        "year": 2008,
+        "legislation": "Senate Bill 6836"
+      },
+      "description": "Navy SEAL LT Murphy received the Medal of Honor for Operation Red Wings."
+    },
+    {
+      "id": "fl-001",
+      "shapeId": "ARCGIS_FL_001",
+      "name": "SPC James Harrison Memorial Highway",
+      "state": "FL",
+      "honoree": {
+        "name": "James Harrison",
+        "branch": "Army",
+        "rank": "Specialist",
+        "birthYear": 1985,
+        "deathYear": 2007,
+        "conflictEra": "Iraq War"
+      },
+      "location": {
+        "coordinates": [[25.7617, -80.1918], [25.7717, -80.2018]],
+        "county": "Miami-Dade",
+        "city": "Miami",
+        "state": "FL"
+      },
+      "designation": {
+        "year": 2009,
+        "legislation": "HB 1234"
+      },
+      "description": "SPC Harrison served two tours in Iraq before making the ultimate sacrifice."
+    },
+    {
+      "id": "oh-001",
+      "shapeId": "ARCGIS_OH_001",
+      "name": "SSGT Robert Miller Memorial Highway",
+      "state": "OH",
+      "honoree": {
+        "name": "Robert Miller",
+        "branch": "Army",
+        "rank": "Staff Sergeant",
+        "birthYear": 1983,
+        "deathYear": 2008,
+        "conflictEra": "Afghanistan War"
+      },
+      "location": {
+        "coordinates": [[39.9612, -82.9988], [39.9712, -83.0088]],
+        "county": "Franklin",
+        "city": "Columbus",
+        "state": "OH"
+      },
+      "designation": {
+        "year": 2010,
+        "legislation": "HB 456"
+      },
+      "description": "SSGT Miller was posthumously awarded the Medal of Honor."
+    },
+    {
+      "id": "wa-001",
+      "shapeId": "ARCGIS_WA_001",
+      "name": "PFC Ross McGinnis Memorial Highway",
+      "state": "WA",
+      "honoree": {
+        "name": "Ross McGinnis",
+        "branch": "Army",
+        "rank": "Private First Class",
+        "birthYear": 1987,
+        "deathYear": 2006,
+        "conflictEra": "Iraq War"
+      },
+      "location": {
+        "coordinates": [[47.6062, -122.3321], [47.6162, -122.3421]],
+        "county": "King",
+        "city": "Seattle",
+        "state": "WA"
+      },
+      "designation": {
+        "year": 2008,
+        "legislation": "SB 6789"
+      },
+      "description": "PFC McGinnis saved the lives of four soldiers by covering a grenade with his body."
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2026-01-21T00:00:00Z",
+    "totalCount": 6,
+    "states": ["CA", "TX", "NY", "FL", "OH", "WA"]
+  }
+}
