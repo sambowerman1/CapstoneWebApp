@@ -35,7 +35,7 @@ export default function StatisticsCards({ demographics }: StatisticsCardsProps) 
         </CardContent>
       </Card>
 
-      <Card>
+      {/* <Card>
         <CardHeader>
           <CardTitle className="text-sm font-medium text-gray-600">
             Military Branches
@@ -61,7 +61,7 @@ export default function StatisticsCards({ demographics }: StatisticsCardsProps) 
             {Object.keys(demographics.byConflict).length}
           </div>
         </CardContent>
-      </Card>
+      </Card> */}
     </div>
   )
 }

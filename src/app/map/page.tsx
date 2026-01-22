@@ -7,6 +7,9 @@ import { loadHighwayData } from "@/lib/data-loader"
 import type { Highway, HighwayDataset } from "@/types/highway"
 
 export default function MapPage() {
+  // #region agent log
+  fetch('http://127.0.0.1:7242/ingest/81368653-ea8a-4c33-8f58-d330d2591a97',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({location:'map/page.tsx:render',message:'MapPage rendering',timestamp:Date.now(),sessionId:'debug-session',runId:'post-cache-clear'})}).catch(()=>{});
+  // #endregion
   const [data, setData] = useState<HighwayDataset | null>(null)
   const [filteredHighways, setFilteredHighways] = useState<Highway[]>([])
   const [loading, setLoading] = useState(true)
@@ -14,6 +17,9 @@ export default function MapPage() {
   useEffect(() => {
     loadHighwayData()
       .then((result) => {
+        // #region agent log
+        fetch('http://127.0.0.1:7242/ingest/81368653-ea8a-4c33-8f58-d330d2591a97',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({location:'map/page.tsx:dataLoaded',message:'Data loaded',data:{statesArray:result.metadata.states,statesCount:result.metadata.states?.length},timestamp:Date.now(),sessionId:'debug-session',runId:'post-cache-clear'})}).catch(()=>{});
+        // #endregion
         setData(result)
         setFilteredHighways(result.highways)
         setLoading(false)

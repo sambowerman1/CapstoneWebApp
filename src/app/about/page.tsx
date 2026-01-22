@@ -1,3 +1,4 @@
+import Image from "next/image"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 
 export default function AboutPage() {
@@ -30,16 +31,24 @@ export default function AboutPage() {
               { name: "Noah Barnes", github: "nbarnes4" },
               { name: "Sam Bowerman", github: "sambowerman1" },
               { name: "Lucas Koch", github: "deltalucas" },
-              { name: "Dhana Patel", github: "Dbshort02" },
+              { name: "Dhyana Patel", github: "Dbshort02" },
             ].map((member) => (
-              <div key={member.github} className="text-center">
-                <p className="font-semibold text-gray-900 mb-1">{member.name}</p>
+              <div key={member.github} className="text-center flex flex-col items-center">
+                <p className="font-semibold text-gray-900 mb-2">{member.name}</p>
+                <Image
+                  src={`https://github.com/${member.github}.png`}
+                  alt={`${member.name}'s profile`}
+                  width={80}
+                  height={80}
+                  className="rounded-full mb-2 border-2 border-gray-200"
+                  unoptimized
+                />
                 <a
                   href={`https://github.com/${member.github}`}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="font-mono text-sm text-blue-500 hover:text-green-700 hover:underline transition-colors font-bold"
-                  style={{ fontFamily: "'Fira Code', 'Courier New', Courier, monospace" }}
+                  className="text-sm text-blue-600 hover:text-blue-900 transition-colors bg-gray-100 px-2 py-0.5 rounded"
+                  style={{ fontFamily: "'Fira Code', 'SF Mono', 'Consolas', monospace" }}
                 >
                   @{member.github}
                 </a>

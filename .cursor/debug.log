@@ -16,3 +16,12 @@
 {"location":"MapControls.tsx:24","message":"MapControls rendered","data":{"statesCount":1,"statesArray":["FL"],"hasEmptyStates":false},"timestamp":1769051067008,"sessionId":"debug-session","hypothesisId":"C"}
 {"location":"MapControls.tsx:57","message":"State SelectContent rendering","data":{"stateValue":"__all__"},"timestamp":1769051067008,"sessionId":"debug-session","hypothesisId":"A"}
 {"location":"MapControls.tsx:71","message":"Branch SelectContent rendering","data":{"branchValue":"__all__"},"timestamp":1769051067008,"sessionId":"debug-session","hypothesisId":"B"}
+{"location":"map/page.tsx:render","message":"MapPage rendering","timestamp":1769052592177,"sessionId":"debug-session","runId":"post-cache-clear"}
+{"location":"map/page.tsx:render","message":"MapPage rendering","timestamp":1769052592382,"sessionId":"debug-session","runId":"post-cache-clear"}
+{"location":"map/page.tsx:render","message":"MapPage rendering","timestamp":1769052592382,"sessionId":"debug-session","runId":"post-cache-clear"}
+{"location":"map/page.tsx:dataLoaded","message":"Data loaded","data":{"statesArray":["FL"],"statesCount":1},"timestamp":1769052592399,"sessionId":"debug-session","runId":"post-cache-clear"}
+{"location":"map/page.tsx:dataLoaded","message":"Data loaded","data":{"statesArray":["FL"],"statesCount":1},"timestamp":1769052592400,"sessionId":"debug-session","runId":"post-cache-clear"}
+{"location":"map/page.tsx:render","message":"MapPage rendering","timestamp":1769052592400,"sessionId":"debug-session","runId":"post-cache-clear"}
+{"location":"map/page.tsx:render","message":"MapPage rendering","timestamp":1769052592400,"sessionId":"debug-session","runId":"post-cache-clear"}
+{"location":"MapControls.tsx:render","message":"MapControls rendered","data":{"statesCount":1},"timestamp":1769052592401,"sessionId":"debug-session","hypothesisId":"A"}
+{"location":"MapControls.tsx:render","message":"MapControls rendered","data":{"statesCount":1},"timestamp":1769052592401,"sessionId":"debug-session","hypothesisId":"A"}

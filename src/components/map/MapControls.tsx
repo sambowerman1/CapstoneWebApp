@@ -21,22 +21,25 @@ interface MapControlsProps {
 }
 
 export default function MapControls({ onFilterChange, states }: MapControlsProps) {
+  // #region agent log
+  fetch('http://127.0.0.1:7242/ingest/81368653-ea8a-4c33-8f58-d330d2591a97',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({location:'MapControls.tsx:render',message:'MapControls rendered',data:{statesCount:states?.length},timestamp:Date.now(),sessionId:'debug-session',hypothesisId:'A'})}).catch(()=>{});
+  // #endregion
   const [search, setSearch] = useState("")
-  const [state, setState] = useState<string>("")
-  const [branch, setBranch] = useState<string>("")
+  const [state, setState] = useState<string>("__all__")
+  const [branch, setBranch] = useState<string>("__all__")
 
   const handleApplyFilters = () => {
     onFilterChange({
       search: search || undefined,
-      state: state || undefined,
-      branch: branch || undefined,
+      state: state === "__all__" ? undefined : state || undefined,
+      branch: branch === "__all__" ? undefined : branch || undefined,
     })
   }
 
   const handleReset = () => {
     setSearch("")
-    setState("")
-    setBranch("")
+    setState("__all__")
+    setBranch("__all__")
     onFilterChange({})
   }
 
@@ -54,8 +57,8 @@ export default function MapControls({ onFilterChange, states }: MapControlsProps
             <SelectValue placeholder="Filter by state" />
           </SelectTrigger>
           <SelectContent>
-            <SelectItem value="">All States</SelectItem>
-            {states.sort().map((s) => (
+            <SelectItem value="__all__">All States</SelectItem>
+            {states.filter(s => s && s.trim() !== '').sort().map((s) => (
               <SelectItem key={s} value={s}>
                 {s}
               </SelectItem>
@@ -68,7 +71,7 @@ export default function MapControls({ onFilterChange, states }: MapControlsProps
             <SelectValue placeholder="Filter by branch" />
           </SelectTrigger>
           <SelectContent>
-            <SelectItem value="">All Branches</SelectItem>
+            <SelectItem value="__all__">All Branches</SelectItem>
             <SelectItem value="Army">Army</SelectItem>
             <SelectItem value="Navy">Navy</SelectItem>
             <SelectItem value="Air Force">Air Force</SelectItem>
