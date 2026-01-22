@@ -4,3 +4,15 @@
 {"location":"MapControls.tsx:24","message":"MapControls rendered","data":{"statesCount":1,"statesArray":["FL"],"hasEmptyStates":false},"timestamp":1769050663360,"sessionId":"debug-session","hypothesisId":"C"}
 {"location":"MapControls.tsx:57","message":"State SelectContent rendering","data":{"stateValue":"__all__"},"timestamp":1769050663361,"sessionId":"debug-session","hypothesisId":"A"}
 {"location":"MapControls.tsx:71","message":"Branch SelectContent rendering","data":{"branchValue":"__all__"},"timestamp":1769050663361,"sessionId":"debug-session","hypothesisId":"B"}
+{"location":"MapControls.tsx:24","message":"MapControls rendered","data":{"statesCount":1,"statesArray":["FL"],"hasEmptyStates":false},"timestamp":1769050791332,"sessionId":"debug-session","hypothesisId":"C"}
+{"location":"MapControls.tsx:71","message":"Branch SelectContent rendering","data":{"branchValue":"__all__"},"timestamp":1769050791332,"sessionId":"debug-session","hypothesisId":"B"}
+{"location":"MapControls.tsx:57","message":"State SelectContent rendering","data":{"stateValue":"__all__"},"timestamp":1769050791332,"sessionId":"debug-session","hypothesisId":"A"}
+{"location":"MapControls.tsx:71","message":"Branch SelectContent rendering","data":{"branchValue":"__all__"},"timestamp":1769050791332,"sessionId":"debug-session","hypothesisId":"B"}
+{"location":"MapControls.tsx:24","message":"MapControls rendered","data":{"statesCount":1,"statesArray":["FL"],"hasEmptyStates":false},"timestamp":1769050791332,"sessionId":"debug-session","hypothesisId":"C"}
+{"location":"MapControls.tsx:57","message":"State SelectContent rendering","data":{"stateValue":"__all__"},"timestamp":1769050791332,"sessionId":"debug-session","hypothesisId":"A"}
+{"location":"MapControls.tsx:24","message":"MapControls rendered","data":{"statesCount":1,"statesArray":["FL"],"hasEmptyStates":false},"timestamp":1769051067007,"sessionId":"debug-session","hypothesisId":"C"}
+{"location":"MapControls.tsx:57","message":"State SelectContent rendering","data":{"stateValue":"__all__"},"timestamp":1769051067008,"sessionId":"debug-session","hypothesisId":"A"}
+{"location":"MapControls.tsx:71","message":"Branch SelectContent rendering","data":{"branchValue":"__all__"},"timestamp":1769051067008,"sessionId":"debug-session","hypothesisId":"B"}
+{"location":"MapControls.tsx:24","message":"MapControls rendered","data":{"statesCount":1,"statesArray":["FL"],"hasEmptyStates":false},"timestamp":1769051067008,"sessionId":"debug-session","hypothesisId":"C"}
+{"location":"MapControls.tsx:57","message":"State SelectContent rendering","data":{"stateValue":"__all__"},"timestamp":1769051067008,"sessionId":"debug-session","hypothesisId":"A"}
+{"location":"MapControls.tsx:71","message":"Branch SelectContent rendering","data":{"branchValue":"__all__"},"timestamp":1769051067008,"sessionId":"debug-session","hypothesisId":"B"}

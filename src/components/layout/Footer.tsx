@@ -8,7 +8,7 @@ export default function Footer() {
           <div>
             <h3 className="font-bold text-lg mb-2">Memorial Highways</h3>
             <p className="text-sm text-gray-600">
-              A comprehensive database of memorial highways honoring America&apos;s heroes across all 50 states.
+              A comprehensive database of memorial highways honoring America's heroes across all 50 states.
             </p>
           </div>
           <div>

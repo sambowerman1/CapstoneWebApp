@@ -16,10 +16,36 @@ export default function AboutPage() {
             exists—each state maintains its own records independently.
           </p>
           <p className="text-gray-700">
-            By bringing this data together in one accessible location, we can better understand
-            patterns in memorial designations, honor those who served, and provide researchers
-            with valuable demographic and geographic insights.
+          By bringing this data together in one accessible location, we can better understand patterns in memorial designations, honor the many individuals and communities being remembered, and provide researchers with valuable demographic and geographic insights into who is memorialized—and why.
           </p>
+        </CardContent>
+      </Card>
+      <Card className="mb-6">
+        <CardHeader>
+          <CardTitle>The Team</CardTitle>
+        </CardHeader>
+        <CardContent>
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
+            {[
+              { name: "Noah Barnes", github: "nbarnes4" },
+              { name: "Sam Bowerman", github: "sambowerman1" },
+              { name: "Lucas Koch", github: "deltalucas" },
+              { name: "Dhana Patel", github: "Dbshort02" },
+            ].map((member) => (
+              <div key={member.github} className="text-center">
+                <p className="font-semibold text-gray-900 mb-1">{member.name}</p>
+                <a
+                  href={`https://github.com/${member.github}`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="font-mono text-sm text-blue-500 hover:text-green-700 hover:underline transition-colors font-bold"
+                  style={{ fontFamily: "'Fira Code', 'Courier New', Courier, monospace" }}
+                >
+                  @{member.github}
+                </a>
+              </div>
+            ))}
+          </div>
         </CardContent>
       </Card>
 
@@ -31,7 +57,7 @@ export default function AboutPage() {
           <h3 className="text-lg font-semibold mt-4 mb-2">Data Collection</h3>
           <p className="text-gray-700 mb-3">
             Data was collected from state Department of Transportation websites, legislative
-            records, and ArcGIS databases. Each entry includes:
+            records, ODMP Database, Wikipedia, and ArcGIS databases. Each entry includes:
           </p>
           <ul className="list-disc pl-6 space-y-1 text-gray-700 mb-6">
             <li>Highway identification (name, location, ShapeID from ArcGIS)</li>
@@ -48,7 +74,7 @@ export default function AboutPage() {
             <li>Distribution by military branch</li>
             <li>Geographic concentration by state and region</li>
             <li>Temporal trends in designations</li>
-            <li>Representation across conflict eras</li>
+            
           </ul>
         </CardContent>
       </Card>
@@ -79,34 +105,7 @@ export default function AboutPage() {
         </CardContent>
       </Card>
 
-      <Card className="mb-6">
-        <CardHeader>
-          <CardTitle>The Team</CardTitle>
-        </CardHeader>
-        <CardContent>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
-            {[
-              { name: "Noah Barnes", github: "nbarnes4" },
-              { name: "Sam Bowerman", github: "sambowerman1" },
-              { name: "Lucas Koch", github: "deltalucas" },
-              { name: "Dhana Patel", github: "Dbshort02" },
-            ].map((member) => (
-              <div key={member.github} className="text-center">
-                <p className="font-semibold text-gray-900 mb-1">{member.name}</p>
-                <a
-                  href={`https://github.com/${member.github}`}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="font-mono text-sm text-green-600 hover:text-green-700 hover:underline transition-colors"
-                  style={{ fontFamily: "'Fira Code', 'Courier New', Courier, monospace" }}
-                >
-                  @{member.github}
-                </a>
-              </div>
-            ))}
-          </div>
-        </CardContent>
-      </Card>
+     
 
       <div className="mt-8 p-6 bg-blue-50 rounded-lg">
         <h2 className="text-xl font-semibold mb-2">Contributing</h2>

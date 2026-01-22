@@ -10,11 +10,10 @@ export default function Home() {
       <section className="bg-gradient-to-br from-blue-600 to-blue-800 text-white py-20">
         <div className="container mx-auto px-4 text-center">
           <h1 className="text-5xl md:text-6xl font-bold mb-6">
-            Memorial Highways of America
+          Memorial Highway Database Project
           </h1>
           <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto">
-            A comprehensive database of memorial highways honoring America&apos;s heroes
-            across all 50 states
+          A comprehensive database of memorial highway designations across all 50 states
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link href="/map">
@@ -98,26 +97,20 @@ export default function Home() {
       </section>
 
       {/* Stats Section */}
-      <section className="py-16">
-        <div className="container mx-auto px-4 text-center">
+      <section className="py-16 ">
+        <div className="container mx-auto px-4 text-center ">
           <h2 className="text-3xl font-bold mb-12">By the Numbers</h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
+          <div className="grid grid-cols-2 md:grid-cols-2 gap-8" >
             <div>
-              <div className="text-4xl font-bold text-blue-600 mb-2">6</div>
+              <div className="text-4xl font-bold text-blue-600 mb-2">1</div>
               <div className="text-gray-600">States</div>
             </div>
             <div>
-              <div className="text-4xl font-bold text-blue-600 mb-2">6</div>
+              <div className="text-4xl font-bold text-blue-600 mb-2">1033</div>
               <div className="text-gray-600">Memorial Highways</div>
             </div>
-            <div>
-              <div className="text-4xl font-bold text-blue-600 mb-2">3</div>
-              <div className="text-gray-600">Military Branches</div>
-            </div>
-            <div>
-              <div className="text-4xl font-bold text-blue-600 mb-2">2</div>
-              <div className="text-gray-600">Conflict Eras</div>
-            </div>
+        
+
           </div>
         </div>
       </section>
