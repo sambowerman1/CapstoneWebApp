@@ -25,3 +25,4 @@
 {"location":"map/page.tsx:render","message":"MapPage rendering","timestamp":1769052592400,"sessionId":"debug-session","runId":"post-cache-clear"}
 {"location":"MapControls.tsx:render","message":"MapControls rendered","data":{"statesCount":1},"timestamp":1769052592401,"sessionId":"debug-session","hypothesisId":"A"}
 {"location":"MapControls.tsx:render","message":"MapControls rendered","data":{"statesCount":1},"timestamp":1769052592401,"sessionId":"debug-session","hypothesisId":"A"}
+{"location":"map/page.tsx:render","message":"MapPage rendering","timestamp":1769052823685,"sessionId":"debug-session","runId":"post-cache-clear"}

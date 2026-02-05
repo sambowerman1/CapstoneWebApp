@@ -7,19 +7,14 @@ import { loadHighwayData } from "@/lib/data-loader"
 import type { Highway, HighwayDataset } from "@/types/highway"
 
 export default function MapPage() {
-  // #region agent log
-  fetch('http://127.0.0.1:7242/ingest/81368653-ea8a-4c33-8f58-d330d2591a97',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({location:'map/page.tsx:render',message:'MapPage rendering',timestamp:Date.now(),sessionId:'debug-session',runId:'post-cache-clear'})}).catch(()=>{});
-  // #endregion
   const [data, setData] = useState<HighwayDataset | null>(null)
   const [filteredHighways, setFilteredHighways] = useState<Highway[]>([])
+  const [selectedState, setSelectedState] = useState<string | undefined>(undefined)
   const [loading, setLoading] = useState(true)
 
   useEffect(() => {
     loadHighwayData()
       .then((result) => {
-        // #region agent log
-        fetch('http://127.0.0.1:7242/ingest/81368653-ea8a-4c33-8f58-d330d2591a97',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({location:'map/page.tsx:dataLoaded',message:'Data loaded',data:{statesArray:result.metadata.states,statesCount:result.metadata.states?.length},timestamp:Date.now(),sessionId:'debug-session',runId:'post-cache-clear'})}).catch(()=>{});
-        // #endregion
         setData(result)
         setFilteredHighways(result.highways)
         setLoading(false)
@@ -59,6 +54,10 @@ export default function MapPage() {
     setFilteredHighways(filtered)
   }
 
+  const handleStateSelect = (state: string | undefined) => {
+    setSelectedState(state)
+  }
+
   if (loading) {
     return (
       <div className="container mx-auto px-4 py-8">
@@ -71,23 +70,25 @@ export default function MapPage() {
 
   return (
     <div className="container mx-auto px-4 py-8">
-      <h1 className="text-4xl font-bold mb-6">Florida Memorial Highways Map</h1>
+      <h1 className="text-4xl font-bold mb-6">Memorial Highways Map</h1>
       <p className="text-gray-600 mb-8">
-        Explore {data?.metadata.totalCount} memorial highways across Florida.
-        Click on any marker to view detailed demographic information about the honoree.
+        Explore {data?.metadata.totalCount.toLocaleString()} memorial highways across{" "}
+        {data?.metadata.states.length} states.
+        Click on any marker to view detailed information about the honoree.
       </p>
 
       <MapControls
         onFilterChange={handleFilterChange}
+        onStateSelect={handleStateSelect}
         states={data?.metadata.states || []}
       />
 
       <div className="mt-6">
-        <MapContainer highways={filteredHighways} />
+        <MapContainer highways={filteredHighways} selectedState={selectedState} />
       </div>
 
       <div className="mt-4 text-sm text-gray-600">
-        Showing {filteredHighways.length} of {data?.metadata.totalCount}{" "}
+        Showing {filteredHighways.length.toLocaleString()} of {data?.metadata.totalCount.toLocaleString()}{" "}
         highways
       </div>
     </div>

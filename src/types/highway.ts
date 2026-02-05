@@ -20,6 +20,10 @@ export interface Honoree {
   involvedInPolitics?: boolean;
   involvedInMilitary?: boolean;
   involvedInMusic?: boolean;
+
+  // Michigan-specific fields
+  involvedInLawEnforcement?: boolean;
+  involvedInFireService?: boolean;
 }
 
 export interface Location {
@@ -47,6 +51,10 @@ export interface Highway {
   // Florida CSV additional fields
   county: string;
   bill?: string;
+
+  // Michigan-specific fields
+  highway?: string; // Route number (M-66, US-131, etc.)
+  lawWebLink?: string;
 }
 
 export interface HighwayDataset {

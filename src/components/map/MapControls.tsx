@@ -17,16 +17,22 @@ interface MapControlsProps {
     search?: string
     branch?: string
   }) => void
+  onStateSelect?: (state: string | undefined) => void
   states: string[]
 }
 
-export default function MapControls({ onFilterChange, states }: MapControlsProps) {
-  // #region agent log
-  fetch('http://127.0.0.1:7242/ingest/81368653-ea8a-4c33-8f58-d330d2591a97',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({location:'MapControls.tsx:render',message:'MapControls rendered',data:{statesCount:states?.length},timestamp:Date.now(),sessionId:'debug-session',hypothesisId:'A'})}).catch(()=>{});
-  // #endregion
+export default function MapControls({ onFilterChange, onStateSelect, states }: MapControlsProps) {
   const [search, setSearch] = useState("")
   const [state, setState] = useState<string>("__all__")
   const [branch, setBranch] = useState<string>("__all__")
+
+  const handleStateChange = (value: string) => {
+    setState(value)
+    // Notify parent of state selection for map centering
+    if (onStateSelect) {
+      onStateSelect(value === "__all__" ? undefined : value)
+    }
+  }
 
   const handleApplyFilters = () => {
     onFilterChange({
@@ -41,6 +47,15 @@ export default function MapControls({ onFilterChange, states }: MapControlsProps
     setState("__all__")
     setBranch("__all__")
     onFilterChange({})
+    if (onStateSelect) {
+      onStateSelect(undefined)
+    }
+  }
+
+  // Create state display names
+  const stateNames: Record<string, string> = {
+    FL: "Florida",
+    MI: "Michigan",
   }
 
   return (
@@ -52,7 +67,7 @@ export default function MapControls({ onFilterChange, states }: MapControlsProps
           onChange={(e) => setSearch(e.target.value)}
         />
 
-        <Select value={state} onValueChange={setState}>
+        <Select value={state} onValueChange={handleStateChange}>
           <SelectTrigger>
             <SelectValue placeholder="Filter by state" />
           </SelectTrigger>
@@ -60,7 +75,7 @@ export default function MapControls({ onFilterChange, states }: MapControlsProps
             <SelectItem value="__all__">All States</SelectItem>
             {states.filter(s => s && s.trim() !== '').sort().map((s) => (
               <SelectItem key={s} value={s}>
-                {s}
+                {stateNames[s] || s}
               </SelectItem>
             ))}
           </SelectContent>

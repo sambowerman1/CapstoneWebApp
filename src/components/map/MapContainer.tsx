@@ -17,12 +17,13 @@ const HighwayMap = dynamic(() => import("./HighwayMap"), {
 
 interface MapContainerProps {
   highways: Highway[]
+  selectedState?: string
 }
 
-export default function MapContainer({ highways }: MapContainerProps) {
+export default function MapContainer({ highways, selectedState }: MapContainerProps) {
   return (
     <div className="w-full h-[600px] md:h-[800px] rounded-lg overflow-hidden border">
-      <HighwayMap highways={highways} />
+      <HighwayMap highways={highways} selectedState={selectedState} />
     </div>
   )
 }

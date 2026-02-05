@@ -36,11 +36,21 @@ export default function FindingsPage() {
     )
   }
 
+  // Calculate state breakdown for display
+  const stateBreakdown = analysisData?.demographics.byState
+    ? Object.entries(analysisData.demographics.byState)
+        .map(([state, count]) => `${state === 'FL' ? 'Florida' : state === 'MI' ? 'Michigan' : state}: ${count.toLocaleString()}`)
+        .join(' | ')
+    : ''
+
   return (
     <div className="container mx-auto px-4 py-8">
       <h1 className="text-4xl font-bold mb-4">Analysis & Findings</h1>
-      <p className="text-gray-600 mb-8">
-        Demographic analysis and insights from memorial highway data across Florida
+      <p className="text-gray-600 mb-2">
+        Demographic analysis and insights from memorial highway data across multiple states
+      </p>
+      <p className="text-sm text-gray-500 mb-8">
+        {stateBreakdown}
       </p>
 
       {analysisData && <StatisticsCards demographics={analysisData.demographics} />}
@@ -72,7 +82,7 @@ export default function FindingsPage() {
                       width={800}
                       height={600}
                       className="w-full h-auto"
-                      priority={finding.id === 'finding-inequality-matrix'}
+                      priority={finding.id === 'finding-inequality-matrix' || finding.id === 'FL-finding-inequality-matrix'}
                     />
                   </div>
                 )}

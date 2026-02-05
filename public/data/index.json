@@ -1,0 +1,19 @@
+{
+  "states": ["FL", "MI"],
+  "lastUpdated": "2026-02-04T00:00:00Z",
+  "totalHighways": 1353,
+  "stateInfo": {
+    "FL": {
+      "name": "Florida",
+      "count": 1033,
+      "center": [27.9944, -81.7603],
+      "zoom": 7
+    },
+    "MI": {
+      "name": "Michigan",
+      "count": 320,
+      "center": [44.3148, -85.6024],
+      "zoom": 6
+    }
+  }
+}
