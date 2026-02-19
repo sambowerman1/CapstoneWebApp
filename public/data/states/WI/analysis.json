@@ -1,0 +1,41 @@
+{
+  "demographics": {
+    "byBranch": {},
+    "byState": {
+      "WI": 21
+    },
+    "byDecade": {},
+    "byConflict": {},
+    "byCounty": {},
+    "byGender": {
+      "Male": 3
+    },
+    "byInvolvement": {
+      "Military": 4,
+      "Politics": 2,
+      "Law Enforcement": 1,
+      "Sports": 1
+    }
+  },
+  "findings": [
+    {
+      "id": "finding-wi-counties",
+      "title": "Wisconsin County Distribution",
+      "description": "Memorial highways are distributed across 0 Wisconsin counties.",
+      "visualizationType": "map",
+      "data": {}
+    },
+    {
+      "id": "finding-wi-involvement",
+      "title": "Honoree Background Categories",
+      "description": "Wisconsin memorial highway honorees by category of involvement.",
+      "visualizationType": "chart",
+      "data": {
+        "Military": 4,
+        "Politics": 2,
+        "Law Enforcement": 1,
+        "Sports": 1
+      }
+    }
+  ]
+}

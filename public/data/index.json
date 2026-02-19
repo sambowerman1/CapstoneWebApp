@@ -1,7 +1,7 @@
 {
-  "states": ["FL", "MI"],
-  "lastUpdated": "2026-02-04T00:00:00Z",
-  "totalHighways": 1353,
+  "states": ["FL", "MI", "CA", "TX", "MT", "NE", "WI"],
+  "lastUpdated": "2026-02-19T00:00:00Z",
+  "totalHighways": 2475,
   "stateInfo": {
     "FL": {
       "name": "Florida",
@@ -14,6 +14,36 @@
       "count": 320,
       "center": [44.3148, -85.6024],
       "zoom": 6
+    },
+    "CA": {
+      "name": "California",
+      "count": 509,
+      "center": [36.78, -119.42],
+      "zoom": 6
+    },
+    "TX": {
+      "name": "Texas",
+      "count": 508,
+      "center": [31.97, -99.90],
+      "zoom": 6
+    },
+    "MT": {
+      "name": "Montana",
+      "count": 52,
+      "center": [47.0, -109.6],
+      "zoom": 6
+    },
+    "NE": {
+      "name": "Nebraska",
+      "count": 32,
+      "center": [41.5, -99.8],
+      "zoom": 7
+    },
+    "WI": {
+      "name": "Wisconsin",
+      "count": 21,
+      "center": [44.5, -89.5],
+      "zoom": 7
     }
   }
 }

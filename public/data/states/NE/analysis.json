@@ -1,0 +1,82 @@
+{
+  "demographics": {
+    "byBranch": {},
+    "byState": {
+      "NE": 32
+    },
+    "byDecade": {
+      "2000s": 5,
+      "1990s": 16,
+      "2010s": 1,
+      "1980s": 5,
+      "2040s": 1,
+      "1960s": 1,
+      "2020s": 3
+    },
+    "byConflict": {},
+    "byCounty": {
+      "Platte": 3,
+      "Lancaster": 1,
+      "Kearney": 2,
+      "Dawson": 1,
+      "Johnson": 1,
+      "Douglas": 2,
+      "Lincoln": 2,
+      "Hamilton": 1,
+      "Scotts Bluff": 1,
+      "Madison": 1,
+      "Cuming": 1,
+      "Gage": 1,
+      "Greeley": 1,
+      "Sarpy": 1,
+      "Hall": 1
+    },
+    "byGender": {
+      "Male": 9,
+      "Female": 2
+    },
+    "byInvolvement": {
+      "Military": 4,
+      "Politics": 2,
+      "Law Enforcement": 1,
+      "Music": 1
+    }
+  },
+  "findings": [
+    {
+      "id": "finding-ne-counties",
+      "title": "Nebraska County Distribution",
+      "description": "Memorial highways are distributed across 15 Nebraska counties.",
+      "visualizationType": "map",
+      "data": {
+        "Platte": 3,
+        "Lancaster": 1,
+        "Kearney": 2,
+        "Dawson": 1,
+        "Johnson": 1,
+        "Douglas": 2,
+        "Lincoln": 2,
+        "Hamilton": 1,
+        "Scotts Bluff": 1,
+        "Madison": 1,
+        "Cuming": 1,
+        "Gage": 1,
+        "Greeley": 1,
+        "Sarpy": 1,
+        "Hall": 1
+      }
+    },
+    {
+      "id": "finding-ne-involvement",
+      "title": "Honoree Background Categories",
+      "description": "Nebraska memorial highway honorees by category of involvement.",
+      "visualizationType": "chart",
+      "data": {
+        "Military": 4,
+        "Politics": 2,
+        "Law Enforcement": 1,
+        "Music": 1
+      }
+    }
+  ]
+}

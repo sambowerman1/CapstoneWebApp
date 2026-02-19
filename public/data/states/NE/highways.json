@@ -1,0 +1,767 @@
+{
+  "highways": [
+    {
+      "id": "ne-2",
+      "shapeId": "NE_2",
+      "name": "Andrew Jackson Higgins Memorial Highway",
+      "state": "NE",
+      "county": "Platte",
+      "honoree": {
+        "name": "Andrew Jackson Higgins",
+        "gender": "male",
+        "summary": "Occupation: engineer",
+        "birthYear": 1886,
+        "deathYear": 1952
+      },
+      "location": {
+        "coordinates": [
+          41.44971328688563,
+          -97.52743128379821
+        ],
+        "county": "Platte",
+        "state": "NE"
+      },
+      "designation": {
+        "year": 2002
+      },
+      "highway": "US-81"
+    },
+    {
+      "id": "ne-3",
+      "shapeId": "NE_3",
+      "name": "Bess Streeter Aldrich Memorial Highway",
+      "state": "NE",
+      "county": "Lancaster",
+      "honoree": {
+        "name": "Bess",
+        "gender": "female",
+        "summary": "Occupation: novelist",
+        "birthYear": 1881,
+        "deathYear": 1954
+      },
+      "location": {
+        "coordinates": [
+          40.811314236637244,
+          -96.69930877751749
+        ],
+        "county": "Lancaster",
+        "state": "NE"
+      },
+      "designation": {
+        "year": 2001
+      },
+      "highway": "US-34"
+    },
+    {
+      "id": "ne-5",
+      "shapeId": "NE_5",
+      "name": "Senator Carl T Curtis Memorial Highway",
+      "state": "NE",
+      "county": "Kearney",
+      "honoree": {
+        "name": "Senator Carl T Curtis",
+        "involvedInPolitics": true
+      },
+      "location": {
+        "coordinates": [
+          40.488106085060046,
+          -99.01242936953912
+        ],
+        "county": "Kearney",
+        "state": "NE"
+      },
+      "designation": {
+        "year": 1997
+      },
+      "highway": "US-6 & US-3434"
+    },
+    {
+      "id": "ne-6",
+      "shapeId": "NE_6",
+      "name": "Clayton Yeutter Memorial Highway",
+      "state": "NE",
+      "county": "Dawson",
+      "honoree": {
+        "name": "Clayton Yeutter"
+      },
+      "location": {
+        "coordinates": [
+          40.9085114739448,
+          -99.82797775486519
+        ],
+        "county": "Dawson",
+        "state": "NE"
+      },
+      "designation": {
+        "year": 1996
+      },
+      "highway": "N-21"
+    },
+    {
+      "id": "ne-7",
+      "shapeId": "NE_7",
+      "name": "Colonel Barney Oldfield Memorial Highway",
+      "state": "NE",
+      "county": "Johnson",
+      "honoree": {
+        "name": "Barney Oldfield",
+        "involvedInMilitary": true
+      },
+      "location": {
+        "coordinates": [
+          40.36470812508206,
+          -96.04421668663943
+        ],
+        "county": "Johnson",
+        "state": "NE"
+      },
+      "designation": {
+        "year": 1996
+      },
+      "highway": "US-136"
+    },
+    {
+      "id": "ne-9",
+      "shapeId": "NE_9",
+      "name": "Crazy Horse Memorial Highway",
+      "state": "NE",
+      "county": "Unknown",
+      "honoree": {
+        "name": "Crazy Horse"
+      },
+      "location": {
+        "coordinates": [
+          41.60458353350504,
+          -99.69753931306802
+        ],
+        "county": "Unknown",
+        "state": "NE"
+      },
+      "designation": {
+        "year": 2010
+      },
+      "highway": "US-20"
+    },
+    {
+      "id": "ne-10",
+      "shapeId": "NE_10",
+      "name": "Eisenhower Interstate System Memorial Highway",
+      "state": "NE",
+      "county": "Unknown",
+      "honoree": {
+        "name": "Eisenhower Interstate System"
+      },
+      "location": {
+        "coordinates": [
+          41.67996119658129,
+          -99.91563139115091
+        ],
+        "county": "Unknown",
+        "state": "NE"
+      },
+      "designation": {
+        "year": 1990
+      },
+      "highway": "I-80, I-76, I-180, I-480, I-680, I-129"
+    },
+    {
+      "id": "ne-11",
+      "shapeId": "NE_11",
+      "name": "General Gruenther Memorial Highway",
+      "state": "NE",
+      "county": "Platte",
+      "honoree": {
+        "name": "General Gruenther",
+        "involvedInMilitary": true
+      },
+      "location": {
+        "coordinates": [
+          41.43413513741746,
+          -97.55156279254477
+        ],
+        "county": "Platte",
+        "state": "NE"
+      },
+      "designation": {
+        "year": 1991
+      },
+      "highway": "S-71B"
+    },
+    {
+      "id": "ne-12",
+      "shapeId": "NE_12",
+      "name": "Gerald Ford Freeway Memorial Highway",
+      "state": "NE",
+      "county": "Douglas",
+      "honoree": {
+        "name": "Gerald Ford"
+      },
+      "location": {
+        "coordinates": [
+          41.3239653013443,
+          -96.124329566791
+        ],
+        "county": "Douglas",
+        "state": "NE"
+      },
+      "designation": {
+        "year": 1982
+      },
+      "highway": "I-480"
+    },
+    {
+      "id": "ne-13",
+      "shapeId": "NE_13",
+      "name": "Glenn Miller Memorial Highway",
+      "state": "NE",
+      "county": "Lincoln",
+      "honoree": {
+        "name": "Glenn Miller",
+        "gender": "male",
+        "summary": "Occupation: jazz musician",
+        "birthYear": 1904,
+        "deathYear": 1944,
+        "involvedInMusic": true
+      },
+      "location": {
+        "coordinates": [
+          41.02736345443952,
+          -100.7719906045467
+        ],
+        "county": "Lincoln",
+        "state": "NE"
+      },
+      "designation": {
+        "year": 1999
+      },
+      "highway": "N-97"
+    },
+    {
+      "id": "ne-14",
+      "shapeId": "NE_14",
+      "name": "Grand Army of the Republic Memorial Highway",
+      "state": "NE",
+      "county": "Unknown",
+      "honoree": {
+        "name": "Grand Army of the Republic",
+        "involvedInMilitary": true
+      },
+      "location": {
+        "coordinates": [
+          41.57763932131752,
+          -99.96169740554626
+        ],
+        "county": "Unknown",
+        "state": "NE"
+      },
+      "designation": {
+        "year": 2047
+      },
+      "highway": "US-6"
+    },
+    {
+      "id": "ne-15",
+      "shapeId": "NE_15",
+      "name": "Great Plains Indian Memorial Highway",
+      "state": "NE",
+      "county": "Unknown",
+      "honoree": {
+        "name": "Great Plains Indian"
+      },
+      "location": {
+        "coordinates": [
+          41.682459374801276,
+          -99.6883678742049
+        ],
+        "county": "Unknown",
+        "state": "NE"
+      },
+      "designation": {
+        "year": 2004
+      },
+      "highway": "N-25"
+    },
+    {
+      "id": "ne-16",
+      "shapeId": "NE_16",
+      "name": "Harold Warp Memorial Highway",
+      "state": "NE",
+      "county": "Kearney",
+      "honoree": {
+        "name": "Harold Warp",
+        "gender": "male",
+        "summary": "Occupation: inventor",
+        "birthYear": 1903,
+        "deathYear": 1994
+      },
+      "location": {
+        "coordinates": [
+          40.48771758545169,
+          -99.02833059770023
+        ],
+        "county": "Kearney",
+        "state": "NE"
+      },
+      "designation": {
+        "year": 1994
+      },
+      "highway": "N-10"
+    },
+    {
+      "id": "ne-17",
+      "shapeId": "NE_17",
+      "name": "Henry Fonda Memorial Highway",
+      "state": "NE",
+      "county": "Hamilton",
+      "honoree": {
+        "name": "Henry Fonda",
+        "gender": "male",
+        "summary": "Occupation: television actor",
+        "birthYear": 1905,
+        "deathYear": 1982
+      },
+      "location": {
+        "coordinates": [
+          40.852204756547515,
+          -98.07513213821538
+        ],
+        "county": "Hamilton",
+        "state": "NE"
+      },
+      "designation": {
+        "year": 1992
+      },
+      "highway": "US-34"
+    },
+    {
+      "id": "ne-19",
+      "shapeId": "NE_19",
+      "name": "J Sterling Morton Memorial Highway",
+      "state": "NE",
+      "county": "Unknown",
+      "honoree": {
+        "name": "J Sterling Morton"
+      },
+      "location": {
+        "coordinates": [
+          41.65522352789834,
+          -99.67808094207966
+        ],
+        "county": "Unknown",
+        "state": "NE"
+      },
+      "designation": {
+        "year": 1989
+      },
+      "highway": "N-2/US-75"
+    },
+    {
+      "id": "ne-20",
+      "shapeId": "NE_20",
+      "name": "Jerome and Betty Warner Memorial Highway",
+      "state": "NE",
+      "county": "Lincoln",
+      "honoree": {
+        "name": "Jerome and Betty Warner"
+      },
+      "location": {
+        "coordinates": [
+          41.072930276112906,
+          -100.76701866870657
+        ],
+        "county": "Lincoln",
+        "state": "NE"
+      },
+      "designation": {
+        "year": 2001
+      },
+      "highway": "N-2"
+    },
+    {
+      "id": "ne-21",
+      "shapeId": "NE_21",
+      "name": "John McLellan Jr Memorial Highway",
+      "state": "NE",
+      "county": "Scotts Bluff",
+      "honoree": {
+        "name": "John McLellan Jr."
+      },
+      "location": {
+        "coordinates": [
+          41.856385641862495,
+          -103.68580236015674
+        ],
+        "county": "Scotts Bluff",
+        "state": "NE"
+      },
+      "designation": {
+        "year": 1999
+      },
+      "highway": "N-71"
+    },
+    {
+      "id": "ne-22",
+      "shapeId": "NE_22",
+      "name": "Johnny Carson Blvd Memorial Highway",
+      "state": "NE",
+      "county": "Madison",
+      "honoree": {
+        "name": "Johnny Carson Blvd"
+      },
+      "location": {
+        "coordinates": [
+          41.93184246647709,
+          -97.61274561525363
+        ],
+        "county": "Madison",
+        "state": "NE"
+      },
+      "designation": {
+        "year": 1986
+      },
+      "highway": "US-81"
+    },
+    {
+      "id": "ne-23",
+      "shapeId": "NE_23",
+      "name": "Karl Timmermann Memorial Highway",
+      "state": "NE",
+      "county": "Cuming",
+      "honoree": {
+        "name": "Karl Timmermann",
+        "gender": "male",
+        "deathYear": 1918
+      },
+      "location": {
+        "coordinates": [
+          41.909284369327096,
+          -96.75220510533275
+        ],
+        "county": "Cuming",
+        "state": "NE"
+      },
+      "designation": {
+        "year": 1996
+      },
+      "highway": "N-32"
+    },
+    {
+      "id": "ne-24",
+      "shapeId": "NE_24",
+      "name": "Kennedy Freeway Memorial Highway",
+      "state": "NE",
+      "county": "Douglas",
+      "honoree": {
+        "name": "Kennedy"
+      },
+      "location": {
+        "coordinates": [
+          41.265425477776525,
+          -96.12211060343026
+        ],
+        "county": "Douglas",
+        "state": "NE"
+      },
+      "designation": {
+        "year": 1963
+      },
+      "highway": "US-75"
+    },
+    {
+      "id": "ne-25",
+      "shapeId": "NE_25",
+      "name": "Mari Sandoz Sandhills Memorial Highway",
+      "state": "NE",
+      "county": "Unknown",
+      "honoree": {
+        "name": "Mari Sandoz Sandhills"
+      },
+      "location": {
+        "coordinates": [
+          41.7412572027861,
+          -99.76362712603186
+        ],
+        "county": "Unknown",
+        "state": "NE"
+      },
+      "designation": {
+        "year": 2000
+      },
+      "highway": "N-27"
+    },
+    {
+      "id": "ne-26",
+      "shapeId": "NE_26",
+      "name": "Merle Kingsbury Memorial Highway",
+      "state": "NE",
+      "county": "Unknown",
+      "honoree": {
+        "name": "Merle Kingsbury"
+      },
+      "location": {
+        "coordinates": [
+          41.59214477385539,
+          -99.90272005413324
+        ],
+        "county": "Unknown",
+        "state": "NE"
+      },
+      "designation": {
+        "year": 1991
+      },
+      "highway": "US-77/I-129"
+    },
+    {
+      "id": "ne-27",
+      "shapeId": "NE_27",
+      "name": "Nebraska Medal of Honor Memorial Highway",
+      "state": "NE",
+      "county": "Unknown",
+      "honoree": {
+        "name": "Nebraska Medal of Honor",
+        "involvedInMilitary": true
+      },
+      "location": {
+        "coordinates": [
+          41.468984996051745,
+          -99.57322001396342
+        ],
+        "county": "Unknown",
+        "state": "NE"
+      },
+      "designation": {
+        "year": 2020
+      },
+      "highway": "US-20"
+    },
+    {
+      "id": "ne-28",
+      "shapeId": "NE_28",
+      "name": "Pawnee Scouts Memorial Highway",
+      "state": "NE",
+      "county": "Unknown",
+      "honoree": {
+        "name": "Pawnee Scouts"
+      },
+      "location": {
+        "coordinates": [
+          41.418835033302024,
+          -99.61649401793298
+        ],
+        "county": "Unknown",
+        "state": "NE"
+      },
+      "designation": {
+        "year": 2020
+      },
+      "highway": "N-22"
+    },
+    {
+      "id": "ne-31",
+      "shapeId": "NE_31",
+      "name": "Robert Taylor Memorial Highway",
+      "state": "NE",
+      "county": "Gage",
+      "honoree": {
+        "name": "Robert Taylor",
+        "gender": "male",
+        "summary": "Officer Taylor, On today, the 100th anniversary of your death I would just like to say thank you for your service and sacrifice for the citizens of the state of Nebraska.  There is no tougher job in Law Enforcement than that of a Corrections Officer. R.I.P. USBP Anonymous United States Border Patrol May 11th, 2021",
+        "birthYear": 1911,
+        "deathYear": 1969,
+        "age": 54,
+        "tour": "Not available",
+        "causeOfDeath": "Stabbed",
+        "incidentDescription": "Cause: Stabbed Weapon: Edged weapon; Knife Offender: Executed",
+        "involvedInLawEnforcement": true
+      },
+      "location": {
+        "coordinates": [
+          40.267838383412524,
+          -96.67680230919812
+        ],
+        "county": "Gage",
+        "state": "NE"
+      },
+      "designation": {
+        "year": 1994
+      },
+      "highway": "US-136"
+    },
+    {
+      "id": "ne-32",
+      "shapeId": "NE_32",
+      "name": "Roger Welsch Memorial Highway",
+      "state": "NE",
+      "county": "Unknown",
+      "honoree": {
+        "name": "Roger Welsch",
+        "gender": "male",
+        "summary": "Occupation: correspondent",
+        "birthYear": 1936,
+        "deathYear": 2022
+      },
+      "location": {
+        "coordinates": [
+          41.402470990373715,
+          -99.81785926079894
+        ],
+        "county": "Unknown",
+        "state": "NE"
+      },
+      "designation": {
+        "year": 1990
+      },
+      "highway": "N-58"
+    },
+    {
+      "id": "ne-33",
+      "shapeId": "NE_33",
+      "name": "Standing Bear Memorial Highway",
+      "state": "NE",
+      "county": "Unknown",
+      "honoree": {
+        "name": "Standing Bear",
+        "gender": "male",
+        "birthYear": 1859,
+        "deathYear": 1933
+      },
+      "location": {
+        "coordinates": [
+          41.73584853113671,
+          -99.70618126139156
+        ],
+        "county": "Unknown",
+        "state": "NE"
+      },
+      "designation": {
+        "year": 1998
+      },
+      "highway": "N-14"
+    },
+    {
+      "id": "ne-34",
+      "shapeId": "NE_34",
+      "name": "Sam Foltz Memorial Highway",
+      "state": "NE",
+      "county": "Greeley",
+      "honoree": {
+        "name": "Sam Foltz"
+      },
+      "location": {
+        "coordinates": [
+          41.53684416164393,
+          -98.5222087861223
+        ],
+        "county": "Greeley",
+        "state": "NE"
+      },
+      "designation": {
+        "year": 2021
+      },
+      "highway": "N-56"
+    },
+    {
+      "id": "ne-35",
+      "shapeId": "NE_35",
+      "name": "Strategic Air Command Memorial Highway",
+      "state": "NE",
+      "county": "Sarpy",
+      "honoree": {
+        "name": "Strategic Air Command"
+      },
+      "location": {
+        "coordinates": [
+          41.1168907664351,
+          -96.08164453549794
+        ],
+        "county": "Sarpy",
+        "state": "NE"
+      },
+      "designation": {
+        "year": 1995
+      },
+      "highway": "N-370"
+    },
+    {
+      "id": "ne-36",
+      "shapeId": "NE_36",
+      "name": "Tom Osborne Memorial Highway",
+      "state": "NE",
+      "county": "Hall",
+      "honoree": {
+        "name": "Tom Osborne",
+        "gender": "male",
+        "summary": "Occupation: politician",
+        "birthYear": 1937,
+        "involvedInPolitics": true
+      },
+      "location": {
+        "coordinates": [
+          40.88752786713283,
+          -98.51698669273192
+        ],
+        "county": "Hall",
+        "state": "NE"
+      },
+      "designation": {
+        "year": 1984
+      },
+      "highway": "US-281"
+    },
+    {
+      "id": "ne-37",
+      "shapeId": "NE_37",
+      "name": "Twist Newberry Access Memorial Highway",
+      "state": "NE",
+      "county": "Platte",
+      "honoree": {
+        "name": "Twist Newberry Access"
+      },
+      "location": {
+        "coordinates": [
+          41.48558729411382,
+          -97.54310587114504
+        ],
+        "county": "Platte",
+        "state": "NE"
+      },
+      "designation": {
+        "year": 1986
+      },
+      "highway": "L-56G"
+    },
+    {
+      "id": "ne-41",
+      "shapeId": "NE_41",
+      "name": "Willa Cather Memorial Highway",
+      "state": "NE",
+      "county": "Unknown",
+      "honoree": {
+        "name": "Willa Cather",
+        "gender": "female",
+        "summary": "Occupation: writer",
+        "birthYear": 1873,
+        "deathYear": 1947
+      },
+      "location": {
+        "coordinates": [
+          41.33636866040476,
+          -99.64978295330246
+        ],
+        "county": "Unknown",
+        "state": "NE"
+      },
+      "designation": {
+        "year": 1999
+      },
+      "highway": "US-281"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2026-02-19T03:44:11.250Z",
+    "totalCount": 32,
+    "states": [
+      "NE"
+    ]
+  }
+}

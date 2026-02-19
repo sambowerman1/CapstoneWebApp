@@ -1,0 +1,44 @@
+{
+  "demographics": {
+    "byBranch": {},
+    "byState": {
+      "MT": 52
+    },
+    "byDecade": {},
+    "byConflict": {},
+    "byCounty": {},
+    "byGender": {
+      "Male": 5,
+      "Female": 3
+    },
+    "byInvolvement": {
+      "Military": 3,
+      "Politics": 2,
+      "Law Enforcement": 13,
+      "Fire Service": 1,
+      "Sports": 1
+    }
+  },
+  "findings": [
+    {
+      "id": "finding-mt-counties",
+      "title": "Montana County Distribution",
+      "description": "Memorial highways are distributed across 0 Montana counties.",
+      "visualizationType": "map",
+      "data": {}
+    },
+    {
+      "id": "finding-mt-involvement",
+      "title": "Honoree Background Categories",
+      "description": "Montana memorial highway honorees by category of involvement.",
+      "visualizationType": "chart",
+      "data": {
+        "Military": 3,
+        "Politics": 2,
+        "Law Enforcement": 13,
+        "Fire Service": 1,
+        "Sports": 1
+      }
+    }
+  ]
+}
