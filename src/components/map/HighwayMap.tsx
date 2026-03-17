@@ -18,7 +18,33 @@ L.Icon.Default.mergeOptions({
 const STATE_CENTERS: Record<string, { center: [number, number]; zoom: number }> = {
   FL: { center: [27.9944, -81.7603], zoom: 7 },
   MI: { center: [44.3148, -85.6024], zoom: 6 },
+  CA: { center: [36.78, -119.42], zoom: 6 },
+  TX: { center: [31.97, -99.90], zoom: 6 },
+  MT: { center: [47.0, -109.6], zoom: 6 },
+  NE: { center: [41.5, -99.8], zoom: 7 },
+  WI: { center: [44.5, -89.5], zoom: 7 },
   ALL: { center: [39.8283, -98.5795], zoom: 4 },
+}
+
+// State colors for polylines and badges
+const STATE_COLORS: Record<string, string> = {
+  FL: '#3b82f6', // blue
+  MI: '#10b981', // green
+  CA: '#f59e0b', // amber
+  TX: '#ef4444', // red
+  MT: '#8b5cf6', // purple
+  NE: '#ec4899', // pink
+  WI: '#14b8a6', // teal
+}
+
+const STATE_NAMES: Record<string, string> = {
+  FL: 'Florida',
+  MI: 'Michigan',
+  CA: 'California',
+  TX: 'Texas',
+  MT: 'Montana',
+  NE: 'Nebraska',
+  WI: 'Wisconsin',
 }
 
 interface HighwayMapProps {
@@ -78,11 +104,12 @@ export default function HighwayMap({ highways, selectedState }: HighwayMapProps)
     // Add highway markers/polylines
     highways.forEach((highway) => {
       const { coordinates } = highway.location
+      const stateColor = STATE_COLORS[highway.state] || '#6b7280'
 
       if (Array.isArray(coordinates[0])) {
-        // Polyline (array of coordinates) - primarily for Michigan highways
+        // Polyline (array of coordinates)
         const polyline = L.polyline(coordinates as [number, number][], {
-          color: highway.state === 'MI' ? '#10b981' : '#3b82f6', // Green for MI, blue for FL
+          color: stateColor,
           weight: 3,
           opacity: 0.7,
         }).addTo(map)
@@ -101,14 +128,11 @@ export default function HighwayMap({ highways, selectedState }: HighwayMapProps)
   function createPopupContent(highway: Highway): string {
     const badges: string[] = [];
 
-    // Florida-style badges
     if (highway.honoree.involvedInMilitary) badges.push('<span style="background:#3b82f6;color:white;padding:2px 6px;border-radius:4px;font-size:11px;margin-right:4px;">Military</span>');
     if (highway.honoree.involvedInPolitics) badges.push('<span style="background:#8b5cf6;color:white;padding:2px 6px;border-radius:4px;font-size:11px;margin-right:4px;">Politics</span>');
     if (highway.honoree.involvedInSports) badges.push('<span style="background:#10b981;color:white;padding:2px 6px;border-radius:4px;font-size:11px;margin-right:4px;">Sports</span>');
     if (highway.honoree.involvedInMusic) badges.push('<span style="background:#f59e0b;color:white;padding:2px 6px;border-radius:4px;font-size:11px;margin-right:4px;">Music</span>');
-
-    // Michigan-style badges (law enforcement, fire service)
-    // @ts-ignore - These fields exist on Michigan data
+    // @ts-ignore
     if (highway.honoree.involvedInLawEnforcement) badges.push('<span style="background:#dc2626;color:white;padding:2px 6px;border-radius:4px;font-size:11px;margin-right:4px;">Law Enforcement</span>');
     // @ts-ignore
     if (highway.honoree.involvedInFireService) badges.push('<span style="background:#ea580c;color:white;padding:2px 6px;border-radius:4px;font-size:11px;margin-right:4px;">Fire Service</span>');
@@ -119,10 +143,10 @@ export default function HighwayMap({ highways, selectedState }: HighwayMapProps)
       summary = summary.substring(0, 200) + '...';
     }
 
-    // State badge
-    const stateBadge = highway.state === 'MI'
-      ? '<span style="background:#10b981;color:white;padding:2px 6px;border-radius:4px;font-size:11px;margin-right:4px;">Michigan</span>'
-      : '<span style="background:#3b82f6;color:white;padding:2px 6px;border-radius:4px;font-size:11px;margin-right:4px;">Florida</span>';
+    // Dynamic state badge
+    const stateColor = STATE_COLORS[highway.state] || '#6b7280';
+    const stateName = STATE_NAMES[highway.state] || highway.state;
+    const stateBadge = `<span style="background:${stateColor};color:white;padding:2px 6px;border-radius:4px;font-size:11px;margin-right:4px;">${stateName}</span>`;
 
     return `
       <div style="max-width:320px;font-family:system-ui,-apple-system,sans-serif;">
