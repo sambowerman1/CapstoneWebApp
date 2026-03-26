@@ -1,8 +1,9 @@
 "use client"
 
 import { useEffect, useState } from "react"
-import Image from "next/image"
+import { ChevronDown } from "lucide-react"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
+import { Collapsible, CollapsibleContent, CollapsibleTrigger } from "@/components/ui/collapsible"
 import DataTable from "@/components/findings/DataTable"
 import StatisticsCards from "@/components/findings/StatisticsCards"
 import { loadAnalysisData, loadHighwayData } from "@/lib/data-loader"
@@ -67,27 +68,50 @@ export default function FindingsPage() {
 
         <TabsContent value="insights" className="mt-6">
           <div className="space-y-6">
-            {analysisData?.findings.map((finding) => (
-              <div
-                key={finding.id}
-                className="border rounded-lg p-6 bg-white shadow-sm"
-              >
-                <h3 className="text-xl font-semibold mb-2">{finding.title}</h3>
-                <p className="text-gray-700 mb-4">{finding.description}</p>
-                {finding.imageUrl && (
-                  <div className="mt-4 rounded-lg overflow-hidden border">
-                    <Image
-                      src={finding.imageUrl}
-                      alt={finding.title}
-                      width={800}
-                      height={600}
+            {/* Question Card with nested Analysis */}
+            <Collapsible className="border rounded-lg bg-white shadow-sm">
+              <CollapsibleTrigger className="flex items-center w-full p-6 text-left">
+                <h2 className="text-2xl font-semibold">When were these designees born?</h2>
+                <ChevronDown className="h-5 w-5 text-gray-500 transition-transform duration-200 [[data-state=open]>&]:rotate-180" />
+              </CollapsibleTrigger>
+              <CollapsibleContent className="px-6 pb-6">
+                <div className="flex justify-center mb-6">
+                  <div className="rounded-lg overflow-hidden border" style={{ width: '60%' }}>
+                    {/* eslint-disable-next-line @next/next/no-img-element */}
+                    <img
+                      src="/visualizations/date_of_birth_histogram.png"
+                      alt="Date of birth histogram of memorial highway designees"
                       className="w-full h-auto"
-                      priority={finding.id === 'finding-inequality-matrix' || finding.id === 'FL-finding-inequality-matrix'}
                     />
                   </div>
-                )}
-              </div>
-            ))}
+                </div>
+
+                {/* Nested Analysis dropdown - open by default */}
+                <Collapsible defaultOpen className="border rounded-lg bg-gray-50">
+                  <CollapsibleTrigger className="flex items-center justify-between w-full p-4 text-left">
+                    <h3 className="text-xl font-semibold">Analysis</h3>
+                    <ChevronDown className="h-4 w-4 text-gray-500 transition-transform duration-200 [[data-state=open]>&]:rotate-180" />
+                  </CollapsibleTrigger>
+                  <CollapsibleContent className="px-4 pb-4">
+                    <div className="flex flex-col md:flex-row md:items-start gap-4">
+                      
+                      <p className="text-gray-700 flex-1">
+                        A majority of these designees were born after the 19th century. However the earliest was Augustine Herman, who was born in 1621. Augustine was a diplomat, cartographer, and prominent Maryland landowner.
+                      </p>
+
+                      {/* eslint-disable-next-line @next/next/no-img-element */}
+                      <img
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Augustineherrmann1.jpg/250px-Augustineherrmann1.jpg"
+                        alt="Augustine Herman"
+                        width={250}
+                        height={300}
+                        className="rounded-lg shrink-0"
+                      />
+                    </div>
+                  </CollapsibleContent>
+                </Collapsible>
+              </CollapsibleContent>
+            </Collapsible>
           </div>
         </TabsContent>
       </Tabs>
