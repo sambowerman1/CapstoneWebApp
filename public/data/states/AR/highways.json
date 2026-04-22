@@ -1,0 +1,141 @@
+{
+  "highways": [
+    {
+      "id": "AR-10",
+      "shapeId": "csv-10",
+      "name": "Johnny Cash Memorial Highway",
+      "state": "AR",
+      "honoree": {
+        "name": "Johnny Cash",
+        "summary": "Johnny Cash was born on February 26, 1932, in Kingsland, Arkansas, and became a legendary American singer-songwriter known as the 'Man in Black.' He was famous for his deep, commanding voice and hits like 'I Walk the Line' and 'Ring of Fire.' Cash was a pivotal figure in country music, influencing multiple genres and earning inductions into the Country Music, Rock and Roll, and Gospel Halls of Fame. He died on September 12, 2003, in Nashville, Tennessee, leaving a lasting legacy in music history.",
+        "gender": "male",
+        "placeOfBirth": "Kingsland, Arkansas, United States",
+        "placeOfDeath": "Nashville, Tennessee, United States",
+        "birthYear": 1932,
+        "deathYear": 2003,
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": true
+      },
+      "location": {
+        "coordinates": [
+          35.5795018,
+          -90.12896525
+        ],
+        "state": "AR"
+      },
+      "designation": {},
+      "highway": "AR-17",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Johnny_Cash"
+    },
+    {
+      "id": "AR-11",
+      "shapeId": "csv-11",
+      "name": "Levon Helm Memorial Highway",
+      "state": "AR",
+      "honoree": {
+        "name": "Levon Helm",
+        "summary": "Levon Helm was an American musician and actor born on May 26, 1939, in Elaine, Arkansas. He was the drummer and vocalist for the influential rock group The Band. Helm also had a successful solo career and acted in several films. He passed away on April 19, 2012, in New York City, leaving a significant legacy in American music.",
+        "gender": "male",
+        "placeOfBirth": "Elaine, Arkansas, United States",
+        "placeOfDeath": "New York City, New York, United States",
+        "birthYear": 1939,
+        "deathYear": 2012,
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": true
+      },
+      "location": {
+        "coordinates": [
+          34.5560251,
+          -90.78209985000001
+        ],
+        "state": "AR"
+      },
+      "designation": {},
+      "highway": "US-49",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Levon_Helm"
+    },
+    {
+      "id": "AR-12",
+      "shapeId": "csv-12",
+      "name": "Louis Jordan Memorial Highway",
+      "state": "AR",
+      "honoree": {
+        "name": "Louis Jordan",
+        "summary": "[UNVERIFIED] The Wikipedia article for 'Charley Jordan' appears to be about a blues musician, not a person typically honored with a memorial highway in Arkansas. The highway is named after 'Louis Jordan' (a famous jazz and blues musician from Arkansas), but the article retrieved is for 'Charley Jordan', indicating a mismatch in the person's name.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          34.7220182,
+          -91.0530342
+        ],
+        "state": "AR"
+      },
+      "designation": {},
+      "highway": "US-49",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Charley_Jordan"
+    },
+    {
+      "id": "AR-13",
+      "shapeId": "csv-13",
+      "name": "Sister Rosetta Tharpe Memorial Highway",
+      "state": "AR",
+      "honoree": {
+        "name": "Sister Rosetta Tharpe",
+        "summary": "[UNVERIFIED] The Wikipedia article is for Al Green, a soul singer and pastor, but the highway is named after Sister Rosetta Tharpe, a pioneering gospel and rock guitarist. The names do not match, and Al Green has no known connection to a memorial highway named after Sister Rosetta Tharpe in Arkansas.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          34.9456766,
+          -91.22236635
+        ],
+        "state": "AR"
+      },
+      "designation": {},
+      "highway": "AR-17",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Al_Green"
+    },
+    {
+      "id": "AR-14",
+      "shapeId": "csv-14",
+      "name": "Americana Music Highway",
+      "state": "AR",
+      "honoree": {
+        "name": "Americana Music",
+        "summary": "[UNVERIFIED] The article provided is only a Wikipedia navigation menu and does not contain any content about Zach Williams. Without article content, there is no evidence that this Zach Williams is a musician connected to Arkansas or the 'Americana Music Highway.' The highway name suggests a connection to music, but the provided snippet does not confirm the subject's identity or relevance.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          35.5374023,
+          -90.04455
+        ],
+        "state": "AR"
+      },
+      "designation": {},
+      "highway": "US-61",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Zach_Williams_%28musician%29"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2026-04-22T17:36:07.805Z",
+    "totalCount": 5,
+    "states": [
+      "AR"
+    ]
+  }
+}

@@ -1,765 +1,722 @@
 {
   "highways": [
     {
-      "id": "ne-2",
-      "shapeId": "NE_2",
-      "name": "Andrew Jackson Higgins Memorial Highway",
+      "id": "NE-148",
+      "shapeId": "csv-148",
+      "name": "American Legion Memorial Highway",
       "state": "NE",
-      "county": "Platte",
       "honoree": {
-        "name": "Andrew Jackson Higgins",
-        "gender": "male",
-        "summary": "Occupation: engineer",
-        "birthYear": 1886,
-        "deathYear": 1952
+        "name": "American Legion",
+        "summary": "[UNVERIFIED] The provided Wikipedia article text appears to be a generic Wikipedia interface and navigation menu, not the actual article content for Butler B. Miltonberger. Without the article's substantive content, it cannot be verified that the subject is the correct person associated with the American Legion Memorial Highway in Nebraska. The name matches, but the lack of biographical details prevents confirmation.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
       },
       "location": {
         "coordinates": [
-          41.44971328688563,
-          -97.52743128379821
+          42.4536532,
+          -96.3346432
         ],
-        "county": "Platte",
         "state": "NE"
       },
-      "designation": {
-        "year": 2002
+      "designation": {},
+      "highway": "US-281",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Butler_B._Miltonberger"
+    },
+    {
+      "id": "NE-149",
+      "shapeId": "csv-149",
+      "name": "Andrew Jackson Higgins Expressway",
+      "state": "NE",
+      "honoree": {
+        "name": "Unknown"
       },
+      "location": {
+        "coordinates": [
+          40.6066263,
+          -95.8658684
+        ],
+        "state": "NE"
+      },
+      "designation": {},
       "highway": "US-81"
     },
     {
-      "id": "ne-3",
-      "shapeId": "NE_3",
+      "id": "NE-150",
+      "shapeId": "csv-150",
       "name": "Bess Streeter Aldrich Memorial Highway",
       "state": "NE",
-      "county": "Lancaster",
       "honoree": {
-        "name": "Bess",
+        "name": "Bess Streeter Aldrich",
+        "summary": "Bess Streeter Aldrich was an American author born on February 17, 1881, in Cedar Falls, Iowa. She was a prominent writer of short stories and essays, often focusing on pioneer life and Midwestern values. Her work earned her recognition as a significant literary figure in early 20th-century America. She died on July 23, 1954, in Lincoln, Nebraska.",
         "gender": "female",
-        "summary": "Occupation: novelist",
+        "placeOfBirth": "Cedar Falls, Iowa, United States",
+        "placeOfDeath": "Lincoln, Nebraska, United States",
         "birthYear": 1881,
-        "deathYear": 1954
+        "deathYear": 1954,
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
       },
       "location": {
         "coordinates": [
-          40.811314236637244,
-          -96.69930877751749
+          40.8449988,
+          -96.51682945
         ],
-        "county": "Lancaster",
         "state": "NE"
       },
-      "designation": {
-        "year": 2001
-      },
-      "highway": "US-34"
+      "designation": {},
+      "highway": "US-34",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Bess_Streeter_Aldrich"
     },
     {
-      "id": "ne-5",
-      "shapeId": "NE_5",
-      "name": "Senator Carl T Curtis Memorial Highway",
+      "id": "NE-151",
+      "shapeId": "csv-151",
+      "name": "Blue Star Memorial Highway",
       "state": "NE",
-      "county": "Kearney",
       "honoree": {
-        "name": "Senator Carl T Curtis",
-        "involvedInPolitics": true
+        "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          40.488106085060046,
-          -99.01242936953912
+          42.53592561335952,
+          -96.4621432
         ],
-        "county": "Kearney",
         "state": "NE"
       },
-      "designation": {
-        "year": 1997
-      },
-      "highway": "US-6 & US-3434"
+      "designation": {},
+      "highway": "US-83"
     },
     {
-      "id": "ne-6",
-      "shapeId": "NE_6",
-      "name": "Clayton Yeutter Memorial Highway",
+      "id": "NE-152",
+      "shapeId": "csv-152",
+      "name": "Senator Carl T. Curtis Drive",
       "state": "NE",
-      "county": "Dawson",
       "honoree": {
-        "name": "Clayton Yeutter"
+        "name": "Senator Carl T. Curtis",
+        "summary": "Carl Curtis was an American politician born on March 15, 1905, in Minden, Nebraska. He served as a Republican U.S. Senator from Nebraska from 1955 to 1979, following a career in the U.S. House of Representatives. Known for his conservative principles, he was a prominent figure in the Senate during the mid-20th century. He died on February 6, 2000, in Lincoln, Nebraska.",
+        "gender": "male",
+        "placeOfBirth": "Minden, Nebraska, United States",
+        "placeOfDeath": "Lincoln, Nebraska, United States",
+        "birthYear": 1905,
+        "deathYear": 2000,
+        "involvedInSports": false,
+        "involvedInPolitics": true,
+        "involvedInMilitary": true,
+        "involvedInMusic": false
       },
       "location": {
         "coordinates": [
-          40.9085114739448,
-          -99.82797775486519
+          40.7748818,
+          -97.8861806
         ],
-        "county": "Dawson",
         "state": "NE"
       },
-      "designation": {
-        "year": 1996
-      },
-      "highway": "N-21"
+      "designation": {},
+      "highway": "US-6 & US-3434",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Carl_Curtis"
     },
     {
-      "id": "ne-7",
-      "shapeId": "NE_7",
+      "id": "NE-153",
+      "shapeId": "csv-153",
+      "name": "Clayton Yeutter Highway",
+      "state": "NE",
+      "honoree": {
+        "name": "Clayton Yeutter",
+        "summary": "Clayton Yeutter was born on December 10, 1930, in Eau Claire, Wisconsin, and had a distinguished career in American politics and government. He served as the United States Secretary of Agriculture, United States Trade Representative, and Chairman of the Republican National Committee. Yeutter was a key architect of the North American Free Trade Agreement (NAFTA) during the George H.W. Bush administration. He passed away on March 12, 2017, in Potomac, Maryland, leaving a legacy as a prominent statesman and policy expert.",
+        "education": "University of Nebraska–Lincoln, Juris Doctor, University of Wisconsin–Madison, Ph.D. in Agricultural Economics",
+        "gender": "male",
+        "placeOfBirth": "Eau Claire, Wisconsin, United States",
+        "placeOfDeath": "Potomac, Maryland, United States",
+        "birthYear": 1930,
+        "deathYear": 2017,
+        "involvedInSports": false,
+        "involvedInPolitics": true,
+        "involvedInMilitary": true,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          41.1557636,
+          -98.22221619999999
+        ],
+        "state": "NE"
+      },
+      "designation": {},
+      "highway": "N-21",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Clayton_Yeutter"
+    },
+    {
+      "id": "NE-154",
+      "shapeId": "csv-154",
       "name": "Colonel Barney Oldfield Memorial Highway",
       "state": "NE",
-      "county": "Johnson",
       "honoree": {
         "name": "Barney Oldfield",
-        "involvedInMilitary": true
+        "summary": "[UNVERIFIED] The Wikipedia article provided is only a navigation menu and does not contain any content about a person. Without article content confirming the subject's identity, profession, or connection to Nebraska, it cannot be verified as the correct Barney Oldfield. Additionally, the famous Barney Oldfield was a national automobile racer with no known strong ties to Nebraska, making a memorial highway there unlikely to be named after him.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
       },
       "location": {
         "coordinates": [
-          40.36470812508206,
-          -96.04421668663943
+          40.3680345,
+          -96.1940137
         ],
-        "county": "Johnson",
         "state": "NE"
       },
-      "designation": {
-        "year": 1996
-      },
-      "highway": "US-136"
+      "designation": {},
+      "highway": "US-136",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Barney_Oldfield"
     },
     {
-      "id": "ne-9",
-      "shapeId": "NE_9",
+      "id": "NE-155",
+      "shapeId": "csv-155",
       "name": "Crazy Horse Memorial Highway",
       "state": "NE",
-      "county": "Unknown",
       "honoree": {
-        "name": "Crazy Horse"
+        "name": "Crazy Horse",
+        "summary": "Crazy Horse, also known as Tashunka Witko, was a Lakota war leader who played a pivotal role in the Great Sioux War of 1876-77. He was a key figure in the Battle of the Little Bighorn, where Sioux and Cheyenne forces defeated Lieutenant Colonel George Custer's troops. His exact birth and death dates are not definitively known, but he was born around 1840 and died in 1877. He is remembered as a symbol of Native American resistance to U.S. expansion.",
+        "gender": "male",
+        "placeOfDeath": "Fort Robinson, Nebraska, United States",
+        "birthYear": 1840,
+        "deathYear": 1877,
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": true,
+        "involvedInMusic": false
       },
       "location": {
         "coordinates": [
-          41.60458353350504,
-          -99.69753931306802
+          42.6853845,
+          -103.05161125000001
         ],
-        "county": "Unknown",
         "state": "NE"
       },
-      "designation": {
-        "year": 2010
-      },
-      "highway": "US-20"
+      "designation": {},
+      "highway": "US-20",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Crazy_Horse"
     },
     {
-      "id": "ne-10",
-      "shapeId": "NE_10",
-      "name": "Eisenhower Interstate System Memorial Highway",
+      "id": "NE-156",
+      "shapeId": "csv-156",
+      "name": "Eisenhower Interstate System",
       "state": "NE",
-      "county": "Unknown",
       "honoree": {
-        "name": "Eisenhower Interstate System"
+        "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          41.67996119658129,
-          -99.91563139115091
+          41.12537,
+          -98.18808200000001
         ],
-        "county": "Unknown",
         "state": "NE"
       },
-      "designation": {
-        "year": 1990
-      },
+      "designation": {},
       "highway": "I-80, I-76, I-180, I-480, I-680, I-129"
     },
     {
-      "id": "ne-11",
-      "shapeId": "NE_11",
-      "name": "General Gruenther Memorial Highway",
+      "id": "NE-157",
+      "shapeId": "csv-157",
+      "name": "General Gruenther Drive",
       "state": "NE",
-      "county": "Platte",
       "honoree": {
-        "name": "General Gruenther",
-        "involvedInMilitary": true
+        "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          41.43413513741746,
-          -97.55156279254477
+          41.207642413359515,
+          -98.315582
         ],
-        "county": "Platte",
         "state": "NE"
       },
-      "designation": {
-        "year": 1991
-      },
+      "designation": {},
       "highway": "S-71B"
     },
     {
-      "id": "ne-12",
-      "shapeId": "NE_12",
-      "name": "Gerald Ford Freeway Memorial Highway",
+      "id": "NE-158",
+      "shapeId": "csv-158",
+      "name": "Gerald Ford Freeway",
       "state": "NE",
-      "county": "Douglas",
       "honoree": {
-        "name": "Gerald Ford"
+        "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          41.3239653013443,
-          -96.124329566791
+          41.3178512,
+          -96.0653445
         ],
-        "county": "Douglas",
         "state": "NE"
       },
-      "designation": {
-        "year": 1982
-      },
+      "designation": {},
       "highway": "I-480"
     },
     {
-      "id": "ne-13",
-      "shapeId": "NE_13",
+      "id": "NE-159",
+      "shapeId": "csv-159",
       "name": "Glenn Miller Memorial Highway",
       "state": "NE",
-      "county": "Lincoln",
       "honoree": {
         "name": "Glenn Miller",
-        "gender": "male",
-        "summary": "Occupation: jazz musician",
-        "birthYear": 1904,
-        "deathYear": 1944,
-        "involvedInMusic": true
+        "summary": "[UNVERIFIED] The Wikipedia article is for Glenn Presnell, a former American football player, not the musician Glenn Miller. The 'Glenn Miller Memorial Highway' in Nebraska is named after the famous bandleader Glenn Miller, who has no known connection to Nebraska as a resident or through his career, but the memorial is specifically for him. The article subject does not match the person the highway is named after.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
       },
       "location": {
         "coordinates": [
-          41.02736345443952,
-          -100.7719906045467
+          41.03010720558371,
+          -98.32308200000001
         ],
-        "county": "Lincoln",
         "state": "NE"
       },
-      "designation": {
-        "year": 1999
-      },
-      "highway": "N-97"
+      "designation": {},
+      "highway": "N-97",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Glenn_Presnell"
     },
     {
-      "id": "ne-14",
-      "shapeId": "NE_14",
-      "name": "Grand Army of the Republic Memorial Highway",
+      "id": "NE-160",
+      "shapeId": "csv-160",
+      "name": "Grand Army of the Republic Highway",
       "state": "NE",
-      "county": "Unknown",
       "honoree": {
-        "name": "Grand Army of the Republic",
-        "involvedInMilitary": true
+        "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          41.57763932131752,
-          -99.96169740554626
+          42.4701337,
+          -96.414341
         ],
-        "county": "Unknown",
         "state": "NE"
       },
-      "designation": {
-        "year": 2047
-      },
+      "designation": {},
       "highway": "US-6"
     },
     {
-      "id": "ne-15",
-      "shapeId": "NE_15",
-      "name": "Great Plains Indian Memorial Highway",
+      "id": "NE-161",
+      "shapeId": "csv-161",
+      "name": "Great Plains Indian Highway",
       "state": "NE",
-      "county": "Unknown",
       "honoree": {
         "name": "Great Plains Indian"
       },
       "location": {
         "coordinates": [
-          41.682459374801276,
-          -99.6883678742049
+          41.009480100000005,
+          -98.86904809999999
         ],
-        "county": "Unknown",
         "state": "NE"
       },
-      "designation": {
-        "year": 2004
-      },
+      "designation": {},
       "highway": "N-25"
     },
     {
-      "id": "ne-16",
-      "shapeId": "NE_16",
-      "name": "Harold Warp Memorial Highway",
+      "id": "NE-162",
+      "shapeId": "csv-162",
+      "name": "Harold Warp Memorial Drive",
       "state": "NE",
-      "county": "Kearney",
       "honoree": {
         "name": "Harold Warp",
-        "gender": "male",
-        "summary": "Occupation: inventor",
-        "birthYear": 1903,
-        "deathYear": 1994
+        "summary": "[UNVERIFIED] The provided text is only the Wikipedia page's navigation and header content, not the article body. It does not contain any information about Harold Warp, his connection to Nebraska, or his background, making it impossible to verify if he is the correct person for whom the memorial drive is named.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
       },
       "location": {
         "coordinates": [
-          40.48771758545169,
-          -99.02833059770023
+          40.61384295,
+          -99.0087204
         ],
-        "county": "Kearney",
         "state": "NE"
       },
-      "designation": {
-        "year": 1994
-      },
-      "highway": "N-10"
+      "designation": {},
+      "highway": "N-10",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Harold_Warp"
     },
     {
-      "id": "ne-17",
-      "shapeId": "NE_17",
+      "id": "NE-163",
+      "shapeId": "csv-163",
       "name": "Henry Fonda Memorial Highway",
       "state": "NE",
-      "county": "Hamilton",
       "honoree": {
         "name": "Henry Fonda",
+        "summary": "Henry Fonda was an American actor born on May 16, 1905, in Grand Rapids, Michigan. He had a prolific career in film and theater, starring in classics such as 'The Grapes of Wrath' and '12 Angry Men'. Fonda was a prominent figure in Hollywood for over five decades and won an Academy Award for Best Actor. He died on August 12, 1982, in Los Angeles, California, leaving a lasting legacy in American cinema.",
         "gender": "male",
-        "summary": "Occupation: television actor",
+        "placeOfBirth": "Grand Rapids, Michigan, United States",
+        "placeOfDeath": "Los Angeles, California, United States",
         "birthYear": 1905,
-        "deathYear": 1982
+        "deathYear": 1982,
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": true,
+        "involvedInMusic": false
       },
       "location": {
         "coordinates": [
-          40.852204756547515,
-          -98.07513213821538
+          40.9038277,
+          -98.26073339999999
         ],
-        "county": "Hamilton",
         "state": "NE"
       },
-      "designation": {
-        "year": 1992
-      },
-      "highway": "US-34"
+      "designation": {},
+      "highway": "US-34",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Henry_Fonda"
     },
     {
-      "id": "ne-19",
-      "shapeId": "NE_19",
-      "name": "J Sterling Morton Memorial Highway",
+      "id": "NE-164",
+      "shapeId": "csv-164",
+      "name": "J. Sterling Morton Beltway",
       "state": "NE",
-      "county": "Unknown",
       "honoree": {
-        "name": "J Sterling Morton"
+        "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          41.65522352789834,
-          -99.67808094207966
+          42.0066033,
+          -96.2403591
         ],
-        "county": "Unknown",
         "state": "NE"
       },
-      "designation": {
-        "year": 1989
-      },
+      "designation": {},
       "highway": "N-2/US-75"
     },
     {
-      "id": "ne-20",
-      "shapeId": "NE_20",
+      "id": "NE-165",
+      "shapeId": "csv-165",
       "name": "Jerome and Betty Warner Memorial Highway",
       "state": "NE",
-      "county": "Lincoln",
       "honoree": {
-        "name": "Jerome and Betty Warner"
+        "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          41.072930276112906,
-          -100.76701866870657
+          41.6494313,
+          -96.57729810000001
         ],
-        "county": "Lincoln",
         "state": "NE"
       },
-      "designation": {
-        "year": 2001
-      },
+      "designation": {},
       "highway": "N-2"
     },
     {
-      "id": "ne-21",
-      "shapeId": "NE_21",
-      "name": "John McLellan Jr Memorial Highway",
+      "id": "NE-166",
+      "shapeId": "csv-166",
+      "name": "John McLellan, Jr., Expressway",
       "state": "NE",
-      "county": "Scotts Bluff",
       "honoree": {
-        "name": "John McLellan Jr."
+        "name": "McLellan",
+        "summary": "[UNVERIFIED] The Wikipedia article is about Zoe McLellan, an actress known for roles in TV shows like 'NCIS: New Orleans'. The highway is named 'John McLellan, Jr., Expressway' in Nebraska, which suggests it is named after a male individual, likely a local figure, law enforcement officer, or politician from Nebraska. Zoe McLellan is a female actress with no known connection to Nebraska or highway naming conventions, making it highly unlikely she is the person honored by this expressway.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
       },
       "location": {
         "coordinates": [
-          41.856385641862495,
-          -103.68580236015674
+          41.8599607,
+          -103.51604505
         ],
-        "county": "Scotts Bluff",
         "state": "NE"
       },
-      "designation": {
-        "year": 1999
-      },
-      "highway": "N-71"
+      "designation": {},
+      "highway": "N-71",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Zoe_McLellan"
     },
     {
-      "id": "ne-22",
-      "shapeId": "NE_22",
-      "name": "Johnny Carson Blvd Memorial Highway",
+      "id": "NE-167",
+      "shapeId": "csv-167",
+      "name": "Johnny Carson Blvd.",
       "state": "NE",
-      "county": "Madison",
       "honoree": {
-        "name": "Johnny Carson Blvd"
+        "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          41.93184246647709,
-          -97.61274561525363
+          40.8225767,
+          -98.3775186
         ],
-        "county": "Madison",
         "state": "NE"
       },
-      "designation": {
-        "year": 1986
-      },
+      "designation": {},
       "highway": "US-81"
     },
     {
-      "id": "ne-23",
-      "shapeId": "NE_23",
-      "name": "Karl Timmermann Memorial Highway",
+      "id": "NE-168",
+      "shapeId": "csv-168",
+      "name": "Kennedy Freeway",
       "state": "NE",
-      "county": "Cuming",
       "honoree": {
-        "name": "Karl Timmermann",
-        "gender": "male",
-        "deathYear": 1918
+        "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          41.909284369327096,
-          -96.75220510533275
+          41.2271817,
+          -95.97954215
         ],
-        "county": "Cuming",
         "state": "NE"
       },
-      "designation": {
-        "year": 1996
-      },
-      "highway": "N-32"
-    },
-    {
-      "id": "ne-24",
-      "shapeId": "NE_24",
-      "name": "Kennedy Freeway Memorial Highway",
-      "state": "NE",
-      "county": "Douglas",
-      "honoree": {
-        "name": "Kennedy"
-      },
-      "location": {
-        "coordinates": [
-          41.265425477776525,
-          -96.12211060343026
-        ],
-        "county": "Douglas",
-        "state": "NE"
-      },
-      "designation": {
-        "year": 1963
-      },
+      "designation": {},
       "highway": "US-75"
     },
     {
-      "id": "ne-25",
-      "shapeId": "NE_25",
-      "name": "Mari Sandoz Sandhills Memorial Highway",
+      "id": "NE-169",
+      "shapeId": "csv-169",
+      "name": "Mari Sandoz Sandhills Trail",
       "state": "NE",
-      "county": "Unknown",
       "honoree": {
-        "name": "Mari Sandoz Sandhills"
+        "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          41.7412572027861,
-          -99.76362712603186
+          42.43233585,
+          -102.2418847
         ],
-        "county": "Unknown",
         "state": "NE"
       },
-      "designation": {
-        "year": 2000
-      },
+      "designation": {},
       "highway": "N-27"
     },
     {
-      "id": "ne-26",
-      "shapeId": "NE_26",
-      "name": "Merle Kingsbury Memorial Highway",
+      "id": "NE-170",
+      "shapeId": "csv-170",
+      "name": "Nebraska Medal of Honor Highway",
       "state": "NE",
-      "county": "Unknown",
       "honoree": {
-        "name": "Merle Kingsbury"
+        "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          41.59214477385539,
-          -99.90272005413324
+          40.8452094,
+          -96.739953
         ],
-        "county": "Unknown",
         "state": "NE"
       },
-      "designation": {
-        "year": 1991
-      },
-      "highway": "US-77/I-129"
-    },
-    {
-      "id": "ne-27",
-      "shapeId": "NE_27",
-      "name": "Nebraska Medal of Honor Memorial Highway",
-      "state": "NE",
-      "county": "Unknown",
-      "honoree": {
-        "name": "Nebraska Medal of Honor",
-        "involvedInMilitary": true
-      },
-      "location": {
-        "coordinates": [
-          41.468984996051745,
-          -99.57322001396342
-        ],
-        "county": "Unknown",
-        "state": "NE"
-      },
-      "designation": {
-        "year": 2020
-      },
+      "designation": {},
       "highway": "US-20"
     },
     {
-      "id": "ne-28",
-      "shapeId": "NE_28",
+      "id": "NE-171",
+      "shapeId": "csv-171",
       "name": "Pawnee Scouts Memorial Highway",
       "state": "NE",
-      "county": "Unknown",
       "honoree": {
         "name": "Pawnee Scouts"
       },
       "location": {
         "coordinates": [
-          41.418835033302024,
-          -99.61649401793298
+          41.33260225,
+          -96.93432325
         ],
-        "county": "Unknown",
         "state": "NE"
       },
-      "designation": {
-        "year": 2020
-      },
+      "designation": {},
       "highway": "N-22"
     },
     {
-      "id": "ne-31",
-      "shapeId": "NE_31",
-      "name": "Robert Taylor Memorial Highway",
+      "id": "NE-172",
+      "shapeId": "csv-172",
+      "name": "Purple Heart Memorial Highway",
       "state": "NE",
-      "county": "Gage",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          41.09187515,
+          -96.46930365
+        ],
+        "state": "NE"
+      },
+      "designation": {},
+      "highway": "US-34"
+    },
+    {
+      "id": "NE-173",
+      "shapeId": "csv-173",
+      "name": "Robert Taylor Highway",
+      "state": "NE",
       "honoree": {
         "name": "Robert Taylor",
-        "gender": "male",
-        "summary": "Officer Taylor, On today, the 100th anniversary of your death I would just like to say thank you for your service and sacrifice for the citizens of the state of Nebraska.  There is no tougher job in Law Enforcement than that of a Corrections Officer. R.I.P. USBP Anonymous United States Border Patrol May 11th, 2021",
-        "birthYear": 1911,
-        "deathYear": 1969,
+        "summary": "[UNVERIFIED] The Wikipedia article is for Aaron Taylor (American football, born 1975), a former NFL player, but the highway is named 'Robert Taylor Highway' in Nebraska. The names do not match, and there is no indication that Aaron Taylor is connected to Nebraska or that a highway would be named after him under a different name.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false,
         "age": 54,
-        "tour": "Not available",
         "causeOfDeath": "Stabbed",
         "incidentDescription": "Cause: Stabbed Weapon: Edged weapon; Knife Offender: Executed",
         "involvedInLawEnforcement": true
       },
       "location": {
         "coordinates": [
-          40.267838383412524,
-          -96.67680230919812
+          40.27629615,
+          -96.6413194
         ],
-        "county": "Gage",
         "state": "NE"
       },
-      "designation": {
-        "year": 1994
-      },
-      "highway": "US-136"
+      "designation": {},
+      "highway": "US-136",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Aaron_Taylor_%28American_football%2C_born_1975%29"
     },
     {
-      "id": "ne-32",
-      "shapeId": "NE_32",
-      "name": "Roger Welsch Memorial Highway",
+      "id": "NE-174",
+      "shapeId": "csv-174",
+      "name": "Roger Welsch Avenue",
       "state": "NE",
-      "county": "Unknown",
       "honoree": {
-        "name": "Roger Welsch",
-        "gender": "male",
-        "summary": "Occupation: correspondent",
-        "birthYear": 1936,
-        "deathYear": 2022
+        "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          41.402470990373715,
-          -99.81785926079894
+          41.1183456,
+          -98.5459042
         ],
-        "county": "Unknown",
         "state": "NE"
       },
-      "designation": {
-        "year": 1990
-      },
+      "designation": {},
       "highway": "N-58"
     },
     {
-      "id": "ne-33",
-      "shapeId": "NE_33",
-      "name": "Standing Bear Memorial Highway",
-      "state": "NE",
-      "county": "Unknown",
-      "honoree": {
-        "name": "Standing Bear",
-        "gender": "male",
-        "birthYear": 1859,
-        "deathYear": 1933
-      },
-      "location": {
-        "coordinates": [
-          41.73584853113671,
-          -99.70618126139156
-        ],
-        "county": "Unknown",
-        "state": "NE"
-      },
-      "designation": {
-        "year": 1998
-      },
-      "highway": "N-14"
-    },
-    {
-      "id": "ne-34",
-      "shapeId": "NE_34",
+      "id": "NE-175",
+      "shapeId": "csv-175",
       "name": "Sam Foltz Memorial Highway",
       "state": "NE",
-      "county": "Greeley",
       "honoree": {
-        "name": "Sam Foltz"
+        "name": "Sam Foltz",
+        "summary": "[UNVERIFIED] The highway is named 'Sam Foltz Memorial Highway' after Sam Foltz, a Nebraska native and NFL player who died in a car crash. The Wikipedia article is for Jamie Pollard, who is an athletic director (primarily at Iowa State University) and has no known connection to the memorial highway or the name Sam Foltz.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
       },
       "location": {
         "coordinates": [
-          41.53684416164393,
-          -98.5222087861223
+          41.451945,
+          -96.4585778
         ],
-        "county": "Greeley",
         "state": "NE"
       },
-      "designation": {
-        "year": 2021
-      },
-      "highway": "N-56"
+      "designation": {},
+      "highway": "N-56",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Jamie_Pollard"
     },
     {
-      "id": "ne-35",
-      "shapeId": "NE_35",
+      "id": "NE-176",
+      "shapeId": "csv-176",
       "name": "Strategic Air Command Memorial Highway",
       "state": "NE",
-      "county": "Sarpy",
       "honoree": {
         "name": "Strategic Air Command"
       },
       "location": {
         "coordinates": [
-          41.1168907664351,
-          -96.08164453549794
+          41.14171955,
+          -96.06637255000001
         ],
-        "county": "Sarpy",
         "state": "NE"
       },
-      "designation": {
-        "year": 1995
-      },
+      "designation": {},
       "highway": "N-370"
     },
     {
-      "id": "ne-36",
-      "shapeId": "NE_36",
-      "name": "Tom Osborne Memorial Highway",
+      "id": "NE-177",
+      "shapeId": "csv-177",
+      "name": "Tom Osborne Expressway",
       "state": "NE",
-      "county": "Hall",
       "honoree": {
-        "name": "Tom Osborne",
-        "gender": "male",
-        "summary": "Occupation: politician",
-        "birthYear": 1937,
-        "involvedInPolitics": true
+        "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          40.88752786713283,
-          -98.51698669273192
+          40.7552016,
+          -98.36428665
         ],
-        "county": "Hall",
         "state": "NE"
       },
-      "designation": {
-        "year": 1984
-      },
+      "designation": {},
       "highway": "US-281"
     },
     {
-      "id": "ne-37",
-      "shapeId": "NE_37",
-      "name": "Twist Newberry Access Memorial Highway",
+      "id": "NE-178",
+      "shapeId": "csv-178",
+      "name": "\"Twist\" Newberry Access Highway",
       "state": "NE",
-      "county": "Platte",
       "honoree": {
-        "name": "Twist Newberry Access"
+        "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          41.48558729411382,
-          -97.54310587114504
+          41.1368333,
+          -100.7612819
         ],
-        "county": "Platte",
         "state": "NE"
       },
-      "designation": {
-        "year": 1986
-      },
+      "designation": {},
       "highway": "L-56G"
     },
     {
-      "id": "ne-41",
-      "shapeId": "NE_41",
-      "name": "Willa Cather Memorial Highway",
+      "id": "NE-179",
+      "shapeId": "csv-179",
+      "name": "Veterans of Foreign Wars Memorial Highway",
       "state": "NE",
-      "county": "Unknown",
       "honoree": {
-        "name": "Willa Cather",
-        "gender": "female",
-        "summary": "Occupation: writer",
-        "birthYear": 1873,
-        "deathYear": 1947
+        "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          41.33636866040476,
-          -99.64978295330246
+          42.35839040558371,
+          -96.46964320000001
         ],
-        "county": "Unknown",
         "state": "NE"
       },
-      "designation": {
-        "year": 1999
+      "designation": {},
+      "highway": "US-83"
+    },
+    {
+      "id": "NE-180",
+      "shapeId": "csv-180",
+      "name": "War Veterans Memorial Highway",
+      "state": "NE",
+      "honoree": {
+        "name": "Unknown"
       },
+      "location": {
+        "coordinates": [
+          41.5092569,
+          -97.7982312
+        ],
+        "state": "NE"
+      },
+      "designation": {},
+      "highway": "N-39"
+    },
+    {
+      "id": "NE-181",
+      "shapeId": "csv-181",
+      "name": "Willa Cather Roadway",
+      "state": "NE",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          40.044913,
+          -97.37549680000001
+        ],
+        "state": "NE"
+      },
+      "designation": {},
       "highway": "US-281"
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-02-19T03:44:11.250Z",
-    "totalCount": 32,
+    "lastUpdated": "2026-04-22T17:36:07.805Z",
+    "totalCount": 34,
     "states": [
       "NE"
     ]

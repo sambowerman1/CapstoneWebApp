@@ -1,0 +1,1533 @@
+{
+  "highways": [
+    {
+      "id": "LA-396",
+      "shapeId": "csv-396",
+      "name": "Blue Star Memorial Route",
+      "state": "LA",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          31.169546,
+          -91.787805
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-397",
+      "shapeId": "csv-397",
+      "name": "West Florida Republic Parkway",
+      "state": "LA",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          31.177289381936973,
+          -91.77312110466306
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-398",
+      "shapeId": "csv-398",
+      "name": "Corporal Matthew Thomas Richard Memorial Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Corporal Matthew Thomas Richard"
+      },
+      "location": {
+        "coordinates": [
+          31.187418374988624,
+          -91.75926662792696
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-399",
+      "shapeId": "csv-399",
+      "name": "R.H. \"Bill\" Strain Memorial Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          31.19984121713665,
+          -91.74653175555325
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-400",
+      "shapeId": "csv-400",
+      "name": "Powell, Barnes, and Deal Memorial Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          31.214434824477383,
+          -91.73519657855914
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-401",
+      "shapeId": "csv-401",
+      "name": "Ronald Reagan Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Ronald Reagan",
+        "summary": "[UNVERIFIED] The Wikipedia article appears to be for Ron Reagan, a political commentator and son of President Ronald Reagan, not the person the Louisiana highway is named after. The highway 'Ronald Reagan Highway' in Louisiana is almost certainly named after President Ronald Reagan, not Ron Reagan. The article subject does not match the expected namesake for a memorial highway.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          31.23104587925963,
+          -91.72552792928568
+        ],
+        "state": "LA"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Ron_Reagan"
+    },
+    {
+      "id": "LA-402",
+      "shapeId": "csv-402",
+      "name": "James 'Terry' Watson Memorial Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          31.249492224188767,
+          -91.71777633194633
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-403",
+      "shapeId": "csv-403",
+      "name": "Blue Star Memorial Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          31.269564551229287,
+          -91.71217309642624
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-404",
+      "shapeId": "csv-404",
+      "name": "Staff Sergeant Robert \"Pete\" Sweat Memorial Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          31.21813894819822,
+          -91.80425403316704
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-405",
+      "shapeId": "csv-405",
+      "name": "Veterans Memorial Highway 90",
+      "state": "LA",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          31.233209362874568,
+          -91.7972927583146
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-406",
+      "shapeId": "csv-406",
+      "name": "Corporal J.R. Searcy Memorial Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Corporal J.R. Searcy"
+      },
+      "location": {
+        "coordinates": [
+          31.24967107752241,
+          -91.79243941135354
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-407",
+      "shapeId": "csv-407",
+      "name": "Dr. George B. Mowad Memorial Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "George B. Mowad"
+      },
+      "location": {
+        "coordinates": [
+          31.267274935308503,
+          -91.78986877476767
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-408",
+      "shapeId": "csv-408",
+      "name": "Louisiana Maneuvers and Purple Heart Memorial Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          31.28575302936571,
+          -91.78972858662185
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-409",
+      "shapeId": "csv-409",
+      "name": "St. Landry Parish Veterans Memorial Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          31.304821488925953,
+          -91.79213768806252
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-410",
+      "shapeId": "csv-410",
+      "name": "Buddy Henagan Memorial Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Buddy Henagan"
+      },
+      "location": {
+        "coordinates": [
+          31.32418343921027,
+          -91.79718444778969
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-411",
+      "shapeId": "csv-411",
+      "name": "Greg Wall, P.E. Memorial Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Greg Wall, P.E",
+        "summary": "[UNVERIFIED] The highway is named 'Greg Wall, P.E. Memorial Highway' in Louisiana, but the Wikipedia article is about Jacqueline Kennedy Onassis, a former First Lady with no connection to Louisiana or the name 'Greg Wall.' The article subject does not match the person the highway is believed to be named after.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          31.343532108252557,
+          -91.80492547920721
+        ],
+        "state": "LA"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Jacqueline_Kennedy_Onassis"
+    },
+    {
+      "id": "LA-412",
+      "shapeId": "csv-412",
+      "name": "Trooper Rudolph H. Miller Memorial Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Trooper Rudolph H. Miller",
+        "summary": "[UNVERIFIED] The highway is named 'Trooper Rudolph H. Miller Memorial Highway' in Louisiana, indicating it honors a law enforcement officer (likely a state trooper). The Wikipedia article is for Fannie Lou Hamer, a civil rights activist from Mississippi, not a Louisiana law enforcement officer. The names and contexts do not match.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false,
+        "age": 35,
+        "tour": 11,
+        "causeOfDeath": "Struck by vehicle",
+        "incidentDescription": "Cause: Struck by vehicle",
+        "involvedInLawEnforcement": true
+      },
+      "location": {
+        "coordinates": [
+          31.24674922098153,
+          -91.84683686536488
+        ],
+        "state": "LA"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Fannie_Lou_Hamer"
+    },
+    {
+      "id": "LA-413",
+      "shapeId": "csv-413",
+      "name": "Deputy Allen Bares, Jr. Memorial Parkway",
+      "state": "LA",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          31.262949324625954,
+          -91.85046086702026
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-414",
+      "shapeId": "csv-414",
+      "name": "Griffin Pat Miller Memorial Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Griffin Pat Miller",
+        "summary": "[UNVERIFIED] The highway is named 'Griffin Pat Miller Memorial Highway' after a person with the surname Miller, but the Wikipedia article is for Mark Wright, a Louisiana politician. The names do not match, indicating the article is not about the person the highway was named after.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          31.27897427861427,
+          -91.85660447146259
+        ],
+        "state": "LA"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Mark_Wright_%28Louisiana_politician%29"
+    },
+    {
+      "id": "LA-415",
+      "shapeId": "csv-415",
+      "name": "Veterans Memorial Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          31.294519991023652,
+          -91.86525518282608
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-416",
+      "shapeId": "csv-416",
+      "name": "Veterans Memorial Expressway",
+      "state": "LA",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          31.30928390224707,
+          -91.87636763251506
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-417",
+      "shapeId": "csv-417",
+      "name": "Private First Class Joshua C. Burrows Drive",
+      "state": "LA",
+      "honoree": {
+        "name": "Private First Class Joshua C. Burrows"
+      },
+      "location": {
+        "coordinates": [
+          31.322968323491544,
+          -91.88986379993236
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-418",
+      "shapeId": "csv-418",
+      "name": "Hadley J. Castille-Pecanaire Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Hadley J. Castille-Pecanaire"
+      },
+      "location": {
+        "coordinates": [
+          31.33528374507091,
+          -91.90563355877258
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-419",
+      "shapeId": "csv-419",
+      "name": "Sergeant Craig Nelson Memorial Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Craig Nelson",
+        "summary": "[UNVERIFIED] The Wikipedia article is for Colin Harrison, a writer, but the highway is named 'Sergeant Craig Nelson Memorial Highway' in Louisiana. The names do not match, and a writer is unlikely to be memorialized as a sergeant in a highway name, suggesting the article is for the wrong person.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          31.3459520836446,
+          -91.9235355450644
+        ],
+        "state": "LA"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Colin_Harrison_%28writer%29"
+    },
+    {
+      "id": "LA-420",
+      "shapeId": "csv-420",
+      "name": "B.R. Harvey Memorial Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "B.R. Harvey",
+        "summary": "[UNVERIFIED] The highway is named 'B.R. Harvey Memorial Highway' after B.R. Harvey, but the Wikipedia article is for Carlos Marcello, a known New Orleans mobster. The names do not match, and the subject's background (organized crime) is not appropriate for a highway memorial.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          31.243611535201673,
+          -91.89804233611432
+        ],
+        "state": "LA"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Carlos_Marcello"
+    },
+    {
+      "id": "LA-421",
+      "shapeId": "csv-421",
+      "name": "Donald C. Cleveland Memorial Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Donald C. Cleveland",
+        "summary": "[UNVERIFIED] The highway is named 'Donald C. Cleveland Memorial Highway' in Louisiana, but the Wikipedia article is for 'Cam Robinson', who is an American football player (offensive tackle) with no apparent connection to Donald C. Cleveland or the state of Louisiana in a memorial context.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false,
+        "age": 26,
+        "tour": 1,
+        "causeOfDeath": "Gunfire",
+        "incidentDescription": "Cause: Gunfire Weapon: Handgun; .38 caliber Offender: Executed",
+        "involvedInLawEnforcement": true
+      },
+      "location": {
+        "coordinates": [
+          31.254279426760256,
+          -91.91076133119186
+        ],
+        "state": "LA"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Cam_Robinson"
+    },
+    {
+      "id": "LA-422",
+      "shapeId": "csv-422",
+      "name": "Senior Trooper Duane Dalton Memorial Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Senior Trooper Duane Dalton"
+      },
+      "location": {
+        "coordinates": [
+          31.2632777450977,
+          -91.92537547820663
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-423",
+      "shapeId": "csv-423",
+      "name": "Albert \"Pyook\" Berard Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          31.270372513654692,
+          -91.94169014156608
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-424",
+      "shapeId": "csv-424",
+      "name": "Veterans Parkway",
+      "state": "LA",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          31.275350940409595,
+          -91.95948550275234
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-425",
+      "shapeId": "csv-425",
+      "name": "Davina Chapman Memorial Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Davina Chapman",
+        "summary": "[UNVERIFIED] The highway is named 'Davina Chapman Memorial Highway' in Louisiana, but the Wikipedia article is for 'Tim Chapman', a different person. The name mismatch strongly indicates this is not the correct person for the memorial highway.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          31.278023935865253,
+          -91.9785187635094
+        ],
+        "state": "LA"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Tim_Chapman"
+    },
+    {
+      "id": "LA-426",
+      "shapeId": "csv-426",
+      "name": "Frank Hennigan Memorial Drive",
+      "state": "LA",
+      "honoree": {
+        "name": "Frank Hennigan",
+        "summary": "[UNVERIFIED] The Wikipedia article is for John Hennigan, a professional poker player, but the highway is named 'Frank Hennigan Memorial Drive' in Louisiana. The names do not match (Frank vs. John), and there is no indication in the provided text that John Hennigan is connected to Louisiana or has a background that would warrant a memorial highway (e.g., law enforcement, military, or local public service).",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          31.278228409289046,
+          -91.9985265893077
+        ],
+        "state": "LA"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/John_Hennigan_%28poker_player%29"
+    },
+    {
+      "id": "LA-427",
+      "shapeId": "csv-427",
+      "name": "Cecil B. Tramel Memorial Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Cecil B. Tramel"
+      },
+      "location": {
+        "coordinates": [
+          31.275829321018247,
+          -92.01922777131705
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-428",
+      "shapeId": "csv-428",
+      "name": "Veterans Memorial Lane",
+      "state": "LA",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          31.210016188295157,
+          -91.93681343324808
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-429",
+      "shapeId": "csv-429",
+      "name": "B.B. \"Sixty\" Rayburn Memorial Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          31.210764955216167,
+          -91.95339704245073
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-430",
+      "shapeId": "csv-430",
+      "name": "Horace Lynn Jones Memorial Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Horace Lynn Jones",
+        "summary": "[UNVERIFIED] The highway is named 'Horace Lynn Jones Memorial Highway' after Horace Lynn Jones, but the Wikipedia article is for Hank Williams, a famous country music singer. The names do not match, and Hank Williams has no known connection to Louisiana or the name Horace Lynn Jones.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          31.209036296983236,
+          -91.97047201731411
+        ],
+        "state": "LA"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Hank_Williams"
+    },
+    {
+      "id": "LA-431",
+      "shapeId": "csv-431",
+      "name": "Wilson Anthony 'Boozoo' Chavis Memorial Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          31.20476256960518,
+          -91.98774162170182
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-432",
+      "shapeId": "csv-432",
+      "name": "Rodney Guilbeaux Memorial Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Rodney Guilbeaux"
+      },
+      "location": {
+        "coordinates": [
+          31.197908254221293,
+          -92.00490198222604
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-433",
+      "shapeId": "csv-433",
+      "name": "Congressman Jimmy Morrison Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Congressman Jimmy Morrison",
+        "summary": "[UNVERIFIED] The Wikipedia article provided is only a generic navigation menu and does not contain any content about a person named Jimmy Hayes. The highway is named 'Congressman Jimmy Morrison Highway' in Louisiana, which suggests it is for a U.S. Congressman from Louisiana. Jimmy Hayes was a U.S. Representative from Louisiana (1979-1987), but the article snippet does not confirm this, and the name mismatch (Morrison vs. Hayes) indicates the highway is likely named after a different person (possibly Jimmy Morrison, though no such congressman is known). Without article content, we cannot verify the subject.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          31.188470619115495,
+          -92.02164536788611
+        ],
+        "state": "LA"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Jimmy_Hayes"
+    },
+    {
+      "id": "LA-434",
+      "shapeId": "csv-434",
+      "name": "Martin Luther King, Jr. Boulevard",
+      "state": "LA",
+      "honoree": {
+        "name": "Martin Luther King, Jr",
+        "summary": "Martin Luther King Jr. was born on January 15, 1929, in Atlanta, Georgia, and was a Baptist minister and civil rights leader. He is renowned for his pivotal role in advancing civil rights through nonviolence and civil disobedience, inspired by his Christian beliefs and Mahatma Gandhi. King led the 1963 March on Washington, where he delivered his iconic 'I Have a Dream' speech. He was assassinated on April 4, 1968, in Memphis, Tennessee, and remains a symbol of the fight for racial equality.",
+        "education": "Morehouse College, Crozer Theological Seminary, Boston University",
+        "gender": "male",
+        "placeOfBirth": "Atlanta, Georgia, United States",
+        "placeOfDeath": "Memphis, Tennessee, United States",
+        "birthYear": 1929,
+        "deathYear": 1968,
+        "involvedInSports": false,
+        "involvedInPolitics": true,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          31.17648005963047,
+          -92.03766352588859
+        ],
+        "state": "LA"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr."
+    },
+    {
+      "id": "LA-435",
+      "shapeId": "csv-435",
+      "name": "Purple Heart Recipients Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          31.162000111578607,
+          -92.05265104287875
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-436",
+      "shapeId": "csv-436",
+      "name": "Staff Sgt Timothy B. Cole, Jr. Memorial Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Timothy B. Cole",
+        "summary": "[UNVERIFIED] The Wikipedia article is about Jonathan Moffett, a musician (drummer), not Timothy B. Cole, Jr., a Staff Sergeant. The highway is named after Timothy B. Cole, Jr., a military member from Louisiana, and the article subject does not match the name, state connection, or background relevant to a military memorial highway.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          31.159778454650066,
+          -91.94720648019928
+        ],
+        "state": "LA"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Jonathan_Moffett"
+    },
+    {
+      "id": "LA-437",
+      "shapeId": "csv-437",
+      "name": "Simon S. Thomas Memorial Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Simon S. Thomas",
+        "summary": "[UNVERIFIED] The Wikipedia article is about Irma Thomas, a singer, but the highway is named 'Simon S. Thomas Memorial Highway' and is in Louisiana. The names do not match, and there is no indication in the provided text that Irma Thomas is connected to Simon S. Thomas or that the highway is named after her.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          31.150300184635555,
+          -91.96083509508196
+        ],
+        "state": "LA"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Irma_Thomas"
+    },
+    {
+      "id": "LA-438",
+      "shapeId": "csv-438",
+      "name": "Hadley J. Castille-Pacaniére Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Hadley J. Castille-Pacaniére"
+      },
+      "location": {
+        "coordinates": [
+          31.138555418747444,
+          -91.9733492270976
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-439",
+      "shapeId": "csv-439",
+      "name": "Veterans Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          31.12467066251905,
+          -91.98447206512968
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-440",
+      "shapeId": "csv-440",
+      "name": "Johnny Wyatt Memorial Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Johnny Wyatt",
+        "summary": "[UNVERIFIED] The Wikipedia article is for Johnny Mercer, a famous songwriter and composer from Georgia, not Johnny Wyatt. The highway is named 'Johnny Wyatt Memorial Highway' in Louisiana, which likely honors a different local figure (possibly a law enforcement officer or military personnel). The names do not match, and Johnny Mercer has no known connection to Louisiana or a memorial highway there.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          31.10880227652354,
+          -91.99394064150634
+        ],
+        "state": "LA"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Johnny_Mercer"
+    },
+    {
+      "id": "LA-441",
+      "shapeId": "csv-441",
+      "name": "Charles I. \"Doc\" Hudson Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          31.09113501017813,
+          -92.00150883941815
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-442",
+      "shapeId": "csv-442",
+      "name": "A.J. Davis Highway, Captain USAF",
+      "state": "LA",
+      "honoree": {
+        "name": "A.J. Davis",
+        "summary": "[UNVERIFIED] The highway is designated 'A.J. Davis Highway, Captain USAF', indicating it is named after a U.S. Air Force captain, likely with the initials A.J. The Wikipedia article is for Glen Davis, a basketball player, who has no known military connection or association with Louisiana. The name and background do not match the highway's honoree.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          31.0718802455508,
+          -92.00695024931836
+        ],
+        "state": "LA"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Glen_Davis_%28basketball%29"
+    },
+    {
+      "id": "LA-443",
+      "shapeId": "csv-443",
+      "name": "Johnny B. Memorial Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Johnny B",
+        "summary": "[UNVERIFIED] The provided Wikipedia article text is only a generic Wikipedia interface and does not contain any content about a person named Johnny Cain. Without article content confirming the person's identity, connection to Louisiana, or relevance for a highway memorial, it cannot be validated as the correct person.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          31.051273966361922,
+          -92.01006084718779
+        ],
+        "state": "LA"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Johnny_Cain"
+    },
+    {
+      "id": "LA-444",
+      "shapeId": "csv-444",
+      "name": "Korean War Veterans Memorial Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          31.113557387940517,
+          -91.92494758761775
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-445",
+      "shapeId": "csv-445",
+      "name": "St. Bernard Vet. Memorial Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "St. Bernard Vet",
+        "summary": "[UNVERIFIED] The Wikipedia article is for John Fred, a musician from Louisiana, but the highway is a 'Veteran Memorial Highway' (St. Bernard Vet. Memorial Highway). John Fred was a pop singer, not a military veteran or law enforcement figure typically honored with such a memorial, making a direct connection unlikely.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          31.097749790436346,
+          -91.9300167697248
+        ],
+        "state": "LA"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/John_Fred"
+    },
+    {
+      "id": "LA-446",
+      "shapeId": "csv-446",
+      "name": "Creole Nature Trail All-American Road Route",
+      "state": "LA",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          31.080818667983873,
+          -91.93282392457816
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-447",
+      "shapeId": "csv-447",
+      "name": "Martin Luther King, Jr. Drive",
+      "state": "LA",
+      "honoree": {
+        "name": "Martin Luther King, Jr",
+        "summary": "Martin Luther King Jr. was born on January 15, 1929, in Atlanta, Georgia, and was a Baptist minister and civil rights leader. He is renowned for his pivotal role in advancing civil rights through nonviolence and civil disobedience, inspired by his Christian beliefs and Mahatma Gandhi. King led the 1963 March on Washington, where he delivered his iconic 'I Have a Dream' speech. He was assassinated on April 4, 1968, in Memphis, Tennessee, and remains a symbol of the fight for racial equality.",
+        "education": "Morehouse College, Crozer Theological Seminary, Boston University",
+        "gender": "male",
+        "placeOfBirth": "Atlanta, Georgia, United States",
+        "placeOfDeath": "Memphis, Tennessee, United States",
+        "birthYear": 1929,
+        "deathYear": 1968,
+        "involvedInSports": false,
+        "involvedInPolitics": true,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          31.06303265329807,
+          -91.93322599796208
+        ],
+        "state": "LA"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr."
+    },
+    {
+      "id": "LA-448",
+      "shapeId": "csv-448",
+      "name": "Stephen E. Ambrose Memorial Parkway",
+      "state": "LA",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          31.044675686879625,
+          -91.93110906701958
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-449",
+      "shapeId": "csv-449",
+      "name": "Joseph D. Waggonner, Jr. Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Joseph D. Waggonner",
+        "summary": "Joe Waggonner was an American politician born on December 17, 1915, in Plain Dealing, Louisiana. He served as a Democratic member of the U.S. House of Representatives from 1961 to 1979, representing Louisiana's 4th congressional district. Known as a conservative 'Southern Democrat,' he was a key figure in the coalition that opposed the national Democratic Party's civil rights platform. He died on December 29, 2007, in Shreveport, Louisiana.",
+        "education": "Louisiana State University",
+        "gender": "male",
+        "placeOfBirth": "Plain Dealing, Louisiana, United States",
+        "placeOfDeath": "Shreveport, Louisiana, United States",
+        "birthYear": 1915,
+        "deathYear": 2007,
+        "involvedInSports": false,
+        "involvedInPolitics": true,
+        "involvedInMilitary": true,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          31.02604402554676,
+          -91.92638983872149
+        ],
+        "state": "LA"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Joe_Waggonner"
+    },
+    {
+      "id": "LA-450",
+      "shapeId": "csv-450",
+      "name": "Veterans Memorial Highway 3235",
+      "state": "LA",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          31.007443112326584,
+          -91.91901685222133
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-451",
+      "shapeId": "csv-451",
+      "name": "Charles I. Hudson Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Charles I. Hudson",
+        "summary": "[UNVERIFIED] The provided Wikipedia article text is only a generic navigation menu and does not contain any content about a specific person. Without article content, there is no evidence to confirm that this is the Charles Hudson associated with Louisiana or that he is the namesake of the highway.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          30.989184336246364,
+          -91.90897137278192
+        ],
+        "state": "LA"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Charles_Hudson_%28American_politician%29"
+    },
+    {
+      "id": "LA-452",
+      "shapeId": "csv-452",
+      "name": "Clarence 'Gatemouth' Brown Memorial Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          31.090360284649528,
+          -91.87919018706187
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-453",
+      "shapeId": "csv-453",
+      "name": "Purple Heart Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          31.07472385204663,
+          -91.87361535777808
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-454",
+      "shapeId": "csv-454",
+      "name": "LA Korean War Veterans Memorial Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          31.05956888789919,
+          -91.86556116088695
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-455",
+      "shapeId": "csv-455",
+      "name": "1st Lt. Doug Fournet Memorial Parkway",
+      "state": "LA",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          31.045195683392876,
+          -91.85507712666202
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-456",
+      "shapeId": "csv-456",
+      "name": "C.E. Buddy Slaydon Memorial Drive",
+      "state": "LA",
+      "honoree": {
+        "name": "C.E. Buddy Slaydon"
+      },
+      "location": {
+        "coordinates": [
+          31.03189899528807,
+          -91.8422452250825
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-457",
+      "shapeId": "csv-457",
+      "name": "Vietnam Veterans Memorial Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          31.019964759348284,
+          -91.82717923914444
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-458",
+      "shapeId": "csv-458",
+      "name": "West Carroll Veterans Memorial Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          31.009666873497654,
+          -91.81002381873095
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-459",
+      "shapeId": "csv-459",
+      "name": "Staff Sergeant William 'Bill' F. Manuel Memorial Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          31.001264080859414,
+          -91.79095322259465
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-460",
+      "shapeId": "csv-460",
+      "name": "Martin Luther King, Jr. Memorial Expressway",
+      "state": "LA",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          31.09972639281241,
+          -91.82875090351614
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-461",
+      "shapeId": "csv-461",
+      "name": "James Baker Drive",
+      "state": "LA",
+      "honoree": {
+        "name": "James Baker",
+        "summary": "[UNVERIFIED] The highway is named 'James Baker Drive' in Louisiana, but the Wikipedia article is for 'Richard Baker (American politician)', who is a different person. The names do not match, and there is no indication in the provided text that Richard Baker is connected to Louisiana or that a highway would be named after him.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          31.09069123007327,
+          -91.81482457663625
+        ],
+        "state": "LA"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Richard_Baker_%28American_politician%29"
+    },
+    {
+      "id": "LA-462",
+      "shapeId": "csv-462",
+      "name": "Clayton Iles Memorial Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Clayton Iles",
+        "summary": "[UNVERIFIED] The highway is named 'Clayton Iles Memorial Highway' after Clayton Iles, but the Wikipedia article is for 'George J. Iles'. The names do not match, and there is no indication in the provided text that George J. Iles is connected to Clayton Iles or the highway in Louisiana.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          31.083544536928517,
+          -91.79922112179554
+        ],
+        "state": "LA"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/George_J._Iles"
+    },
+    {
+      "id": "LA-463",
+      "shapeId": "csv-463",
+      "name": "Ronnie Hebert Boulevard",
+      "state": "LA",
+      "honoree": {
+        "name": "Ronnie Hebert",
+        "summary": "[UNVERIFIED] The highway is named 'Ronnie Hebert Boulevard' in Louisiana, but the Wikipedia article is for 'Bobby Hebert', a different person. Bobby Hebert is a former football quarterback, not obviously connected to a Louisiana highway memorial, and the name does not match.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          31.078494775542715,
+          -91.78216228562903
+        ],
+        "state": "LA"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Bobby_Hebert"
+    },
+    {
+      "id": "LA-464",
+      "shapeId": "csv-464",
+      "name": "John Leblanc Boulevard",
+      "state": "LA",
+      "honoree": {
+        "name": "John Leblanc",
+        "summary": "[UNVERIFIED] The Wikipedia article is for Dudley J. LeBlanc, a Louisiana politician and businessman, but the highway is named 'John Leblanc Boulevard' (different first name). The name mismatch suggests it is not the same person, despite the shared surname and state connection.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          31.07572630734274,
+          -91.7638922227794
+        ],
+        "state": "LA"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Dudley_J._LeBlanc"
+    },
+    {
+      "id": "LA-465",
+      "shapeId": "csv-465",
+      "name": "Martin Luther King, Jr. Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Martin Luther King, Jr",
+        "summary": "Martin Luther King Jr. was born on January 15, 1929, in Atlanta, Georgia, and was a Baptist minister and civil rights leader. He is renowned for his pivotal role in advancing civil rights through nonviolence and civil disobedience, inspired by his Christian beliefs and Mahatma Gandhi. King led the 1963 March on Washington, where he delivered his iconic 'I Have a Dream' speech. He was assassinated on April 4, 1968, in Memphis, Tennessee, and remains a symbol of the fight for racial equality.",
+        "education": "Morehouse College, Crozer Theological Seminary, Boston University",
+        "gender": "male",
+        "placeOfBirth": "Atlanta, Georgia, United States",
+        "placeOfDeath": "Memphis, Tennessee, United States",
+        "birthYear": 1929,
+        "deathYear": 1968,
+        "involvedInSports": false,
+        "involvedInPolitics": true,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          31.07539716286595,
+          -91.74467500176112
+        ],
+        "state": "LA"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr."
+    },
+    {
+      "id": "LA-466",
+      "shapeId": "csv-466",
+      "name": "Sam Houston Jones Parkway",
+      "state": "LA",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          31.077637061032547,
+          -91.7247918994187
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-467",
+      "shapeId": "csv-467",
+      "name": "Doug Fournet Memorial Parkway",
+      "state": "LA",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          31.082545697206346,
+          -91.70453850829453
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-468",
+      "shapeId": "csv-468",
+      "name": "Oscar Rivette Road",
+      "state": "LA",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          31.137804126833743,
+          -91.7943716731797
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-469",
+      "shapeId": "csv-469",
+      "name": "Thomas M. Alexander Memorial Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Thomas M. Alexander",
+        "summary": "[UNVERIFIED] The Wikipedia article is about F. King Alexander, a university administrator (president of Louisiana State University and others), but the highway is named 'Thomas M. Alexander Memorial Highway' in Louisiana. The names do not match (Thomas M. Alexander vs. F. King Alexander), and there is no indication in the provided text that F. King Alexander is the same person or that the highway is named after him. The mismatch in names and lack of connection to the specific memorial suggest this is not the correct person.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false,
+        "age": 57,
+        "tour": 20,
+        "causeOfDeath": "Gunfire",
+        "incidentDescription": "Cause: Gunfire Weapon: Gun; Unknown type Offender: Sentenced to life",
+        "involvedInLawEnforcement": true
+      },
+      "location": {
+        "coordinates": [
+          31.13908572624749,
+          -91.77782071402227
+        ],
+        "state": "LA"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/F._King_Alexander"
+    },
+    {
+      "id": "LA-470",
+      "shapeId": "csv-470",
+      "name": "A.C. Schiro Memorial Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "A.C. Schiro",
+        "summary": "[UNVERIFIED] The provided Wikipedia article snippet is only a generic navigation menu and does not contain any content about Helena Moreno. The highway is named 'A.C. Schiro Memorial Highway' in Louisiana, which is likely named after Anthony C. Schiro, a former New Orleans mayor, not Helena Moreno. Without article content confirming Helena Moreno's connection to Louisiana or a relevant profession, the match cannot be verified.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          31.142886208919748,
+          -91.76108454488686
+        ],
+        "state": "LA"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Helena_Moreno"
+    },
+    {
+      "id": "LA-471",
+      "shapeId": "csv-471",
+      "name": "Nolan's Trace",
+      "state": "LA",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          31.149236482967474,
+          -91.74446594082609
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-472",
+      "shapeId": "csv-472",
+      "name": "Reverend A.L. O'Brien Memorial Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Reverend A.L. O'Brien",
+        "summary": "[UNVERIFIED] The highway is named 'Reverend A.L. O'Brien Memorial Highway' in Louisiana, but the Wikipedia article is for Kevin F. O'Brien, who is not a reverend and has no apparent connection to Louisiana or a memorial highway.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          31.15813470030341,
+          -91.72827083845081
+        ],
+        "state": "LA"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Kevin_F._O%27Brien"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2026-04-22T17:36:07.805Z",
+    "totalCount": 77,
+    "states": [
+      "LA"
+    ]
+  }
+}

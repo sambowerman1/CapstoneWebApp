@@ -1,48 +1,347 @@
 {
-  "states": ["FL", "MI", "CA", "TX", "MT", "NE", "WI"],
-  "lastUpdated": "2026-02-19T00:00:00Z",
-  "totalHighways": 2475,
+  "states": [
+    "AK",
+    "AR",
+    "CA",
+    "CT",
+    "DE",
+    "FL",
+    "GA",
+    "HI",
+    "ID",
+    "IL",
+    "IN",
+    "KS",
+    "LA",
+    "MD",
+    "MI",
+    "MN",
+    "MO",
+    "MT",
+    "NC",
+    "ND",
+    "NE",
+    "NH",
+    "NJ",
+    "NV",
+    "NY",
+    "OH",
+    "OK",
+    "OR",
+    "RI",
+    "TX",
+    "UT",
+    "WA",
+    "WI",
+    "WY"
+  ],
+  "lastUpdated": "2026-04-22T17:36:07.805Z",
+  "totalHighways": 5335,
   "stateInfo": {
+    "AK": {
+      "name": "Alaska",
+      "count": 6,
+      "center": [
+        64.0685,
+        -152.2782
+      ],
+      "zoom": 4
+    },
+    "AR": {
+      "name": "Arkansas",
+      "count": 5,
+      "center": [
+        34.8938,
+        -92.4426
+      ],
+      "zoom": 7
+    },
+    "CA": {
+      "name": "California",
+      "count": 510,
+      "center": [
+        36.78,
+        -119.42
+      ],
+      "zoom": 6
+    },
+    "CT": {
+      "name": "Connecticut",
+      "count": 17,
+      "center": [
+        41.6219,
+        -72.7273
+      ],
+      "zoom": 8
+    },
+    "DE": {
+      "name": "Delaware",
+      "count": 2,
+      "center": [
+        38.9896,
+        -75.505
+      ],
+      "zoom": 8
+    },
     "FL": {
       "name": "Florida",
-      "count": 1033,
-      "center": [27.9944, -81.7603],
+      "count": 966,
+      "center": [
+        27.9944,
+        -81.7603
+      ],
+      "zoom": 7
+    },
+    "GA": {
+      "name": "Georgia",
+      "count": 718,
+      "center": [
+        32.6415,
+        -83.4426
+      ],
+      "zoom": 7
+    },
+    "HI": {
+      "name": "Hawaii",
+      "count": 41,
+      "center": [
+        20.2927,
+        -156.3737
+      ],
+      "zoom": 7
+    },
+    "ID": {
+      "name": "Idaho",
+      "count": 9,
+      "center": [
+        44.3509,
+        -114.613
+      ],
+      "zoom": 6
+    },
+    "IL": {
+      "name": "Illinois",
+      "count": 8,
+      "center": [
+        40.0417,
+        -89.1965
+      ],
+      "zoom": 6
+    },
+    "IN": {
+      "name": "Indiana",
+      "count": 123,
+      "center": [
+        39.8942,
+        -86.2816
+      ],
+      "zoom": 7
+    },
+    "KS": {
+      "name": "Kansas",
+      "count": 414,
+      "center": [
+        38.4937,
+        -98.3804
+      ],
+      "zoom": 7
+    },
+    "LA": {
+      "name": "Louisiana",
+      "count": 77,
+      "center": [
+        31.0689,
+        -91.9968
+      ],
+      "zoom": 7
+    },
+    "MD": {
+      "name": "Maryland",
+      "count": 116,
+      "center": [
+        39.055,
+        -76.7909
+      ],
       "zoom": 7
     },
     "MI": {
       "name": "Michigan",
-      "count": 320,
-      "center": [44.3148, -85.6024],
+      "count": 192,
+      "center": [
+        44.3148,
+        -85.6024
+      ],
       "zoom": 6
     },
-    "CA": {
-      "name": "California",
-      "count": 509,
-      "center": [36.78, -119.42],
+    "MN": {
+      "name": "Minnesota",
+      "count": 85,
+      "center": [
+        46.2807,
+        -94.3053
+      ],
       "zoom": 6
     },
-    "TX": {
-      "name": "Texas",
-      "count": 508,
-      "center": [31.97, -99.90],
-      "zoom": 6
+    "MO": {
+      "name": "Missouri",
+      "count": 711,
+      "center": [
+        38.3566,
+        -92.458
+      ],
+      "zoom": 7
     },
     "MT": {
       "name": "Montana",
-      "count": 52,
-      "center": [47.0, -109.6],
+      "count": 74,
+      "center": [
+        47,
+        -109.6
+      ],
       "zoom": 6
+    },
+    "NC": {
+      "name": "North Carolina",
+      "count": 259,
+      "center": [
+        35.5557,
+        -79.3877
+      ],
+      "zoom": 7
+    },
+    "ND": {
+      "name": "North Dakota",
+      "count": 7,
+      "center": [
+        47.4501,
+        -100.4659
+      ],
+      "zoom": 7
     },
     "NE": {
       "name": "Nebraska",
-      "count": 32,
-      "center": [41.5, -99.8],
+      "count": 34,
+      "center": [
+        41.5,
+        -99.8
+      ],
       "zoom": 7
+    },
+    "NH": {
+      "name": "New Hampshire",
+      "count": 1,
+      "center": [
+        43.6805,
+        -71.5832
+      ],
+      "zoom": 7
+    },
+    "NJ": {
+      "name": "New Jersey",
+      "count": 62,
+      "center": [
+        40.1907,
+        -74.6728
+      ],
+      "zoom": 7
+    },
+    "NV": {
+      "name": "Nevada",
+      "count": 7,
+      "center": [
+        39.3289,
+        -116.6312
+      ],
+      "zoom": 6
+    },
+    "NY": {
+      "name": "New York",
+      "count": 174,
+      "center": [
+        42.9538,
+        -75.5268
+      ],
+      "zoom": 7
+    },
+    "OH": {
+      "name": "Ohio",
+      "count": 463,
+      "center": [
+        40.2862,
+        -82.7937
+      ],
+      "zoom": 7
+    },
+    "OK": {
+      "name": "Oklahoma",
+      "count": 132,
+      "center": [
+        35.5889,
+        -97.4943
+      ],
+      "zoom": 7
+    },
+    "OR": {
+      "name": "Oregon",
+      "count": 18,
+      "center": [
+        43.9336,
+        -120.5583
+      ],
+      "zoom": 6
+    },
+    "RI": {
+      "name": "Rhode Island",
+      "count": 15,
+      "center": [
+        41.6762,
+        -71.5562
+      ],
+      "zoom": 9
+    },
+    "TX": {
+      "name": "Texas",
+      "count": 37,
+      "center": [
+        31.97,
+        -99.9
+      ],
+      "zoom": 6
+    },
+    "UT": {
+      "name": "Utah",
+      "count": 15,
+      "center": [
+        39.3055,
+        -111.6703
+      ],
+      "zoom": 6
+    },
+    "WA": {
+      "name": "Washington",
+      "count": 3,
+      "center": [
+        47.3826,
+        -120.4472
+      ],
+      "zoom": 6
     },
     "WI": {
       "name": "Wisconsin",
-      "count": 21,
-      "center": [44.5, -89.5],
+      "count": 31,
+      "center": [
+        44.5,
+        -89.5
+      ],
+      "zoom": 7
+    },
+    "WY": {
+      "name": "Wyoming",
+      "count": 3,
+      "center": [
+        42.9957,
+        -107.5512
+      ],
       "zoom": 7
     }
   }

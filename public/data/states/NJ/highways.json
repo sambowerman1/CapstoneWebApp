@@ -1,0 +1,1295 @@
+{
+  "highways": [
+    {
+      "id": "NJ-260",
+      "shapeId": "csv-260",
+      "name": "Pleasant T. Macon Highway",
+      "state": "NJ",
+      "honoree": {
+        "name": "Pleasant T. Macon",
+        "summary": "[UNVERIFIED] The provided Wikipedia article text is only a navigation menu and does not contain any content about Charles Alling Gifford. Without article content, it is impossible to verify if he is the person the 'Pleasant T. Macon Highway' in New Jersey is named after. Additionally, the name 'Pleasant T. Macon' does not match 'Charles Alling Gifford', suggesting a different individual.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          40.298904,
+          -74.441011
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "1 N/B",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Charles_Alling_Gifford"
+    },
+    {
+      "id": "NJ-261",
+      "shapeId": "csv-261",
+      "name": "Herbert Highway",
+      "state": "NJ",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          40.30917530675028,
+          -74.42656789407033
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "1 and 9"
+    },
+    {
+      "id": "NJ-262",
+      "shapeId": "csv-262",
+      "name": "General Pulaski Skyway",
+      "state": "NJ",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          40.32255074842321,
+          -74.4135827388719
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "1 and 9"
+    },
+    {
+      "id": "NJ-263",
+      "shapeId": "csv-263",
+      "name": "Blakeslee Route",
+      "state": "NJ",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          40.7369281,
+          -74.0747915
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "1&9"
+    },
+    {
+      "id": "NJ-264",
+      "shapeId": "csv-264",
+      "name": "Thomas E. Dunn Memorial Highway",
+      "state": "NJ",
+      "honoree": {
+        "name": "Thomas E. Dunn",
+        "summary": "[UNVERIFIED] The provided Wikipedia article text is only a generic navigation menu and does not contain any content about a person named Thomas G. Dunn. Without article content, there is no evidence to confirm the subject is the correct person for the New Jersey highway named after Thomas E. Dunn (note the middle initial mismatch: 'E.' vs 'G.').",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          40.8120347,
+          -74.0874169
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "3",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Thomas_G._Dunn"
+    },
+    {
+      "id": "NJ-265",
+      "shapeId": "csv-265",
+      "name": "Edwin L. Ward, Sr. Memorial Highway",
+      "state": "NJ",
+      "honoree": {
+        "name": "Edwin L. Ward",
+        "summary": "[UNVERIFIED] The Wikipedia article is for Edwin Leland James, a journalist, but the highway is named after Edwin L. Ward, Sr., a former New Jersey State Police lieutenant colonel. The names do not match, and the article subject has no known connection to New Jersey law enforcement or the memorial highway.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          40.8097627,
+          -74.0841554
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "3",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Edwin_Leland_James"
+    },
+    {
+      "id": "NJ-266",
+      "shapeId": "csv-266",
+      "name": "Mackay Highway",
+      "state": "NJ",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          40.338816691267,
+          -74.40255435360216
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "4"
+    },
+    {
+      "id": "NJ-267",
+      "shapeId": "csv-267",
+      "name": "Veterans of Foreign Wars of the United States",
+      "state": "NJ",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          40.357688474218435,
+          -74.39395044124606
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "9"
+    },
+    {
+      "id": "NJ-268",
+      "shapeId": "csv-268",
+      "name": "Police Unity Tour Memorial Highway",
+      "state": "NJ",
+      "honoree": {
+        "name": "Police Unity Tour",
+        "summary": "[UNVERIFIED] The Wikipedia article provided is a generic Wikipedia interface and does not contain any content about Joe Biden. Additionally, the 'Police Unity Tour Memorial Highway' in New Jersey is named in honor of law enforcement officers, not a politician like Joe Biden.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          40.37881484786244,
+          -74.38819813769402
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "9",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Joe_Biden"
+    },
+    {
+      "id": "NJ-269",
+      "shapeId": "csv-269",
+      "name": "Lila W. Thompson Memorial Highway",
+      "state": "NJ",
+      "honoree": {
+        "name": "Lila W. Thompson",
+        "summary": "[UNVERIFIED] The highway is named 'Lila W. Thompson Memorial Highway' but the Wikipedia article is for 'Paul W. Thompson', a different person. The name mismatch indicates the article is not about the individual the highway was named after.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          40.40178361658294,
+          -74.38567517883004
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "9",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Paul_W._Thompson"
+    },
+    {
+      "id": "NJ-270",
+      "shapeId": "csv-270",
+      "name": "Joann H. Smith Memorial Highway",
+      "state": "NJ",
+      "honoree": {
+        "name": "Joann H. Smith",
+        "summary": "[UNVERIFIED] The provided text is only the Wikipedia site navigation and does not contain any article content about a person. Without article content, there is no information to confirm the subject's name, connection to New Jersey, or relevance for a highway memorial.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          40.42612839988789,
+          -74.38670183399422
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "9",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Joann_H._Smith"
+    },
+    {
+      "id": "NJ-271",
+      "shapeId": "csv-271",
+      "name": "American Legion Memorial Highway",
+      "state": "NJ",
+      "honoree": {
+        "name": "American Legion"
+      },
+      "location": {
+        "coordinates": [
+          40.35987696441021,
+          -74.46922009721746
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "10"
+    },
+    {
+      "id": "NJ-272",
+      "shapeId": "csv-272",
+      "name": "Samuel Hill Highway",
+      "state": "NJ",
+      "honoree": {
+        "name": "Samuel Hill",
+        "summary": "[UNVERIFIED] The article is for Samuel Hill (sea captain), but the highway is in New Jersey. The provided article snippet does not show any connection to New Jersey, and a sea captain from the 18th/19th century is unlikely to be the namesake for a modern highway in New Jersey without explicit evidence. The name is common, and the context suggests a different Samuel Hill (e.g., a local New Jersey figure) is more likely.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          40.377534454824904,
+          -74.46769822879058
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "12",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Samuel_Hill_%28sea_captain%29"
+    },
+    {
+      "id": "NJ-273",
+      "shapeId": "csv-273",
+      "name": "World War II Veterans Memorial Highway",
+      "state": "NJ",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          40.396090324889066,
+          -74.46948607152302
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "18"
+    },
+    {
+      "id": "NJ-274",
+      "shapeId": "csv-274",
+      "name": "Purple Heart Memorial Highway",
+      "state": "NJ",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          40.4150260899771,
+          -74.47474373058252
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "18"
+    },
+    {
+      "id": "NJ-275",
+      "shapeId": "csv-275",
+      "name": "Memorial Highway (WWII & Korean Vets)",
+      "state": "NJ",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          40.43380099895269,
+          -74.48355703260592
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "18"
+    },
+    {
+      "id": "NJ-276",
+      "shapeId": "csv-276",
+      "name": "McCarter Highway",
+      "state": "NJ",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          40.451862110993936,
+          -74.49593479053432
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "21"
+    },
+    {
+      "id": "NJ-277",
+      "shapeId": "csv-277",
+      "name": "Blue Star Drive",
+      "state": "NJ",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          40.46865468035469,
+          -74.51180738554048
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "22"
+    },
+    {
+      "id": "NJ-278",
+      "shapeId": "csv-278",
+      "name": "Military Order of the Purple Heart Memorial Hwy.",
+      "state": "NJ",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          40.48363268156246,
+          -74.5310266980883
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "24"
+    },
+    {
+      "id": "NJ-279",
+      "shapeId": "csv-279",
+      "name": "John Fitch Way",
+      "state": "NJ",
+      "honoree": {
+        "name": "John Fitch",
+        "summary": "[UNVERIFIED] The Wikipedia article is about John Calipari, a basketball coach with no known connection to New Jersey or a highway named 'John Fitch Way'. The highway name suggests it is likely named after John Fitch, an inventor associated with early steamboats and New Jersey history, not John Calipari.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          40.37785012180332,
+          -74.53395355972422
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "29",
+      "lawWebLink": "https://en.wikipedia.org/wiki/John_Calipari"
+    },
+    {
+      "id": "NJ-280",
+      "shapeId": "csv-280",
+      "name": "John Fitch Parkway",
+      "state": "NJ",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          40.390441249289324,
+          -74.54642619216028
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "29"
+    },
+    {
+      "id": "NJ-281",
+      "shapeId": "csv-281",
+      "name": "Daniel Bray Highway",
+      "state": "NJ",
+      "honoree": {
+        "name": "Daniel Bray",
+        "summary": "[UNVERIFIED] The provided Wikipedia article text is only the site navigation and does not contain any content about a person named Daniel Bray. Without article content, there is no evidence to confirm the subject matches the person the highway is named after, nor any connection to New Jersey.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          40.40109143917985,
+          -74.5617261970874
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "29",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Daniel_Bray"
+    },
+    {
+      "id": "NJ-282",
+      "shapeId": "csv-282",
+      "name": "Rev. S. Howard Woodson Way",
+      "state": "NJ",
+      "honoree": {
+        "name": "S. Howard Woodson",
+        "summary": "[UNVERIFIED] The highway is named 'Rev. S. Howard Woodson Way' after a reverend, but the Wikipedia article is for Francis J. McManimon, whose name does not match the honoree. Additionally, the article snippet provided does not contain any content about the person's background or connection to New Jersey, making it impossible to verify relevance.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          40.2235597,
+          -74.7735467
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "29",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Francis_J._McManimon"
+    },
+    {
+      "id": "NJ-283",
+      "shapeId": "csv-283",
+      "name": "Admiral Wilson Blvd.",
+      "state": "NJ",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          40.409343005555755,
+          -74.57956205508748
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "30"
+    },
+    {
+      "id": "NJ-284",
+      "shapeId": "csv-284",
+      "name": "Tri-County Purple Heart Memorial Highway",
+      "state": "NJ",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          40.41478045974196,
+          -74.59957718915074
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "31"
+    },
+    {
+      "id": "NJ-285",
+      "shapeId": "csv-285",
+      "name": "Theodore J. Narozanick Highway",
+      "state": "NJ",
+      "honoree": {
+        "name": "Theodore J. Narozanick"
+      },
+      "location": {
+        "coordinates": [
+          40.417039118544785,
+          -74.62135587414119
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "33"
+    },
+    {
+      "id": "NJ-286",
+      "shapeId": "csv-286",
+      "name": "Chosin Few Memorial Highway",
+      "state": "NJ",
+      "honoree": {
+        "name": "Chosin Few"
+      },
+      "location": {
+        "coordinates": [
+          40.41581290800508,
+          -74.64443023362693
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "35"
+    },
+    {
+      "id": "NJ-287",
+      "shapeId": "csv-287",
+      "name": "Little League World Champions Boulevard",
+      "state": "NJ",
+      "honoree": {
+        "name": "Little League World Champions"
+      },
+      "location": {
+        "coordinates": [
+          40.41086122981085,
+          -74.66828821715555
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "37"
+    },
+    {
+      "id": "NJ-288",
+      "shapeId": "csv-288",
+      "name": "Harding Highway",
+      "state": "NJ",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          40.340148308574165,
+          -74.58955957409341
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "40"
+    },
+    {
+      "id": "NJ-289",
+      "shapeId": "csv-289",
+      "name": "Route 42 Purple Heart Memorial Highway",
+      "state": "NJ",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          40.33879346464823,
+          -74.60723066486874
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "42"
+    },
+    {
+      "id": "NJ-290",
+      "shapeId": "csv-290",
+      "name": "United Spanish War Veterans Memorial Highway",
+      "state": "NJ",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          40.33402716831496,
+          -74.62525284883012
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "46"
+    },
+    {
+      "id": "NJ-291",
+      "shapeId": "csv-291",
+      "name": "Spec. 4 Clifford Jones Jr. Highway",
+      "state": "NJ",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          40.325775305026376,
+          -74.64308856946376
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "46"
+    },
+    {
+      "id": "NJ-292",
+      "shapeId": "csv-292",
+      "name": "Delsea Drive",
+      "state": "NJ",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          40.31404066257935,
+          -74.66019031400161
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "47"
+    },
+    {
+      "id": "NJ-293",
+      "shapeId": "csv-293",
+      "name": "Nello Melini Memorial Highway",
+      "state": "NJ",
+      "honoree": {
+        "name": "Nello Melini"
+      },
+      "location": {
+        "coordinates": [
+          40.298904,
+          -74.676011
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "47"
+    },
+    {
+      "id": "NJ-294",
+      "shapeId": "csv-294",
+      "name": "South Jersey Vietnam Veterans’ Highway",
+      "state": "NJ",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          40.28052376686793,
+          -74.69001445271624
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "47"
+    },
+    {
+      "id": "NJ-295",
+      "shapeId": "csv-295",
+      "name": "Delsea Drive",
+      "state": "NJ",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          40.25913446856096,
+          -74.70168580280637
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "49"
+    },
+    {
+      "id": "NJ-296",
+      "shapeId": "csv-296",
+      "name": "Howard S. Stanton Memorial Causeway",
+      "state": "NJ",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          40.27335987758912,
+          -74.59682325369462
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "52"
+    },
+    {
+      "id": "NJ-297",
+      "shapeId": "csv-297",
+      "name": "Veteran’s Memorial Highway",
+      "state": "NJ",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          40.259014535351774,
+          -74.60723066486874
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "55"
+    },
+    {
+      "id": "NJ-298",
+      "shapeId": "csv-298",
+      "name": "Morris and Essex Turnpike",
+      "state": "NJ",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          40.242193075710524,
+          -74.61526528937844
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "57"
+    },
+    {
+      "id": "NJ-299",
+      "shapeId": "csv-299",
+      "name": "Admiral John D. Bulkeley Memorial Highway",
+      "state": "NJ",
+      "honoree": {
+        "name": "Admiral John D. Bulkeley"
+      },
+      "location": {
+        "coordinates": [
+          40.22325722310078,
+          -74.62052263321321
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "57"
+    },
+    {
+      "id": "NJ-300",
+      "shapeId": "csv-300",
+      "name": "John Davison Rockefeller Memorial Highway",
+      "state": "NJ",
+      "honoree": {
+        "name": "John Davison Rockefeller",
+        "summary": "Geraldine Rockefeller Dodge was an American philanthropist and dog show judge born on June 10, 1882. She was the daughter of William Rockefeller and married to Marcellus Hartley Dodge. Dodge was a prominent figure in the world of dog breeding and philanthropy, notably contributing to the establishment of the Great Swamp National Wildlife Refuge. She passed away on December 27, 1973, leaving a legacy in conservation and animal welfare.",
+        "gender": "female",
+        "placeOfBirth": "New York City, New York, USA",
+        "placeOfDeath": "New York City, New York, USA",
+        "birthYear": 1882,
+        "deathYear": 1973,
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          40.20262607576052,
+          -74.62265036886924
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "70",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Geraldine_Rockefeller_Dodge"
+    },
+    {
+      "id": "NJ-301",
+      "shapeId": "csv-301",
+      "name": "Lightening Division Memorial Highway",
+      "state": "NJ",
+      "honoree": {
+        "name": "Lightening Division",
+        "summary": "Buzz Aldrin is an American astronaut and engineer born on January 20, 1930, in Glen Ridge, New Jersey. He was the Lunar Module Pilot on the Apollo 11 mission, becoming one of the first two humans to land on the Moon in 1969. A former fighter pilot, he served in the United States Air Force and later worked in academia and aerospace advocacy. His achievements in space exploration have made him a significant figure in history.",
+        "education": "United States Military Academy, Bachelor of Science in Mechanical Engineering, Massachusetts Institute of Technology, Doctor of Science in Astronautics",
+        "gender": "male",
+        "placeOfBirth": "Glen Ridge, New Jersey, United States",
+        "birthYear": 1930,
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": true,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          40.180768881455215,
+          -74.62135587414119
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "I-78",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Buzz_Aldrin"
+    },
+    {
+      "id": "NJ-302",
+      "shapeId": "csv-302",
+      "name": "Trooper Thomas J. Hanratty",
+      "state": "NJ",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          40.158196870313326,
+          -74.61641280111161
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "I-78"
+    },
+    {
+      "id": "NJ-303",
+      "shapeId": "csv-303",
+      "name": "Christopher Columbus Highway",
+      "state": "NJ",
+      "honoree": {
+        "name": "Christopher Columbus",
+        "summary": "[UNVERIFIED] The Wikipedia article is about Chris Columbus, a filmmaker known for directing movies like 'Home Alone' and 'Harry Potter'. The highway is named 'Christopher Columbus Highway' in New Jersey, which is likely named after the historical explorer Christopher Columbus, not the filmmaker. The filmmaker has no known connection to New Jersey or highway naming conventions.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          40.13545427177748,
+          -74.60766656152946
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "I-80",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Chris_Columbus_%28filmmaker%29"
+    },
+    {
+      "id": "NJ-304",
+      "shapeId": "csv-304",
+      "name": "Trooper Philip Lomanaco",
+      "state": "NJ",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          40.224585862414656,
+          -74.5506220524272
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "I-80"
+    },
+    {
+      "id": "NJ-305",
+      "shapeId": "csv-305",
+      "name": "Jewish War Veterans Memorial Highway",
+      "state": "NJ",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          40.207366750710676,
+          -74.54642619216028
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "82"
+    },
+    {
+      "id": "NJ-306",
+      "shapeId": "csv-306",
+      "name": "Trooper Bertram T. Zimmerman III Memorial Hwy.",
+      "state": "NJ",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          40.19035308252043,
+          -74.5388070196208
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "83"
+    },
+    {
+      "id": "NJ-307",
+      "shapeId": "csv-307",
+      "name": "World War II 94th Infantry Division Highway",
+      "state": "NJ",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          40.17408732326861,
+          -74.52777836357318
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "94"
+    },
+    {
+      "id": "NJ-308",
+      "shapeId": "csv-308",
+      "name": "Larry Doby Highway",
+      "state": "NJ",
+      "honoree": {
+        "name": "Larry Doby",
+        "summary": "Larry Doby was born on December 13, 1923, in Camden, South Carolina. He was a professional baseball player who became the first African American to play in the American League in 1947. Doby was a seven-time All-Star and a two-time home run champion, primarily playing for the Cleveland Indians. He was inducted into the Baseball Hall of Fame in 1998, highlighting his historical significance in breaking racial barriers in sports.",
+        "gender": "male",
+        "placeOfBirth": "Camden, South Carolina, USA",
+        "placeOfDeath": "Montclair, New Jersey, USA",
+        "birthYear": 1923,
+        "deathYear": 2003,
+        "involvedInSports": true,
+        "involvedInPolitics": false,
+        "involvedInMilitary": true,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          40.15910932206084,
+          -74.51343155279804
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "120",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Larry_Doby"
+    },
+    {
+      "id": "NJ-309",
+      "shapeId": "csv-309",
+      "name": "US Army Parachute Test Platoon",
+      "state": "NJ",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          40.145945889006065,
+          -74.49593479053432
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "130"
+    },
+    {
+      "id": "NJ-310",
+      "shapeId": "csv-310",
+      "name": "Jersey Girls State Highway",
+      "state": "NJ",
+      "honoree": {
+        "name": "Jersey Girls State",
+        "summary": "Bonnie Watson Coleman is an American politician born on February 6, 1945, in Trenton, New Jersey. She has served as the U.S. Representative for New Jersey's 12th congressional district since 2015. A member of the Democratic Party, she was the first woman to represent New Jersey in the U.S. House of Representatives. She previously served in the New Jersey General Assembly and as the New Jersey Secretary of State.",
+        "education": "Thomas Edison State University, Rutgers University",
+        "gender": "female",
+        "placeOfBirth": "Trenton, New Jersey, United States",
+        "birthYear": 1945,
+        "involvedInSports": false,
+        "involvedInPolitics": true,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          40.13510050127173,
+          -74.47553118245003
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "130",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Bonnie_Watson_Coleman"
+    },
+    {
+      "id": "NJ-311",
+      "shapeId": "csv-311",
+      "name": "Thomas Paine Highway",
+      "state": "NJ",
+      "honoree": {
+        "name": "Thomas Paine",
+        "summary": "[UNVERIFIED] The provided Wikipedia article snippet is only a generic navigation menu and does not contain any content about a person named Thomas O. Paine. Without article content confirming the person's identity, profession, or connection to New Jersey, it cannot be verified as the correct namesake for the Thomas Paine Highway.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          40.12704330683389,
+          -74.45253544126211
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "179",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Thomas_O._Paine"
+    },
+    {
+      "id": "NJ-312",
+      "shapeId": "csv-312",
+      "name": "James J. Howard Interstate Highway",
+      "state": "NJ",
+      "honoree": {
+        "name": "James J. Howard Interstate",
+        "summary": "[UNVERIFIED] The provided Wikipedia article text is only a generic navigation menu and does not contain any content about a specific person named James J. Howard. Without article content confirming the person's identity, profession, or connection to New Jersey, it cannot be validated as the correct subject for the highway.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          40.22822303644432,
+          -74.48353832474402
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "I-195",
+      "lawWebLink": "https://en.wikipedia.org/wiki/James_J._Howard"
+    },
+    {
+      "id": "NJ-313",
+      "shapeId": "csv-313",
+      "name": "Thomas Paine Highway",
+      "state": "NJ",
+      "honoree": {
+        "name": "Thomas Paine",
+        "summary": "[UNVERIFIED] The provided Wikipedia article snippet is only a generic navigation menu and does not contain any content about a person named Thomas O. Paine. Without article content confirming the person's identity, profession, or connection to New Jersey, it cannot be verified as the correct namesake for the Thomas Paine Highway.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          40.2202735451751,
+          -74.46769822879058
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "202",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Thomas_O._Paine"
+    },
+    {
+      "id": "NJ-314",
+      "shapeId": "csv-314",
+      "name": "Disabled American Veterans Highway",
+      "state": "NJ",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          40.21506617393596,
+          -74.44979850867401
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "206"
+    },
+    {
+      "id": "NJ-315",
+      "shapeId": "csv-315",
+      "name": "Van Horne Memorial Highway",
+      "state": "NJ",
+      "honoree": {
+        "name": "Van Horne",
+        "summary": "[UNVERIFIED] The provided Wikipedia article content appears to be a generic Wikipedia interface and does not contain any information about a person named Heidi Van Horne. Without article content confirming the person's identity, profession, or connection to New Jersey, it cannot be verified as the correct person for a memorial highway.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          40.21294156764332,
+          -74.4302615635096
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "206",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Heidi_Van_Horne"
+    },
+    {
+      "id": "NJ-316",
+      "shapeId": "csv-316",
+      "name": "World War II Veterans Memorial Highway",
+      "state": "NJ",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          40.21417960987287,
+          -74.40955797080122
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "208"
+    },
+    {
+      "id": "NJ-317",
+      "shapeId": "csv-317",
+      "name": "Korean War Veterans Memorial Highway",
+      "state": "NJ",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          40.218993152137564,
+          -74.38819813769402
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "I-287"
+    },
+    {
+      "id": "NJ-318",
+      "shapeId": "csv-318",
+      "name": "Edward J. Patten Memorial Highway",
+      "state": "NJ",
+      "honoree": {
+        "name": "Edward J. Patten",
+        "summary": "Edward J. Patten was an American politician and lawyer born on March 17, 1933, in Perth Amboy, New Jersey. He served as a member of the New Jersey General Assembly and later as a United States Representative for New Jersey's 13th congressional district. Patten was known for his work in Congress, where he served from 1975 to 1977. He passed away on October 17, 2015, in Plainfield, New Jersey.",
+        "education": "Rutgers University, Rutgers Law School",
+        "gender": "male",
+        "placeOfBirth": "Perth Amboy, New Jersey, United States",
+        "placeOfDeath": "Plainfield, New Jersey, United States",
+        "birthYear": 1933,
+        "deathYear": 2015,
+        "involvedInSports": false,
+        "involvedInPolitics": true,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          40.22752285273476,
+          -74.36672317865595
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "440",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Edward_J._Patten"
+    },
+    {
+      "id": "NJ-319",
+      "shapeId": "csv-319",
+      "name": "Joseph A. LeFante Memorial Highway",
+      "state": "NJ",
+      "honoree": {
+        "name": "Joseph A. LeFante",
+        "summary": "Joseph A. LeFante was an American politician who served as a U.S. Representative from Illinois. He was born on June 15, 1928, in Chicago, Illinois, and died on August 8, 2005, in Chicago. LeFante was a member of the Democratic Party and represented Illinois's 2nd congressional district from 1985 to 1987. His career was significant for his advocacy for labor rights and his contributions to public service in the Chicago area.",
+        "education": "University of Illinois at Urbana-Champaign, Loyola University Chicago School of Law",
+        "gender": "male",
+        "placeOfBirth": "Chicago, Illinois, United States",
+        "placeOfDeath": "Chicago, Illinois, United States",
+        "birthYear": 1928,
+        "deathYear": 2005,
+        "involvedInSports": false,
+        "involvedInPolitics": true,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          40.23983321692484,
+          -74.34569516333119
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "440 (was Rt. 169)",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Joseph_A._LeFante"
+    },
+    {
+      "id": "NJ-320",
+      "shapeId": "csv-320",
+      "name": "Martin Luther King Memorial Highway",
+      "state": "NJ",
+      "honoree": {
+        "name": "Martin Luther King",
+        "summary": "Martin Luther King Jr. was born on January 15, 1929, in Atlanta, Georgia, and was assassinated on April 4, 1968, in Memphis, Tennessee. He was a Baptist minister and the most prominent leader in the American civil rights movement from 1955 until his death. King advanced civil rights through nonviolence and civil disobedience, inspired by his Christian beliefs and the nonviolent activism of Mahatma Gandhi. He is best known for his 'I Have a Dream' speech and his role in the Montgomery Bus Boycott and the March on Washington.",
+        "education": "Morehouse College, Crozer Theological Seminary, Boston University",
+        "gender": "male",
+        "placeOfBirth": "Atlanta, Georgia, United States",
+        "placeOfDeath": "Memphis, Tennessee, United States",
+        "birthYear": 1929,
+        "deathYear": 1968,
+        "involvedInSports": false,
+        "involvedInPolitics": true,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          40.28170636478312,
+          -74.4428813555432
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "I-676",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr."
+    },
+    {
+      "id": "NJ-321",
+      "shapeId": "csv-321",
+      "name": "Washington Victory Trail",
+      "state": "NJ",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          40.288632693249724,
+          -74.42656789407033
+        ],
+        "state": "NJ"
+      },
+      "designation": {},
+      "highway": "Various"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2026-04-22T17:36:07.805Z",
+    "totalCount": 62,
+    "states": [
+      "NJ"
+    ]
+  }
+}

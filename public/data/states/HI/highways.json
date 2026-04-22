@@ -1,0 +1,759 @@
+{
+  "highways": [
+    {
+      "id": "HI-219",
+      "shapeId": "csv-219",
+      "name": "Lunalilo Freeway",
+      "state": "HI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          21.094318,
+          -157.41833699999998
+        ],
+        "state": "HI"
+      },
+      "designation": {},
+      "highway": "H-1"
+    },
+    {
+      "id": "HI-220",
+      "shapeId": "csv-220",
+      "name": "Queen Liliuokalani Freeway",
+      "state": "HI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          21.150157598967787,
+          -157.42148038553438
+        ],
+        "state": "HI"
+      },
+      "designation": {},
+      "highway": "H-1"
+    },
+    {
+      "id": "HI-221",
+      "shapeId": "csv-221",
+      "name": "Veterans Memorial Freeway",
+      "state": "HI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          21.19893421679247,
+          -157.46434513061874
+        ],
+        "state": "HI"
+      },
+      "designation": {},
+      "highway": "H-2"
+    },
+    {
+      "id": "HI-222",
+      "shapeId": "csv-222",
+      "name": "John A. Burns Freeway",
+      "state": "HI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          21.213200064536895,
+          -157.53696412429687
+        ],
+        "state": "HI"
+      },
+      "designation": {},
+      "highway": "H-3"
+    },
+    {
+      "id": "HI-223",
+      "shapeId": "csv-223",
+      "name": "Kamehameha Highway",
+      "state": "HI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          21.3958458,
+          -158.0152271
+        ],
+        "state": "HI"
+      },
+      "designation": {}
+    },
+    {
+      "id": "HI-224",
+      "shapeId": "csv-224",
+      "name": "Farrington Highway",
+      "state": "HI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          21.17660793532095,
+          -157.6115993792125
+        ],
+        "state": "HI"
+      },
+      "designation": {},
+      "highway": "93"
+    },
+    {
+      "id": "HI-225",
+      "shapeId": "csv-225",
+      "name": "Farrington Highway",
+      "state": "HI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          38.9449322,
+          -77.0057167
+        ],
+        "state": "HI"
+      },
+      "designation": {},
+      "highway": "93"
+    },
+    {
+      "id": "HI-226",
+      "shapeId": "csv-226",
+      "name": "Farrington Highway",
+      "state": "HI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          27.061420599999998,
+          -137.58767015
+        ],
+        "state": "HI"
+      },
+      "designation": {},
+      "highway": "930"
+    },
+    {
+      "id": "HI-227",
+      "shapeId": "csv-227",
+      "name": "Farrington Highway",
+      "state": "HI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          21.5453311,
+          -157.8740551
+        ],
+        "state": "HI"
+      },
+      "designation": {},
+      "highway": "93"
+    },
+    {
+      "id": "HI-228",
+      "shapeId": "csv-228",
+      "name": "Farrington Highway",
+      "state": "HI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          21.3351743,
+          -158.0878683
+        ],
+        "state": "HI"
+      },
+      "designation": {},
+      "highway": "76"
+    },
+    {
+      "id": "HI-229",
+      "shapeId": "csv-229",
+      "name": "Joseph P. Leong Highway",
+      "state": "HI",
+      "honoree": {
+        "name": "Joseph P. Leong",
+        "summary": "[UNVERIFIED] The Wikipedia article is for 'Kaʻiulani' (Princess Victoria Kaʻiulani), a historical Hawaiian royal figure, but the highway is named 'Joseph P. Leong Highway'. The names do not match, and there is no indication that Kaʻiulani is connected to Joseph P. Leong or that the highway honors her.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          21.094318,
+          -157.653337
+        ],
+        "state": "HI"
+      },
+      "designation": {},
+      "highway": "83",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Ka%CA%BBiulani"
+    },
+    {
+      "id": "HI-230",
+      "shapeId": "csv-230",
+      "name": "Kamehameha Highway",
+      "state": "HI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          21.23075705,
+          -157.30212705
+        ],
+        "state": "HI"
+      },
+      "designation": {},
+      "highway": "83"
+    },
+    {
+      "id": "HI-231",
+      "shapeId": "csv-231",
+      "name": "Kalanianaole Highway",
+      "state": "HI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          21.3111465,
+          -157.7677677
+        ],
+        "state": "HI"
+      },
+      "designation": {},
+      "highway": "61"
+    },
+    {
+      "id": "HI-232",
+      "shapeId": "csv-232",
+      "name": "Kalanianaole Highway",
+      "state": "HI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          21.3140313,
+          -157.75002295000002
+        ],
+        "state": "HI"
+      },
+      "designation": {},
+      "highway": "72"
+    },
+    {
+      "id": "HI-233",
+      "shapeId": "csv-233",
+      "name": "Nimitz Highway",
+      "state": "HI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          21.389234950000002,
+          -157.94696365
+        ],
+        "state": "HI"
+      },
+      "designation": {},
+      "highway": "63"
+    },
+    {
+      "id": "HI-234",
+      "shapeId": "csv-234",
+      "name": "Kamehameha Highway",
+      "state": "HI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          21.5012628,
+          -158.0519071
+        ],
+        "state": "HI"
+      },
+      "designation": {},
+      "highway": "80"
+    },
+    {
+      "id": "HI-235",
+      "shapeId": "csv-235",
+      "name": "Kamehameha Highway",
+      "state": "HI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          21.30534435,
+          -157.3970948
+        ],
+        "state": "HI"
+      },
+      "designation": {},
+      "highway": "99"
+    },
+    {
+      "id": "HI-236",
+      "shapeId": "csv-236",
+      "name": "Joseph P. Leong Highway",
+      "state": "HI",
+      "honoree": {
+        "name": "Joseph P. Leong",
+        "summary": "[UNVERIFIED] The Wikipedia article is for 'Kaʻiulani' (Princess Victoria Kaʻiulani), a historical Hawaiian royal figure, but the highway is named 'Joseph P. Leong Highway'. The names do not match, and there is no indication that Kaʻiulani is connected to Joseph P. Leong or that the highway honors her.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          21.30021205,
+          -157.3462055
+        ],
+        "state": "HI"
+      },
+      "designation": {},
+      "highway": "83",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Ka%CA%BBiulani"
+    },
+    {
+      "id": "HI-237",
+      "shapeId": "csv-237",
+      "name": "Kamehameha Highway",
+      "state": "HI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          20.994394507110282,
+          -157.63586988904373
+        ],
+        "state": "HI"
+      },
+      "designation": {},
+      "highway": "83"
+    },
+    {
+      "id": "HI-238",
+      "shapeId": "csv-238",
+      "name": "Kamehameha Highway",
+      "state": "HI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          21.3401502,
+          -157.90630570000002
+        ],
+        "state": "HI"
+      },
+      "designation": {},
+      "highway": "92"
+    },
+    {
+      "id": "HI-239",
+      "shapeId": "csv-239",
+      "name": "Joseph P. Leong Highway",
+      "state": "HI",
+      "honoree": {
+        "name": "Joseph P. Leong",
+        "summary": "[UNVERIFIED] The Wikipedia article is for 'Kaʻiulani' (Princess Victoria Kaʻiulani), a historical Hawaiian royal figure, but the highway is named 'Joseph P. Leong Highway'. The names do not match, and there is no indication that Kaʻiulani is connected to Joseph P. Leong or that the highway honors her.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          19.7199314,
+          -155.0867989
+        ],
+        "state": "HI"
+      },
+      "designation": {},
+      "highway": "99",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Ka%CA%BBiulani"
+    },
+    {
+      "id": "HI-240",
+      "shapeId": "csv-240",
+      "name": "Kamehameha Highway",
+      "state": "HI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          21.4165719,
+          -157.9189751
+        ],
+        "state": "HI"
+      },
+      "designation": {},
+      "highway": "7401"
+    },
+    {
+      "id": "HI-241",
+      "shapeId": "csv-241",
+      "name": "Kamehameha Highway",
+      "state": "HI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          21.5115809,
+          -158.0413202
+        ],
+        "state": "HI"
+      },
+      "designation": {},
+      "highway": "8300"
+    },
+    {
+      "id": "HI-242",
+      "shapeId": "csv-242",
+      "name": "Kamehameha Highway",
+      "state": "HI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          21.260675499999998,
+          -157.25735935
+        ],
+        "state": "HI"
+      },
+      "designation": {},
+      "highway": "65"
+    },
+    {
+      "id": "HI-243",
+      "shapeId": "csv-243",
+      "name": "Kamehameha Highway",
+      "state": "HI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          20.918372544485397,
+          -157.55550514395935
+        ],
+        "state": "HI"
+      },
+      "designation": {},
+      "highway": "930"
+    },
+    {
+      "id": "HI-244",
+      "shapeId": "csv-244",
+      "name": "Nimitz Highway",
+      "state": "HI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          21.018233478696388,
+          -157.47361564045
+        ],
+        "state": "HI"
+      },
+      "designation": {}
+    },
+    {
+      "id": "HI-245",
+      "shapeId": "csv-245",
+      "name": "Farrington Highway",
+      "state": "HI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          21.3629411,
+          -158.02516085
+        ],
+        "state": "HI"
+      },
+      "designation": {},
+      "highway": "76"
+    },
+    {
+      "id": "HI-246",
+      "shapeId": "csv-246",
+      "name": "Nimitz Highway",
+      "state": "HI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          21.328219349999998,
+          -157.8976497
+        ],
+        "state": "HI"
+      },
+      "designation": {}
+    },
+    {
+      "id": "HI-247",
+      "shapeId": "csv-247",
+      "name": "Kamehameha Highway",
+      "state": "HI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          21.296710949999998,
+          -157.37288035
+        ],
+        "state": "HI"
+      },
+      "designation": {}
+    },
+    {
+      "id": "HI-248",
+      "shapeId": "csv-248",
+      "name": "Kamehameha Highway",
+      "state": "HI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          21.0655412,
+          -156.66612565
+        ],
+        "state": "HI"
+      },
+      "designation": {},
+      "highway": "83"
+    },
+    {
+      "id": "HI-249",
+      "shapeId": "csv-249",
+      "name": "Kamehameha Highway",
+      "state": "HI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          21.20635695,
+          -157.28932924999998
+        ],
+        "state": "HI"
+      },
+      "designation": {},
+      "highway": "7415"
+    },
+    {
+      "id": "HI-250",
+      "shapeId": "csv-250",
+      "name": "Kamehameha Highway",
+      "state": "HI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          21.41780375,
+          -157.9753999
+        ],
+        "state": "HI"
+      },
+      "designation": {}
+    },
+    {
+      "id": "HI-251",
+      "shapeId": "csv-251",
+      "name": "Nimitz Highway",
+      "state": "HI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          21.038478401032215,
+          -157.42148038553438
+        ],
+        "state": "HI"
+      },
+      "designation": {},
+      "highway": "92"
+    },
+    {
+      "id": "HI-252",
+      "shapeId": "csv-252",
+      "name": "Nimitz Highway",
+      "state": "HI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          21.3190436,
+          -157.8702339
+        ],
+        "state": "HI"
+      },
+      "designation": {}
+    },
+    {
+      "id": "HI-253",
+      "shapeId": "csv-253",
+      "name": "Kamehameha Highway",
+      "state": "HI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          21.23828365,
+          -157.32295069999998
+        ],
+        "state": "HI"
+      },
+      "designation": {},
+      "highway": "7310"
+    },
+    {
+      "id": "HI-254",
+      "shapeId": "csv-254",
+      "name": "Kamehameha Highway",
+      "state": "HI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          21.2277772,
+          -157.33658505
+        ],
+        "state": "HI"
+      },
+      "designation": {},
+      "highway": "7351"
+    },
+    {
+      "id": "HI-255",
+      "shapeId": "csv-255",
+      "name": "Nimitz Highway",
+      "state": "HI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          21.3199991,
+          -157.8773722
+        ],
+        "state": "HI"
+      },
+      "designation": {},
+      "highway": "64"
+    },
+    {
+      "id": "HI-256",
+      "shapeId": "csv-256",
+      "name": "Farrington Highway",
+      "state": "HI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          21.36530105,
+          -158.03449899999998
+        ],
+        "state": "HI"
+      },
+      "designation": {}
+    },
+    {
+      "id": "HI-257",
+      "shapeId": "csv-257",
+      "name": "Kamehameha Highway",
+      "state": "HI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          21.1111322,
+          -156.66246859999998
+        ],
+        "state": "HI"
+      },
+      "designation": {}
+    },
+    {
+      "id": "HI-258",
+      "shapeId": "csv-258",
+      "name": "Kamehameha Highway",
+      "state": "HI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          21.1111322,
+          -156.8374686
+        ],
+        "state": "HI"
+      },
+      "designation": {},
+      "highway": "7012"
+    },
+    {
+      "id": "HI-259",
+      "shapeId": "csv-259",
+      "name": "Kamehameha Highway",
+      "state": "HI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          21.30705065,
+          -157.3972809
+        ],
+        "state": "HI"
+      },
+      "designation": {},
+      "highway": "99"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2026-04-22T17:36:07.805Z",
+    "totalCount": 41,
+    "states": [
+      "HI"
+    ]
+  }
+}

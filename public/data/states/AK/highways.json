@@ -1,0 +1,132 @@
+{
+  "highways": [
+    {
+      "id": "AK-15",
+      "shapeId": "csv-15",
+      "name": "Edgerton Highway",
+      "state": "AK",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          62.1370364,
+          -144.88425915
+        ],
+        "state": "AK"
+      },
+      "designation": {}
+    },
+    {
+      "id": "AK-16",
+      "shapeId": "csv-16",
+      "name": "Elliott Highway",
+      "state": "AK",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          61.370716,
+          -152.32441899999998
+        ],
+        "state": "AK"
+      },
+      "designation": {},
+      "highway": "AK-2"
+    },
+    {
+      "id": "AK-17",
+      "shapeId": "csv-17",
+      "name": "George Parks Highway",
+      "state": "AK",
+      "honoree": {
+        "name": "George Parks",
+        "summary": "George Alexander Parks was an American politician who served as the Governor of Alaska from 1925 to 1933. He was born on August 29, 1877, in New York City, New York, United States. His tenure as governor was marked by significant infrastructure development and the establishment of the Alaska Railroad. He died on March 11, 1954, in San Francisco, California.",
+        "gender": "male",
+        "placeOfBirth": "New York City, New York, United States",
+        "placeOfDeath": "San Francisco, California, United States",
+        "birthYear": 1877,
+        "deathYear": 1954,
+        "involvedInSports": false,
+        "involvedInPolitics": true,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          63.041736400000005,
+          -148.8728097
+        ],
+        "state": "AK"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/George_Alexander_Parks"
+    },
+    {
+      "id": "AK-18",
+      "shapeId": "csv-18",
+      "name": "Richardson Highway",
+      "state": "AK",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          62.998113950000004,
+          -147.10832445
+        ],
+        "state": "AK"
+      },
+      "designation": {}
+    },
+    {
+      "id": "AK-19",
+      "shapeId": "csv-19",
+      "name": "Steese Highway",
+      "state": "AK",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          63.225613100000004,
+          -148.63922939999998
+        ],
+        "state": "AK"
+      },
+      "designation": {},
+      "highway": "AK-6"
+    },
+    {
+      "id": "AK-20",
+      "shapeId": "csv-20",
+      "name": "James W. Dalton Highway",
+      "state": "AK",
+      "honoree": {
+        "name": "James W. Dalton",
+        "summary": "[UNVERIFIED] The highway is named after James W. Dalton, an Alaska road engineer, but the Wikipedia article is for Josephine Earp, a figure from the American Old West with no connection to Alaska or highway naming.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          61.370716,
+          -152.499419
+        ],
+        "state": "AK"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Josephine_Earp"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2026-04-22T17:36:07.805Z",
+    "totalCount": 6,
+    "states": [
+      "AK"
+    ]
+  }
+}

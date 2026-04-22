@@ -1,0 +1,286 @@
+{
+  "highways": [
+    {
+      "id": "RI-52",
+      "shapeId": "csv-52",
+      "name": "Iwo Jima Memorial Highway",
+      "state": "RI",
+      "honoree": {
+        "name": "Iwo Jima"
+      },
+      "location": {
+        "coordinates": [
+          41.96165425,
+          -71.4626841
+        ],
+        "state": "RI"
+      },
+      "designation": {},
+      "highway": "Route 99 connector"
+    },
+    {
+      "id": "RI-53",
+      "shapeId": "csv-53",
+      "name": "John Eldred Parkway",
+      "state": "RI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          41.516166150000004,
+          -71.3736986
+        ],
+        "state": "RI"
+      },
+      "designation": {},
+      "highway": "RI-138"
+    },
+    {
+      "id": "RI-54",
+      "shapeId": "csv-54",
+      "name": "Mary Brennan Parkway",
+      "state": "RI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          41.7225303,
+          -71.3487263
+        ],
+        "state": "RI"
+      },
+      "designation": {},
+      "highway": "Airport connector (Warwick)"
+    },
+    {
+      "id": "RI-55",
+      "shapeId": "csv-55",
+      "name": "Korean War Veterans Memorial Highway",
+      "state": "RI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          41.5524601,
+          -71.2704553
+        ],
+        "state": "RI"
+      },
+      "designation": {},
+      "highway": "I-295"
+    },
+    {
+      "id": "RI-56",
+      "shapeId": "csv-56",
+      "name": "Amvets Memorial Highway",
+      "state": "RI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          37.9760819,
+          -121.258233
+        ],
+        "state": "RI"
+      },
+      "designation": {},
+      "highway": "I-95"
+    },
+    {
+      "id": "RI-57",
+      "shapeId": "csv-57",
+      "name": "Bruce Sundlun Road",
+      "state": "RI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          41.80480271335952,
+          -71.4762263
+        ],
+        "state": "RI"
+      },
+      "designation": {},
+      "highway": "Access road to T.F. Green Airport"
+    },
+    {
+      "id": "RI-58",
+      "shapeId": "csv-58",
+      "name": "American Legion Highway",
+      "state": "RI",
+      "honoree": {
+        "name": "American Legion"
+      },
+      "location": {
+        "coordinates": [
+          41.46905375,
+          -71.56395549999999
+        ],
+        "state": "RI"
+      },
+      "designation": {},
+      "highway": "RI-4"
+    },
+    {
+      "id": "RI-59",
+      "shapeId": "csv-59",
+      "name": "Eddie Dowling Highway",
+      "state": "RI",
+      "honoree": {
+        "name": "Eddie Dowling",
+        "summary": "[UNVERIFIED] The provided text is only the Wikipedia page's navigation and header content, not the article's main body. It does not contain any biographical information about Eddie Dowling, such as his connection to Rhode Island or his profession, making it impossible to verify if he is the person the highway is named after.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          41.680893,
+          -71.51178
+        ],
+        "state": "RI"
+      },
+      "designation": {},
+      "highway": "RI-146",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Eddie_Dowling"
+    },
+    {
+      "id": "RI-60",
+      "shapeId": "csv-60",
+      "name": "Veterans’ Way",
+      "state": "RI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          41.3775996,
+          -71.8272911
+        ],
+        "state": "RI"
+      },
+      "designation": {},
+      "highway": "RI-78"
+    },
+    {
+      "id": "RI-61",
+      "shapeId": "csv-61",
+      "name": "Gladys Carr Bolhouse Connector Road",
+      "state": "RI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          41.6574179,
+          -71.36569085
+        ],
+        "state": "RI"
+      },
+      "designation": {}
+    },
+    {
+      "id": "RI-62",
+      "shapeId": "csv-62",
+      "name": "Veterans’ Memorial Highway",
+      "state": "RI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          41.458959300000004,
+          -71.6211477
+        ],
+        "state": "RI"
+      },
+      "designation": {},
+      "highway": "RI-2"
+    },
+    {
+      "id": "RI-63",
+      "shapeId": "csv-63",
+      "name": "Sgt. Timothy R. Giblin Highway",
+      "state": "RI",
+      "honoree": {
+        "name": "Sgt. Timothy R. Giblin"
+      },
+      "location": {
+        "coordinates": [
+          41.819555949999994,
+          -71.4641345
+        ],
+        "state": "RI"
+      },
+      "designation": {},
+      "highway": "US-6"
+    },
+    {
+      "id": "RI-64",
+      "shapeId": "csv-64",
+      "name": "1st Sergeant P. Andrew McKenna Memorial Highway",
+      "state": "RI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          41.6804706,
+          -71.27038035
+        ],
+        "state": "RI"
+      },
+      "designation": {},
+      "highway": "RI-114"
+    },
+    {
+      "id": "RI-65",
+      "shapeId": "csv-65",
+      "name": "Gold Star Family Highway",
+      "state": "RI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          41.9097635,
+          -71.6656667
+        ],
+        "state": "RI"
+      },
+      "designation": {},
+      "highway": "RI-102 (Chopmist Hill Road)"
+    },
+    {
+      "id": "RI-66",
+      "shapeId": "csv-66",
+      "name": "Rhode Island Purple Heart Trail",
+      "state": "RI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          41.62726750558372,
+          -71.4837263
+        ],
+        "state": "RI"
+      },
+      "designation": {},
+      "highway": "RI-4 / RI-1"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2026-04-22T17:36:07.805Z",
+    "totalCount": 15,
+    "states": [
+      "RI"
+    ]
+  }
+}

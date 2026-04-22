@@ -1,0 +1,365 @@
+{
+  "highways": [
+    {
+      "id": "CT-82",
+      "shapeId": "csv-82",
+      "name": "Merritt Parkway",
+      "state": "CT",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          41.1607388,
+          -73.5119218
+        ],
+        "state": "CT"
+      },
+      "designation": {},
+      "highway": "15"
+    },
+    {
+      "id": "CT-83",
+      "shapeId": "csv-83",
+      "name": "Wilbur Cross Parkway",
+      "state": "CT",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          41.597782,
+          -72.755371
+        ],
+        "state": "CT"
+      },
+      "designation": {},
+      "highway": "15"
+    },
+    {
+      "id": "CT-84",
+      "shapeId": "csv-84",
+      "name": "Milford Parkway - Officer Daniel S. Wasson, Milford Police Department, Connector",
+      "state": "CT",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          41.276800699999995,
+          -72.99172375
+        ],
+        "state": "CT"
+      },
+      "designation": {},
+      "highway": "796"
+    },
+    {
+      "id": "CT-85",
+      "shapeId": "csv-85",
+      "name": "Wilbur Cross Highway",
+      "state": "CT",
+      "honoree": {
+        "name": "Wilbur Cross",
+        "summary": "Wilbur Lucius Cross was an American academic and literary scholar born on April 10, 1862, in Mansfield, Connecticut. He served as the president of Yale University from 1921 to 1930, where he was known for his administrative leadership and contributions to the institution's growth. Cross was also a notable literary critic and editor, significantly influencing American letters through his work on the Yale Review. He died on October 5, 1948, in New Haven, Connecticut, leaving a legacy in both education and literature.",
+        "education": "Yale University, Bachelor of Arts, Yale University, Doctor of Philosophy",
+        "gender": "male",
+        "placeOfBirth": "Mansfield, Connecticut, United States",
+        "placeOfDeath": "New Haven, Connecticut, United States",
+        "birthYear": 1862,
+        "deathYear": 1948,
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          41.646460899999994,
+          -73.06390289999999
+        ],
+        "state": "CT"
+      },
+      "designation": {},
+      "highway": "15",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Wilbur_Lucius_Cross"
+    },
+    {
+      "id": "CT-86",
+      "shapeId": "csv-86",
+      "name": "Thaddeus Kosciuszko Highway & Polish Legion of American Veterans Memorial Highway",
+      "state": "CT",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          41.6720872,
+          -72.7654597
+        ],
+        "state": "CT"
+      },
+      "designation": {},
+      "highway": "72"
+    },
+    {
+      "id": "CT-87",
+      "shapeId": "csv-87",
+      "name": "Thaddeus Kosciuszko Highway & Polish Legion of American Veterans Memorial Highway",
+      "state": "CT",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          41.677644,
+          -72.8477151
+        ],
+        "state": "CT"
+      },
+      "designation": {},
+      "highway": "72"
+    },
+    {
+      "id": "CT-88",
+      "shapeId": "csv-88",
+      "name": "Wilbur Cross Highway",
+      "state": "CT",
+      "honoree": {
+        "name": "Wilbur Cross",
+        "summary": "Wilbur Lucius Cross was an American academic and literary scholar born on April 10, 1862, in Mansfield, Connecticut. He served as the president of Yale University from 1921 to 1930, where he was known for his administrative leadership and contributions to the institution's growth. Cross was also a notable literary critic and editor, significantly influencing American letters through his work on the Yale Review. He died on October 5, 1948, in New Haven, Connecticut, leaving a legacy in both education and literature.",
+        "education": "Yale University, Bachelor of Arts, Yale University, Doctor of Philosophy",
+        "gender": "male",
+        "placeOfBirth": "Mansfield, Connecticut, United States",
+        "placeOfDeath": "New Haven, Connecticut, United States",
+        "birthYear": 1862,
+        "deathYear": 1948,
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          41.44911025,
+          -73.1094084
+        ],
+        "state": "CT"
+      },
+      "designation": {},
+      "highway": "84",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Wilbur_Lucius_Cross"
+    },
+    {
+      "id": "CT-89",
+      "shapeId": "csv-89",
+      "name": "Governor John Davis Lodge Turnpike (partial)",
+      "state": "CT",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          41.1607388,
+          -73.6869218
+        ],
+        "state": "CT"
+      },
+      "designation": {},
+      "highway": "95"
+    },
+    {
+      "id": "CT-90",
+      "shapeId": "csv-90",
+      "name": "Clarence B. Sharp Highway",
+      "state": "CT",
+      "honoree": {
+        "name": "Clarence B. Sharp",
+        "summary": "[UNVERIFIED] The Wikipedia article is for Ezra T. Sprague, but the highway is named 'Clarence B. Sharp Highway'. The names do not match, and there is no indication in the provided text that Ezra T. Sprague is connected to Clarence B. Sharp or that the highway is named after Sprague.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          41.3532697,
+          -72.0645443
+        ],
+        "state": "CT"
+      },
+      "designation": {},
+      "highway": "349",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Ezra_T._Sprague"
+    },
+    {
+      "id": "CT-91",
+      "shapeId": "csv-91",
+      "name": "Governor John Davis Lodge Turnpike (partial)",
+      "state": "CT",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          41.50299435,
+          -72.46076635
+        ],
+        "state": "CT"
+      },
+      "designation": {},
+      "highway": "395"
+    },
+    {
+      "id": "CT-92",
+      "shapeId": "csv-92",
+      "name": "Bradley Int’l Airport Connector – 82nd Airborne Memorial Highway",
+      "state": "CT",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          41.6425579,
+          -73.5076536
+        ],
+        "state": "CT"
+      },
+      "designation": {},
+      "highway": "401"
+    },
+    {
+      "id": "CT-93",
+      "shapeId": "csv-93",
+      "name": "Whitehead Highway",
+      "state": "CT",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          41.7629147,
+          -72.6762317
+        ],
+        "state": "CT"
+      },
+      "designation": {},
+      "highway": "598"
+    },
+    {
+      "id": "CT-94",
+      "shapeId": "csv-94",
+      "name": "Governor John Davis Lodge Turnpike",
+      "state": "CT",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          41.8260997,
+          -71.8764346
+        ],
+        "state": "CT"
+      },
+      "designation": {},
+      "highway": "695"
+    },
+    {
+      "id": "CT-95",
+      "shapeId": "csv-95",
+      "name": "Bradley Int’l Airport Connector – 82nd Airborne Memorial Highway",
+      "state": "CT",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          41.9406881,
+          -72.6849968
+        ],
+        "state": "CT"
+      },
+      "designation": {},
+      "highway": "401"
+    },
+    {
+      "id": "CT-96",
+      "shapeId": "csv-96",
+      "name": "William J. Hilliard Memorial Highway",
+      "state": "CT",
+      "honoree": {
+        "name": "William J. Hilliard",
+        "summary": "[UNVERIFIED] The Wikipedia article is about Benedict Arnold, a famous American Revolutionary War figure known for treason, not William J. Hilliard. The highway name explicitly references 'William J. Hilliard,' and there is no indication in the provided text that this is the same person or that Benedict Arnold has any connection to a memorial highway in Connecticut under that name.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          41.7426898,
+          -72.7113494
+        ],
+        "state": "CT"
+      },
+      "designation": {},
+      "highway": "504",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Benedict_Arnold"
+    },
+    {
+      "id": "CT-97",
+      "shapeId": "csv-97",
+      "name": "E Bartlett Barnes Highway",
+      "state": "CT",
+      "honoree": {
+        "name": "E Bartlett Barnes",
+        "summary": "[UNVERIFIED] The Wikipedia article is for Henry Chandler Cowles, a botanist and ecologist, but the highway is named 'E Bartlett Barnes Highway'. The names do not match, and there is no indication in the provided text that Cowles is associated with that specific highway designation or that the highway is named after him.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          41.67235075,
+          -72.8840763
+        ],
+        "state": "CT"
+      },
+      "designation": {},
+      "highway": "72",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Henry_Chandler_Cowles"
+    },
+    {
+      "id": "CT-98",
+      "shapeId": "csv-98",
+      "name": "Clarence B. Sharp Highway",
+      "state": "CT",
+      "honoree": {
+        "name": "Clarence B. Sharp",
+        "summary": "[UNVERIFIED] The Wikipedia article is for Ezra T. Sprague, but the highway is named 'Clarence B. Sharp Highway'. The names do not match, and there is no indication in the provided text that Ezra T. Sprague is connected to Clarence B. Sharp or that the highway is named after Sprague.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          41.3481562,
+          -72.0705909
+        ],
+        "state": "CT"
+      },
+      "designation": {},
+      "highway": "349",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Ezra_T._Sprague"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2026-04-22T17:36:07.805Z",
+    "totalCount": 17,
+    "states": [
+      "CT"
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "highways": [
+    {
+      "id": "WA-4",
+      "shapeId": "csv-4",
+      "name": "American Veterans Memorial Highway",
+      "state": "WA",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          40.824431450000006,
+          -120.3345083
+        ],
+        "state": "WA"
+      },
+      "designation": {},
+      "highway": "I-90"
+    },
+    {
+      "id": "WA-5",
+      "shapeId": "csv-5",
+      "name": "Erwin O. Rieger Memorial Highway",
+      "state": "WA",
+      "honoree": {
+        "name": "Erwin O. Rieger",
+        "summary": "[UNVERIFIED] The highway is named 'Erwin O. Rieger Memorial Highway' in Washington, but the Wikipedia article is for 'Fred Upton', a U.S. Representative from Michigan. The names do not match, and there is no indication that Fred Upton is connected to Washington or the memorial highway.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          46.5084598,
+          -122.52050635
+        ],
+        "state": "WA"
+      },
+      "designation": {},
+      "highway": "SR-501",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Fred_Upton"
+    },
+    {
+      "id": "WA-6",
+      "shapeId": "csv-6",
+      "name": "Spirit Lake Memorial Highway",
+      "state": "WA",
+      "honoree": {
+        "name": "Spirit Lake",
+        "summary": "[UNVERIFIED] The provided Wikipedia article text appears to be a generic Wikipedia interface and does not contain any biographical information about Harry R. Truman. The Spirit Lake Memorial Highway in Washington is named after Harry R. Truman, who was a notable local figure and innkeeper who died in the 1980 Mount St. Helens eruption. Without biographical content in the snippet, it cannot be confirmed as the correct article.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          46.2739907,
+          -122.904918
+        ],
+        "state": "WA"
+      },
+      "designation": {},
+      "highway": "SR-504",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Harry_R._Truman"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2026-04-22T17:36:07.805Z",
+    "totalCount": 3,
+    "states": [
+      "WA"
+    ]
+  }
+}

@@ -1,1122 +1,1500 @@
 {
   "highways": [
     {
-      "id": "mt-7",
-      "shapeId": "MT_7.0",
-      "name": "Maureen And Mike Mansfield Heritage Route Memorial Highway",
+      "id": "MT-322",
+      "shapeId": "csv-322",
+      "name": "Lewis And Clark Highway",
       "state": "MT",
-      "county": "Unknown",
       "honoree": {
-        "name": "Maureen And Mike Mansfield Heritage"
-      },
-      "location": {
-        "coordinates": [
-          46.84454917202852,
-          -109.45682317174492
-        ],
-        "county": "Unknown",
-        "state": "MT"
-      },
-      "designation": {
-        "legislation": "60-1-204"
-      }
-    },
-    {
-      "id": "mt-15",
-      "shapeId": "MT_15.0",
-      "name": "Charles M Russell Memorial Highway",
-      "state": "MT",
-      "county": "Unknown",
-      "honoree": {
-        "name": "Charles M Russell"
-      },
-      "location": {
-        "coordinates": [
-          46.94001278850181,
-          -109.71567724199038
-        ],
-        "county": "Unknown",
-        "state": "MT"
-      },
-      "designation": {
-        "legislation": "60-1-205"
-      }
-    },
-    {
-      "id": "mt-17",
-      "shapeId": "MT_17.0",
-      "name": "Donald J Ruhl Medal Of Honor Memorial Highway",
-      "state": "MT",
-      "county": "Unknown",
-      "honoree": {
-        "name": "Donald J Ruhl Medal Of Honor",
-        "involvedInMilitary": true
-      },
-      "location": {
-        "coordinates": [
-          47.034808618102794,
-          -109.48504085321973
-        ],
-        "county": "Unknown",
-        "state": "MT"
-      },
-      "designation": {
-        "legislation": "60-1-206"
-      }
-    },
-    {
-      "id": "mt-23",
-      "shapeId": "MT_25.0",
-      "name": "Tom Matsko Bluebird Trail Memorial Highway",
-      "state": "MT",
-      "county": "Unknown",
-      "honoree": {
-        "name": "Tom Matsko Bluebird"
-      },
-      "location": {
-        "coordinates": [
-          47.01662740938897,
-          -109.67005164435153
-        ],
-        "county": "Unknown",
-        "state": "MT"
-      },
-      "designation": {}
-    },
-    {
-      "id": "mt-27",
-      "shapeId": "MT_29.0",
-      "name": "Theodore Roosevelt Memorial Highway",
-      "state": "MT",
-      "county": "Unknown",
-      "honoree": {
-        "name": "Theodore Roosevelt",
+        "name": "Lewis And Clark",
+        "summary": "William Clark was born on August 1, 1770, in Caroline County, Virginia, and died on September 1, 1838, in St. Louis, Missouri. He was an American explorer, soldier, and cartographer who co-led the historic Lewis and Clark Expedition from 1804 to 1806. He later served as the Governor of Missouri and as Superintendent of Indian Affairs. His explorations and diplomatic work significantly shaped the early expansion and relations with Native American nations of the United States.",
         "gender": "male",
-        "summary": "Occupation: explorer",
-        "birthYear": 1858,
-        "deathYear": 1919
+        "placeOfBirth": "Caroline County, Virginia, United States",
+        "placeOfDeath": "St. Louis, Missouri, United States",
+        "birthYear": 1770,
+        "deathYear": 1838,
+        "involvedInSports": false,
+        "involvedInPolitics": true,
+        "involvedInMilitary": true,
+        "involvedInMusic": false
       },
       "location": {
         "coordinates": [
-          46.84744154784392,
-          -109.66497489207481
+          46.921925,
+          -110.374353
         ],
-        "county": "Unknown",
+        "state": "MT"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/William_Clark"
+    },
+    {
+      "id": "MT-323",
+      "shapeId": "csv-323",
+      "name": "Lewis And Clark National Historic Trail Auto Route",
+      "state": "MT",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          46.929981562825176,
+          -110.35969523858846
+        ],
         "state": "MT"
       },
       "designation": {}
     },
     {
-      "id": "mt-29",
-      "shapeId": "MT_31.0",
-      "name": "Patrick G Galvin Memorial Highway",
+      "id": "MT-324",
+      "shapeId": "csv-324",
+      "name": "Nez Perce National Historic Trail Auto Route",
       "state": "MT",
-      "county": "Unknown",
       "honoree": {
-        "name": "Patrick G Galvin"
+        "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          47.053223785966416,
-          -109.47628272299842
+          46.94051509023541,
+          -110.34593524986175
         ],
-        "county": "Unknown",
         "state": "MT"
       },
-      "designation": {
-        "legislation": "60-1-211"
-      }
+      "designation": {}
     },
     {
-      "id": "mt-30",
-      "shapeId": "MT_32.0",
+      "id": "MT-325",
+      "shapeId": "csv-325",
+      "name": "Veterans Memorial Highway",
+      "state": "MT",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          46.95342225767314,
+          -110.3333863816333
+        ],
+        "state": "MT"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MT-326",
+      "shapeId": "csv-326",
+      "name": "Maureen And Mike Mansfield Heritage Route",
+      "state": "MT",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          46.96856457126389,
+          -110.32235015763544
+        ],
+        "state": "MT"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MT-327",
+      "shapeId": "csv-327",
+      "name": "Missouri Breaks Back Country Byway",
+      "state": "MT",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          46.98576969347782,
+          -110.31311258398983
+        ],
+        "state": "MT"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MT-328",
+      "shapeId": "csv-328",
+      "name": "Garnet Back Country Byway",
+      "state": "MT",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          47.00483314044832,
+          -110.3059406007626
+        ],
+        "state": "MT"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MT-329",
+      "shapeId": "csv-329",
+      "name": "Pioneer Mountains Scenic Byway",
+      "state": "MT",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          47.02552033543546,
+          -110.30107871488988
+        ],
+        "state": "MT"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MT-330",
+      "shapeId": "csv-330",
+      "name": "Big Sheep Creek Back Country Byway",
+      "state": "MT",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          46.97218259978365,
+          -110.39211013965452
+        ],
+        "state": "MT"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MT-331",
+      "shapeId": "csv-331",
+      "name": "Kings Hill Scenic Byway",
+      "state": "MT",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          46.98765919255287,
+          -110.38576717107432
+        ],
+        "state": "MT"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MT-332",
+      "shapeId": "csv-332",
+      "name": "Lake Koocanusa Scenic Byway",
+      "state": "MT",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          47.0044989535778,
+          -110.3816787804271
+        ],
+        "state": "MT"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MT-333",
+      "shapeId": "csv-333",
+      "name": "St. Regis-Paradise Scenic Byway",
+      "state": "MT",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          47.02242464129587,
+          -110.38002385296195
+        ],
+        "state": "MT"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MT-334",
+      "shapeId": "csv-334",
+      "name": "Charles M. Russell Trail",
+      "state": "MT",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          47.041139079282665,
+          -110.38094998030199
+        ],
+        "state": "MT"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MT-335",
+      "shapeId": "csv-335",
+      "name": "Camino Real Corridor",
+      "state": "MT",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          47.060328508013185,
+          -110.38457141955325
+        ],
+        "state": "MT"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MT-336",
+      "shapeId": "csv-336",
+      "name": "Donald J. Ruhl Medal Of Honor Highway",
+      "state": "MT",
+      "honoree": {
+        "name": "Donald J. Ruhl Medal Of Honor",
+        "summary": "Donald J. Ruhl was a United States Marine who served during World War II. He was born on October 14, 1921, in Kansas and posthumously received the Medal of Honor for his actions during the Battle of Iwo Jima. Ruhl was killed in action on June 10, 1945, on the island of Iwo Jima. His sacrifice is remembered as a significant example of bravery in Marine Corps history.",
+        "gender": "male",
+        "placeOfBirth": "Kansas City, Kansas, United States",
+        "placeOfDeath": "Iwo Jima, Japan",
+        "birthYear": 1921,
+        "deathYear": 1945,
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": true,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          47.079666134640405,
+          -110.39096739877735
+        ],
+        "state": "MT"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Donald_J._Ruhl"
+    },
+    {
+      "id": "MT-337",
+      "shapeId": "csv-337",
+      "name": "First Special Services Force Memorial Highway",
+      "state": "MT",
+      "honoree": {
+        "name": "First Special Services Force",
+        "summary": "[UNVERIFIED] The provided Wikipedia article snippet is only a generic navigation menu and does not contain any content about Greg Gianforte. However, Greg Gianforte is a politician (current Governor of Montana) and not directly associated with the 'First Special Services Force Memorial Highway,' which honors a World War II military unit. The highway name suggests a military memorial, not a political figure, making a mismatch likely.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          47.098815845926765,
+          -110.40018078731383
+        ],
+        "state": "MT"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Greg_Gianforte"
+    },
+    {
+      "id": "MT-338",
+      "shapeId": "csv-338",
+      "name": "Old Forts Trail",
+      "state": "MT",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          47.000129419115815,
+          -110.43749865840034
+        ],
+        "state": "MT"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MT-339",
+      "shapeId": "csv-339",
+      "name": "Big Sky Back Country Byway",
+      "state": "MT",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          47.0161555413496,
+          -110.44228630712405
+        ],
+        "state": "MT"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MT-340",
+      "shapeId": "csv-340",
+      "name": "Tom Matsko Bluebird Trail Highway",
+      "state": "MT",
+      "honoree": {
+        "name": "Tom Matsko Bluebird Trail"
+      },
+      "location": {
+        "coordinates": [
+          47.03182588628252,
+          -110.44968446764842
+        ],
+        "state": "MT"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MT-341",
+      "shapeId": "csv-341",
+      "name": "163rd Infantry Regiment (Sunset Division) Heritage Highway",
+      "state": "MT",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          47.046812370775584,
+          -110.45965815039952
+        ],
+        "state": "MT"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MT-342",
+      "shapeId": "csv-342",
+      "name": "Purple Heart Trail",
+      "state": "MT",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          47.060791060936246,
+          -110.47213549476456
+        ],
+        "state": "MT"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MT-343",
+      "shapeId": "csv-343",
+      "name": "Theodore Roosevelt Expressway",
+      "state": "MT",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          47.07344606203689,
+          -110.48700828684933
+        ],
+        "state": "MT"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MT-344",
+      "shapeId": "csv-344",
+      "name": "Rawhide Stampede Rustlers And Rendezvous Trade Corridor",
+      "state": "MT",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          47.084473344905675,
+          -110.50413287111701
+        ],
+        "state": "MT"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MT-345",
+      "shapeId": "csv-345",
+      "name": "Patrick G. Galvin Memorial Highway",
+      "state": "MT",
+      "honoree": {
+        "name": "Patrick G. Galvin",
+        "summary": "[UNVERIFIED] The highway is named 'Patrick G. Galvin Memorial Highway' after a person named Patrick G. Galvin, but the Wikipedia article is for 'Kathleen Galvin-Halcro', a different individual. The names do not match, and there is no indication in the provided text that Kathleen is connected to Patrick or the memorial highway in Montana.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          47.093584470049855,
+          -110.52333144838936
+        ],
+        "state": "MT"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Kathleen_Galvin-Halcro"
+    },
+    {
+      "id": "MT-346",
+      "shapeId": "csv-346",
       "name": "Richard Dean Roebling Memorial Highway",
       "state": "MT",
-      "county": "Unknown",
       "honoree": {
-        "name": "Richard Dean Roebling"
+        "name": "Richard Dean Roebling",
+        "summary": "[UNVERIFIED] The Wikipedia article is for Richard Thomas Fry, but the highway is named 'Richard Dean Roebling Memorial Highway'. The names do not match, and there is no indication that Richard Thomas Fry is connected to the name Roebling or the state of Montana in the provided text.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
       },
       "location": {
         "coordinates": [
-          46.9089702641244,
-          -109.41532429513849
+          46.99335906865197,
+          -110.49036929958541
         ],
-        "county": "Unknown",
         "state": "MT"
       },
-      "designation": {
-        "legislation": "60-1-212"
-      }
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Richard_Thomas_Fry"
     },
     {
-      "id": "mt-32",
-      "shapeId": "MT_34.0",
-      "name": "Official Home Of The Evelyn Cameron Gallery  Terry Memorial Highway",
+      "id": "MT-347",
+      "shapeId": "csv-347",
+      "name": "Paul J. Erickson Memorial Highway",
       "state": "MT",
-      "county": "Unknown",
       "honoree": {
-        "name": "Official Home Of The Evelyn Cameron Gallery  Terry"
+        "name": "Paul J. Erickson",
+        "summary": "[UNVERIFIED] The Wikipedia article is for John E. Erickson, a Montana politician, but the highway is named 'Paul J. Erickson Memorial Highway.' The names do not match, indicating it is likely a different person.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
       },
       "location": {
         "coordinates": [
-          46.95954810935743,
-          -109.46894187543803
+          47.00282026808467,
+          -110.50416219193794
         ],
-        "county": "Unknown",
         "state": "MT"
       },
-      "designation": {
-        "legislation": "1-1-526"
-      }
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/John_E._Erickson_%28Montana_politician%29"
     },
     {
-      "id": "mt-33",
-      "shapeId": "MT_35.0",
-      "name": "James E McKenna Memorial Rest Area",
+      "id": "MT-348",
+      "shapeId": "csv-348",
+      "name": "Robert E. Ewing Jr. Memorial Highway",
       "state": "MT",
-      "county": "Unknown",
       "honoree": {
-        "name": "James E McKenna Memorial Rest Area"
+        "name": "Robert E. Ewing Jr",
+        "summary": "[UNVERIFIED] The highway is named 'Robert E. Ewing Jr. Memorial Highway' in Montana, but the Wikipedia article is for 'Robert J. Bulkley', a U.S. Senator from Ohio. The names do not match, and there is no indication that Bulkley has any connection to Montana or the highway's namesake.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
       },
       "location": {
         "coordinates": [
-          47.17766311453768,
-          -109.4696977581473
+          47.01036468434037,
+          -110.51976264939347
         ],
-        "county": "Unknown",
+        "state": "MT"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Robert_J._Bulkley"
+    },
+    {
+      "id": "MT-349",
+      "shapeId": "csv-349",
+      "name": "Highway Patrol Officer Evan F. Schneider Memorial Highway",
+      "state": "MT",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          47.015759038156595,
+          -110.53693734042376
+        ],
         "state": "MT"
       },
       "designation": {}
     },
     {
-      "id": "mt-35",
-      "shapeId": "MT_37.0",
-      "name": "Paul J Erickson Memorial Highway",
-      "state": "MT",
-      "county": "Unknown",
-      "honoree": {
-        "name": "Paul J Erickson"
-      },
-      "location": {
-        "coordinates": [
-          46.80887842327234,
-          -109.48212928902585
-        ],
-        "county": "Unknown",
-        "state": "MT"
-      },
-      "designation": {}
-    },
-    {
-      "id": "mt-36",
-      "shapeId": "MT_38.0",
-      "name": "Robert E Ewing Jr Memorial Highway",
-      "state": "MT",
-      "county": "Unknown",
-      "honoree": {
-        "name": "Robert E Ewing Jr."
-      },
-      "location": {
-        "coordinates": [
-          46.86860123993188,
-          -109.80566740112347
-        ],
-        "county": "Unknown",
-        "state": "MT"
-      },
-      "designation": {
-        "legislation": "60-1-213"
-      }
-    },
-    {
-      "id": "mt-37",
-      "shapeId": "MT_39.0",
-      "name": "Highway Patrol Officer Evan F Schneider Memorial Highway",
-      "state": "MT",
-      "county": "Unknown",
-      "honoree": {
-        "name": "Highway Patrol Officer Evan F Schneider",
-        "involvedInLawEnforcement": true
-      },
-      "location": {
-        "coordinates": [
-          47.05963913828838,
-          -109.62565473436798
-        ],
-        "county": "Unknown",
-        "state": "MT"
-      },
-      "designation": {
-        "legislation": "60-1-216"
-      }
-    },
-    {
-      "id": "mt-38",
-      "shapeId": "MT_40.0",
+      "id": "MT-350",
+      "shapeId": "csv-350",
       "name": "Highway Patrol Officer David Graham Memorial Highway",
       "state": "MT",
-      "county": "Unknown",
       "honoree": {
-        "name": "Highway Patrol Officer David Graham",
-        "involvedInLawEnforcement": true
+        "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          46.78478556815706,
-          -109.78303166298248
+          47.01879644165686,
+          -110.55542685315363
         ],
-        "county": "Unknown",
-        "state": "MT"
-      },
-      "designation": {
-        "legislation": "60-1-215"
-      }
-    },
-    {
-      "id": "mt-39",
-      "shapeId": "MT_41.0",
-      "name": "Kyle G Bohrnsen PFC US Army Memorial Highway",
-      "state": "MT",
-      "county": "Unknown",
-      "honoree": {
-        "name": "Kyle G Bohrnsen PFC US Army",
-        "involvedInMilitary": true
-      },
-      "location": {
-        "coordinates": [
-          47.13500344534438,
-          -109.48426736833231
-        ],
-        "county": "Unknown",
         "state": "MT"
       },
       "designation": {}
     },
     {
-      "id": "mt-40",
-      "shapeId": "MT_42.0",
-      "name": "Highway Patrol Officer Christopher L Hoyt Memorial Highway",
+      "id": "MT-351",
+      "shapeId": "csv-351",
+      "name": "Kyle G. Bohrnsen PFC US Army Memorial Bridge",
       "state": "MT",
-      "county": "Unknown",
       "honoree": {
-        "name": "Highway Patrol Officer Christopher L Hoyt",
-        "involvedInLawEnforcement": true
+        "name": "Kyle G. Bohrnsen PFC US Army"
       },
       "location": {
         "coordinates": [
-          47.083955158627255,
-          -109.7605502822338
+          47.01929909958083,
+          -110.57494854191935
         ],
-        "county": "Unknown",
         "state": "MT"
       },
       "designation": {}
     },
     {
-      "id": "mt-41",
-      "shapeId": "MT_43.0",
+      "id": "MT-352",
+      "shapeId": "csv-352",
+      "name": "Highway Patrol Officer Christopher L. Hoyt Memorial Highway",
+      "state": "MT",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          47.01712071364339,
+          -110.59519964037145
+        ],
+        "state": "MT"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MT-353",
+      "shapeId": "csv-353",
       "name": "Highway Patrol Officer David DeLaittre Memorial Highway",
       "state": "MT",
-      "county": "Unknown",
       "honoree": {
-        "name": "Highway Patrol Officer David DeLaittre",
-        "involvedInLawEnforcement": true
+        "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          46.95383977504172,
-          -109.54844181091683
+          47.012148564605525,
+          -110.61586061093482
         ],
-        "county": "Unknown",
-        "state": "MT"
-      },
-      "designation": {
-        "legislation": "60-1-218"
-      }
-    },
-    {
-      "id": "mt-42",
-      "shapeId": "MT_44.0",
-      "name": "Highway Patrol Officer Michael W Haynes Memorial Highway",
-      "state": "MT",
-      "county": "Unknown",
-      "honoree": {
-        "name": "Highway Patrol Officer Michael W Haynes",
-        "involvedInLawEnforcement": true
-      },
-      "location": {
-        "coordinates": [
-          47.177632818182886,
-          -109.84836139374973
-        ],
-        "county": "Unknown",
-        "state": "MT"
-      },
-      "designation": {
-        "legislation": "60-1-217"
-      }
-    },
-    {
-      "id": "mt-44",
-      "shapeId": "MT_46.0",
-      "name": "Deborah Hobbs Memorial Highway",
-      "state": "MT",
-      "county": "Unknown",
-      "honoree": {
-        "name": "Deborah Hobbs",
-        "gender": "female",
-        "summary": "Reserve Deputy Hobbs succumbed to injuries received two weeks earlier when she and her partner were involved in an on-duty automobile accident on U.S. Highway 93. The officer's Jeep Cherokee patrol car went out of control after hitting a patch of black ice. The car spun into the oncoming lanes and was broadsided by a pickup truck. Reserve Deputy Hobbs was transported to Kalispell Regional Medical Center, where she succumbed to her injuries 12 days later without regaining consciousness. Reserve Deputy Hobbs had been with the Lake County Sheriff's Office for over two years. She is survived by her parents and husband who is also a reserve deputy and detention officer for the same agency.",
-        "age": 39,
-        "tour": "2 years",
-        "causeOfDeath": "Automobile crash",
-        "incidentDescription": "Cause: Automobile crash Incident Date: Saturday, January 4, 2003",
-        "involvedInLawEnforcement": true
-      },
-      "location": {
-        "coordinates": [
-          46.864397160874745,
-          -109.80139645723426
-        ],
-        "county": "Unknown",
-        "state": "MT"
-      },
-      "designation": {
-        "legislation": "LCSO 15-47 Memorial Highway"
-      }
-    },
-    {
-      "id": "mt-45",
-      "shapeId": "MT_47.0",
-      "name": "Patrick A Pyette Memorial Highway",
-      "state": "MT",
-      "county": "Unknown",
-      "honoree": {
-        "name": "Patrick A Pyette"
-      },
-      "location": {
-        "coordinates": [
-          46.81487602071836,
-          -109.38781116999573
-        ],
-        "county": "Unknown",
-        "state": "MT"
-      },
-      "designation": {
-        "legislation": "60-1-220"
-      }
-    },
-    {
-      "id": "mt-48",
-      "shapeId": "MT_50.0",
-      "name": "Joshua Thomas Josh Rutherford Memorial Highway",
-      "state": "MT",
-      "county": "Unknown",
-      "honoree": {
-        "name": "Joshua Thomas Josh Rutherford"
-      },
-      "location": {
-        "coordinates": [
-          46.92955449747169,
-          -109.74956530831942
-        ],
-        "county": "Unknown",
-        "state": "MT"
-      },
-      "designation": {
-        "legislation": "60-1-221"
-      }
-    },
-    {
-      "id": "mt-49",
-      "shapeId": "MT_52.0",
-      "name": "Fort Shaw Fire Chief David Anderson Memorial Highway",
-      "state": "MT",
-      "county": "Unknown",
-      "honoree": {
-        "name": "Fort Shaw Fire Chief David Anderson",
-        "involvedInFireService": true
-      },
-      "location": {
-        "coordinates": [
-          47.02797251353412,
-          -109.35138626935554
-        ],
-        "county": "Unknown",
         "state": "MT"
       },
       "designation": {}
     },
     {
-      "id": "mt-50",
-      "shapeId": "MT_53.0",
-      "name": "Highway Patrol Officer Michael M Ren Memorial Highway",
+      "id": "MT-354",
+      "shapeId": "csv-354",
+      "name": "Highway Patrol Officer Michael W. Haynes Memorial Highway",
       "state": "MT",
-      "county": "Unknown",
       "honoree": {
-        "name": "Highway Patrol Officer Michael M Ren",
-        "involvedInLawEnforcement": true
+        "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          47.11369793377389,
-          -109.66706171649521
+          46.95487709985952,
+          -110.52725127923105
         ],
-        "county": "Unknown",
         "state": "MT"
       },
       "designation": {}
     },
     {
-      "id": "mt-51",
-      "shapeId": "MT_54.0",
-      "name": "Highway Patrol Officer Richard E Hedstrom Memorial Highway",
+      "id": "MT-355",
+      "shapeId": "csv-355",
+      "name": "Pintler Veterans' Memorial Scenic Highway",
       "state": "MT",
-      "county": "Unknown",
       "honoree": {
-        "name": "Highway Patrol Officer Richard E Hedstrom",
-        "involvedInLawEnforcement": true
+        "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          47.01691439356907,
-          -109.35543539780033
+          46.9535732805005,
+          -110.5439263573188
         ],
-        "county": "Unknown",
         "state": "MT"
       },
       "designation": {}
     },
     {
-      "id": "mt-52",
-      "shapeId": "MT_55.0",
-      "name": "Highway Patrol Officer James H Anderson Memorial Highway",
+      "id": "MT-356",
+      "shapeId": "csv-356",
+      "name": "Deborah Hobbs,LCSO 15-47 Memorial Highway",
       "state": "MT",
-      "county": "Unknown",
       "honoree": {
-        "name": "Highway Patrol Officer James H Anderson",
-        "involvedInLawEnforcement": true
+        "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          47.223999591353945,
-          -109.37625292608581
+          46.94964258675237,
+          -110.56080362416269
         ],
-        "county": "Unknown",
         "state": "MT"
       },
       "designation": {}
     },
     {
-      "id": "mt-53",
-      "shapeId": "MT_56.0",
-      "name": "Highway Patrol Officer Robert G Steele Memorial Highway",
+      "id": "MT-357",
+      "shapeId": "csv-357",
+      "name": "Patrick A. Pyette Memorial Highway",
       "state": "MT",
-      "county": "Unknown",
       "honoree": {
-        "name": "Highway Patrol Officer Robert G Steele",
-        "involvedInLawEnforcement": true
-      },
-      "location": {
-        "coordinates": [
-          46.78710186918209,
-          -109.36081835617557
-        ],
-        "county": "Unknown",
-        "state": "MT"
-      },
-      "designation": {}
-    },
-    {
-      "id": "mt-54",
-      "shapeId": "MT_57.0",
-      "name": "Patricia Abelin Memorial Highway",
-      "state": "MT",
-      "county": "Unknown",
-      "honoree": {
-        "name": "Patricia Abelin"
-      },
-      "location": {
-        "coordinates": [
-          46.987407956509735,
-          -109.56039997978576
-        ],
-        "county": "Unknown",
-        "state": "MT"
-      },
-      "designation": {}
-    },
-    {
-      "id": "mt-56",
-      "shapeId": "MT_59.0",
-      "name": "Joseph J Dunn Memorial Highway",
-      "state": "MT",
-      "county": "Unknown",
-      "honoree": {
-        "name": "Joseph J Dunn"
-      },
-      "location": {
-        "coordinates": [
-          46.852756133615884,
-          -109.57479133769007
-        ],
-        "county": "Unknown",
-        "state": "MT"
-      },
-      "designation": {
-        "legislation": "60-1-222"
-      }
-    },
-    {
-      "id": "mt-59",
-      "shapeId": "MT_62.0",
-      "name": "Ivan Doig Memorial Highway",
-      "state": "MT",
-      "county": "Unknown",
-      "honoree": {
-        "name": "Ivan Doig",
-        "gender": "male",
-        "summary": "Occupation: novelist",
-        "birthYear": 1939,
-        "deathYear": 2015
-      },
-      "location": {
-        "coordinates": [
-          47.10923934346119,
-          -109.66297305860063
-        ],
-        "county": "Unknown",
-        "state": "MT"
-      },
-      "designation": {}
-    },
-    {
-      "id": "mt-60",
-      "shapeId": "MT_63.0",
-      "name": "David L Briese Jr Memorial Highway",
-      "state": "MT",
-      "county": "Unknown",
-      "honoree": {
-        "name": "David L Briese Jr."
-      },
-      "location": {
-        "coordinates": [
-          47.17942775505278,
-          -109.55581316516847
-        ],
-        "county": "Unknown",
-        "state": "MT"
-      },
-      "designation": {
-        "legislation": "60-1-223"
-      }
-    },
-    {
-      "id": "mt-62",
-      "shapeId": "MT_65.0",
-      "name": "Senator Conrad Burns Memorial Highway",
-      "state": "MT",
-      "county": "Unknown",
-      "honoree": {
-        "name": "Senator Conrad Burns",
-        "involvedInPolitics": true
-      },
-      "location": {
-        "coordinates": [
-          46.942280541917064,
-          -109.4642397407829
-        ],
-        "county": "Unknown",
-        "state": "MT"
-      },
-      "designation": {
-        "legislation": "60-1-224"
-      }
-    },
-    {
-      "id": "mt-63",
-      "shapeId": "MT_66.0",
-      "name": "Michael John MacKinnon Memorial Highway",
-      "state": "MT",
-      "county": "Unknown",
-      "honoree": {
-        "name": "Michael John MacKinnon"
-      },
-      "location": {
-        "coordinates": [
-          46.99691264927583,
-          -109.47857133015978
-        ],
-        "county": "Unknown",
-        "state": "MT"
-      },
-      "designation": {}
-    },
-    {
-      "id": "mt-64",
-      "shapeId": "MT_67.0",
-      "name": "Dolly Smith Akers Memorial Highway",
-      "state": "MT",
-      "county": "Unknown",
-      "honoree": {
-        "name": "Dolly Smith Akers"
-      },
-      "location": {
-        "coordinates": [
-          47.08318861826354,
-          -109.56627560118936
-        ],
-        "county": "Unknown",
-        "state": "MT"
-      },
-      "designation": {
-        "legislation": "60-1-229"
-      }
-    },
-    {
-      "id": "mt-66",
-      "shapeId": "MT_69.0",
-      "name": "Mason Moore Memorial Highway",
-      "state": "MT",
-      "county": "Unknown",
-      "honoree": {
-        "name": "Mason Moore",
-        "summary": "Deputy Sheriff Mason Moore was shot and killed while involved in a pursuit of a vehicle near mile marker 109 on Highway 287, south of I-90. The vehicle he was pursuing had fled as he attempted to stop it for a traffic violation. During the pursuit, the occupants opened fire, severely wounding him and causing his vehicle to go off the roadway. The subjects then made a U-turn and returned to the patrol car, where they fired over two dozen rounds into it, striking Deputy Moore twice in the head. A short time later, members of the Montana Highway Patrol located the suspect vehicle in Butte-Silver Bow County and attempted to stop it. The ensuing pursuit traveled through several counties as the occupants continued firing at officers. Tire deflation devices were successfully deployed in Powell County, bringing the pursuit to an end. The passenger of the vehicle then exited the car and exchanged shots with officers before being mortally wounded. The vehicle's driver was taken into custody and subsequently charged with 16 counts of premeditated, deliberate homicide. Investigation revealed that the father and son had intended to locate and murder a law enforcement officer that night. The driver was found guilty of three counts of deliberate homicide by accountability and two counts of attempted deliberate homicide and sentenced to three concurrent life sentences. Deputy Moore had served with the Broadwater County Sheriff's Office for three years and had served in law enforcement for a total of 15 years. He is survived by his wife and three children.",
-        "age": 42,
-        "tour": "15 years",
-        "causeOfDeath": "Gunfire",
-        "incidentDescription": "Cause: Gunfire Weapon: Gun; Unknown type Offender: Shot and killed",
-        "involvedInLawEnforcement": true
-      },
-      "location": {
-        "coordinates": [
-          46.91114525871677,
-          -109.78197860634782
-        ],
-        "county": "Unknown",
-        "state": "MT"
-      },
-      "designation": {
-        "legislation": "60-1-230"
-      }
-    },
-    {
-      "id": "mt-68",
-      "shapeId": "MT_71.0",
-      "name": "Minnie SpottedWolf Memorial Highway",
-      "state": "MT",
-      "county": "Unknown",
-      "honoree": {
-        "name": "Minnie SpottedWolf"
-      },
-      "location": {
-        "coordinates": [
-          47.03381668799762,
-          -109.57482024147042
-        ],
-        "county": "Unknown",
-        "state": "MT"
-      },
-      "designation": {
-        "legislation": "60-1-234"
-      }
-    },
-    {
-      "id": "mt-69",
-      "shapeId": "MT_72.0",
-      "name": "Louis Charles Charlo Memorial Highway",
-      "state": "MT",
-      "county": "Unknown",
-      "honoree": {
-        "name": "Louis Charles Charlo"
-      },
-      "location": {
-        "coordinates": [
-          47.1408347984973,
-          -109.49361512974657
-        ],
-        "county": "Unknown",
-        "state": "MT"
-      },
-      "designation": {
-        "legislation": "60-1-235"
-      }
-    },
-    {
-      "id": "mt-70",
-      "shapeId": "MT_73.0",
-      "name": "Trenton Johnson Memorial Highway",
-      "state": "MT",
-      "county": "Unknown",
-      "honoree": {
-        "name": "Trenton Johnson",
-        "gender": "male",
-        "summary": "Occupation: basketball player",
-        "involvedInSports": true
-      },
-      "location": {
-        "coordinates": [
-          47.21133473942542,
-          -109.74652410552035
-        ],
-        "county": "Unknown",
-        "state": "MT"
-      },
-      "designation": {
-        "legislation": "60-1-226"
-      }
-    },
-    {
-      "id": "mt-71",
-      "shapeId": "MT_74.0",
-      "name": "Jeannette Rankin Memorial Highway",
-      "state": "MT",
-      "county": "Unknown",
-      "honoree": {
-        "name": "Jeannette Rankin",
-        "gender": "female",
-        "summary": "Occupation: politician",
-        "birthYear": 1880,
-        "deathYear": 1973,
-        "involvedInPolitics": true
-      },
-      "location": {
-        "coordinates": [
-          46.97560826952063,
-          -109.83616848876107
-        ],
-        "county": "Unknown",
-        "state": "MT"
-      },
-      "designation": {
-        "legislation": "60-1-233"
-      }
-    },
-    {
-      "id": "mt-72",
-      "shapeId": "MT_75.0",
-      "name": "Brent Witham Memorial Highway",
-      "state": "MT",
-      "county": "Unknown",
-      "honoree": {
-        "name": "Brent Witham"
-      },
-      "location": {
-        "coordinates": [
-          47.16916809278612,
-          -109.37963649449993
-        ],
-        "county": "Unknown",
-        "state": "MT"
-      },
-      "designation": {
-        "legislation": "60-1-231"
-      }
-    },
-    {
-      "id": "mt-73",
-      "shapeId": "MT_76.0",
-      "name": "David Thatcher Memorial Highway",
-      "state": "MT",
-      "county": "Unknown",
-      "honoree": {
-        "name": "David Thatcher",
-        "gender": "male",
-        "summary": "Occupation: writer",
-        "birthYear": 1945
-      },
-      "location": {
-        "coordinates": [
-          47.024108628300084,
-          -109.68528166058998
-        ],
-        "county": "Unknown",
-        "state": "MT"
-      },
-      "designation": {
-        "legislation": "60-1-225"
-      }
-    },
-    {
-      "id": "mt-75",
-      "shapeId": "MT_78.0",
-      "name": "Tim W Reardon Memorial Highway",
-      "state": "MT",
-      "county": "Unknown",
-      "honoree": {
-        "name": "Tim W Reardon"
-      },
-      "location": {
-        "coordinates": [
-          46.8524589493091,
-          -109.7844052519399
-        ],
-        "county": "Unknown",
-        "state": "MT"
-      },
-      "designation": {}
-    },
-    {
-      "id": "mt-76",
-      "shapeId": "MT_79.0",
-      "name": "Jim Posewitz Memorial Highway",
-      "state": "MT",
-      "county": "Unknown",
-      "honoree": {
-        "name": "Jim Posewitz"
-      },
-      "location": {
-        "coordinates": [
-          46.9733563307046,
-          -109.63731481750277
-        ],
-        "county": "Unknown",
-        "state": "MT"
-      },
-      "designation": {}
-    },
-    {
-      "id": "mt-77",
-      "shapeId": "MT_80.0",
-      "name": "Helen Clarke Memorial Highway",
-      "state": "MT",
-      "county": "Unknown",
-      "honoree": {
-        "name": "Helen Clarke",
-        "gender": "female",
-        "summary": "Occupation: archaeologist"
-      },
-      "location": {
-        "coordinates": [
-          46.8743195014759,
-          -109.8192954204552
-        ],
-        "county": "Unknown",
-        "state": "MT"
-      },
-      "designation": {
-        "legislation": "60-1-237"
-      }
-    },
-    {
-      "id": "mt-79",
-      "shapeId": "MT_82.0",
-      "name": "Otto Fossen Memorial Highway",
-      "state": "MT",
-      "county": "Unknown",
-      "honoree": {
-        "name": "Otto Fossen",
-        "summary": "Undersheriff Otto Fossen was shot and killed by a hitchhiker he had picked up. Donald L. Bujok, age 21, of Roundup, Montana stole a car east of Chester and proceeded to flee west on Highway 2. Local law enforcement had been alerted and as the Sheriff Dodd Keith was setting up a roadblock, Undersheriff Otto Fossen drove to Joplin to investigate a car stopped on the highway. The events of Undersheriff Fossen's attack is unclear since there were no witnesses, but it was confirmed that Undersheriff Fossen was shot five times in the neck and body and managed to get off two shots as he attempted to subdue the attacker. The suspect managed to escape in the Undersheriff’s car and proceeded west at a high rate of speed. Undersheriff Fossen was still alive when local residents found him and took him directly to the hospital where he was pronounced dead on arrival. The suspect continued to flee, but left the car in a field and continued on foot.  A manhunt was organized and approximately 200 volunteers searched the area. After an exhaustive search the suspect, Bujok, surrendered. A disassembled revolver was found in his hiding spot, and after an x-ray cartridges were found in his intestinal tract.  When the cartridges were recovered and examined by forensics the evidence was conclusive that he had been wounded by Undersheriff Fossen's weapon. Bujok was convicted and sentenced to life in prison.",
-        "tour": "Not available",
-        "causeOfDeath": "Gunfire",
-        "incidentDescription": "Cause: Gunfire Weapon: Gun; Unknown type Offender: Sentenced to life",
-        "involvedInLawEnforcement": true
-      },
-      "location": {
-        "coordinates": [
-          47.15271091418826,
-          -109.48260510620254
-        ],
-        "county": "Unknown",
-        "state": "MT"
-      },
-      "designation": {
-        "legislation": "60-1-236"
-      }
-    },
-    {
-      "id": "mt-80",
-      "shapeId": "MT_83.0",
-      "name": "Terry Spotted Wolf Memorial Highway",
-      "state": "MT",
-      "county": "Unknown",
-      "honoree": {
-        "name": "Terry Spotted Wolf"
-      },
-      "location": {
-        "coordinates": [
-          46.80720313996671,
-          -109.40045173888178
-        ],
-        "county": "Unknown",
-        "state": "MT"
-      },
-      "designation": {
-        "legislation": "Sr. Memorial Highway"
-      }
-    },
-    {
-      "id": "mt-81",
-      "shapeId": "MT_84.0",
-      "name": "Harry A Paulson Memorial Highway",
-      "state": "MT",
-      "county": "Unknown",
-      "honoree": {
-        "name": "Harry A Paulson"
-      },
-      "location": {
-        "coordinates": [
-          46.97672561171165,
-          -109.3931789467453
-        ],
-        "county": "Unknown",
-        "state": "MT"
-      },
-      "designation": {}
-    },
-    {
-      "id": "mt-82",
-      "shapeId": "MT_85.0",
-      "name": "Chief Earl Old Person Memorial Highway",
-      "state": "MT",
-      "county": "Unknown",
-      "honoree": {
-        "name": "Earl Old Person"
-      },
-      "location": {
-        "coordinates": [
-          46.76372448237791,
-          -109.59145117902445
-        ],
-        "county": "Unknown",
-        "state": "MT"
-      },
-      "designation": {
-        "legislation": "60-1-239"
-      }
-    },
-    {
-      "id": "mt-83",
-      "shapeId": "MT_86.0",
-      "name": "Jacob Allmendinger Memorial Highway",
-      "state": "MT",
-      "county": "Unknown",
-      "honoree": {
-        "name": "Jacob Allmendinger",
-        "summary": "Deputy Sheriff Jake Allmendinger was struck and killed by his patrol car on Fairy Lake Road in the Bridger mountain range. He and another deputy were responding to the area to check on the welfare of a stranded motorist. Their patrol Tahoe started to slide backward on ice as they attempted to drive up an incline while looking for the motorist. Deputy Allmendinger exited the vehicle as it slid but became trapped beneath it. Deputy Allmendinger had served as a deputy with the Gallatin County Sheriff's Office for two years. He had previously served a dispatcher and a search and rescue volunteer for over eight years. He is survived by his wife, three children, and parents.",
-        "age": 31,
-        "tour": "2 years, 1 month",
+        "name": "Patrick A. Pyette",
+        "summary": "[UNVERIFIED] The Wikipedia article is for Patrick Kane, a professional ice hockey player from New York, not Patrick A. Pyette. The highway is named 'Patrick A. Pyette Memorial Highway' in Montana, and the article subject does not match the name or location.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false,
+        "age": 54,
+        "tour": 10,
         "causeOfDeath": "Struck by vehicle",
         "incidentDescription": "Cause: Struck by vehicle",
         "involvedInLawEnforcement": true
       },
       "location": {
         "coordinates": [
-          47.23356201987493,
-          -109.59469232902411
+          46.943050102540234,
+          -110.57755498879347
         ],
-        "county": "Unknown",
         "state": "MT"
       },
-      "designation": {
-        "legislation": "60-1-240"
-      }
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Patrick_Kane"
     },
     {
-      "id": "mt-84",
-      "shapeId": "MT_87.0",
-      "name": "Ensign James A Shelton Memorial Highway",
+      "id": "MT-358",
+      "shapeId": "csv-358",
+      "name": "Veterans Bridge",
       "state": "MT",
-      "county": "Unknown",
       "honoree": {
-        "name": "Ensign James A Shelton"
+        "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          46.87657393280521,
-          -109.83442126682455
+          46.933797829426574,
+          -110.59384864839595
         ],
-        "county": "Unknown",
-        "state": "MT"
-      },
-      "designation": {
-        "legislation": "60-1-241"
-      }
-    },
-    {
-      "id": "mt-86",
-      "shapeId": "MT_89.0",
-      "name": "Arthur J Rambo Memorial Highway",
-      "state": "MT",
-      "county": "Unknown",
-      "honoree": {
-        "name": "Arthur J Rambo"
-      },
-      "location": {
-        "coordinates": [
-          47.06622623812282,
-          -109.41211648738496
-        ],
-        "county": "Unknown",
         "state": "MT"
       },
       "designation": {}
     },
     {
-      "id": "mt-87",
-      "shapeId": "MT_90.0",
+      "id": "MT-359",
+      "shapeId": "csv-359",
+      "name": "Prisoner Of War / Missing In Action Memorial Highway",
+      "state": "MT",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          46.921925,
+          -110.609353
+        ],
+        "state": "MT"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MT-360",
+      "shapeId": "csv-360",
+      "name": "Joshua Thomas 'Josh' Rutherford Memorial Highway",
+      "state": "MT",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          46.907507992839165,
+          -110.62374057305223
+        ],
+        "state": "MT"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MT-361",
+      "shapeId": "csv-361",
+      "name": "Fort Shaw Fire Chief David Anderson Memorial Highway",
+      "state": "MT",
+      "honoree": {
+        "name": "Fort Shaw Fire Chief David Anderson",
+        "summary": "[UNVERIFIED] The highway is named after 'Fort Shaw Fire Chief David Anderson', but the Wikipedia article is for 'John Gibbon', a Union Army general with no apparent connection to Montana fire service or the specific individual memorialized.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          46.89065984824046,
+          -110.63669194341432
+        ],
+        "state": "MT"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/John_Gibbon"
+    },
+    {
+      "id": "MT-362",
+      "shapeId": "csv-362",
+      "name": "Highway Patrol Officer Michael M. Ren Memorial Highway",
+      "state": "MT",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          46.90176675508919,
+          -110.53177163575468
+        ],
+        "state": "MT"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MT-363",
+      "shapeId": "csv-363",
+      "name": "Highway Patrol Officer Richard E. Hedstrom Memorial Highway",
+      "state": "MT",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          46.890276719499504,
+          -110.5439263573188
+        ],
+        "state": "MT"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MT-364",
+      "shapeId": "csv-364",
+      "name": "Highway Patrol Officer James H. Anderson Memorial Highway",
+      "state": "MT",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          46.876615862693164,
+          -110.55458813394269
+        ],
+        "state": "MT"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MT-365",
+      "shapeId": "csv-365",
+      "name": "Highway Patrol Officer Robert G. Steele Memorial Highway",
+      "state": "MT",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          46.8609631320233,
+          -110.56347976414514
+        ],
+        "state": "MT"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MT-366",
+      "shapeId": "csv-366",
+      "name": "Patricia Abelin Memorial Bridge",
+      "state": "MT",
+      "honoree": {
+        "name": "Patricia Abelin"
+      },
+      "location": {
+        "coordinates": [
+          46.84352852994074,
+          -110.57034435089413
+        ],
+        "state": "MT"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MT-367",
+      "shapeId": "csv-367",
+      "name": "Pikuni Veterans Memorial Bridge",
+      "state": "MT",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          46.824550900419176,
+          -110.57494854191935
+        ],
+        "state": "MT"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MT-368",
+      "shapeId": "csv-368",
+      "name": "Joseph J. Dunn Memorial Highway",
+      "state": "MT",
+      "honoree": {
+        "name": "Joseph J. Dunn",
+        "summary": "[UNVERIFIED] The Wikipedia article is for Burton K. Wheeler, a U.S. Senator from Montana, but the highway is named 'Joseph J. Dunn Memorial Highway'. The names do not match, indicating the article is not about the person the highway was named after.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          46.80429539227382,
+          -110.57708553597227
+        ],
+        "state": "MT"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Burton_K._Wheeler"
+    },
+    {
+      "id": "MT-369",
+      "shapeId": "csv-369",
+      "name": "Ivan Doig Memorial Highway",
+      "state": "MT",
+      "honoree": {
+        "name": "Ivan Doig",
+        "summary": "Ivan Doig was an American author known for his historical novels set in the American West. He was born on June 27, 1939, in White Sulphur Springs, Montana. Doig had a distinguished career as a writer and academic, earning recognition for works like 'This House of Sky'. He died on April 9, 2015, in Seattle, Washington, leaving a significant literary legacy.",
+        "education": "University of Washington, Doctor of Philosophy, University of Washington, Master of Arts, University of Montana, Bachelor of Arts",
+        "gender": "male",
+        "placeOfBirth": "White Sulphur Springs, Montana, United States",
+        "placeOfDeath": "Seattle, Washington, United States",
+        "birthYear": 1939,
+        "deathYear": 2015,
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          46.78305062352825,
+          -110.57657782382717
+        ],
+        "state": "MT"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Ivan_Doig"
+    },
+    {
+      "id": "MT-370",
+      "shapeId": "csv-370",
+      "name": "David L. Briese Jr Memorial Highway",
+      "state": "MT",
+      "honoree": {
+        "name": "David L. Briese Jr",
+        "summary": "[UNVERIFIED] The Wikipedia article is for Frank Sinatra Jr., a singer and entertainer, not David L. Briese Jr. The highway is named after David L. Briese Jr., a Montana Highway Patrol officer killed in the line of duty, which is a typical background for a memorial highway. The article subject does not match the name, and there is no connection to Montana or law enforcement for Frank Sinatra Jr.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          46.857605229570645,
+          -110.50192365410435
+        ],
+        "state": "MT"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Frank_Sinatra_Jr."
+    },
+    {
+      "id": "MT-371",
+      "shapeId": "csv-371",
+      "name": "Senator Conrad Burns Memorial Highway",
+      "state": "MT",
+      "honoree": {
+        "name": "Senator Conrad Burns",
+        "summary": "Conrad Burns was an American politician who served as a United States Senator from Montana. He was born on January 25, 1935, in Gallatin, Missouri, and died on April 28, 2016, in Billings, Montana. Burns was a Republican who served three terms in the Senate from 1989 to 2007, making him the longest-serving Republican senator from Montana. He was also a former radio station manager and was known for his work on agricultural and telecommunications issues.",
+        "education": "University of Missouri, Broadcasting Institute of St. Louis",
+        "gender": "male",
+        "placeOfBirth": "Gallatin, Missouri, United States",
+        "placeOfDeath": "Billings, Montana, United States",
+        "birthYear": 1935,
+        "deathYear": 2016,
+        "involvedInSports": false,
+        "involvedInPolitics": true,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          46.841029731915334,
+          -110.50416219193794
+        ],
+        "state": "MT"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Conrad_Burns"
+    },
+    {
+      "id": "MT-372",
+      "shapeId": "csv-372",
+      "name": "Michael John MacKinnon Memorial Bridge",
+      "state": "MT",
+      "honoree": {
+        "name": "Michael John MacKinnon",
+        "summary": "[UNVERIFIED] The Wikipedia article is for Cory Swanson, but the memorial bridge is named after Michael John MacKinnon. The names do not match, and there is no indication in the provided text that Cory Swanson is connected to Michael John MacKinnon or that the article discusses a person with that name.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          46.823703155603546,
+          -110.50387541192994
+        ],
+        "state": "MT"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Cory_Swanson"
+    },
+    {
+      "id": "MT-373",
+      "shapeId": "csv-373",
+      "name": "Dolly Smith Akers Memorial Highway",
+      "state": "MT",
+      "honoree": {
+        "name": "Dolly Smith Akers",
+        "summary": "[UNVERIFIED] The provided Wikipedia article content is only the site navigation and does not contain any information about Dolly Akers. Without article content confirming the person's identity, connection to Montana, or relevance for a highway memorial, it cannot be validated as the correct person.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          46.80593887158794,
+          -110.50096005972253
+        ],
+        "state": "MT"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Dolly_Akers"
+    },
+    {
+      "id": "MT-374",
+      "shapeId": "csv-374",
+      "name": "Mason Moore Memorial Highway",
+      "state": "MT",
+      "honoree": {
+        "name": "Mason Moore",
+        "summary": "[UNVERIFIED] The Wikipedia article is for CeCe Moore, a genetic genealogist and DNA consultant, not Mason Moore. The highway is named 'Mason Moore Memorial Highway' in Montana, suggesting it is named after a different person (likely a local figure, possibly a fallen soldier or law enforcement officer from Montana). The article subject does not match the name on the highway, and there is no indication CeCe Moore is connected to Montana or a highway memorial.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false,
+        "age": 42,
+        "tour": 15,
+        "causeOfDeath": "Gunfire",
+        "incidentDescription": "Cause: Gunfire Weapon: Gun; Unknown type Offender: Shot and killed",
+        "involvedInLawEnforcement": true
+      },
+      "location": {
+        "coordinates": [
+          46.78806165713651,
+          -110.49534818797872
+        ],
+        "state": "MT"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/CeCe_Moore"
+    },
+    {
+      "id": "MT-375",
+      "shapeId": "csv-375",
+      "name": "Montana Medal Of Honor Highway",
+      "state": "MT",
+      "honoree": {
+        "name": "Montana Medal Of Honor",
+        "summary": "[UNVERIFIED] The provided Wikipedia article text appears to be a generic Wikipedia interface and does not contain any content about a person named 'Montana Fouts'. The highway 'Montana Medal Of Honor Highway' is a real designation in Montana, but it is named after military veterans who received the Medal of Honor, not a specific individual named Montana Fouts. The name 'Montana Fouts' does not correspond to a known Medal of Honor recipient or notable figure associated with this highway.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          46.77040393796311,
+          -110.48700828684933
+        ],
+        "state": "MT"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Montana_Fouts"
+    },
+    {
+      "id": "MT-376",
+      "shapeId": "csv-376",
+      "name": "Minnie Spotted-Wolf Memorial Highway",
+      "state": "MT",
+      "honoree": {
+        "name": "Minnie Spotted-Wolf",
+        "summary": "Minnie Spotted-Wolf was a Native American woman born on July 21, 1910, in Heart Butte, Montana. She was a member of the Blackfeet Nation and became the first Native American woman to serve in the United States Marine Corps Women's Reserve during World War II. Her service involved working as a heavy equipment operator and driver, breaking gender and cultural barriers. She is remembered as a trailblazer for Native American women in the military.",
+        "gender": "female",
+        "placeOfBirth": "Heart Butte, Montana, United States",
+        "placeOfDeath": "Browning, Montana, United States",
+        "birthYear": 1910,
+        "deathYear": 1988,
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": true,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          46.753301926005996,
+          -110.47594602935696
+        ],
+        "state": "MT"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Minnie_Spotted-Wolf"
+    },
+    {
+      "id": "MT-377",
+      "shapeId": "csv-377",
+      "name": "Louis Charles Charlo Memorial Highway",
+      "state": "MT",
+      "honoree": {
+        "name": "Louis Charles Charlo"
+      },
+      "location": {
+        "coordinates": [
+          46.73709169125213,
+          -110.46220462259129
+        ],
+        "state": "MT"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MT-378",
+      "shapeId": "csv-378",
+      "name": "Trenton Johnson Memorial Highway",
+      "state": "MT",
+      "honoree": {
+        "name": "Trenton Johnson",
+        "summary": "[UNVERIFIED] The provided Wikipedia article snippet is only a generic navigation menu and does not contain any content about a person named Wilmot Collins. Without article content, there is no evidence to confirm the subject matches the name or their connection to Montana. Additionally, a public record search indicates Wilmot Collins is a former mayor of Helena, Montana, which is a plausible connection for a memorial highway, but the article snippet itself is insufficient for validation.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          46.84199708270363,
+          -110.45095770374431
+        ],
+        "state": "MT"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Wilmot_Collins"
+    },
+    {
+      "id": "MT-379",
+      "shapeId": "csv-379",
+      "name": "Jeannette Rankin Memorial Highway",
+      "state": "MT",
+      "honoree": {
+        "name": "Jeannette Rankin",
+        "summary": "Jeannette Rankin was an American politician and women's rights activist born on June 11, 1880, in Missoula, Montana Territory. She was the first woman elected to the U.S. House of Representatives, serving two non-consecutive terms. A dedicated pacifist, she was the only member of Congress to vote against U.S. entry into both World War I and World War II. She left a lasting legacy as a pioneer for women in politics and a champion for peace.",
+        "education": "University of Montana, New York School of Philanthopathy",
+        "gender": "female",
+        "placeOfBirth": "Missoula, Montana, United States",
+        "placeOfDeath": "Carmel, California, United States",
+        "birthYear": 1880,
+        "deathYear": 1973,
+        "involvedInSports": false,
+        "involvedInPolitics": true,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          46.827694458650406,
+          -110.44228630712405
+        ],
+        "state": "MT"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Jeannette_Rankin"
+    },
+    {
+      "id": "MT-380",
+      "shapeId": "csv-380",
+      "name": "Brent Witham Memorial Highway",
+      "state": "MT",
+      "honoree": {
+        "name": "Brent Witham",
+        "summary": "[UNVERIFIED] The provided Wikipedia article snippet is a generic Wikipedia interface and does not contain any content about a person named 'Bunny Oakes'. Without article content, there is no evidence to confirm the subject is the person the highway is named after. Additionally, the highway is named 'Brent Witham Memorial Highway', which does not match the name 'Bunny Oakes', suggesting a possible mismatch.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          46.814393923715755,
+          -110.43117828030047
+        ],
+        "state": "MT"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Bunny_Oakes"
+    },
+    {
+      "id": "MT-381",
+      "shapeId": "csv-381",
+      "name": "David Thatcher Memorial Highway",
+      "state": "MT",
+      "honoree": {
+        "name": "David Thatcher",
+        "summary": "[UNVERIFIED] The Wikipedia article is for 'Calamity Jane' (Martha Jane Cannary), a frontierswoman and folk hero, but the highway is named 'David Thatcher Memorial Highway'. David Thatcher was a World War II Montanan and Medal of Honor recipient, not Calamity Jane. The names do not match, and the article subject is unrelated to the highway's namesake.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          46.80240415815759,
+          -110.41775015359043
+        ],
+        "state": "MT"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Calamity_Jane"
+    },
+    {
+      "id": "MT-382",
+      "shapeId": "csv-382",
+      "name": "Pearl Harbor Veterans Memorial Highway",
+      "state": "MT",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          46.79202053617849,
+          -110.40215309311075
+        ],
+        "state": "MT"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MT-383",
+      "shapeId": "csv-383",
+      "name": "Tim W. Reardon Memorial Bridge",
+      "state": "MT",
+      "honoree": {
+        "name": "Tim W. Reardon",
+        "summary": "[UNVERIFIED] The Wikipedia article is for Lawrence Welsh, but the highway is named 'Tim W. Reardon Memorial Bridge'. The names do not match, and there is no indication in the provided text that Lawrence Welsh is connected to Tim W. Reardon or the state of Montana.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          46.78352149198682,
+          -110.38457141955325
+        ],
+        "state": "MT"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Lawrence_Welsh"
+    },
+    {
+      "id": "MT-384",
+      "shapeId": "csv-384",
+      "name": "Jim Posewitz Memorial Highway",
+      "state": "MT",
+      "honoree": {
+        "name": "Jim Posewitz"
+      },
+      "location": {
+        "coordinates": [
+          46.77716504658534,
+          -110.36522076179527
+        ],
+        "state": "MT"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MT-385",
+      "shapeId": "csv-385",
+      "name": "Helen Clarke Memorial Highway",
+      "state": "MT",
+      "honoree": {
+        "name": "Helen Clarke",
+        "summary": "[UNVERIFIED] The provided Wikipedia article text is only a generic Wikipedia interface and navigation menu, with no actual content about Helen P. Clarke. It does not confirm the person's identity, connection to Montana, or suitability for a highway memorial. Without substantive article content, it cannot be validated as the correct person.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          46.77318553088212,
+          -110.3443458623837
+        ],
+        "state": "MT"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Helen_P._Clarke"
+    },
+    {
+      "id": "MT-386",
+      "shapeId": "csv-386",
+      "name": "Otto Fossen Memorial Highway",
+      "state": "MT",
+      "honoree": {
+        "name": "Otto Fossen",
+        "summary": "Undersheriff Otto Fossen was shot and killed by a hitchhiker he had picked up. Donald L. Bujok, age 21, of Roundup, Montana stole a car east of Chester and proceeded to flee west on Highway 2. Local law enforcement had been alerted and as the Sheriff Dodd Keith was setting up a roadblock, Undersheriff Otto Fossen drove to Joplin to investigate a car stopped on the highway. The events of Undersheriff Fossen's attack is unclear since there were no witnesses, but it was confirmed that Undersheriff Fossen was shot five times in the neck and body and managed to get off two shots as he attempted to subdue the attacker. The suspect managed to escape in the Undersheriff’s car and proceeded west at a high rate of speed. Undersheriff Fossen was still alive when local residents found him and took him directly to the hospital where he was pronounced dead on arrival. The suspect continued to flee, but left the car in a field and continued on foot.  A manhunt was organized and approximately 200 volunteers searched the area. After an exhaustive search the suspect, Bujok, surrendered. A disassembled revolver was found in his hiding spot, and after an x-ray cartridges were found in his intestinal tract.  When the cartridges were recovered and examined by forensics the evidence was conclusive that he had been wounded by Undersheriff Fossen's weapon. Bujok was convicted and sentenced to life in prison.",
+        "causeOfDeath": "Gunfire",
+        "incidentDescription": "Cause: Gunfire Weapon: Gun; Unknown type Offender: Sentenced to life",
+        "involvedInLawEnforcement": true
+      },
+      "location": {
+        "coordinates": [
+          46.86187121557978,
+          -110.40149902212879
+        ],
+        "state": "MT"
+      },
+      "designation": {},
+      "lawWebLink": "https://www.odmp.org/officer/5025-undersheriff-otto-s-fossen"
+    },
+    {
+      "id": "MT-387",
+      "shapeId": "csv-387",
+      "name": "Harry A. Paulson Memorial Overpass",
+      "state": "MT",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          46.856190807447135,
+          -110.38576717107432
+        ],
+        "state": "MT"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MT-388",
+      "shapeId": "csv-388",
+      "name": "Chief Earl Old Person Memorial Highway",
+      "state": "MT",
+      "honoree": {
+        "name": "Chief Earl Old Person",
+        "summary": "[UNVERIFIED] The Wikipedia article is about Stafford Repp, an American actor known for playing Chief O'Hara on the 1960s 'Batman' TV series, who was born in San Francisco, California, and has no known connection to Montana or to the Blackfeet Tribe. The highway is named after Chief Earl Old Person, a prominent Blackfeet tribal leader from Montana, making the article's subject incorrect for the memorial.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          46.85282080029748,
+          -110.36876906702497
+        ],
+        "state": "MT"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Stafford_Repp"
+    },
+    {
+      "id": "MT-389",
+      "shapeId": "csv-389",
+      "name": "Jacob Allmendinger Memorial Highway",
+      "state": "MT",
+      "honoree": {
+        "name": "Jacob Allmendinger",
+        "summary": "[UNVERIFIED] The Wikipedia article is for 'Dave Strong', but the highway is named 'Jacob Allmendinger Memorial Highway'. The names do not match, and there is no indication in the provided text that Dave Strong is connected to Jacob Allmendinger or the state of Montana in a way that would justify this memorial highway.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false,
+        "age": 31,
+        "tour": 2,
+        "causeOfDeath": "Struck by vehicle",
+        "incidentDescription": "Cause: Struck by vehicle",
+        "involvedInLawEnforcement": true
+      },
+      "location": {
+        "coordinates": [
+          46.8519281517328,
+          -110.35078929384451
+        ],
+        "state": "MT"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Dave_Strong"
+    },
+    {
+      "id": "MT-390",
+      "shapeId": "csv-390",
+      "name": "Ensign James A. Shelton Memorial Highway",
+      "state": "MT",
+      "honoree": {
+        "name": "Ensign James A. Shelton",
+        "summary": "[UNVERIFIED] The provided Wikipedia article content is only a generic navigation menu and does not contain any information about James A. Shelton, his connection to Montana, or his background. Without article content confirming the person's identity or relevance, it cannot be validated as the correct subject for the memorial highway.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          46.853647707866095,
+          -110.33213102415743
+        ],
+        "state": "MT"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/James_A._Shelton"
+    },
+    {
+      "id": "MT-391",
+      "shapeId": "csv-391",
+      "name": "Carbon County Veterans Memorial Loop",
+      "state": "MT",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          46.85808030652218,
+          -110.31311258398983
+        ],
+        "state": "MT"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MT-392",
+      "shapeId": "csv-392",
+      "name": "Arthur J. Rambo Memorial Bridge",
+      "state": "MT",
+      "honoree": {
+        "name": "Arthur J. Rambo",
+        "summary": "[UNVERIFIED] The Wikipedia article is about Dave Dickenson, a Canadian football coach and former player, with no apparent connection to Montana or the name 'Arthur J. Rambo'. The highway designation 'Arthur J. Rambo Memorial Bridge' suggests a different person, likely a local figure from Montana, possibly a law enforcement officer or military personnel, which does not match the subject of the article.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          46.86529123489385,
+          -110.29406383427161
+        ],
+        "state": "MT"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Dave_Dickenson"
+    },
+    {
+      "id": "MT-393",
+      "shapeId": "csv-393",
       "name": "Jim Loud Thunder Gopher Memorial Highway",
       "state": "MT",
-      "county": "Unknown",
       "honoree": {
-        "name": "Jim Loud Thunder Gopher"
+        "name": "Jim Loud Thunder Gopher",
+        "summary": "[UNVERIFIED] The Wikipedia article is for 'Rocky Boy (Chippewa leader)', but the highway is named 'Jim Loud Thunder Gopher Memorial Highway'. The names do not match, and there is no indication in the provided article text that Rocky Boy is also known as Jim Loud Thunder Gopher or that the highway is named after him.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
       },
       "location": {
         "coordinates": [
-          46.97517461761898,
-          -109.64066842972896
+          46.87530905864375,
+          -110.2753224048173
         ],
-        "county": "Unknown",
         "state": "MT"
       },
-      "designation": {}
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Rocky_Boy_%28Chippewa_leader%29"
     },
     {
-      "id": "mt-88",
-      "shapeId": "MT_91.0",
+      "id": "MT-394",
+      "shapeId": "csv-394",
       "name": "Laverne Parrish Memorial Highway",
       "state": "MT",
-      "county": "Unknown",
       "honoree": {
         "name": "Laverne Parrish",
-        "gender": "male",
-        "summary": "Occupation: combat medic",
-        "birthYear": 1918,
-        "deathYear": 1945,
-        "involvedInMilitary": true
+        "summary": "[UNVERIFIED] The provided Wikipedia article content is only the site navigation and does not contain any information about Laverne Parrish, such as their biography, connection to Montana, or relevance for a highway memorial. Without article content confirming the person's identity or state association, it cannot be validated as the correct subject.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
       },
       "location": {
         "coordinates": [
-          47.21286427709407,
-          -109.39138657890311
+          46.90840493437425,
+          -110.37550372717219
         ],
-        "county": "Unknown",
         "state": "MT"
       },
-      "designation": {}
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Laverne_Parrish"
     },
     {
-      "id": "mt-89",
-      "shapeId": "MT_92.0",
-      "name": "Danny L Radish Memorial Highway",
+      "id": "MT-395",
+      "shapeId": "csv-395",
+      "name": "Danny L. Radish Highway",
       "state": "MT",
-      "county": "Unknown",
       "honoree": {
-        "name": "Danny L Radish"
+        "name": "Danny L. Radish"
       },
       "location": {
         "coordinates": [
-          47.07960681220158,
-          -109.46164912468613
+          46.91386843717483,
+          -110.35969523858846
         ],
-        "county": "Unknown",
         "state": "MT"
       },
       "designation": {}
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-02-19T03:44:11.836Z",
-    "totalCount": 52,
+    "lastUpdated": "2026-04-22T17:36:07.805Z",
+    "totalCount": 74,
     "states": [
       "MT"
     ]

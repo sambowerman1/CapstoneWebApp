@@ -1,0 +1,185 @@
+{
+  "highways": [
+    {
+      "id": "ID-43",
+      "shapeId": "csv-43",
+      "name": "Veterans Memorial Centennial Bridge",
+      "state": "ID",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          47.6425705,
+          -116.718097
+        ],
+        "state": "ID"
+      },
+      "designation": {},
+      "highway": "I-90"
+    },
+    {
+      "id": "ID-44",
+      "shapeId": "csv-44",
+      "name": "I.B. Perrine Bridge",
+      "state": "ID",
+      "honoree": {
+        "name": "I.B. Perrine",
+        "summary": "[UNVERIFIED] The provided Wikipedia article text is only a generic navigation menu and does not contain any content about a person named 'I. B. Perrine'. Without biographical details, it cannot be confirmed that the article is about the individual associated with the I.B. Perrine Bridge in Idaho.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          42.5675428,
+          -114.5709041
+        ],
+        "state": "ID"
+      },
+      "designation": {},
+      "highway": "US-93",
+      "lawWebLink": "https://en.wikipedia.org/wiki/I._B._Perrine"
+    },
+    {
+      "id": "ID-45",
+      "shapeId": "csv-45",
+      "name": "Stu Dopf Memorial Highway",
+      "state": "ID",
+      "honoree": {
+        "name": "Stu Dopf"
+      },
+      "location": {
+        "coordinates": [
+          44.521934849999994,
+          -116.7053439
+        ],
+        "state": "ID"
+      },
+      "designation": {},
+      "highway": "US-95"
+    },
+    {
+      "id": "ID-46",
+      "shapeId": "csv-46",
+      "name": "Purple Heart Trail",
+      "state": "ID",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          49.000562,
+          -116.1815305
+        ],
+        "state": "ID"
+      },
+      "designation": {},
+      "highway": "I-90"
+    },
+    {
+      "id": "ID-47",
+      "shapeId": "csv-47",
+      "name": "North Idaho Medal of Honor Highway",
+      "state": "ID",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          46.99304635,
+          -116.6447032
+        ],
+        "state": "ID"
+      },
+      "designation": {},
+      "highway": "ID-3"
+    },
+    {
+      "id": "ID-48",
+      "shapeId": "csv-48",
+      "name": "Vietnam Veterans Memorial Highway",
+      "state": "ID",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          44.240459,
+          -114.398828
+        ],
+        "state": "ID"
+      },
+      "designation": {},
+      "highway": "I-84"
+    },
+    {
+      "id": "ID-49",
+      "shapeId": "csv-49",
+      "name": "Idaho Medal of Honor Highway",
+      "state": "ID",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          34.1887534,
+          -114.5740091
+        ],
+        "state": "ID"
+      },
+      "designation": {},
+      "highway": "US-20"
+    },
+    {
+      "id": "ID-50",
+      "shapeId": "csv-50",
+      "name": "POW/MIA Memorial Highway",
+      "state": "ID",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          37.4126462,
+          -118.6130658
+        ],
+        "state": "ID"
+      },
+      "designation": {},
+      "highway": "US-26"
+    },
+    {
+      "id": "ID-51",
+      "shapeId": "csv-51",
+      "name": "Bobby Chambers Memorial Highway",
+      "state": "ID",
+      "honoree": {
+        "name": "Bobby Chambers",
+        "summary": "[UNVERIFIED] The Wikipedia article is for Bobby Hutcherson, a jazz vibraphonist, not Bobby Chambers. The highway is named 'Bobby Chambers Memorial Highway' in Idaho, and there is no indication in the article that Bobby Hutcherson is connected to Idaho or has a background that would warrant a highway memorial (e.g., law enforcement, military, or local figure).",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          44.240459,
+          -114.57382799999999
+        ],
+        "state": "ID"
+      },
+      "designation": {},
+      "highway": "ID-6",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Bobby_Hutcherson"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2026-04-22T17:36:07.805Z",
+    "totalCount": 9,
+    "states": [
+      "ID"
+    ]
+  }
+}

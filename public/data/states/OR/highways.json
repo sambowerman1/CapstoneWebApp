@@ -1,0 +1,357 @@
+{
+  "highways": [
+    {
+      "id": "OR-99",
+      "shapeId": "csv-99",
+      "name": "Old Oregon Trail",
+      "state": "OR",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          45.5583175,
+          -122.8418439
+        ],
+        "state": "OR"
+      },
+      "designation": {}
+    },
+    {
+      "id": "OR-100",
+      "shapeId": "csv-100",
+      "name": "Vietnam Veterans Memorial Highway",
+      "state": "OR",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          45.5191372,
+          -122.6773187
+        ],
+        "state": "OR"
+      },
+      "designation": {},
+      "highway": "I-84"
+    },
+    {
+      "id": "OR-101",
+      "shapeId": "csv-101",
+      "name": "World War II Veterans Historic Highway",
+      "state": "OR",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          45.64058991335952,
+          -122.9693439
+        ],
+        "state": "OR"
+      },
+      "designation": {},
+      "highway": "US-97"
+    },
+    {
+      "id": "OR-102",
+      "shapeId": "csv-102",
+      "name": "World War II Veterans Historic Highway",
+      "state": "OR",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          44.92260875,
+          -121.91267195
+        ],
+        "state": "OR"
+      },
+      "designation": {},
+      "highway": "OR-126"
+    },
+    {
+      "id": "OR-103",
+      "shapeId": "csv-103",
+      "name": "Police Chief Ralph Painter Memorial Highway",
+      "state": "OR",
+      "honoree": {
+        "name": "Police Chief Ralph Painter",
+        "summary": "[UNVERIFIED] The Wikipedia article is about Claude Akins, an American actor known for roles in 'The Rockford Files' and 'Movin' On', not a law enforcement figure. The highway is named after Police Chief Ralph Painter, a law enforcement officer from Oregon, making the article subject incorrect for the memorial.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false,
+        "age": 55,
+        "tour": 25,
+        "causeOfDeath": "Gunfire",
+        "incidentDescription": "Cause: Gunfire Weapon: Officer's handgun Offender: Sentenced to life",
+        "involvedInLawEnforcement": true
+      },
+      "location": {
+        "coordinates": [
+          45.976460599999996,
+          -122.8712546
+        ],
+        "state": "OR"
+      },
+      "designation": {},
+      "highway": "US-30",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Claude_Akins"
+    },
+    {
+      "id": "OR-104",
+      "shapeId": "csv-104",
+      "name": "Officer Chris Kilcullen Memorial Highway",
+      "state": "OR",
+      "honoree": {
+        "name": "Officer Chris Kilcullen"
+      },
+      "location": {
+        "coordinates": [
+          44.049635,
+          -123.04352324999999
+        ],
+        "state": "OR"
+      },
+      "designation": {},
+      "highway": "OR-126"
+    },
+    {
+      "id": "OR-105",
+      "shapeId": "csv-105",
+      "name": "Warm Springs Veterans Memorial Highway",
+      "state": "OR",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          45.6384183,
+          -121.0534502
+        ],
+        "state": "OR"
+      },
+      "designation": {},
+      "highway": "US-26"
+    },
+    {
+      "id": "OR-106",
+      "shapeId": "csv-106",
+      "name": "William Tebeau Memorial Highway",
+      "state": "OR",
+      "honoree": {
+        "name": "William Tebeau",
+        "summary": "[UNVERIFIED] The provided Wikipedia article text is only a generic Wikipedia interface and navigation menu, containing no information about a person named William Tebeau. Without any biographical details, it cannot be confirmed that this article is about the individual for whom the Oregon highway is named.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          44.03766355,
+          -123.61440440000001
+        ],
+        "state": "OR"
+      },
+      "designation": {},
+      "highway": "OR-126",
+      "lawWebLink": "https://en.wikipedia.org/wiki/William_Tebeau"
+    },
+    {
+      "id": "OR-107",
+      "shapeId": "csv-107",
+      "name": "World War I Veterans Memorial Highway",
+      "state": "OR",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          44.572021,
+          -121.990938
+        ],
+        "state": "OR"
+      },
+      "designation": {},
+      "highway": "US-395"
+    },
+    {
+      "id": "OR-108",
+      "shapeId": "csv-108",
+      "name": "Korean War Veterans Memorial Highway",
+      "state": "OR",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          44.65429341335952,
+          -122.118438
+        ],
+        "state": "OR"
+      },
+      "designation": {},
+      "highway": "I-5"
+    },
+    {
+      "id": "OR-109",
+      "shapeId": "csv-109",
+      "name": "Purple Heart Trail",
+      "state": "OR",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          44.476758205583714,
+          -122.125938
+        ],
+        "state": "OR"
+      },
+      "designation": {},
+      "highway": "I-5"
+    },
+    {
+      "id": "OR-110",
+      "shapeId": "csv-110",
+      "name": "Atomic Veterans and Atomic Cleanup Veterans Memorial Highway",
+      "state": "OR",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          44.74565685,
+          -122.98632635
+        ],
+        "state": "OR"
+      },
+      "designation": {},
+      "highway": "I-5"
+    },
+    {
+      "id": "OR-111",
+      "shapeId": "csv-111",
+      "name": "Persian Gulf, Afghanistan and Iraq Veterans Memorial Highway",
+      "state": "OR",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          43.8330871,
+          -124.151599
+        ],
+        "state": "OR"
+      },
+      "designation": {},
+      "highway": "US-101"
+    },
+    {
+      "id": "OR-112",
+      "shapeId": "csv-112",
+      "name": "POW/MIA Memorial Highway",
+      "state": "OR",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          39.46140895,
+          -119.83421444999999
+        ],
+        "state": "OR"
+      },
+      "designation": {},
+      "highway": "US-26"
+    },
+    {
+      "id": "OR-113",
+      "shapeId": "csv-113",
+      "name": "Oregon Nisei Veterans World War II Memorial Highway",
+      "state": "OR",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          45.463054705583716,
+          -122.9768439
+        ],
+        "state": "OR"
+      },
+      "designation": {},
+      "highway": "OR-35"
+    },
+    {
+      "id": "OR-114",
+      "shapeId": "csv-114",
+      "name": "Oregon Gold Star Families Memorial Highway",
+      "state": "OR",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          43.40526455,
+          -97.8972924
+        ],
+        "state": "OR"
+      },
+      "designation": {},
+      "highway": "US-30"
+    },
+    {
+      "id": "OR-115",
+      "shapeId": "csv-115",
+      "name": "Don Kendall Memorial Highway",
+      "state": "OR",
+      "honoree": {
+        "name": "Don Kendall",
+        "summary": "[UNVERIFIED] The provided Wikipedia article snippet is only a generic Wikipedia menu/navigation bar and contains no information about Carroll Williams. The highway is named 'Don Kendall Memorial Highway' in Oregon, but the article subject is 'Carroll Williams,' with no apparent connection to Don Kendall or Oregon in the snippet. Without evidence linking Carroll Williams to the memorial or the state, this is likely not the correct person.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          44.74490955,
+          -121.39949064999999
+        ],
+        "state": "OR"
+      },
+      "designation": {},
+      "highway": "US-395",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Carroll_Williams"
+    },
+    {
+      "id": "OR-116",
+      "shapeId": "csv-116",
+      "name": "Oregon Medal of Honor Highway",
+      "state": "OR",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          44.58314775,
+          -123.7052606
+        ],
+        "state": "OR"
+      },
+      "designation": {},
+      "highway": "US-20"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2026-04-22T17:36:07.805Z",
+    "totalCount": 18,
+    "states": [
+      "OR"
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "highways": [
+    {
+      "id": "WY-7",
+      "shapeId": "csv-7",
+      "name": "Wyoming Veterans Memorial Highway",
+      "state": "WY",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          44.63959185,
+          -108.907706
+        ],
+        "state": "WY"
+      },
+      "designation": {},
+      "highway": "US-14A"
+    },
+    {
+      "id": "WY-8",
+      "shapeId": "csv-8",
+      "name": "Wyoming Vietnam Veterans Welcome Home Highway",
+      "state": "WY",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          39.030362499999995,
+          -112.24443835
+        ],
+        "state": "WY"
+      },
+      "designation": {},
+      "highway": "I-25"
+    },
+    {
+      "id": "WY-9",
+      "shapeId": "csv-9",
+      "name": "Wyoming Women's Suffrage Pathway",
+      "state": "WY",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          38.209758199999996,
+          -113.1692622
+        ],
+        "state": "WY"
+      },
+      "designation": {},
+      "highway": "WY-28"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2026-04-22T17:36:07.805Z",
+    "totalCount": 3,
+    "states": [
+      "WY"
+    ]
+  }
+}

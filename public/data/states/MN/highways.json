@@ -1,0 +1,1695 @@
+{
+  "highways": [
+    {
+      "id": "MN-473",
+      "shapeId": "csv-473",
+      "name": "Colvill Memorial Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          45.694454,
+          -93.820192
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-474",
+      "shapeId": "csv-474",
+      "name": "Floyd B. Olson Memorial Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "Floyd B. Olson",
+        "summary": "Floyd B. Olson was an American politician born on November 13, 1891, in Minneapolis, Minnesota. He served as the Governor of Minnesota from 1931 to 1936, known for his progressive policies and leadership during the Great Depression. Olson was a prominent figure in the Farmer-Labor Party and significantly shaped the state's political landscape. He died on August 22, 1936, in Rochester, Minnesota, from stomach cancer.",
+        "education": "University of Minnesota",
+        "gender": "male",
+        "placeOfBirth": "Minneapolis, Minnesota, United States",
+        "placeOfDeath": "Rochester, Minnesota, United States",
+        "birthYear": 1891,
+        "deathYear": 1936,
+        "involvedInSports": false,
+        "involvedInPolitics": true,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          45.70146999011011,
+          -93.80545142852836
+        ],
+        "state": "MN"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Floyd_B._Olson"
+    },
+    {
+      "id": "MN-475",
+      "shapeId": "csv-475",
+      "name": "Theodore Christianson Drive",
+      "state": "MN",
+      "honoree": {
+        "name": "Theodore Christianson",
+        "summary": "[UNVERIFIED] The provided Wikipedia article text is only a generic Wikipedia navigation menu and does not contain any biographical information about Theodore Christianson (judge). Without content confirming the person's identity, profession, or connection to Minnesota, it cannot be verified as the correct namesake for a highway in Minnesota.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          45.71065718678601,
+          -93.79139192307917
+        ],
+        "state": "MN"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Theodore_Christianson_%28judge%29"
+    },
+    {
+      "id": "MN-476",
+      "shapeId": "csv-476",
+      "name": "P.H. McGarry Memorial Drive",
+      "state": "MN",
+      "honoree": {
+        "name": "P.H. McGarry",
+        "summary": "[UNVERIFIED] The provided Wikipedia article text is only a generic Wikipedia interface and does not contain any content about Edward McGarry. Without article content confirming his identity, connection to Minnesota, or suitability for a memorial highway, it cannot be validated as the correct person.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          45.72194729472996,
+          -93.77825300400245
+        ],
+        "state": "MN"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Edward_McGarry_%28soldier-politician%29"
+    },
+    {
+      "id": "MN-477",
+      "shapeId": "csv-477",
+      "name": "Veterans' Evergreen Memorial Drive",
+      "state": "MN",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          45.73524856456451,
+          -93.76626738126994
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-478",
+      "shapeId": "csv-478",
+      "name": "Arthur V. Rohweder Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "Arthur V. Rohweder"
+      },
+      "location": {
+        "coordinates": [
+          45.750446458259006,
+          -93.75565880444233
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-479",
+      "shapeId": "csv-479",
+      "name": "Blue Star Memorial Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          45.76740450349134,
+          -93.74663997611117
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-480",
+      "shapeId": "csv-480",
+      "name": "John A. Johnson Memorial Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "John A. Johnson",
+        "summary": "John Albert Johnson was an American politician who served as the 16th Governor of Minnesota. He was born on July 28, 1853, in St. Peter, Minnesota Territory. Johnson died on September 21, 1904, in St. Peter, Minnesota. He is remembered for his progressive reforms and for being the first governor of Minnesota born within the state's borders.",
+        "gender": "male",
+        "placeOfBirth": "St. Peter, Minnesota, United States",
+        "placeOfDeath": "St. Peter, Minnesota, United States",
+        "birthYear": 1853,
+        "deathYear": 1904,
+        "involvedInSports": false,
+        "involvedInPolitics": true,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          45.78596533102896,
+          -93.73941054493348
+        ],
+        "state": "MN"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/John_Albert_Johnson"
+    },
+    {
+      "id": "MN-481",
+      "shapeId": "csv-481",
+      "name": "Eisenhower Memorial Bridge",
+      "state": "MN",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          45.73905315514743,
+          -93.83377727753476
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-482",
+      "shapeId": "csv-482",
+      "name": "Veterans Memorial Bridge",
+      "state": "MN",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          45.75309543102253,
+          -93.82545123088683
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-483",
+      "shapeId": "csv-483",
+      "name": "George Mann Memorial Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "George Mann",
+        "summary": "[UNVERIFIED] The Wikipedia article is for Emily Mann, a theater director, with no connection to Minnesota or highway naming. The highway is named after George Mann, likely a different person (possibly a fallen soldier or local figure).",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          45.768560520801124,
+          -93.81890101910574
+        ],
+        "state": "MN"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Emily_Mann_%28director%29"
+    },
+    {
+      "id": "MN-484",
+      "shapeId": "csv-484",
+      "name": "Olof Hanson Drive",
+      "state": "MN",
+      "honoree": {
+        "name": "Olof Hanson",
+        "summary": "[UNVERIFIED] The Wikipedia article is for Newton Horace Winchell, a geologist, but the highway is named 'Olof Hanson Drive'. The names do not match, and Olof Hanson was a different person (an architect and Minnesota legislator).",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          45.785258196752025,
+          -93.81428741425384
+        ],
+        "state": "MN"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Newton_Horace_Winchell"
+    },
+    {
+      "id": "MN-485",
+      "shapeId": "csv-485",
+      "name": "American Veterans Memorial Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          45.80298255665556,
+          -93.81175245912455
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-486",
+      "shapeId": "csv-486",
+      "name": "Disabled American Veterans Highway and Rest Area",
+      "state": "MN",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          45.82151377485062,
+          -93.81141805328753
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-487",
+      "shapeId": "csv-487",
+      "name": "B.E. Grottum Memorial Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "B.E. Grottum",
+        "summary": "[UNVERIFIED] The provided Wikipedia article text appears to be a generic Wikipedia interface and navigation menu, not the actual article content for Bjarne Elgar Grottum. Without the article's substantive content, it cannot be verified that the subject is the correct person, connected to Minnesota, or has a background justifying a highway memorial.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          45.840619974746225,
+          -93.81338469715925
+        ],
+        "state": "MN"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Bjarne_Elgar_Grottum"
+    },
+    {
+      "id": "MN-488",
+      "shapeId": "csv-488",
+      "name": "Wally Nelson Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "Wally Nelson",
+        "summary": "[UNVERIFIED] The Wikipedia article is for Jack Wilson (offensive lineman), a professional football player, but the highway is named 'Wally Nelson Highway' in Minnesota. The names do not match, and there is no indication that Jack Wilson is connected to Minnesota or has a background that would warrant a highway memorial (e.g., military, law enforcement, or local civic leadership).",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          45.86005920890069,
+          -93.81773040418135
+        ],
+        "state": "MN"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Jack_Wilson_%28offensive_lineman%29"
+    },
+    {
+      "id": "MN-489",
+      "shapeId": "csv-489",
+      "name": "Laura Ingalls Wilder Historic Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          45.768505012782526,
+          -93.86991911599662
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-490",
+      "shapeId": "csv-490",
+      "name": "Minnesota Veterans Memorial Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          45.78480436904804,
+          -93.87083538553438
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-491",
+      "shapeId": "csv-491",
+      "name": "Betty Adkins Bridge",
+      "state": "MN",
+      "honoree": {
+        "name": "Betty Adkins",
+        "summary": "[UNVERIFIED] The provided Wikipedia article text is only a generic navigation menu and does not contain any content about a person named Betty Adkins. Without article content, there is no evidence to confirm the subject matches the name, connection to Minnesota, or suitability for a highway memorial.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          45.80129491351077,
+          -93.87401912854531
+        ],
+        "state": "MN"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Betty_Adkins"
+    },
+    {
+      "id": "MN-492",
+      "shapeId": "csv-492",
+      "name": "POW/MIA Memorial Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          45.817729093419175,
+          -93.87949776547698
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-493",
+      "shapeId": "csv-493",
+      "name": "Veterans Memorial Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          45.8338567846813,
+          -93.88727442967514
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-494",
+      "shapeId": "csv-494",
+      "name": "Veterans Memorial Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          45.849427533821,
+          -93.89732776973133
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-495",
+      "shapeId": "csv-495",
+      "name": "Dale Wayrynen Memorial Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "Dale Wayrynen",
+        "summary": "[UNVERIFIED] The provided Wikipedia article content is only a generic Wikipedia navigation menu and does not contain any biographical information about Dale Eugene Wayrynen. Without article content confirming the person's identity, connection to Minnesota, or relevance for a highway memorial, it cannot be validated as the correct person.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          45.86419281267447,
+          -93.90961195073572
+        ],
+        "state": "MN"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Dale_Eugene_Wayrynen"
+    },
+    {
+      "id": "MN-496",
+      "shapeId": "csv-496",
+      "name": "Augie Mueller Memorial Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "Augie Mueller"
+      },
+      "location": {
+        "coordinates": [
+          45.877908268669486,
+          -93.9240568550581
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-497",
+      "shapeId": "csv-497",
+      "name": "Don Rickers Memorial Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "Don Rickers",
+        "summary": "[UNVERIFIED] The Wikipedia article is for Don Bleu, a musician and producer, not Don Rickers. The highway is named 'Don Rickers Memorial Highway' in Minnesota, and the article subject does not match the name 'Don Rickers'. Additionally, there is no indication that Don Bleu is connected to Minnesota or has a background that typically warrants a highway memorial (e.g., law enforcement, military, or local public service).",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          45.77280678140811,
+          -93.91634259273256
+        ],
+        "state": "MN"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Don_Bleu"
+    },
+    {
+      "id": "MN-498",
+      "shapeId": "csv-498",
+      "name": "Ruby L. Hughes Boulevard",
+      "state": "MN",
+      "honoree": {
+        "name": "Ruby L. Hughes",
+        "summary": "[UNVERIFIED] The Wikipedia article is for Barbara Ross-Lee, but the highway is named 'Ruby L. Hughes Boulevard' in Minnesota. The names do not match, and there is no indication in the provided text that Barbara Ross-Lee is connected to Minnesota or that the highway is named after her.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          45.78582743610142,
+          -93.92618998405685
+        ],
+        "state": "MN"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Barbara_Ross-Lee"
+    },
+    {
+      "id": "MN-499",
+      "shapeId": "csv-499",
+      "name": "State Trooper Timothy J. Bowe Memorial Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "State Trooper Timothy J. Bowe"
+      },
+      "location": {
+        "coordinates": [
+          45.79774271966766,
+          -93.93802638104974
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-500",
+      "shapeId": "csv-500",
+      "name": "Otter Tail Veterans Memorial Drive",
+      "state": "MN",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          45.80833183115576,
+          -93.95173653968425
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-501",
+      "shapeId": "csv-501",
+      "name": "C. Elmer Anderson Memorial Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "C. Elmer Anderson",
+        "summary": "C. Elmer Anderson was an American politician who served as the 29th Governor of Minnesota from 1951 to 1955. Born on March 31, 1912, in Detroit Lakes, Minnesota, he was a member of the Republican Party. His political career also included service in the Minnesota Senate. He died on January 24, 1998, in Brainerd, Minnesota.",
+        "gender": "male",
+        "placeOfBirth": "Detroit Lakes, Minnesota, United States",
+        "placeOfDeath": "Brainerd, Minnesota, United States",
+        "birthYear": 1912,
+        "deathYear": 1998,
+        "involvedInSports": false,
+        "involvedInPolitics": true,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          45.81738537473172,
+          -93.96718361967419
+        ],
+        "state": "MN"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/C._Elmer_Anderson"
+    },
+    {
+      "id": "MN-502",
+      "shapeId": "csv-502",
+      "name": "34th Infantry (Red Bull) Division Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          45.82470733110387,
+          -93.98421027025323
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-503",
+      "shapeId": "csv-503",
+      "name": "Richard J. Mathiowetz Memorial Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "Richard J. Mathiowetz"
+      },
+      "location": {
+        "coordinates": [
+          45.83011692863764,
+          -94.00263988818448
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-504",
+      "shapeId": "csv-504",
+      "name": "State Trooper Theodore \"Ted\" Foss Memorial Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          45.83345039956802,
+          -94.02227803895256
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-505",
+      "shapeId": "csv-505",
+      "name": "Bradley Waage \"Brainerd Brad\" Memorial Bridge",
+      "state": "MN",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          45.75049744300746,
+          -93.95728081235295
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-506",
+      "shapeId": "csv-506",
+      "name": "Veterans Memorial Bridge",
+      "state": "MN",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          45.75581716593624,
+          -93.9727148368604
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-507",
+      "shapeId": "csv-507",
+      "name": "Purple Heart Memorial Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          45.75911037775217,
+          -93.98918386938125
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-508",
+      "shapeId": "csv-508",
+      "name": "POW/MIA Memorial Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          45.76025802035967,
+          -94.0064691419662
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-509",
+      "shapeId": "csv-509",
+      "name": "Shawn Silvera Memorial Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "Shawn Silvera",
+        "summary": "Police Officer Shawn Silvera was struck and killed while deploying stop sticks on I-35W in an attempt to stop a vehicle being pursued by officers. The pursuit had started in Chisago County when officers attempted to serve a felony warrant on a man wanted in South Dakota. Officer Silvera had just placed the stop sticks on the roadway when the driver of the vehicle swerved around them and struck him. Officer Silvera had positioned himself on the median of the highway. After striking Officer Silvera, the vehicle continued into the northbound lanes and struck an oncoming vehicle. The suspect then attempted to flee on foot but was taken into custody. The man was charged with second degree murder in connection with Officer Silvera's death. He subsequently plead guilty and was sentenced to serve 42 years. The man died in prison on November 1st, 2017. Officer Silvera had served with the Lino Lakes Police Department for seven years. He is survived by his wife and two children.",
+        "age": 32,
+        "tour": 7,
+        "causeOfDeath": "Vehicular assault",
+        "incidentDescription": "Cause: Vehicular assault Weapon: Automobile Offender: Died in prison",
+        "involvedInLawEnforcement": true
+      },
+      "location": {
+        "coordinates": [
+          45.759162543695645,
+          -94.02434031602881
+        ],
+        "state": "MN"
+      },
+      "designation": {},
+      "lawWebLink": "https://www.odmp.org/officer/17861-police-officer-shawn-barrington-silvera"
+    },
+    {
+      "id": "MN-510",
+      "shapeId": "csv-510",
+      "name": "Purple Heart Trail",
+      "state": "MN",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          45.755748937064936,
+          -94.04255748279063
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-511",
+      "shapeId": "csv-511",
+      "name": "Dallas Sams Memorial Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "Dallas Sams",
+        "summary": "[UNVERIFIED] The provided Wikipedia article content is only a generic navigation menu and does not contain any information about a person named Dallas Sams. Without any biographical details, it cannot be confirmed that this article is about the individual for whom the Dallas Sams Memorial Highway in Minnesota is named.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          45.74996558118281,
+          -94.06087325078734
+        ],
+        "state": "MN"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Dallas_Sams"
+    },
+    {
+      "id": "MN-512",
+      "shapeId": "csv-512",
+      "name": "Walter F. Mondale Drive",
+      "state": "MN",
+      "honoree": {
+        "name": "Walter F. Mondale",
+        "summary": "Walter Mondale was born on January 5, 1928, in Ceylon, Minnesota, and served as the 42nd Vice President of the United States under President Jimmy Carter from 1977 to 1981. He was a U.S. Senator from Minnesota and the Democratic Party's nominee for President in 1984, where he lost in a landslide to Ronald Reagan. Mondale had a long career in public service, including appointments as Ambassador to Japan under President Bill Clinton. He died on April 19, 2021, in Minneapolis, Minnesota, leaving a legacy as a key figure in late 20th-century American politics.",
+        "education": "University of Minnesota, University of Minnesota Law School",
+        "gender": "male",
+        "placeOfBirth": "Ceylon, Minnesota, United States",
+        "placeOfDeath": "Minneapolis, Minnesota, United States",
+        "birthYear": 1928,
+        "deathYear": 2021,
+        "involvedInSports": false,
+        "involvedInPolitics": true,
+        "involvedInMilitary": true,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          45.74178491385497,
+          -94.07903490478981
+        ],
+        "state": "MN"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Walter_Mondale"
+    },
+    {
+      "id": "MN-513",
+      "shapeId": "csv-513",
+      "name": "Jim Oberstar Causeway",
+      "state": "MN",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          45.70915396142533,
+          -93.97882984797472
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-514",
+      "shapeId": "csv-514",
+      "name": "Mayor William \"Bill\" Sandberg Memorial Bridge",
+      "state": "MN",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          45.70496600477969,
+          -93.99460861800506
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-515",
+      "shapeId": "csv-515",
+      "name": "Clearwater County Veterans Memorial Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          45.698518664932806,
+          -94.01011687661574
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-516",
+      "shapeId": "csv-516",
+      "name": "Speaker Irvin N. Anderson Memorial Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "Speaker Irvin N. Anderson",
+        "summary": "[UNVERIFIED] The provided Wikipedia article content is only the site navigation and does not contain any information about the person 'Irv Anderson'. Without article content confirming the person's identity, connection to Minnesota, or relevance for a highway memorial, it cannot be validated as the correct person.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          45.68983506257636,
+          -94.02510663251788
+        ],
+        "state": "MN"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Irv_Anderson"
+    },
+    {
+      "id": "MN-517",
+      "shapeId": "csv-517",
+      "name": "Corporal Johnathan Benson Memorial Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "Corporal Johnathan Benson"
+      },
+      "location": {
+        "coordinates": [
+          45.67896262453519,
+          -94.03933227916534
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-518",
+      "shapeId": "csv-518",
+      "name": "Veterans Memorial Bridge",
+      "state": "MN",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          45.66597282473843,
+          -94.052552830451
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-519",
+      "shapeId": "csv-519",
+      "name": "Veterans Memorial Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          45.65096072780894,
+          -94.06453412872577
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-520",
+      "shapeId": "csv-520",
+      "name": "Becker County Veterans Memorial Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          45.63404433812458,
+          -94.07505100820975
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-521",
+      "shapeId": "csv-521",
+      "name": "Veterans Memorial Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          45.66281790345036,
+          -93.97367095885967
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-522",
+      "shapeId": "csv-522",
+      "name": "Arianna Celeste Macnamara Memorial Bridge",
+      "state": "MN",
+      "honoree": {
+        "name": "Arianna Celeste Macnamara"
+      },
+      "location": {
+        "coordinates": [
+          45.65054463106367,
+          -93.9844355001624
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-523",
+      "shapeId": "csv-523",
+      "name": "Deputy John W. Liebenstein Memorial Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "John W. Liebenstein",
+        "summary": "Deputy Sheriff John Liebenstein was killed by a vehicle that rammed his patrol car at 90 mph during a pursuit. Deputy Liebenstein was blocking an interstate ramp so the car, driven by a 17-year-old, could not exit the interstate. The juvenile was taken into custody after being treated at a local hospital.  He was convicted of first-degree murder and was given a mandatory sentence of life in prison without the possibility of parole. in 2018, he was granted the ability for parole. Deputy Liebenstein had served with the Rice County Sheriff's Department for nine years. He was survived by his wife and three children. 25 miles of I-35 have been dedicated as the Deputy Sheriff John W. Liebenstein Memorial Highway.",
+        "age": 40,
+        "tour": 9,
+        "causeOfDeath": "Vehicle pursuit",
+        "incidentDescription": "Cause: Vehicle pursuit Weapon: Automobile Offender: Apprehended",
+        "involvedInLawEnforcement": true
+      },
+      "location": {
+        "coordinates": [
+          45.636546462083494,
+          -93.99371588493027
+        ],
+        "state": "MN"
+      },
+      "designation": {},
+      "lawWebLink": "https://www.odmp.org/officer/14755-deputy-sheriff-john-warren-liebenstein"
+    },
+    {
+      "id": "MN-524",
+      "shapeId": "csv-524",
+      "name": "Officer Tom Decker Memorial Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "Officer Tom Decker",
+        "summary": "[UNVERIFIED] The Wikipedia article provided is only a generic navigation menu and does not contain any content about a person named Jack Carson. The highway is named after Officer Tom Decker, a law enforcement officer from Minnesota, and there is no indication that Jack Carson is connected to this memorial or to Minnesota law enforcement.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          45.62098084346344,
+          -94.00131912429687
+        ],
+        "state": "MN"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Jack_Carson"
+    },
+    {
+      "id": "MN-525",
+      "shapeId": "csv-525",
+      "name": "Officer Richard Crittenden Sr. Memorial Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "Officer Richard Crittenden Sr",
+        "summary": "[UNVERIFIED] The Wikipedia article is about Daniel Akerson, a business executive (former CEO of General Motors), not Officer Richard Crittenden Sr. The highway is named after a law enforcement officer in Minnesota, and there is no connection between Akerson and this memorial highway or Minnesota law enforcement.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          45.60402407125185,
+          -94.00706775958376
+        ],
+        "state": "MN"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Daniel_Akerson"
+    },
+    {
+      "id": "MN-526",
+      "shapeId": "csv-526",
+      "name": "Nicholas Patrick Spehar Memorial Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "Nicholas Patrick Spehar"
+      },
+      "location": {
+        "coordinates": [
+          45.58586982917304,
+          -94.01080157393383
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-527",
+      "shapeId": "csv-527",
+      "name": "Michael Duane Clickner Memorial Bridge",
+      "state": "MN",
+      "honoree": {
+        "name": "Michael Duane Clickner"
+      },
+      "location": {
+        "coordinates": [
+          45.566727578775335,
+          -94.01237917092939
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-528",
+      "shapeId": "csv-528",
+      "name": "Trooper Glen Skalman Memorial Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "Trooper Glen Skalman",
+        "summary": "Trooper Glen Skalman succumbed to gunshot wounds sustained 10 days earlier while making a traffic stop on US 61, two miles north of Forest Lake. Trooper Skalman had stopped a vehicle on Highway 61 for erratic driving. The suspect was seated in the passenger seat of the squad car while Trooper Skalman was writing the ticket. The suspect pulled out a gun and suddenly shot the trooper 5 times, including three times in the face. The suspect was identified quickly as the trooper was still conscious when the first responding officer arrived, and Skalman told him to look at the ticket pad where he had written down the suspect's license plate number. Despite multiple surgeries, Trooper Skalman died 10 days later, never regaining consciousness. The subject was later apprehended and sentenced to 40 years in prison after pleading guilty to second-degree murder. He was released after only serving seven years of his sentence. Trooper Skalman had served with the Minnesota State Patrol for three years. He is survived by his wife, daughter, and two sons. In 2014, U.S. Highway 10 in Minnesota was named Trooper Glen Skalman Memorial Highway.",
+        "age": 29,
+        "tour": 3,
+        "causeOfDeath": "Gunfire",
+        "incidentDescription": "Cause: Gunfire Incident Date: Thursday, December 17, 1964 Weapon: Handgun; .22 caliber Offender: Sentenced to 40 years",
+        "involvedInLawEnforcement": true
+      },
+      "location": {
+        "coordinates": [
+          45.54682081295316,
+          -94.01167940773017
+        ],
+        "state": "MN"
+      },
+      "designation": {},
+      "lawWebLink": "https://www.odmp.org/officer/12313-trooper-glen-a-skalman"
+    },
+    {
+      "id": "MN-529",
+      "shapeId": "csv-529",
+      "name": "Sergeant Joseph Bergeron Memorial Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "Joseph Bergeron",
+        "summary": "[UNVERIFIED] The Wikipedia article is about Robert Irvine, a British-American celebrity chef and TV personality, not Sergeant Joseph Bergeron. The highway is named after a military/law enforcement figure from Minnesota, which does not match the subject's background or location.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false,
+        "age": 49,
+        "tour": 26,
+        "causeOfDeath": "Gunfire",
+        "incidentDescription": "Cause: Gunfire Weapon: Gun; Unknown type Offender: Shot and killed; second suspect 35 years",
+        "involvedInLawEnforcement": true
+      },
+      "location": {
+        "coordinates": [
+          45.627226474268966,
+          -93.9435562685178
+        ],
+        "state": "MN"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Robert_Irvine"
+    },
+    {
+      "id": "MN-530",
+      "shapeId": "csv-530",
+      "name": "Officer Scott Patrick Memorial Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "Officer Scott Patrick",
+        "summary": "[UNVERIFIED] The Wikipedia article is about Dred Scott, a historical figure known for the Dred Scott v. Sandford Supreme Court case, who has no connection to Minnesota law enforcement. The highway is named after Officer Scott Patrick, a police officer from Minnesota, making this a mismatch.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false,
+        "age": 47,
+        "tour": 19,
+        "causeOfDeath": "Gunfire",
+        "incidentDescription": "Cause: Gunfire Weapon: Gun; Unknown type Offender: Sentenced to life",
+        "involvedInLawEnforcement": true
+      },
+      "location": {
+        "coordinates": [
+          45.61103628143205,
+          -93.94565059906462
+        ],
+        "state": "MN"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Dred_Scott"
+    },
+    {
+      "id": "MN-531",
+      "shapeId": "csv-531",
+      "name": "Patrol Officer Michael Alan Hogan Memorial Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "Patrol Officer Michael Alan Hogan"
+      },
+      "location": {
+        "coordinates": [
+          45.59424150858293,
+          -93.94555119492213
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-532",
+      "shapeId": "csv-532",
+      "name": "Staff Sergeant Kevin Witte Memorial Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "Kevin Witte"
+      },
+      "location": {
+        "coordinates": [
+          45.57708045492312,
+          -93.94318561482925
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-533",
+      "shapeId": "csv-533",
+      "name": "Medal of Honor Recipient Kenneth L Olson Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          45.5597984099558,
+          -93.9385048186101
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-534",
+      "shapeId": "csv-534",
+      "name": "Corporal Benjamin S Kopp Bridge",
+      "state": "MN",
+      "honoree": {
+        "name": "Corporal Benjamin S Kopp"
+      },
+      "location": {
+        "coordinates": [
+          45.54264548602179,
+          -93.93148377341934
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-535",
+      "shapeId": "csv-535",
+      "name": "Chip A Imker Memorial Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "Chip A Imker"
+      },
+      "location": {
+        "coordinates": [
+          45.525874401763176,
+          -93.92212186681014
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-536",
+      "shapeId": "csv-536",
+      "name": "Senator Jim Metzen Memorial Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "Senator Jim Metzen",
+        "summary": "[UNVERIFIED] The highway is named after Senator Jim Metzen, but the Wikipedia article is about Bobby Joe Champion, who is a different person. The article subject does not match the name on the highway.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          45.50973823326603,
+          -93.91044312285946
+        ],
+        "state": "MN"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Bobby_Joe_Champion"
+    },
+    {
+      "id": "MN-537",
+      "shapeId": "csv-537",
+      "name": "Officer Bill Mathews Memorial Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "Officer Bill Mathews",
+        "summary": "[UNVERIFIED] The Wikipedia article is for Jeremy Miller, a politician from Minnesota, but the highway is named after 'Officer Bill Mathews,' which suggests a law enforcement officer, not a politician. The names do not match, and the context implies a different individual.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          45.61446765996335,
+          -93.89871368760328
+        ],
+        "state": "MN"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Jeremy_Miller_%28politician%29"
+    },
+    {
+      "id": "MN-538",
+      "shapeId": "csv-538",
+      "name": "Corrections Officer Joseph Gomm Memorial Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "Corrections Officer Joseph Gomm",
+        "summary": "Corrections Officer Joseph Gomm was beaten to death by an inmate at Minnesota Correction Facility–Stillwater at approximately 1:30 p.m. He was supervising inmates in the prison's industry building when he was attacked by one inmate with a hammer. Officer Gomm was transported to Regions Hospital, in St. Paul, where he succumbed to his injuries. Officer Gomm had served with the Minnesota Department of Corrections for 16 years. He is survived by his mother, three brothers and two sisters. In August 2019, a portion of MN state highway 95, running from Interstate 94 in Lakeland to MN state Highway 36 in Oak Park Heights, was renamed Corrections Officer Joseph Gomm Memorial Highway.",
+        "age": 45,
+        "tour": 16,
+        "causeOfDeath": "Assault",
+        "incidentDescription": "Cause: Assault Weapon: Blunt object; Hammer Offender: In custody",
+        "involvedInLawEnforcement": true
+      },
+      "location": {
+        "coordinates": [
+          45.59985925325197,
+          -93.89142650585099
+        ],
+        "state": "MN"
+      },
+      "designation": {},
+      "lawWebLink": "https://www.odmp.org/officer/23725-corrections-officer-ii-joseph-brian-gomm"
+    },
+    {
+      "id": "MN-539",
+      "shapeId": "csv-539",
+      "name": "Captain Jeffrey Vollmer Memorial Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "Jeffrey Vollmer",
+        "summary": "[UNVERIFIED] The Wikipedia article is about Dana Vollmer, an American Olympic swimmer, but the highway is named after Captain Jeffrey Vollmer, a military/law enforcement figure. The names do not match, and there is no indication in the provided text that Dana Vollmer is connected to Minnesota or has a background that would warrant a memorial highway naming.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          45.58597191779113,
+          -93.88198107361976
+        ],
+        "state": "MN"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Dana_Vollmer"
+    },
+    {
+      "id": "MN-540",
+      "shapeId": "csv-540",
+      "name": "Richard J Ames Memorial Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "Richard J Ames",
+        "summary": "[UNVERIFIED] The Wikipedia article is for David J. Mulla, but the highway is named 'Richard J Ames Memorial Highway'. The names do not match, and there is no indication in the provided text that David J. Mulla is connected to Richard J Ames or that the article subject is the person the highway honors.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          45.57304387101048,
+          -93.87045010061968
+        ],
+        "state": "MN"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/David_J._Mulla"
+    },
+    {
+      "id": "MN-541",
+      "shapeId": "csv-541",
+      "name": "Ryane Clark Memorial Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "Ryane Clark"
+      },
+      "location": {
+        "coordinates": [
+          45.56130608771868,
+          -93.85692962078751
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-542",
+      "shapeId": "csv-542",
+      "name": "Tom Rukavina Memorial Bridge",
+      "state": "MN",
+      "honoree": {
+        "name": "Tom Rukavina",
+        "summary": "[UNVERIFIED] The highway is named 'Tom Rukavina Memorial Bridge' in Minnesota, but the Wikipedia article is for Paul Wellstone, a different person. Tom Rukavina is a Minnesota politician, while Paul Wellstone was also a Minnesota politician, but the names do not match.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          45.55098016273386,
+          -93.84153828724345
+        ],
+        "state": "MN"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Paul_Wellstone"
+    },
+    {
+      "id": "MN-543",
+      "shapeId": "csv-543",
+      "name": "Kenneth E. Sellon and Eugene B. Schlotfeldt Memorial Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          45.54227624046964,
+          -93.82441647951799
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-544",
+      "shapeId": "csv-544",
+      "name": "Specialist Noah Pierce Bridge",
+      "state": "MN",
+      "honoree": {
+        "name": "Noah Pierce"
+      },
+      "location": {
+        "coordinates": [
+          45.53539102748205,
+          -93.80572522926154
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-545",
+      "shapeId": "csv-545",
+      "name": "State Trooper Ray Krueger Memorial Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "State Trooper Ray Krueger"
+      },
+      "location": {
+        "coordinates": [
+          45.62887476136742,
+          -93.85437318879356
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-546",
+      "shapeId": "csv-546",
+      "name": "Warrant Officer Dennis A. Groth Memorial Bridge",
+      "state": "MN",
+      "honoree": {
+        "name": "Warrant Officer Dennis A. Groth"
+      },
+      "location": {
+        "coordinates": [
+          45.62080962226944,
+          -93.84017945440594
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-547",
+      "shapeId": "csv-547",
+      "name": "Corporal Caleb L. Erickson Memorial Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "Corporal Caleb L. Erickson"
+      },
+      "location": {
+        "coordinates": [
+          45.614546306858216,
+          -93.82459596454339
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-548",
+      "shapeId": "csv-548",
+      "name": "Chief Daryl \"Taddy\" Drusch Memorial Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          45.61024204454418,
+          -93.80781588534742
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-549",
+      "shapeId": "csv-549",
+      "name": "Private Joseph Marthaler Memorial Bridge",
+      "state": "MN",
+      "honoree": {
+        "name": "Private Joseph Marthaler"
+      },
+      "location": {
+        "coordinates": [
+          45.60803504901943,
+          -93.79004770867532
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-550",
+      "shapeId": "csv-550",
+      "name": "Patrol Inspector Robert H. Lobdell Memorial Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "Patrol Inspector Robert H. Lobdell"
+      },
+      "location": {
+        "coordinates": [
+          45.608043136901856,
+          -93.7715134752236
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-551",
+      "shapeId": "csv-551",
+      "name": "Deputy Richard K. Magnuson Memorial Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "Richard K. Magnuson",
+        "summary": "[UNVERIFIED] The Wikipedia article is about Clyde Bellecourt, a Native American activist and co-founder of the American Indian Movement, who is from Minnesota. However, the highway is named 'Deputy Richard K. Magnuson Memorial Highway,' which suggests it is named after a law enforcement officer (likely a deputy sheriff) named Richard K. Magnuson, not Clyde Bellecourt. The names do not match, and the subject's background (activist vs. law enforcement) is inconsistent with the highway's designation.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false,
+        "age": 20,
+        "tour": 2,
+        "causeOfDeath": "Gunfire",
+        "incidentDescription": "Cause: Gunfire Weapon: Rifle; .22 caliber Offender: Sentenced to life",
+        "involvedInLawEnforcement": true
+      },
+      "location": {
+        "coordinates": [
+          45.61036250662204,
+          -93.75244687912806
+        ],
+        "state": "MN"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Clyde_Bellecourt"
+    },
+    {
+      "id": "MN-552",
+      "shapeId": "csv-552",
+      "name": "Prince Rogers Nelson Memorial Highway",
+      "state": "MN",
+      "honoree": {
+        "name": "Prince Rogers Nelson",
+        "summary": "[UNVERIFIED] The highway is named after Prince Rogers Nelson (the musician known as Prince), not Lucy Rehm. The Wikipedia article for Lucy Rehm appears to be a different person, likely a local figure or activist, but does not match the name or the likely context of a memorial highway for a famous musician.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          45.615066687377066,
+          -93.73309126812097
+        ],
+        "state": "MN"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Lucy_Rehm"
+    },
+    {
+      "id": "MN-553",
+      "shapeId": "csv-553",
+      "name": "Deputy Josh Owen Memorial Overpass",
+      "state": "MN",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          45.66555466670503,
+          -93.82559422164766
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-554",
+      "shapeId": "csv-554",
+      "name": "Michael Gau Memorial Bridge",
+      "state": "MN",
+      "honoree": {
+        "name": "Michael Gau",
+        "summary": "[UNVERIFIED] The Wikipedia article is for Jane Bennett, a political theorist, but the highway is named 'Michael Gau Memorial Bridge' in Minnesota. The names do not match, and there is no indication that Jane Bennett is connected to Minnesota or has a background that would warrant a highway memorial (e.g., military, law enforcement, or local public service).",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          45.66677197404552,
+          -93.80931458014746
+        ],
+        "state": "MN"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Jane_Bennett_%28political_theorist%29"
+    },
+    {
+      "id": "MN-555",
+      "shapeId": "csv-555",
+      "name": "Senator David J. Tomassoni Memorial Cross Range Expressway",
+      "state": "MN",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          45.67025990063764,
+          -93.79288568352216
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-556",
+      "shapeId": "csv-556",
+      "name": "Mayor Dave Smiglewski Memorial Bridge",
+      "state": "MN",
+      "honoree": {
+        "name": "Mayor Dave Smiglewski"
+      },
+      "location": {
+        "coordinates": [
+          45.67604128774317,
+          -93.77655554895361
+        ],
+        "state": "MN"
+      },
+      "designation": {}
+    },
+    {
+      "id": "MN-557",
+      "shapeId": "csv-557",
+      "name": "Gopher Gunners Memorial Bridge",
+      "state": "MN",
+      "honoree": {
+        "name": "Gopher Gunners",
+        "summary": "[UNVERIFIED] The Wikipedia article is for Bob Casey, a baseball announcer, but the 'Gopher Gunners Memorial Bridge' in Minnesota is likely named after a military figure (Gopher Gunners refers to Minnesota National Guard artillery units). A baseball announcer has no apparent connection to this military memorial or Minnesota.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          45.68411464615352,
+          -93.76057431572599
+        ],
+        "state": "MN"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Bob_Casey_%28baseball_announcer%29"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2026-04-22T17:36:07.805Z",
+    "totalCount": 85,
+    "states": [
+      "MN"
+    ]
+  }
+}

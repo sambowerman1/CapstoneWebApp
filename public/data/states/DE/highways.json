@@ -1,0 +1,58 @@
+{
+  "highways": [
+    {
+      "id": "DE-2",
+      "shapeId": "csv-2",
+      "name": "John F. Kennedy Memorial Highway",
+      "state": "DE",
+      "honoree": {
+        "name": "John F. Kennedy",
+        "summary": "John F. Kennedy was born on May 29, 1917, in Brookline, Massachusetts, and served as the 35th President of the United States from 1961 until his assassination in 1963. He was a decorated veteran of World War II, having commanded PT-109 in the Pacific theater. His presidency was marked by the Cuban Missile Crisis, the establishment of the Peace Corps, and the initiation of the Apollo space program. He is remembered as a pivotal figure in American history whose leadership shaped the Cold War era.",
+        "education": "Harvard University, Bachelor of Arts, Stanford Graduate School of Business",
+        "gender": "male",
+        "placeOfBirth": "Brookline, Massachusetts, United States",
+        "placeOfDeath": "Dallas, Texas, United States",
+        "birthYear": 1917,
+        "deathYear": 1963,
+        "involvedInSports": false,
+        "involvedInPolitics": true,
+        "involvedInMilitary": true,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          39.6743521,
+          -75.6359499
+        ],
+        "state": "DE"
+      },
+      "designation": {},
+      "highway": "I-95 / I-295",
+      "lawWebLink": "https://en.wikipedia.org/wiki/John_F._Kennedy"
+    },
+    {
+      "id": "DE-3",
+      "shapeId": "csv-3",
+      "name": "Korean War Veterans Memorial Highway",
+      "state": "DE",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          39.318523,
+          -75.507141
+        ],
+        "state": "DE"
+      },
+      "designation": {}
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2026-04-22T17:36:07.805Z",
+    "totalCount": 2,
+    "states": [
+      "DE"
+    ]
+  }
+}

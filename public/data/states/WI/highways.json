@@ -1,434 +1,644 @@
 {
   "highways": [
     {
-      "id": "wi-4",
-      "shapeId": "WI_4",
+      "id": "WI-117",
+      "shapeId": "csv-117",
+      "name": "Blue Star Memorial Highway",
+      "state": "WI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          43.7376955,
+          -87.7547215
+        ],
+        "state": "WI"
+      },
+      "designation": {},
+      "highway": "WIS 23"
+    },
+    {
+      "id": "WI-118",
+      "shapeId": "csv-118",
+      "name": "Cinco de Mayo Memorial Highway",
+      "state": "WI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          43.0320009,
+          -87.9415574
+        ],
+        "state": "WI"
+      },
+      "designation": {},
+      "highway": "WIS 59"
+    },
+    {
+      "id": "WI-119",
+      "shapeId": "csv-119",
+      "name": "Citizen Soldier Highway",
+      "state": "WI",
+      "honoree": {
+        "name": "Citizen Soldier",
+        "summary": "[UNVERIFIED] The provided Wikipedia article snippet is only a generic navigation menu and does not contain any content about a person named Carl Schmidt. Without article content, there is no evidence that this is the correct person, and the highway name 'Citizen Soldier Highway' suggests a military connection which is not confirmed here.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          44.874048650000006,
+          -91.39786675
+        ],
+        "state": "WI"
+      },
+      "designation": {},
+      "highway": "WIS 27",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Carl_Schmidt_%28politician%29"
+    },
+    {
+      "id": "WI-120",
+      "shapeId": "csv-120",
       "name": "Donald K. 'Deke' Slayton Memorial Highway",
       "state": "WI",
-      "county": "Unknown",
       "honoree": {
-        "name": "Donald K Deke Slayton"
+        "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          44.68881994512061,
-          -89.62061364799312
+          43.85813445,
+          -90.81525325
         ],
-        "county": "Unknown",
         "state": "WI"
       },
-      "designation": {}
+      "designation": {},
+      "highway": "WIS 27"
     },
     {
-      "id": "wi-5",
-      "shapeId": "WI_5",
+      "id": "WI-121",
+      "shapeId": "csv-121",
       "name": "84th Division 'Railsplitters' Memorial Highway",
       "state": "WI",
-      "county": "Unknown",
       "honoree": {
-        "name": "84th Division Railsplitters",
-        "involvedInMilitary": true
+        "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          44.41782307426852,
-          -89.30011982062871
+          43.6020927,
+          -89.5503728
         ],
-        "county": "Unknown",
         "state": "WI"
       },
-      "designation": {}
+      "designation": {},
+      "highway": "WIS 33"
     },
     {
-      "id": "wi-6",
-      "shapeId": "WI_6",
+      "id": "WI-122",
+      "shapeId": "csv-122",
       "name": "57th Field Artillery Brigade Memorial Highway",
       "state": "WI",
-      "county": "Unknown",
       "honoree": {
-        "name": "57th Field Artillery Brigade"
+        "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          44.67132600490188,
-          -89.27739007768895
+          44.1090953,
+          -87.52110300000001
         ],
-        "county": "Unknown",
         "state": "WI"
       },
-      "designation": {}
+      "designation": {},
+      "highway": "WIS 57"
     },
     {
-      "id": "wi-7",
-      "shapeId": "WI_7",
+      "id": "WI-123",
+      "shapeId": "csv-123",
       "name": "Frank Lloyd Wright Memorial Highway",
       "state": "WI",
-      "county": "Unknown",
       "honoree": {
         "name": "Frank Lloyd Wright",
-        "summary": "Frank Lloyd Wright was an American architect born on June 8, 1867, in Richland Center, Wisconsin, and died on April 9, 1959. He is widely regarded as one of the greatest architects of the 20th century, pioneering the 'organic architecture' movement and designing over 1,000 structures, including iconic works like Fallingwater and the Guggenheim Museum. Wright began his career under Louis Sullivan in Chicago and later founded his own practice, influencing modern architecture globally. His innovative designs emphasized harmony between human habitation and the natural environment, leaving a lasting legacy in architectural history.",
-        "education": "University of Wisconsin–Madison (1885–1887, no degree)",
+        "summary": "Frank Lloyd Wright was born on June 8, 1867, in Richland Center, Wisconsin, and died on April 9, 1959, in Phoenix, Arizona. He was a renowned American architect who developed the Prairie School style and designed iconic structures like the Fallingwater house. His career spanned over 70 years, during which he completed more than 1,000 projects. He is widely considered one of the greatest architects of the 20th century.",
+        "education": "University of Wisconsin–Madison",
         "gender": "male",
         "placeOfBirth": "Richland Center, Wisconsin, United States",
-        "placeOfDeath": "Phoenix, Arizona, United States"
+        "placeOfDeath": "Phoenix, Arizona, United States",
+        "birthYear": 1867,
+        "deathYear": 1959,
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
       },
       "location": {
         "coordinates": [
-          44.69862626584985,
-          -89.3373274339807
+          43.2132609,
+          -89.91496965
         ],
-        "county": "Unknown",
         "state": "WI"
       },
-      "designation": {}
+      "designation": {},
+      "highway": "US 14",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Frank_Lloyd_Wright"
     },
     {
-      "id": "wi-8",
-      "shapeId": "WI_8",
+      "id": "WI-124",
+      "shapeId": "csv-124",
       "name": "Gaylord Nelson Highway",
       "state": "WI",
-      "county": "Unknown",
       "honoree": {
         "name": "Gaylord Nelson",
-        "summary": "Gaylord Nelson was born on June 4, 1916, in Clear Lake, Wisconsin, and became a prominent American politician and environmentalist. He served as a U.S. Senator from Wisconsin (1963–1981) and was the founder of Earth Day, first celebrated in 1970, which significantly raised global awareness about environmental issues. Prior to his Senate career, he was the 35th Governor of Wisconsin (1959–1963) and a state legislator, advocating for progressive policies like conservation and public education. Nelson died on July 3, 2005, leaving a legacy as a pioneering figure in the modern environmental movement.",
-        "education": "San Jose State University, Bachelor of Arts (1939), University of Wisconsin Law School, Law Degree (1942)",
-        "gender": "male",
-        "placeOfBirth": "Clear Lake, Wisconsin, United States",
-        "placeOfDeath": "Kensington, Maryland, United States",
-        "involvedInMilitary": true,
-        "involvedInPolitics": true
+        "summary": "[UNVERIFIED] The highway is named 'Gaylord Nelson Highway' after Gaylord Nelson, a former Wisconsin governor and U.S. senator known for founding Earth Day. The Wikipedia article provided is for Bob Kasten, who is also a Wisconsin politician (former U.S. senator and governor), but the name mismatch is clear: the highway is explicitly named after Gaylord Nelson, not Bob Kasten. The article subject does not match the name of the person the highway honors.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
       },
       "location": {
         "coordinates": [
-          44.59880414708269,
-          -89.60313980771858
+          45.52558145,
+          -91.85309005
         ],
-        "county": "Unknown",
         "state": "WI"
       },
-      "designation": {}
+      "designation": {},
+      "highway": "US 63",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Bob_Kasten"
     },
     {
-      "id": "wi-9",
-      "shapeId": "WI_9",
+      "id": "WI-125",
+      "shapeId": "csv-125",
       "name": "Georgia O’Keeffe Memorial Highway",
       "state": "WI",
-      "county": "Unknown",
       "honoree": {
-        "name": "Georgia OKeeffe"
+        "name": "Georgia O’Keeffe",
+        "summary": "[UNVERIFIED] The Wikipedia article is for Ida O'Keeffe, but the highway is named 'Georgia O’Keeffe Memorial Highway'. Georgia O'Keeffe is a famous American artist primarily associated with New Mexico, not Wisconsin. Ida O'Keeffe was an artist and sister of Georgia, but there is no indication the highway is named after Ida, and the name mismatch suggests it is likely intended for Georgia O'Keeffe, making this article incorrect for the given highway.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
       },
       "location": {
         "coordinates": [
-          44.59977706025774,
-          -89.56012430203222
+          43.1754893,
+          -89.13858155
         ],
-        "county": "Unknown",
         "state": "WI"
       },
-      "designation": {}
+      "designation": {},
+      "highway": "WIS 19",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Ida_O%27Keeffe"
     },
     {
-      "id": "wi-10",
-      "shapeId": "WI_10",
+      "id": "WI-126",
+      "shapeId": "csv-126",
       "name": "Governor Nelson Dewey Memorial Highway",
       "state": "WI",
-      "county": "Unknown",
       "honoree": {
         "name": "Governor Nelson Dewey",
-        "involvedInPolitics": true
+        "summary": "Nelson Dewey was an American politician who served as the first Governor of Wisconsin from 1848 to 1852. Born on December 21, 1813, in Lebanon, Connecticut, he was a lawyer by profession before entering public service. His tenure as governor was marked by his leadership during the state's formative years and his advocacy for internal improvements. He died on July 21, 1889, in Cassville, Wisconsin, leaving a legacy as a foundational figure in Wisconsin's early political history.",
+        "education": "Columbia College",
+        "gender": "male",
+        "placeOfBirth": "Lebanon, Connecticut, United States",
+        "placeOfDeath": "Cassville, Wisconsin, United States",
+        "birthYear": 1813,
+        "deathYear": 1889,
+        "involvedInSports": false,
+        "involvedInPolitics": true,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
       },
       "location": {
         "coordinates": [
-          44.30143837827638,
-          -89.722999306699
+          42.75471595,
+          -90.9380872
         ],
-        "county": "Unknown",
         "state": "WI"
       },
-      "designation": {}
+      "designation": {},
+      "highway": "WIS 81",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Nelson_Dewey"
     },
     {
-      "id": "wi-11",
-      "shapeId": "WI_11",
+      "id": "WI-127",
+      "shapeId": "csv-127",
       "name": "Green Bay Ethnic Trail",
       "state": "WI",
-      "county": "Unknown",
       "honoree": {
-        "name": "Green Bay Ethnic"
+        "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          44.33192475104366,
-          -89.6462656219394
+          44.4913184,
+          -87.9755436
         ],
-        "county": "Unknown",
         "state": "WI"
       },
-      "designation": {}
+      "designation": {},
+      "highway": "WIS 54"
     },
     {
-      "id": "wi-12",
-      "shapeId": "WI_12",
+      "id": "WI-128",
+      "shapeId": "csv-128",
       "name": "Iron Brigade Memorial Highway",
       "state": "WI",
-      "county": "Unknown",
       "honoree": {
         "name": "Iron Brigade",
-        "summary": "This content describes Iron Brigade, a video game developed by Double Fine Productions and released in 2011, not a biographical subject. The game is a third-person shooter with tower defense elements, set in an alternate 1910s where mechs battle invading Martians. It received praise for its unique art style, cooperative gameplay, and expansion Rise of the Martian Bear. As this is not about a person, no biographical details like birth, death, or personal achievements apply."
+        "summary": "Edward S. Bragg was an American politician and military officer born on February 20, 1827. He served as a Union Army general during the American Civil War, participating in numerous major battles. After the war, he served multiple terms as a U.S. Representative from Wisconsin. He died on June 20, 1905, in Fond du Lac, Wisconsin.",
+        "gender": "male",
+        "placeOfBirth": "Huntington, New York, United States",
+        "placeOfDeath": "Fond du Lac, Wisconsin, United States",
+        "birthYear": 1827,
+        "deathYear": 1905,
+        "involvedInSports": false,
+        "involvedInPolitics": true,
+        "involvedInMilitary": true,
+        "involvedInMusic": false
       },
       "location": {
         "coordinates": [
-          44.454176929873285,
-          -89.67090091344033
+          41.5695692,
+          -72.1176182
         ],
-        "county": "Unknown",
         "state": "WI"
       },
-      "designation": {}
+      "designation": {},
+      "highway": "US 12",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Edward_S._Bragg"
     },
     {
-      "id": "wi-13",
-      "shapeId": "WI_13",
+      "id": "WI-129",
+      "shapeId": "csv-129",
       "name": "Jeannetta Simpson-Robinson Memorial Highway",
       "state": "WI",
-      "county": "Unknown",
       "honoree": {
-        "name": "Jeannetta SimpsonRobinson"
+        "name": "Jeannetta Simpson-Robinson"
       },
       "location": {
         "coordinates": [
-          44.71841631437036,
-          -89.61520615158202
+          43.049179300000006,
+          -87.9305011
         ],
-        "county": "Unknown",
         "state": "WI"
       },
-      "designation": {}
+      "designation": {},
+      "highway": "I-43"
     },
     {
-      "id": "wi-14",
-      "shapeId": "WI_14",
+      "id": "WI-130",
+      "shapeId": "csv-130",
       "name": "John R. Plewa Memorial Lake Parkway",
       "state": "WI",
-      "county": "Unknown",
       "honoree": {
-        "name": "John R Plewa Memorial Lake"
+        "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          44.257385591306665,
-          -89.39365554211567
+          42.99098865,
+          -87.89666539999999
         ],
-        "county": "Unknown",
         "state": "WI"
       },
-      "designation": {}
+      "designation": {},
+      "highway": "WIS/I-794"
     },
     {
-      "id": "wi-16",
-      "shapeId": "WI_16",
+      "id": "WI-131",
+      "shapeId": "csv-131",
+      "name": "Korean War Veterans Memorial Highway",
+      "state": "WI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          42.74206185,
+          -87.9481732
+        ],
+        "state": "WI"
+      },
+      "designation": {},
+      "highway": "US 51"
+    },
+    {
+      "id": "WI-132",
+      "shapeId": "csv-132",
       "name": "Lee and Lynn Copen Memorial Highway",
       "state": "WI",
-      "county": "Unknown",
       "honoree": {
-        "name": "Lee and Lynn Copen"
+        "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          44.64333859012661,
-          -89.46221399766183
+          43.293425,
+          -88.23561995
         ],
-        "county": "Unknown",
         "state": "WI"
       },
-      "designation": {}
+      "designation": {},
+      "highway": "WIS 50"
     },
     {
-      "id": "wi-17",
-      "shapeId": "WI_17",
+      "id": "WI-133",
+      "shapeId": "csv-133",
       "name": "Major Richard I. Bong Memorial Highway",
       "state": "WI",
-      "county": "Unknown",
       "honoree": {
-        "name": "Major Richard I Bong"
+        "name": "Richard I. Bong",
+        "summary": "Richard Ira Bong was an American fighter ace and Medal of Honor recipient during World War II. He was born on September 24, 1920, in Superior, Wisconsin, and died on August 6, 1945, in Burbank, California. Bong is credited with shooting down 40 Japanese aircraft, making him the top American fighter ace of the war. He was a United States Army Air Forces pilot and is remembered as a national hero.",
+        "education": "University of Wisconsin–Madison",
+        "gender": "male",
+        "placeOfBirth": "Superior, Wisconsin, United States",
+        "placeOfDeath": "Burbank, California, United States",
+        "birthYear": 1920,
+        "deathYear": 1945,
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": true,
+        "involvedInMusic": false
       },
       "location": {
         "coordinates": [
-          44.39027584295497,
-          -89.4503595051642
+          38.9550407,
+          -77.0831894
         ],
-        "county": "Unknown",
         "state": "WI"
       },
-      "designation": {}
+      "designation": {},
+      "highway": "US 2",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Richard_Bong"
     },
     {
-      "id": "wi-18",
-      "shapeId": "WI_18",
+      "id": "WI-134",
+      "shapeId": "csv-134",
       "name": "173rd Airborne Brigade Highway",
       "state": "WI",
-      "county": "Unknown",
       "honoree": {
-        "name": "173rd Airborne Brigade",
-        "summary": "The 173rd Airborne Brigade is a United States Army airborne infantry brigade combat team based in Vicenza, Italy. Originally activated in 1915 as an infantry brigade, it was later re-designated as an airborne unit in 1963 and became famous for its combat operations during the Vietnam War, including the Battle of Dak To. Known as the 'Sky Soldiers,' the brigade has participated in conflicts from World War I to the Global War on Terrorism, earning numerous commendations for valor and service. It remains an active and elite rapid-deployment force within the U.S. Army Europe and Africa command structure.",
-        "involvedInMilitary": true
+        "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          44.41868213026251,
-          -89.42642763754988
+          44.1677105,
+          -90.22135854999999
         ],
-        "county": "Unknown",
         "state": "WI"
       },
-      "designation": {}
+      "designation": {},
+      "highway": "WIS 173"
     },
     {
-      "id": "wi-19",
-      "shapeId": "WI_19",
+      "id": "WI-135",
+      "shapeId": "csv-135",
       "name": "Peace Memorial Highway",
       "state": "WI",
-      "county": "Unknown",
       "honoree": {
-        "name": "Peace",
-        "summary": "The surname 'Peace' is of English origin, derived from the Middle English word 'pees' meaning harmony or tranquility. It was historically used as a nickname for peaceful individuals or as an occupational name for those who enforced peace. Notable bearers include athletes, politicians, and public figures across various fields. The name has spread globally, particularly in English-speaking countries, with variations in spelling and pronunciation over time."
+        "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          44.37572578798574,
-          -89.49761668480963
+          45.266754750000004,
+          -91.65994195
         ],
-        "county": "Unknown",
         "state": "WI"
       },
-      "designation": {}
+      "designation": {},
+      "highway": "US 53"
     },
     {
-      "id": "wi-20",
-      "shapeId": "WI_20",
+      "id": "WI-136",
+      "shapeId": "csv-136",
       "name": "Polish Heritage Highway",
       "state": "WI",
-      "county": "Unknown",
       "honoree": {
-        "name": "Polish Heritage"
+        "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          44.56594683989981,
-          -89.69710897003897
+          44.64604825,
+          -89.7573596
         ],
-        "county": "Unknown",
         "state": "WI"
       },
-      "designation": {}
+      "designation": {},
+      "highway": "WIS 66"
     },
     {
-      "id": "wi-22",
-      "shapeId": "WI_22",
+      "id": "WI-137",
+      "shapeId": "csv-137",
+      "name": "Polish Veterans Memorial Highway",
+      "state": "WI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          44.70132235,
+          -88.27413734999999
+        ],
+        "state": "WI"
+      },
+      "designation": {},
+      "highway": "WIS 160"
+    },
+    {
+      "id": "WI-138",
+      "shapeId": "csv-138",
       "name": "POW/MIA Memorial Highway",
       "state": "WI",
-      "county": "Unknown",
       "honoree": {
-        "name": "POWMIA"
+        "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          44.37638008463909,
-          -89.6771600546972
+          45.171747350000004,
+          -90.92999370000001
         ],
-        "county": "Unknown",
         "state": "WI"
       },
-      "designation": {}
+      "designation": {},
+      "highway": "WIS 13"
     },
     {
-      "id": "wi-24",
-      "shapeId": "WI_24",
+      "id": "WI-139",
+      "shapeId": "csv-139",
+      "name": "Purple Heart Memorial Highway",
+      "state": "WI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          43.180733599999996,
+          -89.22316765
+        ],
+        "state": "WI"
+      },
+      "designation": {},
+      "highway": "US 14"
+    },
+    {
+      "id": "WI-140",
+      "shapeId": "csv-140",
       "name": "Stephen Ambrose Memorial Highway",
       "state": "WI",
-      "county": "Unknown",
       "honoree": {
         "name": "Stephen Ambrose",
-        "summary": "Steve Sarkisian is an American football coach and former quarterback born on March 8, 1974. He played college football at Brigham Young University (BYU) and briefly in the Canadian Football League before transitioning into coaching. Sarkisian gained prominence as the head coach at the University of Washington (2009–2013) and later at the University of Southern California (USC), where he also served as offensive coordinator. Currently, he is recognized for his role as the offensive coordinator for the University of Texas, contributing to its football program's success and innovation in offensive strategies.",
-        "education": "El Camino College, Brigham Young University (BYU), Bachelors Degree",
-        "gender": "male",
-        "placeOfBirth": "Torrance, California, United States",
-        "involvedInSports": true
+        "summary": "[UNVERIFIED] The provided Wikipedia article snippet is a generic Wikipedia interface and does not contain any content about a person named 'Ambrose Stephen McDonald'. Without article content confirming the person's identity, profession, or connection to Wisconsin, it cannot be validated as the correct subject for the 'Stephen Ambrose Memorial Highway'.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
       },
       "location": {
         "coordinates": [
-          44.39857477925981,
-          -89.74196342069642
+          44.66762755,
+          -88.09232184999999
         ],
-        "county": "Unknown",
         "state": "WI"
       },
-      "designation": {}
+      "designation": {},
+      "highway": "US 12",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Ambrose_Stephen_McDonald"
     },
     {
-      "id": "wi-25",
-      "shapeId": "WI_25",
+      "id": "WI-141",
+      "shapeId": "csv-141",
       "name": "32nd Division Memorial Highway",
       "state": "WI",
-      "county": "Unknown",
       "honoree": {
-        "name": "32nd Division",
-        "summary": "Summary extraction failed.",
-        "involvedInMilitary": true
+        "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          44.53743146992083,
-          -89.71882864256388
+          42.6974597,
+          -88.0889193
         ],
-        "county": "Unknown",
         "state": "WI"
       },
-      "designation": {}
+      "designation": {},
+      "highway": "WIS 32"
     },
     {
-      "id": "wi-27",
-      "shapeId": "WI_27",
+      "id": "WI-142",
+      "shapeId": "csv-142",
+      "name": "Vietnam War Veterans Memorial Highway",
+      "state": "WI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          43.537972249999996,
+          -87.85065405
+        ],
+        "state": "WI"
+      },
+      "designation": {},
+      "highway": "US 10"
+    },
+    {
+      "id": "WI-143",
+      "shapeId": "csv-143",
       "name": "Wisconsin Firefighters and Emergency Medical Technicians Highway",
       "state": "WI",
-      "county": "Unknown",
       "honoree": {
-        "name": "Wisconsin Firefighters and Emergency Medical Technicians"
+        "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          44.71319308550339,
-          -89.70264959453546
+          44.0252,
+          -88.5510899
         ],
-        "county": "Unknown",
         "state": "WI"
       },
-      "designation": {}
+      "designation": {},
+      "highway": "WIS 54"
     },
     {
-      "id": "wi-28",
-      "shapeId": "WI_28",
+      "id": "WI-144",
+      "shapeId": "csv-144",
       "name": "Wisconsin Law Enforcement Officers Highway",
       "state": "WI",
-      "county": "Unknown",
       "honoree": {
         "name": "Wisconsin Law Enforcement Officers",
-        "involvedInLawEnforcement": true
+        "summary": "[UNVERIFIED] The article is about Jesse James, a Wisconsin politician, but the highway is named 'Wisconsin Law Enforcement Officers Highway,' which honors law enforcement officers. A politician does not fit the theme of a law enforcement memorial highway.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
       },
       "location": {
         "coordinates": [
-          44.70155692523614,
-          -89.31219392289827
+          38.330753200000004,
+          -101.18402935
         ],
-        "county": "Unknown",
         "state": "WI"
       },
-      "designation": {}
+      "designation": {},
+      "highway": "US 151",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Jesse_James_%28Wisconsin_politician%29"
+    },
+    {
+      "id": "WI-145",
+      "shapeId": "csv-145",
+      "name": "Wisconsin Veterans Memorial Highway",
+      "state": "WI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          44.268543,
+          -89.616508
+        ],
+        "state": "WI"
+      },
+      "designation": {},
+      "highway": "I-90/94"
+    },
+    {
+      "id": "WI-146",
+      "shapeId": "csv-146",
+      "name": "World War I Veterans Memorial Highway",
+      "state": "WI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          44.521282,
+          -87.6301086
+        ],
+        "state": "WI"
+      },
+      "designation": {},
+      "highway": "WIS 29"
+    },
+    {
+      "id": "WI-147",
+      "shapeId": "csv-147",
+      "name": "World War II Veterans Memorial Highway",
+      "state": "WI",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          44.0510828,
+          -87.7669257
+        ],
+        "state": "WI"
+      },
+      "designation": {},
+      "highway": "US 41"
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-02-19T03:44:08.206Z",
-    "totalCount": 21,
+    "lastUpdated": "2026-04-22T17:36:07.805Z",
+    "totalCount": 31,
     "states": [
       "WI"
     ]

@@ -1,0 +1,354 @@
+{
+  "highways": [
+    {
+      "id": "UT-67",
+      "shapeId": "csv-67",
+      "name": "Mike Dmitrich Highway",
+      "state": "UT",
+      "honoree": {
+        "name": "Mike Dmitrich",
+        "summary": "Mike Dmitrich was an American politician and former educator born on January 1, 1937, in Price, Utah. He served as a member of the Utah State Senate, representing District 27, and was known for his contributions to state legislation. Dmitrich had a background in education before entering politics, working as a teacher and administrator. He passed away on December 28, 2020, in Price, Utah, leaving a legacy in Utah public service.",
+        "education": "University of Utah, Utah State University",
+        "gender": "male",
+        "placeOfBirth": "Price, Utah, United States",
+        "placeOfDeath": "Price, Utah, United States",
+        "birthYear": 1937,
+        "deathYear": 2020,
+        "involvedInSports": false,
+        "involvedInPolitics": true,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          39.94512465,
+          -111.5364197
+        ],
+        "state": "UT"
+      },
+      "designation": {},
+      "highway": "US-6",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Mike_Dmitrich"
+    },
+    {
+      "id": "UT-68",
+      "shapeId": "csv-68",
+      "name": "Pete Suazo Memorial Highway",
+      "state": "UT",
+      "honoree": {
+        "name": "Pete Suazo",
+        "summary": "Pete Suazo was an American politician and educator born on May 13, 1952, in Salt Lake City, Utah. He served as a Democratic member of the Utah State Senate, representing District 2 from 1995 until his death. Suazo was also a teacher and coach, contributing to his community through both education and public service. He died on December 21, 2009, in Salt Lake City, Utah, leaving a legacy of advocacy for minority communities.",
+        "education": "University of Utah, \"Bachelors Degree\"",
+        "gender": "male",
+        "placeOfBirth": "Salt Lake City, Utah, United States",
+        "placeOfDeath": "Salt Lake City, Utah, United States",
+        "birthYear": 1952,
+        "deathYear": 2009,
+        "involvedInSports": true,
+        "involvedInPolitics": true,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          40.94807555,
+          -111.9170364
+        ],
+        "state": "UT"
+      },
+      "designation": {},
+      "highway": "SR-68",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Pete_Suazo"
+    },
+    {
+      "id": "UT-69",
+      "shapeId": "csv-69",
+      "name": "Pioneer Trail Memorial Highway",
+      "state": "UT",
+      "honoree": {
+        "name": "Pioneer Trail",
+        "summary": "[UNVERIFIED] The provided Wikipedia article text appears to be a generic Wikipedia interface and does not contain any biographical information about Thomas Rhoads. Without content confirming the person's identity, profession, or connection to Utah, it cannot be verified as the correct individual for the 'Pioneer Trail Memorial Highway' designation.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          40.150032,
+          -111.782434
+        ],
+        "state": "UT"
+      },
+      "designation": {},
+      "highway": "SR-65; SR-186",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Thomas_Rhoads"
+    },
+    {
+      "id": "UT-70",
+      "shapeId": "csv-70",
+      "name": "Veterans' Memorial Highway",
+      "state": "UT",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          33.7138338,
+          -117.7887344
+        ],
+        "state": "UT"
+      },
+      "designation": {},
+      "highway": "I-15"
+    },
+    {
+      "id": "UT-71",
+      "shapeId": "csv-71",
+      "name": "Purple Heart Trail",
+      "state": "UT",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          39.6841077,
+          -104.8463397
+        ],
+        "state": "UT"
+      },
+      "designation": {},
+      "highway": "I-80"
+    },
+    {
+      "id": "UT-72",
+      "shapeId": "csv-72",
+      "name": "Tenth Mountain Division Memorial Highway",
+      "state": "UT",
+      "honoree": {
+        "name": "Tenth Mountain Division"
+      },
+      "location": {
+        "coordinates": [
+          40.7271706,
+          -111.5440894
+        ],
+        "state": "UT"
+      },
+      "designation": {},
+      "highway": "SR-224"
+    },
+    {
+      "id": "UT-73",
+      "shapeId": "csv-73",
+      "name": "K. Gunn McKay Highway",
+      "state": "UT",
+      "honoree": {
+        "name": "K. Gunn McKay",
+        "summary": "K. Gunn McKay was an American politician and member of the Democratic Party who served as a U.S. Representative from Utah. He was born on July 23, 1925, in Logan, Utah, and died on October 5, 2000, in Salt Lake City, Utah. McKay represented Utah's 1st congressional district from 1971 to 1981, focusing on issues like water resources and public lands. His career was marked by a commitment to western state interests and environmental policy during his tenure in Congress.",
+        "education": "Utah State University, University of Utah",
+        "gender": "male",
+        "placeOfBirth": "Logan, Utah, United States",
+        "placeOfDeath": "Salt Lake City, Utah, United States",
+        "birthYear": 1925,
+        "deathYear": 2000,
+        "involvedInSports": false,
+        "involvedInPolitics": true,
+        "involvedInMilitary": true,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          41.1679451,
+          -111.9447283
+        ],
+        "state": "UT"
+      },
+      "designation": {},
+      "highway": "SR-39",
+      "lawWebLink": "https://en.wikipedia.org/wiki/K._Gunn_McKay"
+    },
+    {
+      "id": "UT-74",
+      "shapeId": "csv-74",
+      "name": "James V. Hansen Highway",
+      "state": "UT",
+      "honoree": {
+        "name": "James V. Hansen",
+        "summary": "Jim Hansen is a Utah politician whose career and personal details are not fully provided in the given content. The content appears to be a Wikipedia page structure with navigation and table of contents, but lacks specific biographical data. No birth or death dates, achievements, or historical significance are included in the provided text. Therefore, a concise summary cannot be formulated from the available information.",
+        "gender": "male",
+        "involvedInSports": false,
+        "involvedInPolitics": true,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          38.8891716,
+          -111.9553446
+        ],
+        "state": "UT"
+      },
+      "designation": {},
+      "highway": "US-89",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Jim_Hansen_%28Utah_politician%29"
+    },
+    {
+      "id": "UT-75",
+      "shapeId": "csv-75",
+      "name": "Cory B. Wride Memorial Highway",
+      "state": "UT",
+      "honoree": {
+        "name": "Cory B. Wride"
+      },
+      "location": {
+        "coordinates": [
+          40.38785235,
+          -112.09296499999999
+        ],
+        "state": "UT"
+      },
+      "designation": {},
+      "highway": "SR-73"
+    },
+    {
+      "id": "UT-76",
+      "shapeId": "csv-76",
+      "name": "Vietnam Veterans Memorial Highway",
+      "state": "UT",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          41.07008935,
+          -111.69032974999999
+        ],
+        "state": "UT"
+      },
+      "designation": {},
+      "highway": "I-84"
+    },
+    {
+      "id": "UT-77",
+      "shapeId": "csv-77",
+      "name": "Navajo Code Talker Highway",
+      "state": "UT",
+      "honoree": {
+        "name": "Navajo Code Talker",
+        "summary": "[UNVERIFIED] The provided Wikipedia article text is only a generic Wikipedia interface and does not contain any content about Allen Dale June. Without article content confirming the person's identity, connection to Utah, or relevance as a Navajo Code Talker, it cannot be validated as the correct subject for the 'Navajo Code Talker Highway' in Utah.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          41.1636696,
+          -112.0264372
+        ],
+        "state": "UT"
+      },
+      "designation": {},
+      "highway": "SR-162; US-191; US-163",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Allen_Dale_June"
+    },
+    {
+      "id": "UT-78",
+      "shapeId": "csv-78",
+      "name": "Grand Army of the Republic Highway",
+      "state": "UT",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          40.447747,
+          -109.5529636
+        ],
+        "state": "UT"
+      },
+      "designation": {},
+      "highway": "US-6"
+    },
+    {
+      "id": "UT-79",
+      "shapeId": "csv-79",
+      "name": "Golden Spike/Lincoln Memorial Highway",
+      "state": "UT",
+      "honoree": {
+        "name": "Golden Spike/Lincoln",
+        "summary": "[UNVERIFIED] The provided Wikipedia article content is only a generic navigation menu and does not contain any information about a person named Hezekiah Bissell. Without article content confirming the person's identity, profession, or connection to Utah, it cannot be validated as the correct individual for the highway designation.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          40.23230441335952,
+          -111.90993399999999
+        ],
+        "state": "UT"
+      },
+      "designation": {},
+      "highway": "SR-13; SR-83",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Hezekiah_Bissell"
+    },
+    {
+      "id": "UT-80",
+      "shapeId": "csv-80",
+      "name": "Jake Garn Legacy Highway",
+      "state": "UT",
+      "honoree": {
+        "name": "Jake Garn Legacy",
+        "summary": "[UNVERIFIED] The Wikipedia article is for J. Bracken Lee, a former Governor of Utah and Mayor of Salt Lake City, but the highway is named 'Jake Garn Legacy Highway' after Jake Garn, a U.S. Senator from Utah and former astronaut. The names do not match, and the article subject is not the person the highway is named after.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          40.937391149999996,
+          -111.61877659999999
+        ],
+        "state": "UT"
+      },
+      "designation": {},
+      "highway": "US-40",
+      "lawWebLink": "https://en.wikipedia.org/wiki/J._Bracken_Lee"
+    },
+    {
+      "id": "UT-81",
+      "shapeId": "csv-81",
+      "name": "Borgstrom Brothers Memorial Highway",
+      "state": "UT",
+      "honoree": {
+        "name": "Borgstrom Brothers",
+        "summary": "[UNVERIFIED] The provided Wikipedia article content is only a generic Wikipedia interface and does not contain any information about Lawson Crouse. The highway is named after the 'Borgstrom Brothers' (likely a local family or historical figures from Utah), not Lawson Crouse. Lawson Crouse is a professional ice hockey player, which does not align with the typical profile for a memorial highway naming (often for local tragedy or service), and there is no indication he has a connection to Utah or the Borgstrom family.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          40.05476920558372,
+          -111.917434
+        ],
+        "state": "UT"
+      },
+      "designation": {},
+      "highway": "SR-102",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Lawson_Crouse"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2026-04-22T17:36:07.805Z",
+    "totalCount": 15,
+    "states": [
+      "UT"
+    ]
+  }
+}

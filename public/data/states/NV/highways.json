@@ -1,0 +1,170 @@
+{
+  "highways": [
+    {
+      "id": "NV-21",
+      "shapeId": "csv-21",
+      "name": "Micah David May Memorial Highway",
+      "state": "NV",
+      "honoree": {
+        "name": "Micah David May",
+        "summary": "[UNVERIFIED] The Wikipedia article is for David Faustino, an American actor known for his role on 'Married... with Children,' with no connection to Nevada or a memorial highway. The highway is named after Micah David May, a Nevada Army National Guard soldier killed in Afghanistan, which is a different person entirely.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false,
+        "age": 46,
+        "tour": 13,
+        "causeOfDeath": "Vehicular assault",
+        "incidentDescription": "Cause: Vehicular assault Incident Date: Tuesday, July 27, 2021 Weapon: Automobile Offender: Shot and killed",
+        "involvedInLawEnforcement": true
+      },
+      "location": {
+        "coordinates": [
+          36.1445718,
+          -115.1994811
+        ],
+        "state": "NV"
+      },
+      "designation": {},
+      "highway": "I-15",
+      "lawWebLink": "https://en.wikipedia.org/wiki/David_Faustino"
+    },
+    {
+      "id": "NV-22",
+      "shapeId": "csv-22",
+      "name": "Benjamin Michael Jenkins Memorial Highway",
+      "state": "NV",
+      "honoree": {
+        "name": "Benjamin Michael Jenkins",
+        "summary": "[UNVERIFIED] The Wikipedia article is about Mike Matusow, a professional poker player, not Benjamin Michael Jenkins. The highway is named 'Benjamin Michael Jenkins Memorial Highway' in Nevada, and the article subject does not match the name. Additionally, a poker player's background does not typically warrant a highway memorial, which is more common for law enforcement, military, or local figures.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false,
+        "age": 47,
+        "tour": 12,
+        "causeOfDeath": "Gunfire",
+        "incidentDescription": "Cause: Gunfire Weapon: Gun; Unknown type Offender: Life without parole",
+        "involvedInLawEnforcement": true
+      },
+      "location": {
+        "coordinates": [
+          35.4196802,
+          -119.0570465
+        ],
+        "state": "NV"
+      },
+      "designation": {},
+      "highway": "US-93",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Mike_Matusow"
+    },
+    {
+      "id": "NV-23",
+      "shapeId": "csv-23",
+      "name": "Jack Lee Spencer",
+      "state": "NV",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          39.586105849999996,
+          -119.36434560000001
+        ],
+        "state": "NV"
+      },
+      "designation": {},
+      "highway": "Sr. Memorial Highway"
+    },
+    {
+      "id": "NV-24",
+      "shapeId": "csv-24",
+      "name": "Carlos J. Borland Memorial Highway",
+      "state": "NV",
+      "honoree": {
+        "name": "Carlos J. Borland",
+        "summary": "[UNVERIFIED] The Wikipedia article is about Nick Saban, a famous football coach, but the highway is named 'Carlos J. Borland Memorial Highway' and is located in Nevada. There is no indication that Nick Saban is connected to Nevada or that the highway is named after him; the names do not match.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false,
+        "age": 25,
+        "tour": 1,
+        "causeOfDeath": "Gunfire",
+        "incidentDescription": "Cause: Gunfire Incident Date: Tuesday, November 30, 1993 Weapon: Handgun; .38 caliber Offender: Sentenced to death",
+        "involvedInLawEnforcement": true
+      },
+      "location": {
+        "coordinates": [
+          40.1801273,
+          -118.4747268
+        ],
+        "state": "NV"
+      },
+      "designation": {},
+      "highway": "I-80",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Nick_Saban"
+    },
+    {
+      "id": "NV-25",
+      "shapeId": "csv-25",
+      "name": "Creighton Travis Spencer Memorial Highway",
+      "state": "NV",
+      "honoree": {
+        "name": "Creighton Travis Spencer"
+      },
+      "location": {
+        "coordinates": [
+          40.8099622,
+          -115.8294298
+        ],
+        "state": "NV"
+      },
+      "designation": {},
+      "highway": "I-80"
+    },
+    {
+      "id": "NV-26",
+      "shapeId": "csv-26",
+      "name": "Franklin J. Minnie",
+      "state": "NV",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          39.5643944,
+          -119.4851217
+        ],
+        "state": "NV"
+      },
+      "designation": {},
+      "highway": "Sr. Memorial Highway"
+    },
+    {
+      "id": "NV-27",
+      "shapeId": "csv-27",
+      "name": "Anthony Francone Memorial Highway",
+      "state": "NV",
+      "honoree": {
+        "name": "Anthony Francone"
+      },
+      "location": {
+        "coordinates": [
+          38.313515,
+          -117.055374
+        ],
+        "state": "NV"
+      },
+      "designation": {},
+      "highway": "SR-446"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2026-04-22T17:36:07.805Z",
+    "totalCount": 7,
+    "states": [
+      "NV"
+    ]
+  }
+}

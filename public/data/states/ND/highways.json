@@ -1,0 +1,149 @@
+{
+  "highways": [
+    {
+      "id": "ND-28",
+      "shapeId": "csv-28",
+      "name": "Theodore Roosevelt Expressway",
+      "state": "ND",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          47.8562359,
+          -103.6466565
+        ],
+        "state": "ND"
+      },
+      "designation": {},
+      "highway": "US 85 / US 2"
+    },
+    {
+      "id": "ND-29",
+      "shapeId": "csv-29",
+      "name": "Yellowstone Trail",
+      "state": "ND",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          62.6632653,
+          -141.0595022
+        ],
+        "state": "ND"
+      },
+      "designation": {},
+      "highway": "US 12"
+    },
+    {
+      "id": "ND-30",
+      "shapeId": "csv-30",
+      "name": "Veterans Memorial Highway",
+      "state": "ND",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          42.904988450000005,
+          -86.9388467
+        ],
+        "state": "ND"
+      },
+      "designation": {},
+      "highway": "ND 22"
+    },
+    {
+      "id": "ND-31",
+      "shapeId": "csv-31",
+      "name": "Akicita (Veteran) Memorial Highway",
+      "state": "ND",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          46.87840695,
+          -97.74852785
+        ],
+        "state": "ND"
+      },
+      "designation": {},
+      "highway": "ND 57"
+    },
+    {
+      "id": "ND-32",
+      "shapeId": "csv-32",
+      "name": "Trooper Beryl McLane Memorial Highway",
+      "state": "ND",
+      "honoree": {
+        "name": "Trooper Beryl McLane",
+        "summary": "[UNVERIFIED] The Wikipedia article appears to be a generic page or placeholder (likely a disambiguation or stub page) with no specific information about a person named Kyle Green. The highway is named after 'Trooper Beryl McLane,' which suggests a law enforcement officer, but the article does not mention Beryl McLane, North Dakota, or any relevant connection. The name mismatch (Kyle Green vs. Beryl McLane) and lack of supporting details indicate this is not the correct person.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          46.403866750000006,
+          -98.6233115
+        ],
+        "state": "ND"
+      },
+      "designation": {},
+      "highway": "ND 13",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Kyle_Green"
+    },
+    {
+      "id": "ND-33",
+      "shapeId": "csv-33",
+      "name": "PFC Henry Gurke Memorial Highway",
+      "state": "ND",
+      "honoree": {
+        "name": "PFC Henry Gurke",
+        "summary": "[UNVERIFIED] The provided Wikipedia article content is only the site navigation and does not contain any information about Henry Gurke, such as his biography, connection to North Dakota, or military service. Without confirming the article's subject matches the person honored by the highway, we cannot validate it.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          46.8758289,
+          -96.9281287
+        ],
+        "state": "ND"
+      },
+      "designation": {},
+      "highway": "ND 18",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Henry_Gurke"
+    },
+    {
+      "id": "ND-34",
+      "shapeId": "csv-34",
+      "name": "North Dakota Fallen Peace Officers Memorial Highway",
+      "state": "ND",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          38.9334828,
+          -76.9741233
+        ],
+        "state": "ND"
+      },
+      "designation": {},
+      "highway": "ND 200"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2026-04-22T17:36:07.805Z",
+    "totalCount": 7,
+    "states": [
+      "ND"
+    ]
+  }
+}

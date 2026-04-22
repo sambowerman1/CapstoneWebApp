@@ -1,0 +1,29 @@
+{
+  "highways": [
+    {
+      "id": "NH-1",
+      "shapeId": "csv-1",
+      "name": "Blue Star Memorial Highway",
+      "state": "NH",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          42.97481605,
+          -70.7869952
+        ],
+        "state": "NH"
+      },
+      "designation": {},
+      "highway": "I-95"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2026-04-22T17:36:07.805Z",
+    "totalCount": 1,
+    "states": [
+      "NH"
+    ]
+  }
+}

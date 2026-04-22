@@ -1,0 +1,173 @@
+{
+  "highways": [
+    {
+      "id": "IL-35",
+      "shapeId": "csv-35",
+      "name": "CPL Richard L Daugherty Memorial Highway",
+      "state": "IL",
+      "honoree": {
+        "name": "Richard L Daugherty",
+        "summary": "[UNVERIFIED] The highway is named after CPL Richard L Daugherty, but the Wikipedia article is about Tommy Tuberville, a U.S. Senator from Alabama and former football coach, with no connection to Illinois or the memorial's namesake.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          39.941967399999996,
+          -89.17566425000001
+        ],
+        "state": "IL"
+      },
+      "designation": {},
+      "highway": "IL Route 3",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Tommy_Tuberville"
+    },
+    {
+      "id": "IL-36",
+      "shapeId": "csv-36",
+      "name": "SPC Brandon Jacob Rowe Memorial Highway",
+      "state": "IL",
+      "honoree": {
+        "name": "SPC Brandon Jacob Rowe"
+      },
+      "location": {
+        "coordinates": [
+          42.2455083,
+          -88.36367425
+        ],
+        "state": "IL"
+      },
+      "designation": {},
+      "highway": "IL Route 251"
+    },
+    {
+      "id": "IL-37",
+      "shapeId": "csv-37",
+      "name": "SGT Brian M Romines Memorial Highway",
+      "state": "IL",
+      "honoree": {
+        "name": "SGT Brian M Romines"
+      },
+      "location": {
+        "coordinates": [
+          37.43782845,
+          -89.07243585
+        ],
+        "state": "IL"
+      },
+      "designation": {},
+      "highway": "IL Route 146"
+    },
+    {
+      "id": "IL-38",
+      "shapeId": "csv-38",
+      "name": "CWO4 John W Frederick, Jr., Memorial Highway",
+      "state": "IL",
+      "honoree": {
+        "name": "John W Frederick",
+        "summary": "[UNVERIFIED] The highway is named after 'CWO4 John W Frederick, Jr.', a military officer (Chief Warrant Officer 4), while the Wikipedia article is about 'John Frederick Nims', who was a poet and academic. The names do not match, and there is no indication that Nims had a military or law enforcement background relevant to a highway memorial in Illinois.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          41.0501917,
+          -88.90547685
+        ],
+        "state": "IL"
+      },
+      "designation": {},
+      "highway": "I-155",
+      "lawWebLink": "https://en.wikipedia.org/wiki/John_Frederick_Nims"
+    },
+    {
+      "id": "IL-39",
+      "shapeId": "csv-39",
+      "name": "LCPL Nicholas Kleiboeker Memorial Highway",
+      "state": "IL",
+      "honoree": {
+        "name": "LCPL Nicholas Kleiboeker"
+      },
+      "location": {
+        "coordinates": [
+          40.349457,
+          -88.906137
+        ],
+        "state": "IL"
+      },
+      "designation": {},
+      "highway": "US Route 50"
+    },
+    {
+      "id": "IL-40",
+      "shapeId": "csv-40",
+      "name": "Bruce Alan Williams Memorial Highway",
+      "state": "IL",
+      "honoree": {
+        "name": "Bruce Alan Williams",
+        "summary": "[UNVERIFIED] The Wikipedia article is for 'Blind Connie Williams', a blues musician, but the highway is named after 'Bruce Alan Williams'. The names do not match, and there is no indication that 'Blind Connie Williams' is connected to Bruce Alan Williams or to Illinois in a way that would justify the memorial highway naming.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          40.444457,
+          -88.986137
+        ],
+        "state": "IL"
+      },
+      "designation": {},
+      "highway": "US Route 40",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Blind_Connie_Williams"
+    },
+    {
+      "id": "IL-41",
+      "shapeId": "csv-41",
+      "name": "SP4 William Eugene Campbell Memorial Highway",
+      "state": "IL",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          40.349457,
+          -89.096137
+        ],
+        "state": "IL"
+      },
+      "designation": {},
+      "highway": "IL Route 47"
+    },
+    {
+      "id": "IL-42",
+      "shapeId": "csv-42",
+      "name": "SGT Bernard Lee Franke Memorial Highway",
+      "state": "IL",
+      "honoree": {
+        "name": "SGT Bernard Lee Franke"
+      },
+      "location": {
+        "coordinates": [
+          40.224457,
+          -88.986137
+        ],
+        "state": "IL"
+      },
+      "designation": {},
+      "highway": "IL Route 138"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2026-04-22T17:36:07.805Z",
+    "totalCount": 8,
+    "states": [
+      "IL"
+    ]
+  }
+}
