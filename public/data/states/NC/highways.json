@@ -3169,7 +3169,6 @@
       "state": "NC",
       "honoree": {
         "name": "Harvey A. Carpenter",
-        "summary": "[UNVERIFIED] The highway is named 'Harvey A. Carpenter, Jr.' but the Wikipedia article is for 'James W. Hutchins', a different person. The article does not mention Harvey A. Carpenter, Jr., and the names do not match.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -4066,7 +4065,6 @@
       "state": "NC",
       "honoree": {
         "name": "T. Clarence Stone",
-        "summary": "[UNVERIFIED] The provided Wikipedia article text is only a generic navigation menu and does not contain any content about William F. Stone. Without article content confirming the person's identity, profession, or connection to North Carolina, it cannot be verified as the correct person for the 'T. Clarence Stone Highway' designation.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -4106,7 +4104,6 @@
       "state": "NC",
       "honoree": {
         "name": "Jake May",
-        "summary": "[UNVERIFIED] The provided Wikipedia article text is only a generic Wikipedia menu/navigation header and does not contain any content about a specific person. Without article content confirming the subject's identity, connection to North Carolina, or relevance for a highway naming, it cannot be validated as the correct person.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -4248,7 +4245,6 @@
       "state": "NC",
       "honoree": {
         "name": "George Washington",
-        "summary": "[UNVERIFIED] The Wikipedia article is for George H. Brown, a North Carolina judge, but the highway is named 'George Washington Highway,' which is typically associated with George Washington, the first U.S. president, not a local judge. The name mismatch and lack of direct connection to the highway's naming convention suggest this is not the correct person.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -4377,7 +4373,6 @@
       "state": "NC",
       "honoree": {
         "name": "W. S. Wilkinson",
-        "summary": "[UNVERIFIED] The provided Wikipedia article content is only a generic navigation menu and does not contain any information about Morton S. Wilkinson. Without article content confirming the person's identity, profession, or connection to North Carolina, it cannot be validated as the correct person for the highway.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -4400,7 +4395,6 @@
       "state": "NC",
       "honoree": {
         "name": "Robert Scott",
-        "summary": "[UNVERIFIED] The highway is named 'Robert Scott Highway' in North Carolina, but the Wikipedia article is for 'Mary White Scott', a different person. The names do not match, and there is no indication in the provided text that Mary White Scott is connected to North Carolina or a highway memorial.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -4468,7 +4462,6 @@
       "state": "NC",
       "honoree": {
         "name": "The Davidson College",
-        "summary": "[UNVERIFIED] The provided Wikipedia article content appears to be a generic Wikipedia interface and does not contain any information about Cliffe Knechtle. Without any biographical details, it is impossible to verify if he is the person the highway is named after. Additionally, a quick external check indicates Cliffe Knechtle is a Christian apologist and evangelist, not a figure typically associated with highway naming in North Carolina.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -4486,7 +4479,7 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-04-22T18:34:53.610Z",
+    "lastUpdated": "2026-04-22T19:02:10.333Z",
     "totalCount": 259,
     "states": [
       "NC"

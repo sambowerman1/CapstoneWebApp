@@ -67,7 +67,6 @@
       "state": "UT",
       "honoree": {
         "name": "Pioneer Trail",
-        "summary": "[UNVERIFIED] The provided Wikipedia article text appears to be a generic Wikipedia interface and does not contain any biographical information about Thomas Rhoads. Without content confirming the person's identity, profession, or connection to Utah, it cannot be verified as the correct individual for the 'Pioneer Trail Memorial Highway' designation.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -236,7 +235,6 @@
       "state": "UT",
       "honoree": {
         "name": "Navajo Code Talker",
-        "summary": "[UNVERIFIED] The provided Wikipedia article text is only a generic Wikipedia interface and does not contain any content about Allen Dale June. Without article content confirming the person's identity, connection to Utah, or relevance as a Navajo Code Talker, it cannot be validated as the correct subject for the 'Navajo Code Talker Highway' in Utah.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -278,7 +276,6 @@
       "state": "UT",
       "honoree": {
         "name": "Golden Spike/Lincoln",
-        "summary": "[UNVERIFIED] The provided Wikipedia article content is only a generic navigation menu and does not contain any information about a person named Hezekiah Bissell. Without article content confirming the person's identity, profession, or connection to Utah, it cannot be validated as the correct individual for the highway designation.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -302,7 +299,6 @@
       "state": "UT",
       "honoree": {
         "name": "Jake Garn Legacy",
-        "summary": "[UNVERIFIED] The Wikipedia article is for J. Bracken Lee, a former Governor of Utah and Mayor of Salt Lake City, but the highway is named 'Jake Garn Legacy Highway' after Jake Garn, a U.S. Senator from Utah and former astronaut. The names do not match, and the article subject is not the person the highway is named after.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -326,7 +322,6 @@
       "state": "UT",
       "honoree": {
         "name": "Borgstrom Brothers",
-        "summary": "[UNVERIFIED] The provided Wikipedia article content is only a generic Wikipedia interface and does not contain any information about Lawson Crouse. The highway is named after the 'Borgstrom Brothers' (likely a local family or historical figures from Utah), not Lawson Crouse. Lawson Crouse is a professional ice hockey player, which does not align with the typical profile for a memorial highway naming (often for local tragedy or service), and there is no indication he has a connection to Utah or the Borgstrom family.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -345,7 +340,7 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-04-22T18:34:53.610Z",
+    "lastUpdated": "2026-04-22T19:02:10.333Z",
     "totalCount": 15,
     "states": [
       "UT"

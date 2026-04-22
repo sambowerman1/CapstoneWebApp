@@ -7,7 +7,6 @@
       "state": "NV",
       "honoree": {
         "name": "Micah David May",
-        "summary": "[UNVERIFIED] The Wikipedia article is for David Faustino, an American actor known for his role on 'Married... with Children,' with no connection to Nevada or a memorial highway. The highway is named after Micah David May, a Nevada Army National Guard soldier killed in Afghanistan, which is a different person entirely.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -36,7 +35,6 @@
       "state": "NV",
       "honoree": {
         "name": "Benjamin Michael Jenkins",
-        "summary": "[UNVERIFIED] The Wikipedia article is about Mike Matusow, a professional poker player, not Benjamin Michael Jenkins. The highway is named 'Benjamin Michael Jenkins Memorial Highway' in Nevada, and the article subject does not match the name. Additionally, a poker player's background does not typically warrant a highway memorial, which is more common for law enforcement, military, or local figures.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -83,7 +81,6 @@
       "state": "NV",
       "honoree": {
         "name": "Carlos J. Borland",
-        "summary": "[UNVERIFIED] The Wikipedia article is about Nick Saban, a famous football coach, but the highway is named 'Carlos J. Borland Memorial Highway' and is located in Nevada. There is no indication that Nick Saban is connected to Nevada or that the highway is named after him; the names do not match.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -161,7 +158,7 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-04-22T18:34:53.610Z",
+    "lastUpdated": "2026-04-22T19:02:10.333Z",
     "totalCount": 7,
     "states": [
       "NV"

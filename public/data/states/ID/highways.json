@@ -25,7 +25,6 @@
       "state": "ID",
       "honoree": {
         "name": "I.B. Perrine",
-        "summary": "[UNVERIFIED] The provided Wikipedia article text is only a generic navigation menu and does not contain any content about a person named 'I. B. Perrine'. Without biographical details, it cannot be confirmed that the article is about the individual associated with the I.B. Perrine Bridge in Idaho.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -157,7 +156,6 @@
       "state": "ID",
       "honoree": {
         "name": "Bobby Chambers",
-        "summary": "[UNVERIFIED] The Wikipedia article is for Bobby Hutcherson, a jazz vibraphonist, not Bobby Chambers. The highway is named 'Bobby Chambers Memorial Highway' in Idaho, and there is no indication in the article that Bobby Hutcherson is connected to Idaho or has a background that would warrant a highway memorial (e.g., law enforcement, military, or local figure).",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -176,7 +174,7 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-04-22T18:34:53.610Z",
+    "lastUpdated": "2026-04-22T19:02:10.333Z",
     "totalCount": 9,
     "states": [
       "ID"

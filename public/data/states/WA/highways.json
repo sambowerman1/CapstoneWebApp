@@ -25,7 +25,6 @@
       "state": "WA",
       "honoree": {
         "name": "Erwin O. Rieger",
-        "summary": "[UNVERIFIED] The highway is named 'Erwin O. Rieger Memorial Highway' in Washington, but the Wikipedia article is for 'Fred Upton', a U.S. Representative from Michigan. The names do not match, and there is no indication that Fred Upton is connected to Washington or the memorial highway.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -49,7 +48,6 @@
       "state": "WA",
       "honoree": {
         "name": "Spirit Lake",
-        "summary": "[UNVERIFIED] The provided Wikipedia article text appears to be a generic Wikipedia interface and does not contain any biographical information about Harry R. Truman. The Spirit Lake Memorial Highway in Washington is named after Harry R. Truman, who was a notable local figure and innkeeper who died in the 1980 Mount St. Helens eruption. Without biographical content in the snippet, it cannot be confirmed as the correct article.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -68,7 +66,7 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-04-22T18:34:53.610Z",
+    "lastUpdated": "2026-04-22T19:02:10.333Z",
     "totalCount": 3,
     "states": [
       "WA"

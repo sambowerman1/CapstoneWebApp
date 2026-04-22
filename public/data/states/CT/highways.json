@@ -175,7 +175,6 @@
       "state": "CT",
       "honoree": {
         "name": "Clarence B. Sharp",
-        "summary": "[UNVERIFIED] The Wikipedia article is for Ezra T. Sprague, but the highway is named 'Clarence B. Sharp Highway'. The names do not match, and there is no indication in the provided text that Ezra T. Sprague is connected to Clarence B. Sharp or that the highway is named after Sprague.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -289,7 +288,6 @@
       "state": "CT",
       "honoree": {
         "name": "William J. Hilliard",
-        "summary": "[UNVERIFIED] The Wikipedia article is about Benedict Arnold, a famous American Revolutionary War figure known for treason, not William J. Hilliard. The highway name explicitly references 'William J. Hilliard,' and there is no indication in the provided text that this is the same person or that Benedict Arnold has any connection to a memorial highway in Connecticut under that name.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -313,7 +311,6 @@
       "state": "CT",
       "honoree": {
         "name": "E Bartlett Barnes",
-        "summary": "[UNVERIFIED] The Wikipedia article is for Henry Chandler Cowles, a botanist and ecologist, but the highway is named 'E Bartlett Barnes Highway'. The names do not match, and there is no indication in the provided text that Cowles is associated with that specific highway designation or that the highway is named after him.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -337,7 +334,6 @@
       "state": "CT",
       "honoree": {
         "name": "Clarence B. Sharp",
-        "summary": "[UNVERIFIED] The Wikipedia article is for Ezra T. Sprague, but the highway is named 'Clarence B. Sharp Highway'. The names do not match, and there is no indication in the provided text that Ezra T. Sprague is connected to Clarence B. Sharp or that the highway is named after Sprague.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -356,7 +352,7 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-04-22T18:34:53.610Z",
+    "lastUpdated": "2026-04-22T19:02:10.333Z",
     "totalCount": 17,
     "states": [
       "CT"

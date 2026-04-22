@@ -162,7 +162,10 @@ function buildHighway(
   const id = geo?.id || src.id || "";
   const personName =
     cleanStr(src.person_name) || cleanStr(src.odmp_name) || "Unknown";
-  const summary = cleanStr(src.summary) || cleanStr(src.odmp_bio);
+  const rawSummary = cleanStr(src.summary) || cleanStr(src.odmp_bio);
+  // Suppress summaries flagged as unverified by the upstream matching pipeline —
+  // they contain explanations of failed matches, not biographical content.
+  const summary = rawSummary && /\[UNVERIFIED\]/i.test(rawSummary) ? undefined : rawSummary;
   const county = cleanStr(src.county) || cleanStr(geo?.parsed_county);
   const routeNo = cleanStr(src.route_no);
 

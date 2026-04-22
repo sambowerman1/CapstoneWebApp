@@ -43,7 +43,6 @@
       "state": "WI",
       "honoree": {
         "name": "Citizen Soldier",
-        "summary": "[UNVERIFIED] The provided Wikipedia article snippet is only a generic navigation menu and does not contain any content about a person named Carl Schmidt. Without article content, there is no evidence that this is the correct person, and the highway name 'Citizen Soldier Highway' suggests a military connection which is not confirmed here.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -151,7 +150,6 @@
       "state": "WI",
       "honoree": {
         "name": "Gaylord Nelson",
-        "summary": "[UNVERIFIED] The highway is named 'Gaylord Nelson Highway' after Gaylord Nelson, a former Wisconsin governor and U.S. senator known for founding Earth Day. The Wikipedia article provided is for Bob Kasten, who is also a Wisconsin politician (former U.S. senator and governor), but the name mismatch is clear: the highway is explicitly named after Gaylord Nelson, not Bob Kasten. The article subject does not match the name of the person the highway honors.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -175,7 +173,6 @@
       "state": "WI",
       "honoree": {
         "name": "Georgia O’Keeffe",
-        "summary": "[UNVERIFIED] The Wikipedia article is for Ida O'Keeffe, but the highway is named 'Georgia O’Keeffe Memorial Highway'. Georgia O'Keeffe is a famous American artist primarily associated with New Mexico, not Wisconsin. Ida O'Keeffe was an artist and sister of Georgia, but there is no indication the highway is named after Ida, and the name mismatch suggests it is likely intended for Georgia O'Keeffe, making this article incorrect for the given highway.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -486,7 +483,6 @@
       "state": "WI",
       "honoree": {
         "name": "Stephen Ambrose",
-        "summary": "[UNVERIFIED] The provided Wikipedia article snippet is a generic Wikipedia interface and does not contain any content about a person named 'Ambrose Stephen McDonald'. Without article content confirming the person's identity, profession, or connection to Wisconsin, it cannot be validated as the correct subject for the 'Stephen Ambrose Memorial Highway'.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -564,7 +560,6 @@
       "state": "WI",
       "honoree": {
         "name": "Wisconsin Law Enforcement Officers",
-        "summary": "[UNVERIFIED] The article is about Jesse James, a Wisconsin politician, but the highway is named 'Wisconsin Law Enforcement Officers Highway,' which honors law enforcement officers. A politician does not fit the theme of a law enforcement memorial highway.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -637,7 +632,7 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-04-22T18:34:53.610Z",
+    "lastUpdated": "2026-04-22T19:02:10.333Z",
     "totalCount": 31,
     "states": [
       "WI"

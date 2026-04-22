@@ -65,7 +65,6 @@
       "state": "MD",
       "honoree": {
         "name": "Paul T. Pitcher",
-        "summary": "[UNVERIFIED] The Wikipedia article is for Dave Cole (baseball), but the highway is named 'Paul T. Pitcher Memorial Highway'. The names do not match, and there is no indication that Dave Cole is connected to Paul T. Pitcher or the state of Maryland in a way that would justify the highway naming.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -139,7 +138,6 @@
       "state": "MD",
       "honoree": {
         "name": "John F. Kennedy",
-        "summary": "[UNVERIFIED] The Wikipedia article is for John P. Kennedy, a 19th-century American politician and author from Maryland, but the 'John F. Kennedy Memorial Highway' in Maryland is named after President John F. Kennedy (assassinated 1963), not this John P. Kennedy. The names and historical contexts do not match.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -230,7 +228,6 @@
       "state": "MD",
       "honoree": {
         "name": "The Louis L. Goldstein",
-        "summary": "[UNVERIFIED] The Wikipedia article is about Paul Goldstein, a professional tennis player, not Louis L. Goldstein. The highway is named after Louis L. Goldstein, a Maryland politician, which does not match the article's subject.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -299,7 +296,6 @@
       "state": "MD",
       "honoree": {
         "name": "Joseph Biggs",
-        "summary": "[UNVERIFIED] The highway is named 'Joseph Biggs Memorial Highway' after Joseph Biggs, but the Wikipedia article is for 'Joseph Ogle'. The names do not match, and the provided article text does not mention Joseph Biggs or any connection to Maryland.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -322,7 +318,6 @@
       "state": "MD",
       "honoree": {
         "name": "Jacob Tome",
-        "summary": "[UNVERIFIED] The provided Wikipedia article text is only a generic navigation menu and does not contain any content about Jacob Tome, such as his biography, profession, or connection to Maryland. Without substantive content, it cannot be verified that this article is about the person the highway was named after.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -362,7 +357,6 @@
       "state": "MD",
       "honoree": {
         "name": "Dwight D. Eisenhower",
-        "summary": "[UNVERIFIED] The Wikipedia article is for David Eisenhower, who is the grandson of President Dwight D. Eisenhower, not the president himself. The highway is named 'Dwight D. Eisenhower Memorial Highway,' which honors the president, a military leader and U.S. president with strong connections to Maryland (where the highway is located) via the Eisenhower Tunnel and other memorials. David Eisenhower is an academic and historian, not the figure typically memorialized with a major highway.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -498,7 +492,6 @@
       "state": "MD",
       "honoree": {
         "name": "Robert Crain",
-        "summary": "[UNVERIFIED] The provided Wikipedia article content is only the site navigation and does not contain any information about a person named Robert Crain. Without article content confirming the person's identity, profession, or connection to Maryland, it cannot be validated as the correct individual for the highway namesake.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -521,7 +514,6 @@
       "state": "MD",
       "honoree": {
         "name": "Martin Luther King Jr",
-        "summary": "[UNVERIFIED] The Wikipedia article is for Elaine Batchlor, who is a healthcare executive and not directly connected to the Martin Luther King Jr. Highway in Maryland. The highway is named after Dr. Martin Luther King Jr., a civil rights leader, not Elaine Batchlor.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -657,7 +649,6 @@
       "state": "MD",
       "honoree": {
         "name": "Michael H. Weir",
-        "summary": "[UNVERIFIED] The highway is dedicated to 'Delegate Michael H. Weir, Sr.', indicating a political figure (likely a state delegate) and the senior generation. The Wikipedia article is for 'Michael H. Weir Jr.', and the provided snippet does not show any content confirming a political role, Maryland connection, or that he is the senior figure being honored. The name mismatch (Jr. vs. Sr.) and lack of supporting details in the article suggest it is not the correct person.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -1071,7 +1062,6 @@
       "state": "MD",
       "honoree": {
         "name": "Brooks Robinson",
-        "summary": "[UNVERIFIED] The Wikipedia article is for Brooks Barnard, but the highway is named 'Brooks Robinson Drive'. Brooks Robinson is a famous baseball Hall of Famer associated with Maryland (Baltimore Orioles), while Brooks Barnard appears to be a different individual. The name mismatch and lack of connection to Maryland sports history suggest this is not the correct person for the highway memorial.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -1591,7 +1581,6 @@
       "state": "MD",
       "honoree": {
         "name": "Stephanie Roper",
-        "summary": "[UNVERIFIED] The Wikipedia article is about Harriet Tubman, a historical figure known for her work with the Underground Railroad, but the highway is named 'Stephanie Roper Highway,' which is likely named after a different person (Stephanie Roper). The article's subject does not match the name of the highway.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -1784,7 +1773,6 @@
       "state": "MD",
       "honoree": {
         "name": "DeGrange",
-        "summary": "[UNVERIFIED] The highway is dedicated to Senator James Ed DeGrange, Sr., a Maryland politician, but the Wikipedia article is for Brooke Lierman, who is a different person (currently Maryland's Comptroller) and not the namesake of this memorial.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -2125,7 +2113,7 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-04-22T18:34:53.610Z",
+    "lastUpdated": "2026-04-22T19:02:10.333Z",
     "totalCount": 116,
     "states": [
       "MD"

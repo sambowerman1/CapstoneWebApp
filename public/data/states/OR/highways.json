@@ -78,7 +78,6 @@
       "state": "OR",
       "honoree": {
         "name": "Police Chief Ralph Painter",
-        "summary": "[UNVERIFIED] The Wikipedia article is about Claude Akins, an American actor known for roles in 'The Rockford Files' and 'Movin' On', not a law enforcement figure. The highway is named after Police Chief Ralph Painter, a law enforcement officer from Oregon, making the article subject incorrect for the memorial.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -143,7 +142,6 @@
       "state": "OR",
       "honoree": {
         "name": "William Tebeau",
-        "summary": "[UNVERIFIED] The provided Wikipedia article text is only a generic Wikipedia interface and navigation menu, containing no information about a person named William Tebeau. Without any biographical details, it cannot be confirmed that this article is about the individual for whom the Oregon highway is named.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -311,7 +309,6 @@
       "state": "OR",
       "honoree": {
         "name": "Don Kendall",
-        "summary": "[UNVERIFIED] The provided Wikipedia article snippet is only a generic Wikipedia menu/navigation bar and contains no information about Carroll Williams. The highway is named 'Don Kendall Memorial Highway' in Oregon, but the article subject is 'Carroll Williams,' with no apparent connection to Don Kendall or Oregon in the snippet. Without evidence linking Carroll Williams to the memorial or the state, this is likely not the correct person.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -348,7 +345,7 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-04-22T18:34:53.610Z",
+    "lastUpdated": "2026-04-22T19:02:10.333Z",
     "totalCount": 18,
     "states": [
       "OR"

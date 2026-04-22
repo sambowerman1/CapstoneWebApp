@@ -133,7 +133,6 @@
       "state": "RI",
       "honoree": {
         "name": "Eddie Dowling",
-        "summary": "[UNVERIFIED] The provided text is only the Wikipedia page's navigation and header content, not the article's main body. It does not contain any biographical information about Eddie Dowling, such as his connection to Rhode Island or his profession, making it impossible to verify if he is the person the highway is named after.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -277,7 +276,7 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-04-22T18:34:53.610Z",
+    "lastUpdated": "2026-04-22T19:02:10.333Z",
     "totalCount": 15,
     "states": [
       "RI"

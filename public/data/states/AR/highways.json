@@ -65,7 +65,6 @@
       "state": "AR",
       "honoree": {
         "name": "Louis Jordan",
-        "summary": "[UNVERIFIED] The Wikipedia article for 'Charley Jordan' appears to be about a blues musician, not a person typically honored with a memorial highway in Arkansas. The highway is named after 'Louis Jordan' (a famous jazz and blues musician from Arkansas), but the article retrieved is for 'Charley Jordan', indicating a mismatch in the person's name.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -89,7 +88,6 @@
       "state": "AR",
       "honoree": {
         "name": "Sister Rosetta Tharpe",
-        "summary": "[UNVERIFIED] The Wikipedia article is for Al Green, a soul singer and pastor, but the highway is named after Sister Rosetta Tharpe, a pioneering gospel and rock guitarist. The names do not match, and Al Green has no known connection to a memorial highway named after Sister Rosetta Tharpe in Arkansas.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -113,7 +111,6 @@
       "state": "AR",
       "honoree": {
         "name": "Americana Music",
-        "summary": "[UNVERIFIED] The article provided is only a Wikipedia navigation menu and does not contain any content about Zach Williams. Without article content, there is no evidence that this Zach Williams is a musician connected to Arkansas or the 'Americana Music Highway.' The highway name suggests a connection to music, but the provided snippet does not confirm the subject's identity or relevance.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -132,7 +129,7 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-04-22T18:34:53.610Z",
+    "lastUpdated": "2026-04-22T19:02:10.333Z",
     "totalCount": 5,
     "states": [
       "AR"

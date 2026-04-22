@@ -7,7 +7,6 @@
       "state": "NE",
       "honoree": {
         "name": "American Legion",
-        "summary": "[UNVERIFIED] The provided Wikipedia article text appears to be a generic Wikipedia interface and navigation menu, not the actual article content for Butler B. Miltonberger. Without the article's substantive content, it cannot be verified that the subject is the correct person associated with the American Legion Memorial Highway in Nebraska. The name matches, but the lack of biographical details prevents confirmation.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -155,7 +154,6 @@
       "state": "NE",
       "honoree": {
         "name": "Barney Oldfield",
-        "summary": "[UNVERIFIED] The Wikipedia article provided is only a navigation menu and does not contain any content about a person. Without article content confirming the subject's identity, profession, or connection to Nebraska, it cannot be verified as the correct Barney Oldfield. Additionally, the famous Barney Oldfield was a national automobile racer with no known strong ties to Nebraska, making a memorial highway there unlikely to be named after him.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -261,7 +259,6 @@
       "state": "NE",
       "honoree": {
         "name": "Glenn Miller",
-        "summary": "[UNVERIFIED] The Wikipedia article is for Glenn Presnell, a former American football player, not the musician Glenn Miller. The 'Glenn Miller Memorial Highway' in Nebraska is named after the famous bandleader Glenn Miller, who has no known connection to Nebraska as a resident or through his career, but the memorial is specifically for him. The article subject does not match the person the highway is named after.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -321,7 +318,6 @@
       "state": "NE",
       "honoree": {
         "name": "Harold Warp",
-        "summary": "[UNVERIFIED] The provided text is only the Wikipedia page's navigation and header content, not the article body. It does not contain any information about Harold Warp, his connection to Nebraska, or his background, making it impossible to verify if he is the correct person for whom the memorial drive is named.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -410,7 +406,6 @@
       "state": "NE",
       "honoree": {
         "name": "McLellan",
-        "summary": "[UNVERIFIED] The Wikipedia article is about Zoe McLellan, an actress known for roles in TV shows like 'NCIS: New Orleans'. The highway is named 'John McLellan, Jr., Expressway' in Nebraska, which suggests it is named after a male individual, likely a local figure, law enforcement officer, or politician from Nebraska. Zoe McLellan is a female actress with no known connection to Nebraska or highway naming conventions, making it highly unlikely she is the person honored by this expressway.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -542,7 +537,6 @@
       "state": "NE",
       "honoree": {
         "name": "Robert Taylor",
-        "summary": "[UNVERIFIED] The Wikipedia article is for Aaron Taylor (American football, born 1975), a former NFL player, but the highway is named 'Robert Taylor Highway' in Nebraska. The names do not match, and there is no indication that Aaron Taylor is connected to Nebraska or that a highway would be named after him under a different name.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -588,7 +582,6 @@
       "state": "NE",
       "honoree": {
         "name": "Sam Foltz",
-        "summary": "[UNVERIFIED] The highway is named 'Sam Foltz Memorial Highway' after Sam Foltz, a Nebraska native and NFL player who died in a car crash. The Wikipedia article is for Jamie Pollard, who is an athletic director (primarily at Iowa State University) and has no known connection to the memorial highway or the name Sam Foltz.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -715,7 +708,7 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-04-22T18:34:53.610Z",
+    "lastUpdated": "2026-04-22T19:02:10.333Z",
     "totalCount": 34,
     "states": [
       "NE"

@@ -7,7 +7,6 @@
       "state": "IL",
       "honoree": {
         "name": "Richard L Daugherty",
-        "summary": "[UNVERIFIED] The highway is named after CPL Richard L Daugherty, but the Wikipedia article is about Tommy Tuberville, a U.S. Senator from Alabama and former football coach, with no connection to Illinois or the memorial's namesake.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -67,7 +66,6 @@
       "state": "IL",
       "honoree": {
         "name": "John W Frederick",
-        "summary": "[UNVERIFIED] The highway is named after 'CWO4 John W Frederick, Jr.', a military officer (Chief Warrant Officer 4), while the Wikipedia article is about 'John Frederick Nims', who was a poet and academic. The names do not match, and there is no indication that Nims had a military or law enforcement background relevant to a highway memorial in Illinois.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -109,7 +107,6 @@
       "state": "IL",
       "honoree": {
         "name": "Bruce Alan Williams",
-        "summary": "[UNVERIFIED] The Wikipedia article is for 'Blind Connie Williams', a blues musician, but the highway is named after 'Bruce Alan Williams'. The names do not match, and there is no indication that 'Blind Connie Williams' is connected to Bruce Alan Williams or to Illinois in a way that would justify the memorial highway naming.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -164,7 +161,7 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-04-22T18:34:53.610Z",
+    "lastUpdated": "2026-04-22T19:02:10.333Z",
     "totalCount": 8,
     "states": [
       "IL"

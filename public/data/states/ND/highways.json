@@ -79,7 +79,6 @@
       "state": "ND",
       "honoree": {
         "name": "Trooper Beryl McLane",
-        "summary": "[UNVERIFIED] The Wikipedia article appears to be a generic page or placeholder (likely a disambiguation or stub page) with no specific information about a person named Kyle Green. The highway is named after 'Trooper Beryl McLane,' which suggests a law enforcement officer, but the article does not mention Beryl McLane, North Dakota, or any relevant connection. The name mismatch (Kyle Green vs. Beryl McLane) and lack of supporting details indicate this is not the correct person.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -103,7 +102,6 @@
       "state": "ND",
       "honoree": {
         "name": "PFC Henry Gurke",
-        "summary": "[UNVERIFIED] The provided Wikipedia article content is only the site navigation and does not contain any information about Henry Gurke, such as his biography, connection to North Dakota, or military service. Without confirming the article's subject matches the person honored by the highway, we cannot validate it.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -140,7 +138,7 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-04-22T18:34:53.610Z",
+    "lastUpdated": "2026-04-22T19:02:10.333Z",
     "totalCount": 7,
     "states": [
       "ND"

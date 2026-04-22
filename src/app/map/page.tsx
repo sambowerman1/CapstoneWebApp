@@ -28,7 +28,6 @@ export default function MapPage() {
   const handleFilterChange = (filters: {
     state?: string
     search?: string
-    branch?: string
   }) => {
     if (!data) return
 
@@ -45,10 +44,6 @@ export default function MapPage() {
           h.name.toLowerCase().includes(query) ||
           h.honoree.name.toLowerCase().includes(query)
       )
-    }
-
-    if (filters.branch) {
-      filtered = filtered.filter((h) => h.honoree.branch === filters.branch)
     }
 
     setFilteredHighways(filtered)

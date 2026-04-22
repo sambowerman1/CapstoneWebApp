@@ -96,7 +96,6 @@
       "state": "HI",
       "honoree": {
         "name": "Joseph P. Leong",
-        "summary": "[UNVERIFIED] The Wikipedia article is for 'Kaʻiulani' (Princess Victoria Kaʻiulani), a historical Hawaiian royal figure, but the highway is named 'Joseph P. Leong Highway'. The names do not match, and there is no indication that Kaʻiulani is connected to Joseph P. Leong or that the highway honors her.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -192,7 +191,6 @@
       "state": "HI",
       "honoree": {
         "name": "Joseph P. Leong",
-        "summary": "[UNVERIFIED] The Wikipedia article is for 'Kaʻiulani' (Princess Victoria Kaʻiulani), a historical Hawaiian royal figure, but the highway is named 'Joseph P. Leong Highway'. The names do not match, and there is no indication that Kaʻiulani is connected to Joseph P. Leong or that the highway honors her.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -252,7 +250,6 @@
       "state": "HI",
       "honoree": {
         "name": "Joseph P. Leong",
-        "summary": "[UNVERIFIED] The Wikipedia article is for 'Kaʻiulani' (Princess Victoria Kaʻiulani), a historical Hawaiian royal figure, but the highway is named 'Joseph P. Leong Highway'. The names do not match, and there is no indication that Kaʻiulani is connected to Joseph P. Leong or that the highway honors her.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -589,7 +586,7 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-04-22T18:34:53.610Z",
+    "lastUpdated": "2026-04-22T19:02:10.333Z",
     "totalCount": 32,
     "states": [
       "HI"

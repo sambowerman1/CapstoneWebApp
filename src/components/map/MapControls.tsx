@@ -15,7 +15,6 @@ interface MapControlsProps {
   onFilterChange: (filters: {
     state?: string
     search?: string
-    branch?: string
   }) => void
   onStateSelect?: (state: string | undefined) => void
   states: string[]
@@ -24,7 +23,6 @@ interface MapControlsProps {
 export default function MapControls({ onFilterChange, onStateSelect, states }: MapControlsProps) {
   const [search, setSearch] = useState("")
   const [state, setState] = useState<string>("__all__")
-  const [branch, setBranch] = useState<string>("__all__")
 
   const handleStateChange = (value: string) => {
     setState(value)
@@ -38,14 +36,12 @@ export default function MapControls({ onFilterChange, onStateSelect, states }: M
     onFilterChange({
       search: search || undefined,
       state: state === "__all__" ? undefined : state || undefined,
-      branch: branch === "__all__" ? undefined : branch || undefined,
     })
   }
 
   const handleReset = () => {
     setSearch("")
     setState("__all__")
-    setBranch("__all__")
     onFilterChange({})
     if (onStateSelect) {
       onStateSelect(undefined)
@@ -71,7 +67,7 @@ export default function MapControls({ onFilterChange, onStateSelect, states }: M
 
   return (
     <div className="bg-white p-4 rounded-lg border">
-      <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
         <Input
           placeholder="Search highways or honorees..."
           value={search}
@@ -82,27 +78,13 @@ export default function MapControls({ onFilterChange, onStateSelect, states }: M
           <SelectTrigger>
             <SelectValue placeholder="Filter by state" />
           </SelectTrigger>
-          <SelectContent>
+          <SelectContent className="z-[2000]">
             <SelectItem value="__all__">All States</SelectItem>
             {states.filter(s => s && s.trim() !== '').sort().map((s) => (
               <SelectItem key={s} value={s}>
                 {stateNames[s] || s}
               </SelectItem>
             ))}
-          </SelectContent>
-        </Select>
-
-        <Select value={branch} onValueChange={setBranch}>
-          <SelectTrigger>
-            <SelectValue placeholder="Filter by branch" />
-          </SelectTrigger>
-          <SelectContent>
-            <SelectItem value="__all__">All Branches</SelectItem>
-            <SelectItem value="Army">Army</SelectItem>
-            <SelectItem value="Navy">Navy</SelectItem>
-            <SelectItem value="Air Force">Air Force</SelectItem>
-            <SelectItem value="Marines">Marines</SelectItem>
-            <SelectItem value="Coast Guard">Coast Guard</SelectItem>
           </SelectContent>
         </Select>
 

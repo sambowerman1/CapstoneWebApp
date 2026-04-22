@@ -61,7 +61,6 @@
       "state": "TX",
       "honoree": {
         "name": "Senator Lloyd Bentsen",
-        "summary": "[UNVERIFIED] The highway is named after Senator Lloyd Bentsen, a prominent Texas politician, but the Wikipedia article is for Ken Bentsen, who is a different person (nephew of Lloyd Bentsen and also a politician). The article subject does not match the name associated with the highway.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -139,7 +138,6 @@
       "state": "TX",
       "honoree": {
         "name": "Second Indian Head Division",
-        "summary": "[UNVERIFIED] The provided Wikipedia article content is only a generic Wikipedia navigation menu and does not contain any information about a person named Daniyal Robinson. There is no evidence of a biography, connection to Texas, or relevance to a highway memorial. The article appears to be a placeholder or error, not a valid article about the person.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -163,7 +161,6 @@
       "state": "TX",
       "honoree": {
         "name": "Pearl Harbor",
-        "summary": "[UNVERIFIED] The provided Wikipedia article snippet is only a navigation menu and does not contain any content about James O. Richardson. Without article content, it cannot be confirmed that this is the person the Pearl Harbor Memorial Highway in Texas is named after. Additionally, a quick external check indicates the highway is likely named for Pearl Harbor victims or local figures, not necessarily James O. Richardson, who was a U.S. Navy admiral but not specifically tied to Texas.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -223,7 +220,6 @@
       "state": "TX",
       "honoree": {
         "name": "Ray C. Stoker",
-        "summary": "[UNVERIFIED] The Wikipedia article is for David J. Schow, a screenwriter and author, not Ray C. Stoker, Jr. The highway is named after Ray C. Stoker, Jr., and the article subject does not match the name. There is no indication of a connection to Texas or a background that would warrant a highway memorial (e.g., law enforcement, military, or local public service).",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -311,7 +307,6 @@
       "state": "TX",
       "honoree": {
         "name": "John B. Coleman",
-        "summary": "[UNVERIFIED] The highway is named 'John B. Coleman Memorial Highway', but the Wikipedia article is for 'Garnet Coleman', a different person. While both are politicians from Texas, the names do not match, indicating the article is not about the person the highway was named after.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -367,7 +362,6 @@
       "state": "TX",
       "honoree": {
         "name": "Ernest T. Dixon",
-        "summary": "[UNVERIFIED] The provided Wikipedia article content is only a generic navigation menu and does not contain any information about Ernest T. Dixon Jr., such as his biography, connection to Texas, or profession. Without substantive content, it cannot be confirmed that the article is about the person the highway was named after.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -533,7 +527,6 @@
       "state": "TX",
       "honoree": {
         "name": "Joe Parks, Jr",
-        "summary": "[UNVERIFIED] The highway is named 'Sergeant Joe Parks, Jr. Memorial Highway' in Texas, but the Wikipedia article is for Joseph Dunford, a retired U.S. Marine Corps general and former Chairman of the Joint Chiefs of Staff. There is no indication that Joseph Dunford is connected to Texas or has the name 'Joe Parks,' and his military rank is General, not Sergeant. The names and contexts do not match.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -604,7 +597,6 @@
       "state": "TX",
       "honoree": {
         "name": "Phantom Warriors",
-        "summary": "[UNVERIFIED] The Wikipedia article is about Carolyn Hester, a folk singer and musician, not a person typically associated with a highway named 'Phantom Warriors Highway' in Texas. The name 'Phantom Warriors' suggests a military or law enforcement connection, which does not align with her background. Additionally, there is no indication in the provided text that she is from Texas or has a significant connection to the state that would warrant such a memorial.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -646,7 +638,6 @@
       "state": "TX",
       "honoree": {
         "name": "Cesar Chavez Border",
-        "summary": "[UNVERIFIED] The Wikipedia article is for Atzimba Casas, a Mexican actress and model, with no connection to Texas or Cesar Chavez. The highway is named after Cesar Chavez, a civil rights leader, not Atzimba Casas.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -688,7 +679,6 @@
       "state": "TX",
       "honoree": {
         "name": "Charles K. Devall",
-        "summary": "[UNVERIFIED] The highway is named 'Charles K. Devall Memorial Highway' in Texas, but the Wikipedia article is for 'John F. Griffiths', a different person. The article's subject does not match the name on the highway, and there is no indication that John F. Griffiths is connected to Texas or has a background that would warrant a highway memorial (e.g., law enforcement, military, or local figure).",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -712,7 +702,6 @@
       "state": "TX",
       "honoree": {
         "name": "Tom Landry",
-        "summary": "[UNVERIFIED] The Wikipedia article appears to be about Evan Carter, likely a contemporary figure (possibly a baseball player), but the highway is named 'Tom Landry Highway' after Tom Landry, a famous NFL coach for the Dallas Cowboys in Texas. The article subject does not match the name on the highway, and there is no indication Evan Carter is connected to this highway or has a background justifying a highway memorial in Texas.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -790,7 +779,6 @@
       "state": "TX",
       "honoree": {
         "name": "Ronald Reagan",
-        "summary": "[UNVERIFIED] The Wikipedia article is for Ron Reagan, a political commentator and son of President Ronald Reagan, but the highway is named 'Ronald Reagan Memorial Highway' in Texas, which honors President Ronald Reagan, not his son. The name mismatch and lack of direct connection to Texas as a memorial for a president make this incorrect.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -809,7 +797,7 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-04-22T18:34:53.610Z",
+    "lastUpdated": "2026-04-22T19:02:10.333Z",
     "totalCount": 37,
     "states": [
       "TX"
