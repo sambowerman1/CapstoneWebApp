@@ -1,9 +1,134 @@
 {
   "highways": [
     {
+      "id": "LA-389",
+      "shapeId": "csv-389",
+      "name": "Blue Star Memorial Route",
+      "state": "LA",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          46.921925,
+          -110.374353
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-390",
+      "shapeId": "csv-390",
+      "name": "West Florida Republic Parkway",
+      "state": "LA",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          46.996198990834465,
+          -110.39512146882342
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-391",
+      "shapeId": "csv-391",
+      "name": "Corporal Matthew Thomas Richard Memorial Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Corporal Matthew Thomas Richard"
+      },
+      "location": {
+        "coordinates": [
+          47.02916707034,
+          -110.47883030273519
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-392",
+      "shapeId": "csv-392",
+      "name": "R.H. \"Bill\" Strain Memorial Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          46.9761604673897,
+          -110.5669741084878
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-393",
+      "shapeId": "csv-393",
+      "name": "Powell, Barnes, and Deal Memorial Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          46.861181276523546,
+          -110.58048864150634
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-394",
+      "shapeId": "csv-394",
+      "name": "Ronald Reagan Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Ronald Reagan",
+        "summary": "[UNVERIFIED] The Wikipedia article appears to be for Ron Reagan, a political commentator and son of President Ronald Reagan, not the person the Louisiana highway is named after. The highway 'Ronald Reagan Highway' in Louisiana is almost certainly named after President Ronald Reagan, not Ron Reagan. The article subject does not match the expected namesake for a memorial highway.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          46.77081117361182,
+          -110.48884374476323
+        ],
+        "state": "LA"
+      },
+      "designation": {},
+      "lawWebLink": "https://en.wikipedia.org/wiki/Ron_Reagan"
+    },
+    {
+      "id": "LA-395",
+      "shapeId": "csv-395",
+      "name": "James 'Terry' Watson Memorial Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          46.78901364798044,
+          -110.348359733684
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
       "id": "LA-396",
       "shapeId": "csv-396",
-      "name": "Blue Star Memorial Route",
+      "name": "Blue Star Memorial Highway",
       "state": "LA",
       "honoree": {
         "name": "Unknown"
@@ -20,15 +145,15 @@
     {
       "id": "LA-397",
       "shapeId": "csv-397",
-      "name": "West Florida Republic Parkway",
+      "name": "Staff Sergeant Robert \"Pete\" Sweat Memorial Highway",
       "state": "LA",
       "honoree": {
         "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          31.177289381936973,
-          -91.77312110466306
+          31.178061734345828,
+          -91.77318744207045
         ],
         "state": "LA"
       },
@@ -37,15 +162,15 @@
     {
       "id": "LA-398",
       "shapeId": "csv-398",
-      "name": "Corporal Matthew Thomas Richard Memorial Highway",
+      "name": "Veterans Memorial Highway 90",
       "state": "LA",
       "honoree": {
-        "name": "Corporal Matthew Thomas Richard"
+        "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          31.187418374988624,
-          -91.75926662792696
+          31.18918725842785,
+          -91.75957274525416
         ],
         "state": "LA"
       },
@@ -54,15 +179,15 @@
     {
       "id": "LA-399",
       "shapeId": "csv-399",
-      "name": "R.H. \"Bill\" Strain Memorial Highway",
+      "name": "Corporal J.R. Searcy Memorial Highway",
       "state": "LA",
       "honoree": {
-        "name": "Unknown"
+        "name": "Corporal J.R. Searcy"
       },
       "location": {
         "coordinates": [
-          31.19984121713665,
-          -91.74653175555325
+          31.202800605695835,
+          -91.74730964241303
         ],
         "state": "LA"
       },
@@ -71,15 +196,15 @@
     {
       "id": "LA-400",
       "shapeId": "csv-400",
-      "name": "Powell, Barnes, and Deal Memorial Highway",
+      "name": "Dr. George B. Mowad Memorial Highway",
       "state": "LA",
       "honoree": {
-        "name": "Unknown"
+        "name": "George B. Mowad"
       },
       "location": {
         "coordinates": [
-          31.214434824477383,
-          -91.73519657855914
+          31.21873847537139,
+          -91.73673211811044
         ],
         "state": "LA"
       },
@@ -88,38 +213,32 @@
     {
       "id": "LA-401",
       "shapeId": "csv-401",
-      "name": "Ronald Reagan Highway",
-      "state": "LA",
-      "honoree": {
-        "name": "Ronald Reagan",
-        "summary": "[UNVERIFIED] The Wikipedia article appears to be for Ron Reagan, a political commentator and son of President Ronald Reagan, not the person the Louisiana highway is named after. The highway 'Ronald Reagan Highway' in Louisiana is almost certainly named after President Ronald Reagan, not Ron Reagan. The article subject does not match the expected namesake for a memorial highway.",
-        "involvedInSports": false,
-        "involvedInPolitics": false,
-        "involvedInMilitary": false,
-        "involvedInMusic": false
-      },
-      "location": {
-        "coordinates": [
-          31.23104587925963,
-          -91.72552792928568
-        ],
-        "state": "LA"
-      },
-      "designation": {},
-      "lawWebLink": "https://en.wikipedia.org/wiki/Ron_Reagan"
-    },
-    {
-      "id": "LA-402",
-      "shapeId": "csv-402",
-      "name": "James 'Terry' Watson Memorial Highway",
+      "name": "Louisiana Maneuvers and Purple Heart Memorial Highway",
       "state": "LA",
       "honoree": {
         "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          31.249492224188767,
-          -91.71777633194633
+          31.23679797956322,
+          -91.72815482547513
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-402",
+      "shapeId": "csv-402",
+      "name": "St. Landry Parish Veterans Memorial Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          31.256738877159005,
+          -91.72186870508769
         ],
         "state": "LA"
       },
@@ -128,15 +247,15 @@
     {
       "id": "LA-403",
       "shapeId": "csv-403",
-      "name": "Blue Star Memorial Highway",
+      "name": "Buddy Henagan Memorial Highway",
       "state": "LA",
       "honoree": {
-        "name": "Unknown"
+        "name": "Buddy Henagan"
       },
       "location": {
         "coordinates": [
-          31.269564551229287,
-          -91.71217309642624
+          31.27828627167411,
+          -91.71813685604064
         ],
         "state": "LA"
       },
@@ -145,125 +264,6 @@
     {
       "id": "LA-404",
       "shapeId": "csv-404",
-      "name": "Staff Sergeant Robert \"Pete\" Sweat Memorial Highway",
-      "state": "LA",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          31.21813894819822,
-          -91.80425403316704
-        ],
-        "state": "LA"
-      },
-      "designation": {}
-    },
-    {
-      "id": "LA-405",
-      "shapeId": "csv-405",
-      "name": "Veterans Memorial Highway 90",
-      "state": "LA",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          31.233209362874568,
-          -91.7972927583146
-        ],
-        "state": "LA"
-      },
-      "designation": {}
-    },
-    {
-      "id": "LA-406",
-      "shapeId": "csv-406",
-      "name": "Corporal J.R. Searcy Memorial Highway",
-      "state": "LA",
-      "honoree": {
-        "name": "Corporal J.R. Searcy"
-      },
-      "location": {
-        "coordinates": [
-          31.24967107752241,
-          -91.79243941135354
-        ],
-        "state": "LA"
-      },
-      "designation": {}
-    },
-    {
-      "id": "LA-407",
-      "shapeId": "csv-407",
-      "name": "Dr. George B. Mowad Memorial Highway",
-      "state": "LA",
-      "honoree": {
-        "name": "George B. Mowad"
-      },
-      "location": {
-        "coordinates": [
-          31.267274935308503,
-          -91.78986877476767
-        ],
-        "state": "LA"
-      },
-      "designation": {}
-    },
-    {
-      "id": "LA-408",
-      "shapeId": "csv-408",
-      "name": "Louisiana Maneuvers and Purple Heart Memorial Highway",
-      "state": "LA",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          31.28575302936571,
-          -91.78972858662185
-        ],
-        "state": "LA"
-      },
-      "designation": {}
-    },
-    {
-      "id": "LA-409",
-      "shapeId": "csv-409",
-      "name": "St. Landry Parish Veterans Memorial Highway",
-      "state": "LA",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          31.304821488925953,
-          -91.79213768806252
-        ],
-        "state": "LA"
-      },
-      "designation": {}
-    },
-    {
-      "id": "LA-410",
-      "shapeId": "csv-410",
-      "name": "Buddy Henagan Memorial Highway",
-      "state": "LA",
-      "honoree": {
-        "name": "Buddy Henagan"
-      },
-      "location": {
-        "coordinates": [
-          31.32418343921027,
-          -91.79718444778969
-        ],
-        "state": "LA"
-      },
-      "designation": {}
-    },
-    {
-      "id": "LA-411",
-      "shapeId": "csv-411",
       "name": "Greg Wall, P.E. Memorial Highway",
       "state": "LA",
       "honoree": {
@@ -276,8 +276,8 @@
       },
       "location": {
         "coordinates": [
-          31.343532108252557,
-          -91.80492547920721
+          31.22218109807518,
+          -91.80755928271971
         ],
         "state": "LA"
       },
@@ -285,8 +285,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Jacqueline_Kennedy_Onassis"
     },
     {
-      "id": "LA-412",
-      "shapeId": "csv-412",
+      "id": "LA-405",
+      "shapeId": "csv-405",
       "name": "Trooper Rudolph H. Miller Memorial Highway",
       "state": "LA",
       "honoree": {
@@ -304,8 +304,8 @@
       },
       "location": {
         "coordinates": [
-          31.24674922098153,
-          -91.84683686536488
+          31.238211512063604,
+          -91.80215404834625
         ],
         "state": "LA"
       },
@@ -313,8 +313,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Fannie_Lou_Hamer"
     },
     {
-      "id": "LA-413",
-      "shapeId": "csv-413",
+      "id": "LA-406",
+      "shapeId": "csv-406",
       "name": "Deputy Allen Bares, Jr. Memorial Parkway",
       "state": "LA",
       "honoree": {
@@ -322,16 +322,16 @@
       },
       "location": {
         "coordinates": [
-          31.262949324625954,
-          -91.85046086702026
+          31.255547463071483,
+          -91.79922112179554
         ],
         "state": "LA"
       },
       "designation": {}
     },
     {
-      "id": "LA-414",
-      "shapeId": "csv-414",
+      "id": "LA-407",
+      "shapeId": "csv-407",
       "name": "Griffin Pat Miller Memorial Highway",
       "state": "LA",
       "honoree": {
@@ -344,8 +344,8 @@
       },
       "location": {
         "coordinates": [
-          31.27897427861427,
-          -91.85660447146259
+          31.273867656715165,
+          -91.7989428773185
         ],
         "state": "LA"
       },
@@ -353,8 +353,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Mark_Wright_%28Louisiana_politician%29"
     },
     {
-      "id": "LA-415",
-      "shapeId": "csv-415",
+      "id": "LA-408",
+      "shapeId": "csv-408",
       "name": "Veterans Memorial Highway",
       "state": "LA",
       "honoree": {
@@ -362,16 +362,16 @@
       },
       "location": {
         "coordinates": [
-          31.294519991023652,
-          -91.86525518282608
+          31.292829374459945,
+          -91.80146338725379
         ],
         "state": "LA"
       },
       "designation": {}
     },
     {
-      "id": "LA-416",
-      "shapeId": "csv-416",
+      "id": "LA-409",
+      "shapeId": "csv-409",
       "name": "Veterans Memorial Expressway",
       "state": "LA",
       "honoree": {
@@ -379,16 +379,16 @@
       },
       "location": {
         "coordinates": [
-          31.30928390224707,
-          -91.87636763251506
+          31.312072804745476,
+          -91.80688612009365
         ],
         "state": "LA"
       },
       "designation": {}
     },
     {
-      "id": "LA-417",
-      "shapeId": "csv-417",
+      "id": "LA-410",
+      "shapeId": "csv-410",
       "name": "Private First Class Joshua C. Burrows Drive",
       "state": "LA",
       "honoree": {
@@ -396,16 +396,16 @@
       },
       "location": {
         "coordinates": [
-          31.322968323491544,
-          -91.88986379993236
+          31.331225607770175,
+          -91.81527211095626
         ],
         "state": "LA"
       },
       "designation": {}
     },
     {
-      "id": "LA-418",
-      "shapeId": "csv-418",
+      "id": "LA-411",
+      "shapeId": "csv-411",
       "name": "Hadley J. Castille-Pecanaire Highway",
       "state": "LA",
       "honoree": {
@@ -413,16 +413,16 @@
       },
       "location": {
         "coordinates": [
-          31.33528374507091,
-          -91.90563355877258
+          31.349907663753637,
+          -91.82663862721809
         ],
         "state": "LA"
       },
       "designation": {}
     },
     {
-      "id": "LA-419",
-      "shapeId": "csv-419",
+      "id": "LA-412",
+      "shapeId": "csv-412",
       "name": "Sergeant Craig Nelson Memorial Highway",
       "state": "LA",
       "honoree": {
@@ -435,8 +435,8 @@
       },
       "location": {
         "coordinates": [
-          31.3459520836446,
-          -91.9235355450644
+          31.248821980941436,
+          -91.8570663387346
         ],
         "state": "LA"
       },
@@ -444,8 +444,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Colin_Harrison_%28writer%29"
     },
     {
-      "id": "LA-420",
-      "shapeId": "csv-420",
+      "id": "LA-413",
+      "shapeId": "csv-413",
       "name": "B.R. Harvey Memorial Highway",
       "state": "LA",
       "honoree": {
@@ -458,8 +458,8 @@
       },
       "location": {
         "coordinates": [
-          31.243611535201673,
-          -91.89804233611432
+          31.264450341321425,
+          -91.86354284111671
         ],
         "state": "LA"
       },
@@ -467,8 +467,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Carlos_Marcello"
     },
     {
-      "id": "LA-421",
-      "shapeId": "csv-421",
+      "id": "LA-414",
+      "shapeId": "csv-414",
       "name": "Donald C. Cleveland Memorial Highway",
       "state": "LA",
       "honoree": {
@@ -486,8 +486,8 @@
       },
       "location": {
         "coordinates": [
-          31.254279426760256,
-          -91.91076133119186
+          31.279435237319547,
+          -91.87274013133856
         ],
         "state": "LA"
       },
@@ -495,8 +495,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Cam_Robinson"
     },
     {
-      "id": "LA-422",
-      "shapeId": "csv-422",
+      "id": "LA-415",
+      "shapeId": "csv-415",
       "name": "Senior Trooper Duane Dalton Memorial Highway",
       "state": "LA",
       "honoree": {
@@ -504,16 +504,16 @@
       },
       "location": {
         "coordinates": [
-          31.2632777450977,
-          -91.92537547820663
+          31.29341472022099,
+          -91.88458415822721
         ],
         "state": "LA"
       },
       "designation": {}
     },
     {
-      "id": "LA-423",
-      "shapeId": "csv-423",
+      "id": "LA-416",
+      "shapeId": "csv-416",
       "name": "Albert \"Pyook\" Berard Highway",
       "state": "LA",
       "honoree": {
@@ -521,16 +521,16 @@
       },
       "location": {
         "coordinates": [
-          31.270372513654692,
-          -91.94169014156608
+          31.306035907705457,
+          -91.8989579307539
         ],
         "state": "LA"
       },
       "designation": {}
     },
     {
-      "id": "LA-424",
-      "shapeId": "csv-424",
+      "id": "LA-417",
+      "shapeId": "csv-417",
       "name": "Veterans Parkway",
       "state": "LA",
       "honoree": {
@@ -538,16 +538,16 @@
       },
       "location": {
         "coordinates": [
-          31.275350940409595,
-          -91.95948550275234
+          31.31695976002575,
+          -91.91570263412812
         ],
         "state": "LA"
       },
       "designation": {}
     },
     {
-      "id": "LA-425",
-      "shapeId": "csv-425",
+      "id": "LA-418",
+      "shapeId": "csv-418",
       "name": "Davina Chapman Memorial Highway",
       "state": "LA",
       "honoree": {
@@ -560,8 +560,8 @@
       },
       "location": {
         "coordinates": [
-          31.278023935865253,
-          -91.9785187635094
+          31.32586572133375,
+          -91.93461925538116
         ],
         "state": "LA"
       },
@@ -569,8 +569,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Tim_Chapman"
     },
     {
-      "id": "LA-426",
-      "shapeId": "csv-426",
+      "id": "LA-419",
+      "shapeId": "csv-419",
       "name": "Frank Hennigan Memorial Drive",
       "state": "LA",
       "honoree": {
@@ -583,8 +583,8 @@
       },
       "location": {
         "coordinates": [
-          31.278228409289046,
-          -91.9985265893077
+          31.332456173393496,
+          -91.9554707025575
         ],
         "state": "LA"
       },
@@ -592,8 +592,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/John_Hennigan_%28poker_player%29"
     },
     {
-      "id": "LA-427",
-      "shapeId": "csv-427",
+      "id": "LA-420",
+      "shapeId": "csv-420",
       "name": "Cecil B. Tramel Memorial Highway",
       "state": "LA",
       "honoree": {
@@ -601,16 +601,16 @@
       },
       "location": {
         "coordinates": [
-          31.275829321018247,
-          -92.01922777131705
+          31.236311860297704,
+          -91.91187675851617
         ],
         "state": "LA"
       },
       "designation": {}
     },
     {
-      "id": "LA-428",
-      "shapeId": "csv-428",
+      "id": "LA-421",
+      "shapeId": "csv-421",
       "name": "Veterans Memorial Lane",
       "state": "LA",
       "honoree": {
@@ -618,16 +618,16 @@
       },
       "location": {
         "coordinates": [
-          31.210016188295157,
-          -91.93681343324808
+          31.243819990834464,
+          -91.92703653117658
         ],
         "state": "LA"
       },
       "designation": {}
     },
     {
-      "id": "LA-429",
-      "shapeId": "csv-429",
+      "id": "LA-422",
+      "shapeId": "csv-422",
       "name": "B.B. \"Sixty\" Rayburn Memorial Highway",
       "state": "LA",
       "honoree": {
@@ -635,16 +635,16 @@
       },
       "location": {
         "coordinates": [
-          31.210764955216167,
-          -91.95339704245073
+          31.249053435021015,
+          -91.94382189138857
         ],
         "state": "LA"
       },
       "designation": {}
     },
     {
-      "id": "LA-430",
-      "shapeId": "csv-430",
+      "id": "LA-423",
+      "shapeId": "csv-423",
       "name": "Horace Lynn Jones Memorial Highway",
       "state": "LA",
       "honoree": {
@@ -657,8 +657,8 @@
       },
       "location": {
         "coordinates": [
-          31.209036296983236,
-          -91.97047201731411
+          31.251788340742465,
+          -91.96193893325045
         ],
         "state": "LA"
       },
@@ -666,8 +666,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Hank_Williams"
     },
     {
-      "id": "LA-431",
-      "shapeId": "csv-431",
+      "id": "LA-424",
+      "shapeId": "csv-424",
       "name": "Wilson Anthony 'Boozoo' Chavis Memorial Highway",
       "state": "LA",
       "honoree": {
@@ -675,16 +675,16 @@
       },
       "location": {
         "coordinates": [
-          31.20476256960518,
-          -91.98774162170182
+          31.251835935320948,
+          -91.98106737921249
         ],
         "state": "LA"
       },
       "designation": {}
     },
     {
-      "id": "LA-432",
-      "shapeId": "csv-432",
+      "id": "LA-425",
+      "shapeId": "csv-425",
       "name": "Rodney Guilbeaux Memorial Highway",
       "state": "LA",
       "honoree": {
@@ -692,16 +692,16 @@
       },
       "location": {
         "coordinates": [
-          31.197908254221293,
-          -92.00490198222604
+          31.249045387997917,
+          -92.00086456300829
         ],
         "state": "LA"
       },
       "designation": {}
     },
     {
-      "id": "LA-433",
-      "shapeId": "csv-433",
+      "id": "LA-426",
+      "shapeId": "csv-426",
       "name": "Congressman Jimmy Morrison Highway",
       "state": "LA",
       "honoree": {
@@ -714,8 +714,8 @@
       },
       "location": {
         "coordinates": [
-          31.188470619115495,
-          -92.02164536788611
+          31.243306235649985,
+          -92.02096970754341
         ],
         "state": "LA"
       },
@@ -723,8 +723,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Jimmy_Hayes"
     },
     {
-      "id": "LA-434",
-      "shapeId": "csv-434",
+      "id": "LA-427",
+      "shapeId": "csv-427",
       "name": "Martin Luther King, Jr. Boulevard",
       "state": "LA",
       "honoree": {
@@ -743,8 +743,8 @@
       },
       "location": {
         "coordinates": [
-          31.17648005963047,
-          -92.03766352588859
+          31.234550342455048,
+          -92.04100845106835
         ],
         "state": "LA"
       },
@@ -752,8 +752,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr."
     },
     {
-      "id": "LA-435",
-      "shapeId": "csv-435",
+      "id": "LA-428",
+      "shapeId": "csv-428",
       "name": "Purple Heart Recipients Highway",
       "state": "LA",
       "honoree": {
@@ -761,16 +761,16 @@
       },
       "location": {
         "coordinates": [
-          31.162000111578607,
-          -92.05265104287875
+          31.190828947645336,
+          -91.94492202885567
         ],
         "state": "LA"
       },
       "designation": {}
     },
     {
-      "id": "LA-436",
-      "shapeId": "csv-436",
+      "id": "LA-429",
+      "shapeId": "csv-429",
       "name": "Staff Sgt Timothy B. Cole, Jr. Memorial Highway",
       "state": "LA",
       "honoree": {
@@ -783,8 +783,8 @@
       },
       "location": {
         "coordinates": [
-          31.159778454650066,
-          -91.94720648019928
+          31.18650890500587,
+          -91.96127831091687
         ],
         "state": "LA"
       },
@@ -792,8 +792,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Jonathan_Moffett"
     },
     {
-      "id": "LA-437",
-      "shapeId": "csv-437",
+      "id": "LA-430",
+      "shapeId": "csv-430",
       "name": "Simon S. Thomas Memorial Highway",
       "state": "LA",
       "honoree": {
@@ -806,8 +806,8 @@
       },
       "location": {
         "coordinates": [
-          31.150300184635555,
-          -91.96083509508196
+          31.17940632397938,
+          -91.97736217233948
         ],
         "state": "LA"
       },
@@ -815,8 +815,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Irma_Thomas"
     },
     {
-      "id": "LA-438",
-      "shapeId": "csv-438",
+      "id": "LA-431",
+      "shapeId": "csv-431",
       "name": "Hadley J. Castille-Pacaniére Highway",
       "state": "LA",
       "honoree": {
@@ -824,16 +824,16 @@
       },
       "location": {
         "coordinates": [
-          31.138555418747444,
-          -91.9733492270976
+          31.169546,
+          -91.992805
         ],
         "state": "LA"
       },
       "designation": {}
     },
     {
-      "id": "LA-439",
-      "shapeId": "csv-439",
+      "id": "LA-432",
+      "shapeId": "csv-432",
       "name": "Veterans Highway",
       "state": "LA",
       "honoree": {
@@ -841,16 +841,16 @@
       },
       "location": {
         "coordinates": [
-          31.12467066251905,
-          -91.98447206512968
+          31.15699649675352,
+          -92.00724140115933
         ],
         "state": "LA"
       },
       "designation": {}
     },
     {
-      "id": "LA-440",
-      "shapeId": "csv-440",
+      "id": "LA-433",
+      "shapeId": "csv-433",
       "name": "Johnny Wyatt Memorial Highway",
       "state": "LA",
       "honoree": {
@@ -863,8 +863,8 @@
       },
       "location": {
         "coordinates": [
-          31.10880227652354,
-          -91.99394064150634
+          31.14186968130621,
+          -92.02031408623279
         ],
         "state": "LA"
       },
@@ -872,8 +872,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Johnny_Mercer"
     },
     {
-      "id": "LA-441",
-      "shapeId": "csv-441",
+      "id": "LA-434",
+      "shapeId": "csv-434",
       "name": "Charles I. \"Doc\" Hudson Highway",
       "state": "LA",
       "honoree": {
@@ -881,16 +881,16 @@
       },
       "location": {
         "coordinates": [
-          31.09113501017813,
-          -92.00150883941815
+          31.124319736253664,
+          -92.0316786863183
         ],
         "state": "LA"
       },
       "designation": {}
     },
     {
-      "id": "LA-442",
-      "shapeId": "csv-442",
+      "id": "LA-435",
+      "shapeId": "csv-435",
       "name": "A.J. Davis Highway, Captain USAF",
       "state": "LA",
       "honoree": {
@@ -903,8 +903,8 @@
       },
       "location": {
         "coordinates": [
-          31.0718802455508,
-          -92.00695024931836
+          31.104541657544953,
+          -92.04100845106835
         ],
         "state": "LA"
       },
@@ -912,8 +912,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Glen_Davis_%28basketball%29"
     },
     {
-      "id": "LA-443",
-      "shapeId": "csv-443",
+      "id": "LA-436",
+      "shapeId": "csv-436",
       "name": "Johnny B. Memorial Highway",
       "state": "LA",
       "honoree": {
@@ -926,8 +926,8 @@
       },
       "location": {
         "coordinates": [
-          31.051273966361922,
-          -92.01006084718779
+          31.134835300870595,
+          -91.9398825094322
         ],
         "state": "LA"
       },
@@ -935,8 +935,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Johnny_Cain"
     },
     {
-      "id": "LA-444",
-      "shapeId": "csv-444",
+      "id": "LA-437",
+      "shapeId": "csv-437",
       "name": "Korean War Veterans Memorial Highway",
       "state": "LA",
       "honoree": {
@@ -944,16 +944,16 @@
       },
       "location": {
         "coordinates": [
-          31.113557387940517,
-          -91.92494758761775
+          31.12082056864644,
+          -91.94935763539218
         ],
         "state": "LA"
       },
       "designation": {}
     },
     {
-      "id": "LA-445",
-      "shapeId": "csv-445",
+      "id": "LA-438",
+      "shapeId": "csv-438",
       "name": "St. Bernard Vet. Memorial Highway",
       "state": "LA",
       "honoree": {
@@ -966,8 +966,8 @@
       },
       "location": {
         "coordinates": [
-          31.097749790436346,
-          -91.9300167697248
+          31.10488962224783,
+          -91.95679686938125
         ],
         "state": "LA"
       },
@@ -975,8 +975,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/John_Fred"
     },
     {
-      "id": "LA-446",
-      "shapeId": "csv-446",
+      "id": "LA-439",
+      "shapeId": "csv-439",
       "name": "Creole Nature Trail All-American Road Route",
       "state": "LA",
       "honoree": {
@@ -984,16 +984,16 @@
       },
       "location": {
         "coordinates": [
-          31.080818667983873,
-          -91.93282392457816
+          31.087303659257536,
+          -91.96193893325045
         ],
         "state": "LA"
       },
       "designation": {}
     },
     {
-      "id": "LA-447",
-      "shapeId": "csv-447",
+      "id": "LA-440",
+      "shapeId": "csv-440",
       "name": "Martin Luther King, Jr. Drive",
       "state": "LA",
       "honoree": {
@@ -1012,8 +1012,8 @@
       },
       "location": {
         "coordinates": [
-          31.06303265329807,
-          -91.93322599796208
+          31.068354719064164,
+          -91.96455377085816
         ],
         "state": "LA"
       },
@@ -1021,8 +1021,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr."
     },
     {
-      "id": "LA-448",
-      "shapeId": "csv-448",
+      "id": "LA-441",
+      "shapeId": "csv-441",
       "name": "Stephen E. Ambrose Memorial Parkway",
       "state": "LA",
       "honoree": {
@@ -1030,16 +1030,16 @@
       },
       "location": {
         "coordinates": [
-          31.044675686879625,
-          -91.93110906701958
+          31.048362120217455,
+          -91.96444591928811
         ],
         "state": "LA"
       },
       "designation": {}
     },
     {
-      "id": "LA-449",
-      "shapeId": "csv-449",
+      "id": "LA-442",
+      "shapeId": "csv-442",
       "name": "Joseph D. Waggonner, Jr. Highway",
       "state": "LA",
       "honoree": {
@@ -1058,8 +1058,8 @@
       },
       "location": {
         "coordinates": [
-          31.02604402554676,
-          -91.92638983872149
+          31.02766854686738,
+          -91.96145748684687
         ],
         "state": "LA"
       },
@@ -1067,8 +1067,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Joe_Waggonner"
     },
     {
-      "id": "LA-450",
-      "shapeId": "csv-450",
+      "id": "LA-443",
+      "shapeId": "csv-443",
       "name": "Veterans Memorial Highway 3235",
       "state": "LA",
       "honoree": {
@@ -1076,16 +1076,16 @@
       },
       "location": {
         "coordinates": [
-          31.007443112326584,
-          -91.91901685222133
+          31.006635826606505,
+          -91.9554707025575
         ],
         "state": "LA"
       },
       "designation": {}
     },
     {
-      "id": "LA-451",
-      "shapeId": "csv-451",
+      "id": "LA-444",
+      "shapeId": "csv-444",
       "name": "Charles I. Hudson Highway",
       "state": "LA",
       "honoree": {
@@ -1098,8 +1098,8 @@
       },
       "location": {
         "coordinates": [
-          30.989184336246364,
-          -91.90897137278192
+          31.095983778195883,
+          -91.89924700253232
         ],
         "state": "LA"
       },
@@ -1107,8 +1107,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Charles_Hudson_%28American_politician%29"
     },
     {
-      "id": "LA-452",
-      "shapeId": "csv-452",
+      "id": "LA-445",
+      "shapeId": "csv-445",
       "name": "Clarence 'Gatemouth' Brown Memorial Highway",
       "state": "LA",
       "honoree": {
@@ -1116,8 +1116,127 @@
       },
       "location": {
         "coordinates": [
-          31.090360284649528,
-          -91.87919018706187
+          31.07919563095196,
+          -91.89716161446563
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-446",
+      "shapeId": "csv-446",
+      "name": "Purple Heart Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          31.06230392966,
+          -91.8922823027352
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-447",
+      "shapeId": "csv-447",
+      "name": "LA Korean War Veterans Memorial Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          31.04567727977901,
+          -91.88458415822721
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-448",
+      "shapeId": "csv-448",
+      "name": "1st Lt. Doug Fournet Memorial Parkway",
+      "state": "LA",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          31.029686970684217,
+          -91.87408607624907
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-449",
+      "shapeId": "csv-449",
+      "name": "C.E. Buddy Slaydon Memorial Drive",
+      "state": "LA",
+      "honoree": {
+        "name": "C.E. Buddy Slaydon"
+      },
+      "location": {
+        "coordinates": [
+          31.014702074686095,
+          -91.86085095129567
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-450",
+      "shapeId": "csv-450",
+      "name": "Vietnam Veterans Memorial Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          31.001084540499452,
+          -91.84498534481101
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-451",
+      "shapeId": "csv-451",
+      "name": "West Carroll Veterans Memorial Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          30.989184336246364,
+          -91.82663862721809
+        ],
+        "state": "LA"
+      },
+      "designation": {}
+    },
+    {
+      "id": "LA-452",
+      "shapeId": "csv-452",
+      "name": "Staff Sergeant William 'Bill' F. Manuel Memorial Highway",
+      "state": "LA",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          31.093461478696387,
+          -91.84308364045
         ],
         "state": "LA"
       },
@@ -1126,15 +1245,15 @@
     {
       "id": "LA-453",
       "shapeId": "csv-453",
-      "name": "Purple Heart Highway",
+      "name": "Martin Luther King, Jr. Memorial Expressway",
       "state": "LA",
       "honoree": {
         "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          31.07472385204663,
-          -91.87361535777808
+          31.082190861607614,
+          -91.83046762199288
         ],
         "state": "LA"
       },
@@ -1143,125 +1262,6 @@
     {
       "id": "LA-454",
       "shapeId": "csv-454",
-      "name": "LA Korean War Veterans Memorial Highway",
-      "state": "LA",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          31.05956888789919,
-          -91.86556116088695
-        ],
-        "state": "LA"
-      },
-      "designation": {}
-    },
-    {
-      "id": "LA-455",
-      "shapeId": "csv-455",
-      "name": "1st Lt. Doug Fournet Memorial Parkway",
-      "state": "LA",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          31.045195683392876,
-          -91.85507712666202
-        ],
-        "state": "LA"
-      },
-      "designation": {}
-    },
-    {
-      "id": "LA-456",
-      "shapeId": "csv-456",
-      "name": "C.E. Buddy Slaydon Memorial Drive",
-      "state": "LA",
-      "honoree": {
-        "name": "C.E. Buddy Slaydon"
-      },
-      "location": {
-        "coordinates": [
-          31.03189899528807,
-          -91.8422452250825
-        ],
-        "state": "LA"
-      },
-      "designation": {}
-    },
-    {
-      "id": "LA-457",
-      "shapeId": "csv-457",
-      "name": "Vietnam Veterans Memorial Highway",
-      "state": "LA",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          31.019964759348284,
-          -91.82717923914444
-        ],
-        "state": "LA"
-      },
-      "designation": {}
-    },
-    {
-      "id": "LA-458",
-      "shapeId": "csv-458",
-      "name": "West Carroll Veterans Memorial Highway",
-      "state": "LA",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          31.009666873497654,
-          -91.81002381873095
-        ],
-        "state": "LA"
-      },
-      "designation": {}
-    },
-    {
-      "id": "LA-459",
-      "shapeId": "csv-459",
-      "name": "Staff Sergeant William 'Bill' F. Manuel Memorial Highway",
-      "state": "LA",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          31.001264080859414,
-          -91.79095322259465
-        ],
-        "state": "LA"
-      },
-      "designation": {}
-    },
-    {
-      "id": "LA-460",
-      "shapeId": "csv-460",
-      "name": "Martin Luther King, Jr. Memorial Expressway",
-      "state": "LA",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          31.09972639281241,
-          -91.82875090351614
-        ],
-        "state": "LA"
-      },
-      "designation": {}
-    },
-    {
-      "id": "LA-461",
-      "shapeId": "csv-461",
       "name": "James Baker Drive",
       "state": "LA",
       "honoree": {
@@ -1274,8 +1274,8 @@
       },
       "location": {
         "coordinates": [
-          31.09069123007327,
-          -91.81482457663625
+          31.07268049149576,
+          -91.81567944712798
         ],
         "state": "LA"
       },
@@ -1283,8 +1283,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Richard_Baker_%28American_politician%29"
     },
     {
-      "id": "LA-462",
-      "shapeId": "csv-462",
+      "id": "LA-455",
+      "shapeId": "csv-455",
       "name": "Clayton Iles Memorial Highway",
       "state": "LA",
       "honoree": {
@@ -1297,8 +1297,8 @@
       },
       "location": {
         "coordinates": [
-          31.083544536928517,
-          -91.79922112179554
+          31.065224343284836,
+          -91.7989428773185
         ],
         "state": "LA"
       },
@@ -1306,8 +1306,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/George_J._Iles"
     },
     {
-      "id": "LA-463",
-      "shapeId": "csv-463",
+      "id": "LA-456",
+      "shapeId": "csv-456",
       "name": "Ronnie Hebert Boulevard",
       "state": "LA",
       "honoree": {
@@ -1320,8 +1320,8 @@
       },
       "location": {
         "coordinates": [
-          31.078494775542715,
-          -91.78216228562903
+          31.060089592454478,
+          -91.78051642773978
         ],
         "state": "LA"
       },
@@ -1329,8 +1329,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Bobby_Hebert"
     },
     {
-      "id": "LA-464",
-      "shapeId": "csv-464",
+      "id": "LA-457",
+      "shapeId": "csv-457",
       "name": "John Leblanc Boulevard",
       "state": "LA",
       "honoree": {
@@ -1343,8 +1343,8 @@
       },
       "location": {
         "coordinates": [
-          31.07572630734274,
-          -91.7638922227794
+          31.057512796106753,
+          -91.76069028940704
         ],
         "state": "LA"
       },
@@ -1352,8 +1352,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Dudley_J._LeBlanc"
     },
     {
-      "id": "LA-465",
-      "shapeId": "csv-465",
+      "id": "LA-458",
+      "shapeId": "csv-458",
       "name": "Martin Luther King, Jr. Highway",
       "state": "LA",
       "honoree": {
@@ -1372,8 +1372,8 @@
       },
       "location": {
         "coordinates": [
-          31.07539716286595,
-          -91.74467500176112
+          31.05769641659025,
+          -91.73978285077939
         ],
         "state": "LA"
       },
@@ -1381,8 +1381,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr."
     },
     {
-      "id": "LA-466",
-      "shapeId": "csv-466",
+      "id": "LA-459",
+      "shapeId": "csv-459",
       "name": "Sam Houston Jones Parkway",
       "state": "LA",
       "honoree": {
@@ -1390,16 +1390,16 @@
       },
       "location": {
         "coordinates": [
-          31.077637061032547,
-          -91.7247918994187
+          31.060805728325892,
+          -91.71813685604064
         ],
         "state": "LA"
       },
       "designation": {}
     },
     {
-      "id": "LA-467",
-      "shapeId": "csv-467",
+      "id": "LA-460",
+      "shapeId": "csv-460",
       "name": "Doug Fournet Memorial Parkway",
       "state": "LA",
       "honoree": {
@@ -1407,16 +1407,16 @@
       },
       "location": {
         "coordinates": [
-          31.082545697206346,
-          -91.70453850829453
+          31.12851405780753,
+          -91.79912909651185
         ],
         "state": "LA"
       },
       "designation": {}
     },
     {
-      "id": "LA-468",
-      "shapeId": "csv-468",
+      "id": "LA-461",
+      "shapeId": "csv-461",
       "name": "Oscar Rivette Road",
       "state": "LA",
       "honoree": {
@@ -1424,16 +1424,16 @@
       },
       "location": {
         "coordinates": [
-          31.137804126833743,
-          -91.7943716731797
+          31.128327044783834,
+          -91.78221295754928
         ],
         "state": "LA"
       },
       "designation": {}
     },
     {
-      "id": "LA-469",
-      "shapeId": "csv-469",
+      "id": "LA-462",
+      "shapeId": "csv-462",
       "name": "Thomas M. Alexander Memorial Highway",
       "state": "LA",
       "honoree": {
@@ -1451,8 +1451,8 @@
       },
       "location": {
         "coordinates": [
-          31.13908572624749,
-          -91.77782071402227
+          31.130894769351052,
+          -91.76481916422964
         ],
         "state": "LA"
       },
@@ -1460,8 +1460,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/F._King_Alexander"
     },
     {
-      "id": "LA-470",
-      "shapeId": "csv-470",
+      "id": "LA-463",
+      "shapeId": "csv-463",
       "name": "A.C. Schiro Memorial Highway",
       "state": "LA",
       "honoree": {
@@ -1474,8 +1474,8 @@
       },
       "location": {
         "coordinates": [
-          31.142886208919748,
-          -91.76108454488686
+          31.136291394304166,
+          -91.74730964241303
         ],
         "state": "LA"
       },
@@ -1483,8 +1483,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Helena_Moreno"
     },
     {
-      "id": "LA-471",
-      "shapeId": "csv-471",
+      "id": "LA-464",
+      "shapeId": "csv-464",
       "name": "Nolan's Trace",
       "state": "LA",
       "honoree": {
@@ -1492,16 +1492,16 @@
       },
       "location": {
         "coordinates": [
-          31.149236482967474,
-          -91.74446594082609
+          31.144548034728192,
+          -91.7300548575962
         ],
         "state": "LA"
       },
       "designation": {}
     },
     {
-      "id": "LA-472",
-      "shapeId": "csv-472",
+      "id": "LA-465",
+      "shapeId": "csv-465",
       "name": "Reverend A.L. O'Brien Memorial Highway",
       "state": "LA",
       "honoree": {
@@ -1514,8 +1514,8 @@
       },
       "location": {
         "coordinates": [
-          31.15813470030341,
-          -91.72827083845081
+          31.155651907119967,
+          -91.71342898443075
         ],
         "state": "LA"
       },
@@ -1524,7 +1524,7 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-04-22T17:36:07.805Z",
+    "lastUpdated": "2026-04-22T18:34:53.610Z",
     "totalCount": 77,
     "states": [
       "LA"

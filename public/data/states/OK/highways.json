@@ -1,8 +1,8 @@
 {
   "highways": [
     {
-      "id": "OK-797",
-      "shapeId": "csv-797",
+      "id": "OK-790",
+      "shapeId": "csv-790",
       "name": "American Legion Memorial Highway",
       "state": "OK",
       "honoree": {
@@ -15,8 +15,8 @@
       },
       "location": {
         "coordinates": [
-          35.5081636,
-          -97.5648489
+          33.9214435,
+          -118.3977198
         ],
         "state": "OK"
       },
@@ -25,8 +25,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Steve_Russell_%28politician%29"
     },
     {
-      "id": "OK-798",
-      "shapeId": "csv-798",
+      "id": "OK-791",
+      "shapeId": "csv-791",
       "name": "American Wars Highway",
       "state": "OK",
       "honoree": {
@@ -34,8 +34,8 @@
       },
       "location": {
         "coordinates": [
-          36.1650618,
-          -95.90217820000001
+          39.849426,
+          -86.178278
         ],
         "state": "OK"
       },
@@ -43,8 +43,8 @@
       "highway": "US 75"
     },
     {
-      "id": "OK-799",
-      "shapeId": "csv-799",
+      "id": "OK-792",
+      "shapeId": "csv-792",
       "name": "J. M. Bailey Highway",
       "state": "OK",
       "honoree": {
@@ -57,8 +57,8 @@
       },
       "location": {
         "coordinates": [
-          35.565342,
-          -96.848917
+          39.93977636904804,
+          -86.22892138553438
         ],
         "state": "OK"
       },
@@ -67,8 +67,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Harvey_Bailey"
     },
     {
-      "id": "OK-800",
-      "shapeId": "csv-800",
+      "id": "OK-793",
+      "shapeId": "csv-793",
       "name": "Carl Belew Memorial Highway",
       "state": "OK",
       "honoree": {
@@ -81,8 +81,8 @@
       },
       "location": {
         "coordinates": [
-          36.2928692,
-          -95.1532966
+          39.91408237775217,
+          -86.34726986938125
         ],
         "state": "OK"
       },
@@ -91,8 +91,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Carl_Belew"
     },
     {
-      "id": "OK-801",
-      "shapeId": "csv-801",
+      "id": "OK-794",
+      "shapeId": "csv-794",
       "name": "Henry Bellmen Highway",
       "state": "OK",
       "honoree": {
@@ -105,8 +105,8 @@
       },
       "location": {
         "coordinates": [
-          36.7060946,
-          -95.6354742
+          37.970495,
+          -87.5715641
         ],
         "state": "OK"
       },
@@ -115,8 +115,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Henry_Simmons"
     },
     {
-      "id": "OK-802",
-      "shapeId": "csv-802",
+      "id": "OK-795",
+      "shapeId": "csv-795",
       "name": "Leon Bench Memorial Highway",
       "state": "OK",
       "honoree": {
@@ -134,8 +134,8 @@
       },
       "location": {
         "coordinates": [
-          35.9878515,
-          -96.135561
+          39.77595284346344,
+          -86.35940512429687
         ],
         "state": "OK"
       },
@@ -144,8 +144,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Leon_Johnson_%28wide_receiver%29"
     },
     {
-      "id": "OK-803",
-      "shapeId": "csv-803",
+      "id": "OK-796",
+      "shapeId": "csv-796",
       "name": "Black Kettle Memorial Highway",
       "state": "OK",
       "honoree": {
@@ -163,8 +163,8 @@
       },
       "location": {
         "coordinates": [
-          35.577741988260904,
-          -96.83472973816949
+          39.71627808771868,
+          -86.21501562078751
         ],
         "state": "OK"
       },
@@ -173,8 +173,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Black_Kettle"
     },
     {
-      "id": "OK-804",
-      "shapeId": "csv-804",
+      "id": "OK-797",
+      "shapeId": "csv-797",
       "name": "John C. Blaylock Memorial Highway",
       "state": "OK",
       "honoree": {
@@ -187,8 +187,8 @@
       },
       "location": {
         "coordinates": [
-          35.59381209496128,
-          -96.8226651591082
+          35.5081636,
+          -97.5648489
         ],
         "state": "OK"
       },
@@ -197,8 +197,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Alvan_Adams"
     },
     {
-      "id": "OK-805",
-      "shapeId": "csv-805",
+      "id": "OK-798",
+      "shapeId": "csv-798",
       "name": "Blue Star Memorial Highway",
       "state": "OK",
       "honoree": {
@@ -206,8 +206,8 @@
       },
       "location": {
         "coordinates": [
-          35.613177429045635,
-          -96.81343205843609
+          36.1650618,
+          -95.90217820000001
         ],
         "state": "OK"
       },
@@ -215,8 +215,8 @@
       "highway": "US 77"
     },
     {
-      "id": "OK-806",
-      "shapeId": "csv-806",
+      "id": "OK-799",
+      "shapeId": "csv-799",
       "name": "Relocation of Plaque from monument to Fort Supply in Woodward County",
       "state": "OK",
       "honoree": {
@@ -224,8 +224,8 @@
       },
       "location": {
         "coordinates": [
-          35.4646455,
-          -97.4543112
+          35.565342,
+          -96.848917
         ],
         "state": "OK"
       },
@@ -233,8 +233,8 @@
       "highway": "US 77"
     },
     {
-      "id": "OK-807",
-      "shapeId": "csv-807",
+      "id": "OK-800",
+      "shapeId": "csv-800",
       "name": "Cliff Bogle Memorial Highway",
       "state": "OK",
       "honoree": {
@@ -247,8 +247,8 @@
       },
       "location": {
         "coordinates": [
-          36.2618342,
-          -95.2525314
+          36.2928692,
+          -95.1532966
         ],
         "state": "OK"
       },
@@ -257,8 +257,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Cliff_Asness"
     },
     {
-      "id": "OK-808",
-      "shapeId": "csv-808",
+      "id": "OK-801",
+      "shapeId": "csv-801",
       "name": "Nathan Boone Highway",
       "state": "OK",
       "honoree": {
@@ -271,8 +271,8 @@
       },
       "location": {
         "coordinates": [
-          35.8010903,
-          -95.2505417
+          36.7060946,
+          -95.6354742
         ],
         "state": "OK"
       },
@@ -281,8 +281,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Clu_Gulager"
     },
     {
-      "id": "OK-809",
-      "shapeId": "csv-809",
+      "id": "OK-802",
+      "shapeId": "csv-802",
       "name": "Truman Branscum Memorial Highway",
       "state": "OK",
       "honoree": {
@@ -290,8 +290,8 @@
       },
       "location": {
         "coordinates": [
-          35.4984089,
-          -97.5101842
+          35.9878515,
+          -96.135561
         ],
         "state": "OK"
       },
@@ -299,8 +299,8 @@
       "highway": "US 177; I-40"
     },
     {
-      "id": "OK-810",
-      "shapeId": "csv-810",
+      "id": "OK-803",
+      "shapeId": "csv-803",
       "name": "Congressman Bill K. Brewster Highway",
       "state": "OK",
       "honoree": {
@@ -319,8 +319,8 @@
       },
       "location": {
         "coordinates": [
-          34.2330314,
-          -97.2789479
+          35.578277831664145,
+          -96.83480183512654
         ],
         "state": "OK"
       },
@@ -329,8 +329,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Bill_Brewster_%28American_politician%29"
     },
     {
-      "id": "OK-811",
-      "shapeId": "csv-811",
+      "id": "OK-804",
+      "shapeId": "csv-804",
       "name": "Dr. William R. Bright Bypass",
       "state": "OK",
       "honoree": {
@@ -338,8 +338,8 @@
       },
       "location": {
         "coordinates": [
-          35.991071,
-          -95.7978816
+          35.595019644827275,
+          -96.82299609839174
         ],
         "state": "OK"
       },
@@ -347,8 +347,8 @@
       "highway": "SH 51"
     },
     {
-      "id": "OK-812",
-      "shapeId": "csv-812",
+      "id": "OK-805",
+      "shapeId": "csv-805",
       "name": "Broken Arrow Expressway",
       "state": "OK",
       "honoree": {
@@ -356,8 +356,8 @@
       },
       "location": {
         "coordinates": [
-          36.1650618,
-          -96.0771782
+          35.61514213623078,
+          -96.81426558731182
         ],
         "state": "OK"
       },
@@ -365,8 +365,8 @@
       "highway": "SH 51; US 75"
     },
     {
-      "id": "OK-813",
-      "shapeId": "csv-813",
+      "id": "OK-806",
+      "shapeId": "csv-806",
       "name": "Captain Otho Butler Memorial Highway",
       "state": "OK",
       "honoree": {
@@ -379,8 +379,8 @@
       },
       "location": {
         "coordinates": [
-          34.7743383,
-          -96.6783651
+          35.4646455,
+          -97.4543112
         ],
         "state": "OK"
       },
@@ -389,8 +389,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Otho_B._Rosenbaum"
     },
     {
-      "id": "OK-814",
-      "shapeId": "csv-814",
+      "id": "OK-807",
+      "shapeId": "csv-807",
       "name": "Callahan Lane",
       "state": "OK",
       "honoree": {
@@ -398,8 +398,8 @@
       },
       "location": {
         "coordinates": [
-          35.635342,
-          -96.80767344347018
+          36.2618342,
+          -95.2525314
         ],
         "state": "OK"
       },
@@ -407,8 +407,8 @@
       "highway": "SH 74; US 70"
     },
     {
-      "id": "OK-815",
-      "shapeId": "csv-815",
+      "id": "OK-808",
+      "shapeId": "csv-808",
       "name": "Paul Carlile Road",
       "state": "OK",
       "honoree": {
@@ -416,8 +416,8 @@
       },
       "location": {
         "coordinates": [
-          35.4575138,
-          -97.54053090000001
+          35.8010903,
+          -95.2505417
         ],
         "state": "OK"
       },
@@ -425,8 +425,8 @@
       "highway": "SH 10; I-40; US 64"
     },
     {
-      "id": "OK-816",
-      "shapeId": "csv-816",
+      "id": "OK-809",
+      "shapeId": "csv-809",
       "name": "Kit Carson Highway",
       "state": "OK",
       "honoree": {
@@ -444,8 +444,8 @@
       },
       "location": {
         "coordinates": [
-          35.659700021496356,
-          -96.80594723225485
+          35.4984089,
+          -97.5101842
         ],
         "state": "OK"
       },
@@ -454,9 +454,141 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Kit_Carson"
     },
     {
+      "id": "OK-810",
+      "shapeId": "csv-810",
+      "name": "Centennial Expressway",
+      "state": "OK",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          34.2330314,
+          -97.2789479
+        ],
+        "state": "OK"
+      },
+      "designation": {},
+      "highway": "I-40; I-44; I-235"
+    },
+    {
+      "id": "OK-811",
+      "shapeId": "csv-811",
+      "name": "Lt. Col. Ernest Childers Highway",
+      "state": "OK",
+      "honoree": {
+        "name": "Lt. Col. Ernest Childers"
+      },
+      "location": {
+        "coordinates": [
+          35.991071,
+          -95.7978816
+        ],
+        "state": "OK"
+      },
+      "designation": {},
+      "highway": "SH 72; SH 51B"
+    },
+    {
+      "id": "OK-812",
+      "shapeId": "csv-812",
+      "name": "Chisholm Trail Historic Route",
+      "state": "OK",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          36.1650618,
+          -96.0771782
+        ],
+        "state": "OK"
+      },
+      "designation": {},
+      "highway": "US 81; SH 45"
+    },
+    {
+      "id": "OK-813",
+      "shapeId": "csv-813",
+      "name": "Jack H. Choate Memorial highway",
+      "state": "OK",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          34.7743383,
+          -96.6783651
+        ],
+        "state": "OK"
+      },
+      "designation": {},
+      "highway": "SH 51; US 81; SH 132"
+    },
+    {
+      "id": "OK-814",
+      "shapeId": "csv-814",
+      "name": "Choctaw-Chickasaw Trail of Tears Memorial Highway",
+      "state": "OK",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          35.63808375300496,
+          -96.80929828336349
+        ],
+        "state": "OK"
+      },
+      "designation": {},
+      "highway": "US 70; I-35"
+    },
+    {
+      "id": "OK-815",
+      "shapeId": "csv-815",
+      "name": "Jean Pierre Chouteau Highway",
+      "state": "OK",
+      "honoree": {
+        "name": "Jean Pierre Chouteau",
+        "summary": "[UNVERIFIED] The highway is named 'Jean Pierre Chouteau Highway' after Jean Pierre Chouteau, a historical figure in Oklahoma, but the Wikipedia article is for Yvonne Chouteau, a ballet dancer and teacher, who is not the namesake of this highway.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          35.4575138,
+          -97.54053090000001
+        ],
+        "state": "OK"
+      },
+      "designation": {},
+      "highway": "US 69",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Yvonne_Chouteau"
+    },
+    {
+      "id": "OK-816",
+      "shapeId": "csv-816",
+      "name": "The Cimarron Highway",
+      "state": "OK",
+      "honoree": {
+        "name": "The Cimarron"
+      },
+      "location": {
+        "coordinates": [
+          35.66316063137054,
+          -96.80868174994082
+        ],
+        "state": "OK"
+      },
+      "designation": {},
+      "highway": "US 412; US 60; US 64; I-244; US 270; SH 3"
+    },
+    {
       "id": "OK-817",
       "shapeId": "csv-817",
-      "name": "Centennial Expressway",
+      "name": "Admiral Joe \"Jocko\" Clark Trailway",
       "state": "OK",
       "honoree": {
         "name": "Unknown"
@@ -469,48 +601,60 @@
         "state": "OK"
       },
       "designation": {},
-      "highway": "I-40; I-44; I-235"
+      "highway": "SH 66"
     },
     {
       "id": "OK-818",
       "shapeId": "csv-818",
-      "name": "Lt. Col. Ernest Childers Highway",
+      "name": "Helen Cole Memorial Highway",
       "state": "OK",
       "honoree": {
-        "name": "Lt. Col. Ernest Childers"
+        "name": "Helen Cole",
+        "summary": "[UNVERIFIED] The provided Wikipedia article text appears to be generic Wikipedia interface elements (navigation, search, etc.) and does not contain any actual biographical content about a person named Helen Cole. Without article content, there is no evidence that this article is about the specific Helen Cole associated with the Oklahoma memorial highway.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
       },
       "location": {
         "coordinates": [
-          35.68555015280172,
-          -96.80870884719829
+          35.68958411392728,
+          -96.81288296565283
         ],
         "state": "OK"
       },
       "designation": {},
-      "highway": "SH 72; SH 51B"
+      "highway": "SH 2; I-240; I-35",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Helen_Cole"
     },
     {
       "id": "OK-819",
       "shapeId": "csv-819",
-      "name": "Chisholm Trail Historic Route",
+      "name": "Sid Cookerly Memorial Highway",
       "state": "OK",
       "honoree": {
-        "name": "Unknown"
+        "name": "Sid Cookerly",
+        "summary": "[UNVERIFIED] The provided Wikipedia article text is only a generic navigation menu and does not contain any content about a person named Gus Henderson. Without article content, there is no evidence to confirm the subject is the correct Gus Henderson connected to Oklahoma or that the highway is named after him. Additionally, the highway is named 'Sid Cookerly Memorial Highway,' which does not match the name 'Gus Henderson,' suggesting a possible mismatch.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
       },
       "location": {
         "coordinates": [
-          35.71211236795388,
-          -96.81629613563338
+          35.71648143020693,
+          -96.82223114040875
         ],
         "state": "OK"
       },
       "designation": {},
-      "highway": "US 81; SH 45"
+      "highway": "US 77",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Gus_Henderson"
     },
     {
       "id": "OK-820",
       "shapeId": "csv-820",
-      "name": "Jack H. Choate Memorial highway",
+      "name": "Gordon Cooper Expressway",
       "state": "OK",
       "honoree": {
         "name": "Unknown"
@@ -523,12 +667,12 @@
         "state": "OK"
       },
       "designation": {},
-      "highway": "SH 51; US 81; SH 132"
+      "highway": "US 270"
     },
     {
       "id": "OK-821",
       "shapeId": "csv-821",
-      "name": "Choctaw-Chickasaw Trail of Tears Memorial Highway",
+      "name": "Coo-Wee-Scoo-Wee Parkway",
       "state": "OK",
       "honoree": {
         "name": "Unknown"
@@ -536,21 +680,21 @@
       "location": {
         "coordinates": [
           34.0908785,
-          -106.03310165
+          -106.11310165
         ],
         "state": "OK"
       },
       "designation": {},
-      "highway": "US 70; I-35"
+      "highway": "SH 8; US 169; SH 88"
     },
     {
       "id": "OK-822",
       "shapeId": "csv-822",
-      "name": "Jean Pierre Chouteau Highway",
+      "name": "Dr. Robert E. Cowling Memorial Highway",
       "state": "OK",
       "honoree": {
-        "name": "Jean Pierre Chouteau",
-        "summary": "[UNVERIFIED] The highway is named 'Jean Pierre Chouteau Highway' after Jean Pierre Chouteau, a historical figure in Oklahoma, but the Wikipedia article is for Yvonne Chouteau, a ballet dancer and teacher, who is not the namesake of this highway.",
+        "name": "Robert E. Cowling",
+        "summary": "[UNVERIFIED] The highway is named 'Dr. Robert E. Cowling Memorial Highway' in Oklahoma, but the Wikipedia article is for 'Robert Conquest,' a British-American historian known for his work on Soviet history. The names do not match, and there is no indication that Robert Conquest is connected to Oklahoma or has a background (e.g., medicine, local public service) that would justify a memorial highway named after him.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -564,16 +708,16 @@
         "state": "OK"
       },
       "designation": {},
-      "highway": "US 69",
-      "lawWebLink": "https://en.wikipedia.org/wiki/Yvonne_Chouteau"
+      "highway": "SH 99",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Robert_Conquest"
     },
     {
       "id": "OK-823",
       "shapeId": "csv-823",
-      "name": "The Cimarron Highway",
+      "name": "John Dahl Avenue",
       "state": "OK",
       "honoree": {
-        "name": "The Cimarron"
+        "name": "Unknown"
       },
       "location": {
         "coordinates": [
@@ -583,12 +727,12 @@
         "state": "OK"
       },
       "designation": {},
-      "highway": "US 412; US 60; US 64; I-244; US 270; SH 3"
+      "highway": "SH 99"
     },
     {
       "id": "OK-824",
       "shapeId": "csv-824",
-      "name": "Admiral Joe \"Jocko\" Clark Trailway",
+      "name": "Eldon B. \"Bud\" Davis Memorial Highway",
       "state": "OK",
       "honoree": {
         "name": "Unknown"
@@ -601,155 +745,11 @@
         "state": "OK"
       },
       "designation": {},
-      "highway": "SH 66"
+      "highway": "SH 89; SH 32"
     },
     {
       "id": "OK-825",
       "shapeId": "csv-825",
-      "name": "Helen Cole Memorial Highway",
-      "state": "OK",
-      "honoree": {
-        "name": "Helen Cole",
-        "summary": "[UNVERIFIED] The provided Wikipedia article text appears to be generic Wikipedia interface elements (navigation, search, etc.) and does not contain any actual biographical content about a person named Helen Cole. Without article content, there is no evidence that this article is about the specific Helen Cole associated with the Oklahoma memorial highway.",
-        "involvedInSports": false,
-        "involvedInPolitics": false,
-        "involvedInMilitary": false,
-        "involvedInMusic": false
-      },
-      "location": {
-        "coordinates": [
-          35.3912202,
-          -97.4310596
-        ],
-        "state": "OK"
-      },
-      "designation": {},
-      "highway": "SH 2; I-240; I-35",
-      "lawWebLink": "https://en.wikipedia.org/wiki/Helen_Cole"
-    },
-    {
-      "id": "OK-826",
-      "shapeId": "csv-826",
-      "name": "Sid Cookerly Memorial Highway",
-      "state": "OK",
-      "honoree": {
-        "name": "Sid Cookerly",
-        "summary": "[UNVERIFIED] The provided Wikipedia article text is only a generic navigation menu and does not contain any content about a person named Gus Henderson. Without article content, there is no evidence to confirm the subject is the correct Gus Henderson connected to Oklahoma or that the highway is named after him. Additionally, the highway is named 'Sid Cookerly Memorial Highway,' which does not match the name 'Gus Henderson,' suggesting a possible mismatch.",
-        "involvedInSports": false,
-        "involvedInPolitics": false,
-        "involvedInMilitary": false,
-        "involvedInMusic": false
-      },
-      "location": {
-        "coordinates": [
-          35.63462403230275,
-          -96.88891699999999
-        ],
-        "state": "OK"
-      },
-      "designation": {},
-      "highway": "US 77",
-      "lawWebLink": "https://en.wikipedia.org/wiki/Gus_Henderson"
-    },
-    {
-      "id": "OK-827",
-      "shapeId": "csv-827",
-      "name": "Gordon Cooper Expressway",
-      "state": "OK",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          35.653110555588576,
-          -96.89256207392532
-        ],
-        "state": "OK"
-      },
-      "designation": {},
-      "highway": "US 270"
-    },
-    {
-      "id": "OK-828",
-      "shapeId": "csv-828",
-      "name": "Coo-Wee-Scoo-Wee Parkway",
-      "state": "OK",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          35.572974352831345,
-          -97.51520990045664
-        ],
-        "state": "OK"
-      },
-      "designation": {},
-      "highway": "SH 8; US 169; SH 88"
-    },
-    {
-      "id": "OK-829",
-      "shapeId": "csv-829",
-      "name": "Dr. Robert E. Cowling Memorial Highway",
-      "state": "OK",
-      "honoree": {
-        "name": "Robert E. Cowling",
-        "summary": "[UNVERIFIED] The highway is named 'Dr. Robert E. Cowling Memorial Highway' in Oklahoma, but the Wikipedia article is for 'Robert Conquest,' a British-American historian known for his work on Soviet history. The names do not match, and there is no indication that Robert Conquest is connected to Oklahoma or has a background (e.g., medicine, local public service) that would justify a memorial highway named after him.",
-        "involvedInSports": false,
-        "involvedInPolitics": false,
-        "involvedInMilitary": false,
-        "involvedInMusic": false
-      },
-      "location": {
-        "coordinates": [
-          35.6715938408918,
-          -96.90044690503872
-        ],
-        "state": "OK"
-      },
-      "designation": {},
-      "highway": "SH 99",
-      "lawWebLink": "https://en.wikipedia.org/wiki/Robert_Conquest"
-    },
-    {
-      "id": "OK-830",
-      "shapeId": "csv-830",
-      "name": "John Dahl Avenue",
-      "state": "OK",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          35.689272607671725,
-          -96.9126012259725
-        ],
-        "state": "OK"
-      },
-      "designation": {},
-      "highway": "SH 99"
-    },
-    {
-      "id": "OK-831",
-      "shapeId": "csv-831",
-      "name": "Eldon B. \"Bud\" Davis Memorial Highway",
-      "state": "OK",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          35.705342,
-          -96.928917
-        ],
-        "state": "OK"
-      },
-      "designation": {},
-      "highway": "SH 89; SH 32"
-    },
-    {
-      "id": "OK-832",
-      "shapeId": "csv-832",
       "name": "Angie Debo Memorial Highway",
       "state": "OK",
       "honoree": {
@@ -768,8 +768,8 @@
       },
       "location": {
         "coordinates": [
-          35.719015953512944,
-          -96.94914855979411
+          35.3912202,
+          -97.5110596
         ],
         "state": "OK"
       },
@@ -778,8 +778,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Angie_Debo"
     },
     {
-      "id": "OK-833",
-      "shapeId": "csv-833",
+      "id": "OK-826",
+      "shapeId": "csv-826",
       "name": "Senator Larry Dickerson Memorial Highway",
       "state": "OK",
       "honoree": {
@@ -792,8 +792,8 @@
       },
       "location": {
         "coordinates": [
-          35.729549390469145,
-          -96.97291623766743
+          35.63637281747219,
+          -96.89211179698151
         ],
         "state": "OK"
       },
@@ -802,12 +802,155 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Larry_Dickerson"
     },
     {
-      "id": "OK-834",
-      "shapeId": "csv-834",
+      "id": "OK-827",
+      "shapeId": "csv-827",
       "name": "Clarence F. 'Chink' Douglas, Lawman Highway",
       "state": "OK",
       "honoree": {
         "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          35.65485678760129,
+          -96.89710343684375
+        ],
+        "state": "OK"
+      },
+      "designation": {},
+      "highway": "US 69"
+    },
+    {
+      "id": "OK-828",
+      "shapeId": "csv-828",
+      "name": "Trooper David 'Rocky' Eales Memorial Highway",
+      "state": "OK",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          35.572974352831345,
+          -97.51520990045664
+        ],
+        "state": "OK"
+      },
+      "designation": {},
+      "highway": "SH 1; US 69"
+    },
+    {
+      "id": "OK-829",
+      "shapeId": "csv-829",
+      "name": "Trooper Matthew Evans/Officer Jeffery Rominger Memorial Parkway",
+      "state": "OK",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          35.67304124964506,
+          -96.90653683856421
+        ],
+        "state": "OK"
+      },
+      "designation": {},
+      "highway": "I-44; I-35; I-40"
+    },
+    {
+      "id": "OK-830",
+      "shapeId": "csv-830",
+      "name": "Sam Fields Memorial Highway",
+      "state": "OK",
+      "honoree": {
+        "name": "Sam Fields",
+        "summary": "[UNVERIFIED] The Wikipedia article provided is for 'Anita Fields', an Osage/Muscogee artist known for beadwork and sculpture, with no connection to Oklahoma highway naming conventions or public service. The highway is named 'Sam Fields Memorial Highway', which suggests a different person (likely male, possibly a law enforcement officer or local figure). The name and background do not match.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          35.690050596148815,
+          -96.92038669832941
+        ],
+        "state": "OK"
+      },
+      "designation": {},
+      "highway": "SH 127; SH 20; SH 10",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Anita_Fields"
+    },
+    {
+      "id": "OK-831",
+      "shapeId": "csv-831",
+      "name": "Heber Finch Highway",
+      "state": "OK",
+      "honoree": {
+        "name": "Heber Finch",
+        "summary": "[UNVERIFIED] The provided Wikipedia article text is only a generic Wikipedia interface and does not contain any content about Donald Thompson, the Oklahoma politician. Without article content confirming the person's identity, profession, or connection to Oklahoma, it cannot be verified as the correct person for the 'Heber Finch Highway'.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          35.70501562768668,
+          -96.93847093787105
+        ],
+        "state": "OK"
+      },
+      "designation": {},
+      "highway": "SH 117; US 75",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Donald_Thompson_%28Oklahoma_politician%29"
+    },
+    {
+      "id": "OK-832",
+      "shapeId": "csv-832",
+      "name": "Old Fort Cantonment Crossing",
+      "state": "OK",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          35.71710003359076,
+          -96.96045268202316
+        ],
+        "state": "OK"
+      },
+      "designation": {},
+      "highway": "SH 51"
+    },
+    {
+      "id": "OK-833",
+      "shapeId": "csv-833",
+      "name": "Fox Drive",
+      "state": "OK",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          35.7255263567602,
+          -96.98584653406907
+        ],
+        "state": "OK"
+      },
+      "designation": {},
+      "highway": "US 81"
+    },
+    {
+      "id": "OK-834",
+      "shapeId": "csv-834",
+      "name": "Martin Garber Memorial Highway",
+      "state": "OK",
+      "honoree": {
+        "name": "Martin Garber",
+        "summary": "[UNVERIFIED] The Wikipedia article appears to be for Andrea Martin, a Canadian-American actress and comedian, with no known connection to Oklahoma or a memorial highway. The highway is named 'Martin Garber Memorial Highway,' which suggests a different person (likely Martin Garber), not Andrea Martin.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
       },
       "location": {
         "coordinates": [
@@ -817,12 +960,13 @@
         "state": "OK"
       },
       "designation": {},
-      "highway": "US 69"
+      "highway": "US 81",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Andrea_Martin"
     },
     {
       "id": "OK-835",
       "shapeId": "csv-835",
-      "name": "Trooper David 'Rocky' Eales Memorial Highway",
+      "name": "Owen K. Garriott Road",
       "state": "OK",
       "honoree": {
         "name": "Unknown"
@@ -835,12 +979,12 @@
         "state": "OK"
       },
       "designation": {},
-      "highway": "SH 1; US 69"
+      "highway": "US 412; US 60; US 64"
     },
     {
       "id": "OK-836",
       "shapeId": "csv-836",
-      "name": "Trooper Matthew Evans/Officer Jeffery Rominger Memorial Parkway",
+      "name": "Raymond Gary Expressway",
       "state": "OK",
       "honoree": {
         "name": "Unknown"
@@ -853,16 +997,16 @@
         "state": "OK"
       },
       "designation": {},
-      "highway": "I-44; I-35; I-40"
+      "highway": "SH 33; I-35"
     },
     {
       "id": "OK-837",
       "shapeId": "csv-837",
-      "name": "Sam Fields Memorial Highway",
+      "name": "Vernon Glenn Memorial Highway",
       "state": "OK",
       "honoree": {
-        "name": "Sam Fields",
-        "summary": "[UNVERIFIED] The Wikipedia article provided is for 'Anita Fields', an Osage/Muscogee artist known for beadwork and sculpture, with no connection to Oklahoma highway naming conventions or public service. The highway is named 'Sam Fields Memorial Highway', which suggests a different person (likely male, possibly a law enforcement officer or local figure). The name and background do not match.",
+        "name": "Vernon Glenn",
+        "summary": "[UNVERIFIED] The provided Wikipedia article content is only a generic navigation menu and does not contain any information about Vernon Geyer or a person named Vernon Glenn. Without any biographical details, it cannot be confirmed that this article is about the person the highway was named after.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -876,156 +1020,12 @@
         "state": "OK"
       },
       "designation": {},
-      "highway": "SH 127; SH 20; SH 10",
-      "lawWebLink": "https://en.wikipedia.org/wiki/Anita_Fields"
-    },
-    {
-      "id": "OK-838",
-      "shapeId": "csv-838",
-      "name": "Heber Finch Highway",
-      "state": "OK",
-      "honoree": {
-        "name": "Heber Finch",
-        "summary": "[UNVERIFIED] The provided Wikipedia article text is only a generic Wikipedia interface and does not contain any content about Donald Thompson, the Oklahoma politician. Without article content confirming the person's identity, profession, or connection to Oklahoma, it cannot be verified as the correct person for the 'Heber Finch Highway'.",
-        "involvedInSports": false,
-        "involvedInPolitics": false,
-        "involvedInMilitary": false,
-        "involvedInMusic": false
-      },
-      "location": {
-        "coordinates": [
-          35.73625971351459,
-          -96.99971343498754
-        ],
-        "state": "OK"
-      },
-      "designation": {},
-      "highway": "SH 117; US 75",
-      "lawWebLink": "https://en.wikipedia.org/wiki/Donald_Thompson_%28Oklahoma_politician%29"
-    },
-    {
-      "id": "OK-839",
-      "shapeId": "csv-839",
-      "name": "Old Fort Cantonment Crossing",
-      "state": "OK",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          35.63462403230275,
-          -96.968917
-        ],
-        "state": "OK"
-      },
-      "designation": {},
-      "highway": "SH 51"
-    },
-    {
-      "id": "OK-840",
-      "shapeId": "csv-840",
-      "name": "Fox Drive",
-      "state": "OK",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          35.640710567327666,
-          -96.98674933575583
-        ],
-        "state": "OK"
-      },
-      "designation": {},
-      "highway": "US 81"
-    },
-    {
-      "id": "OK-841",
-      "shapeId": "csv-841",
-      "name": "Martin Garber Memorial Highway",
-      "state": "OK",
-      "honoree": {
-        "name": "Martin Garber",
-        "summary": "[UNVERIFIED] The Wikipedia article appears to be for Andrea Martin, a Canadian-American actress and comedian, with no known connection to Oklahoma or a memorial highway. The highway is named 'Martin Garber Memorial Highway,' which suggests a different person (likely Martin Garber), not Andrea Martin.",
-        "involvedInSports": false,
-        "involvedInPolitics": false,
-        "involvedInMilitary": false,
-        "involvedInMusic": false
-      },
-      "location": {
-        "coordinates": [
-          35.643123745930524,
-          -97.00669874593052
-        ],
-        "state": "OK"
-      },
-      "designation": {},
-      "highway": "US 81",
-      "lawWebLink": "https://en.wikipedia.org/wiki/Andrea_Martin"
-    },
-    {
-      "id": "OK-842",
-      "shapeId": "csv-842",
-      "name": "Owen K. Garriott Road",
-      "state": "OK",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          35.64143717862609,
-          -97.0280861675364
-        ],
-        "state": "OK"
-      },
-      "designation": {},
-      "highway": "US 412; US 60; US 64"
-    },
-    {
-      "id": "OK-843",
-      "shapeId": "csv-843",
-      "name": "Raymond Gary Expressway",
-      "state": "OK",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          35.635342,
-          -97.05016055652982
-        ],
-        "state": "OK"
-      },
-      "designation": {},
-      "highway": "SH 33; I-35"
-    },
-    {
-      "id": "OK-844",
-      "shapeId": "csv-844",
-      "name": "Vernon Glenn Memorial Highway",
-      "state": "OK",
-      "honoree": {
-        "name": "Vernon Glenn",
-        "summary": "[UNVERIFIED] The provided Wikipedia article content is only a generic navigation menu and does not contain any information about Vernon Geyer or a person named Vernon Glenn. Without any biographical details, it cannot be confirmed that this article is about the person the highway was named after.",
-        "involvedInSports": false,
-        "involvedInPolitics": false,
-        "involvedInMilitary": false,
-        "involvedInMusic": false
-      },
-      "location": {
-        "coordinates": [
-          35.5125283200656,
-          -97.66586816691003
-        ],
-        "state": "OK"
-      },
-      "designation": {},
       "highway": "SH 2; US 69",
       "lawWebLink": "https://en.wikipedia.org/wiki/Vernon_Geyer"
     },
     {
-      "id": "OK-845",
-      "shapeId": "csv-845",
+      "id": "OK-838",
+      "shapeId": "csv-838",
       "name": "Roy Grantham Memorial Road",
       "state": "OK",
       "honoree": {
@@ -1033,8 +1033,8 @@
       },
       "location": {
         "coordinates": [
-          35.41163237778452,
-          -97.67996355622182
+          35.72960076540444,
+          -97.01402903198026
         ],
         "state": "OK"
       },
@@ -1042,8 +1042,8 @@
       "highway": "SH 1; US 77"
     },
     {
-      "id": "OK-846",
-      "shapeId": "csv-846",
+      "id": "OK-839",
+      "shapeId": "csv-839",
       "name": "Cecil B. \"Bud\" Greathouse Bypass",
       "state": "OK",
       "honoree": {
@@ -1051,8 +1051,8 @@
       },
       "location": {
         "coordinates": [
-          35.31742118135665,
-          -97.6193112
+          35.63069959144084,
+          -96.9750514257692
         ],
         "state": "OK"
       },
@@ -1060,8 +1060,8 @@
       "highway": "SH 3 B; SH 3; SH 7"
     },
     {
-      "id": "OK-847",
-      "shapeId": "csv-847",
+      "id": "OK-840",
+      "shapeId": "csv-840",
       "name": "Trooper Nikky Green Memorial Highway",
       "state": "OK",
       "honoree": {
@@ -1075,8 +1075,8 @@
       },
       "location": {
         "coordinates": [
-          35.20405235,
-          -97.31329475
+          35.634771416606426,
+          -96.99375954860577
         ],
         "state": "OK"
       },
@@ -1085,8 +1085,8 @@
       "lawWebLink": "https://www.odmp.org/officer/17073-trooper-nikky-joe-green"
     },
     {
-      "id": "OK-848",
-      "shapeId": "csv-848",
+      "id": "OK-841",
+      "shapeId": "csv-841",
       "name": "Ben F. Haskins Memorial Highway",
       "state": "OK",
       "honoree": {
@@ -1099,8 +1099,8 @@
       },
       "location": {
         "coordinates": [
-          35.62465793201659,
-          -97.07211832753924
+          35.634761673875865,
+          -97.01424524197749
         ],
         "state": "OK"
       },
@@ -1109,8 +1109,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Clem_Haskins"
     },
     {
-      "id": "OK-849",
-      "shapeId": "csv-849",
+      "id": "OK-842",
+      "shapeId": "csv-842",
       "name": "Marques Haynes Highway",
       "state": "OK",
       "honoree": {
@@ -1129,8 +1129,8 @@
       },
       "location": {
         "coordinates": [
-          36.1394339,
-          -96.1100025
+          35.63028999375443,
+          -97.0357194255683
         ],
         "state": "OK"
       },
@@ -1139,8 +1139,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Marques_Haynes"
     },
     {
-      "id": "OK-850",
-      "shapeId": "csv-850",
+      "id": "OK-843",
+      "shapeId": "csv-843",
       "name": "Lake Hefner Parkway",
       "state": "OK",
       "honoree": {
@@ -1148,8 +1148,8 @@
       },
       "location": {
         "coordinates": [
-          34.6271471,
-          -98.4767214
+          35.621118152578475,
+          -97.05732658221076
         ],
         "state": "OK"
       },
@@ -1157,8 +1157,8 @@
       "highway": "SH 74"
     },
     {
-      "id": "OK-851",
-      "shapeId": "csv-851",
+      "id": "OK-844",
+      "shapeId": "csv-844",
       "name": "Colonel John L. Hillman Parkway",
       "state": "OK",
       "honoree": {
@@ -1166,8 +1166,8 @@
       },
       "location": {
         "coordinates": [
-          35.60934123766743,
-          -97.09312439046914
+          35.5125283200656,
+          -97.66586816691003
         ],
         "state": "OK"
       },
@@ -1175,8 +1175,8 @@
       "highway": "US 75"
     },
     {
-      "id": "OK-852",
-      "shapeId": "csv-852",
+      "id": "OK-845",
+      "shapeId": "csv-845",
       "name": "Dr. Ernest L. Holloway Highway",
       "state": "OK",
       "honoree": {
@@ -1189,8 +1189,8 @@
       },
       "location": {
         "coordinates": [
-          35.7703879,
-          -95.3723203
+          35.41163237778452,
+          -97.67996355622182
         ],
         "state": "OK"
       },
@@ -1199,8 +1199,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/William_H._Murray"
     },
     {
-      "id": "OK-853",
-      "shapeId": "csv-853",
+      "id": "OK-846",
+      "shapeId": "csv-846",
       "name": "Dan P. Holmes Memorial Highway (Expressway)",
       "state": "OK",
       "honoree": {
@@ -1217,8 +1217,8 @@
       },
       "location": {
         "coordinates": [
-          35.78517445,
-          -96.74915075
+          35.31742118135665,
+          -97.6193112
         ],
         "state": "OK"
       },
@@ -1227,8 +1227,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Frank_Lucas_%28Oklahoma_politician%29"
     },
     {
-      "id": "OK-854",
-      "shapeId": "csv-854",
+      "id": "OK-847",
+      "shapeId": "csv-847",
       "name": "Honey Creek Pass",
       "state": "OK",
       "honoree": {
@@ -1236,8 +1236,8 @@
       },
       "location": {
         "coordinates": [
-          35.28245606569274,
-          -97.50218628713162
+          35.20405235,
+          -97.31329475
         ],
         "state": "OK"
       },
@@ -1245,8 +1245,8 @@
       "highway": "US 77; SH 53; I-35"
     },
     {
-      "id": "OK-855",
-      "shapeId": "csv-855",
+      "id": "OK-848",
+      "shapeId": "csv-848",
       "name": "Illinois River Scenic Drive",
       "state": "OK",
       "honoree": {
@@ -1254,8 +1254,8 @@
       },
       "location": {
         "coordinates": [
-          35.58948934556071,
-          -97.11233429935416
+          35.60716049952934,
+          -97.0781691795389
         ],
         "state": "OK"
       },
@@ -1263,8 +1263,8 @@
       "highway": "SH 10"
     },
     {
-      "id": "OK-856",
-      "shapeId": "csv-856",
+      "id": "OK-849",
+      "shapeId": "csv-849",
       "name": "Ben Johnson Memorial Highway",
       "state": "OK",
       "honoree": {
@@ -1277,8 +1277,8 @@
       },
       "location": {
         "coordinates": [
-          33.8962887,
-          -94.8042552
+          36.1394339,
+          -96.1100025
         ],
         "state": "OK"
       },
@@ -1287,8 +1287,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Chad_Johnson_%28TV_personality%29"
     },
     {
-      "id": "OK-857",
-      "shapeId": "csv-857",
+      "id": "OK-850",
+      "shapeId": "csv-850",
       "name": "Henry S. Johnston Memorial Highway",
       "state": "OK",
       "honoree": {
@@ -1307,8 +1307,8 @@
       },
       "location": {
         "coordinates": [
-          35.4344276,
-          -97.40459870000001
+          34.6271471,
+          -98.4767214
         ],
         "state": "OK"
       },
@@ -1317,8 +1317,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Henry_S._Johnston"
     },
     {
-      "id": "OK-858",
-      "shapeId": "csv-858",
+      "id": "OK-851",
+      "shapeId": "csv-851",
       "name": "Lyndon Baines Johnston Memorial Highway",
       "state": "OK",
       "honoree": {
@@ -1337,8 +1337,8 @@
       },
       "location": {
         "coordinates": [
-          33.8661356,
-          -96.510079
+          35.58849033034636,
+          -97.09733361082617
         ],
         "state": "OK"
       },
@@ -1347,8 +1347,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Lyndon_B._Johnson"
     },
     {
-      "id": "OK-859",
-      "shapeId": "csv-859",
+      "id": "OK-852",
+      "shapeId": "csv-852",
       "name": "Virgil Jumper Memorial Highway",
       "state": "OK",
       "honoree": {
@@ -1361,8 +1361,8 @@
       },
       "location": {
         "coordinates": [
-          35.565342,
-          -97.008917
+          35.7703879,
+          -95.3723203
         ],
         "state": "OK"
       },
@@ -1371,8 +1371,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Virgil_Earp"
     },
     {
-      "id": "OK-860",
-      "shapeId": "csv-860",
+      "id": "OK-853",
+      "shapeId": "csv-853",
       "name": "John F. Kennedy Memorial",
       "state": "OK",
       "honoree": {
@@ -1380,8 +1380,8 @@
       },
       "location": {
         "coordinates": [
-          35.5529420117391,
-          -97.02310426183051
+          35.78517445,
+          -96.74915075
         ],
         "state": "OK"
       },
@@ -1389,8 +1389,8 @@
       "highway": "US 259"
     },
     {
-      "id": "OK-861",
-      "shapeId": "csv-861",
+      "id": "OK-854",
+      "shapeId": "csv-854",
       "name": "Mabelle Kennedy Highway",
       "state": "OK",
       "honoree": {
@@ -1398,8 +1398,8 @@
       },
       "location": {
         "coordinates": [
-          36.738324,
-          -96.1850824
+          35.28245606569274,
+          -97.50218628713162
         ],
         "state": "OK"
       },
@@ -1407,8 +1407,8 @@
       "highway": "US 60"
     },
     {
-      "id": "OK-862",
-      "shapeId": "csv-862",
+      "id": "OK-855",
+      "shapeId": "csv-855",
       "name": "Robert S. Kerr Skyline Drive",
       "state": "OK",
       "honoree": {
@@ -1421,8 +1421,8 @@
       },
       "location": {
         "coordinates": [
-          35.380801500000004,
-          -95.97841795
+          35.565342,
+          -97.113917
         ],
         "state": "OK"
       },
@@ -1431,8 +1431,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Wilma_Mankiller"
     },
     {
-      "id": "OK-863",
-      "shapeId": "csv-863",
+      "id": "OK-856",
+      "shapeId": "csv-856",
       "name": "Martin Luther King, Jr. Freeway",
       "state": "OK",
       "honoree": {
@@ -1440,8 +1440,8 @@
       },
       "location": {
         "coordinates": [
-          35.53687190503872,
-          -97.0351688408918
+          33.8962887,
+          -94.8042552
         ],
         "state": "OK"
       },
@@ -1449,8 +1449,8 @@
       "highway": "I-44"
     },
     {
-      "id": "OK-864",
-      "shapeId": "csv-864",
+      "id": "OK-857",
+      "shapeId": "csv-857",
       "name": "Martin Luther King, Jr. Memorial Expressway",
       "state": "OK",
       "honoree": {
@@ -1458,8 +1458,8 @@
       },
       "location": {
         "coordinates": [
-          35.51750657095437,
-          -97.0444019415639
+          35.4344276,
+          -97.40459870000001
         ],
         "state": "OK"
       },
@@ -1467,8 +1467,8 @@
       "highway": "I-44; I-244"
     },
     {
-      "id": "OK-865",
-      "shapeId": "csv-865",
+      "id": "OK-858",
+      "shapeId": "csv-858",
       "name": "B. L. Klutts Memorial Highway",
       "state": "OK",
       "honoree": {
@@ -1476,8 +1476,8 @@
       },
       "location": {
         "coordinates": [
-          35.3544839,
-          -94.4363895
+          33.8661356,
+          -96.510079
         ],
         "state": "OK"
       },
@@ -1485,8 +1485,8 @@
       "highway": "SH 112"
     },
     {
-      "id": "OK-866",
-      "shapeId": "csv-866",
+      "id": "OK-859",
+      "shapeId": "csv-859",
       "name": "Korean War Veterans Memorial Highway",
       "state": "OK",
       "honoree": {
@@ -1494,8 +1494,8 @@
       },
       "location": {
         "coordinates": [
-          38.8956596,
-          -76.9723657
+          35.554448668072304,
+          -97.0081718756829
         ],
         "state": "OK"
       },
@@ -1503,8 +1503,8 @@
       "highway": "US 412; SH 35; SH 40"
     },
     {
-      "id": "OK-867",
-      "shapeId": "csv-867",
+      "id": "OK-860",
+      "shapeId": "csv-860",
       "name": "Lakeshore Parkway",
       "state": "OK",
       "honoree": {
@@ -1512,8 +1512,8 @@
       },
       "location": {
         "coordinates": [
-          35.495342,
-          -97.05016055652982
+          35.53971130674008,
+          -97.02039414229804
         ],
         "state": "OK"
       },
@@ -1521,8 +1521,8 @@
       "highway": "US 69"
     },
     {
-      "id": "OK-868",
-      "shapeId": "csv-868",
+      "id": "OK-861",
+      "shapeId": "csv-861",
       "name": "Norman A. Lamb Highway",
       "state": "OK",
       "honoree": {
@@ -1535,8 +1535,8 @@
       },
       "location": {
         "coordinates": [
-          35.60240775,
-          -96.4284595
+          36.738324,
+          -96.1850824
         ],
         "state": "OK"
       },
@@ -1545,8 +1545,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Norman_Lamb_%28American_politician%29"
     },
     {
-      "id": "OK-869",
-      "shapeId": "csv-869",
+      "id": "OK-862",
+      "shapeId": "csv-862",
       "name": "The W. H. 'Bill' Langley, Sr. Memorial Highway",
       "state": "OK",
       "honoree": {
@@ -1554,8 +1554,8 @@
       },
       "location": {
         "coordinates": [
-          35.9226156,
-          -96.39206605000001
+          35.380801500000004,
+          -95.97841795
         ],
         "state": "OK"
       },
@@ -1563,8 +1563,8 @@
       "highway": "SH 100; US 59"
     },
     {
-      "id": "OK-870",
-      "shapeId": "csv-870",
+      "id": "OK-863",
+      "shapeId": "csv-863",
       "name": "Jody Latimer Memorial Highway",
       "state": "OK",
       "honoree": {
@@ -1577,8 +1577,8 @@
       },
       "location": {
         "coordinates": [
-          36.2618342,
-          -95.42753139999999
+          35.52151788011692,
+          -97.0298102431656
         ],
         "state": "OK"
       },
@@ -1587,8 +1587,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Sandra_Day_O%27Connor"
     },
     {
-      "id": "OK-871",
-      "shapeId": "csv-871",
+      "id": "OK-864",
+      "shapeId": "csv-864",
       "name": "Keith Leftwich Memorial Loop",
       "state": "OK",
       "honoree": {
@@ -1596,8 +1596,8 @@
       },
       "location": {
         "coordinates": [
-          35.4128239,
-          -97.49782915
+          35.50039400624557,
+          -97.0357194255683
         ],
         "state": "OK"
       },
@@ -1605,8 +1605,8 @@
       "highway": "US 62; I-35; I-44; I-240"
     },
     {
-      "id": "OK-872",
-      "shapeId": "csv-872",
+      "id": "OK-865",
+      "shapeId": "csv-865",
       "name": "Senator Frank Mahan Highway",
       "state": "OK",
       "honoree": {
@@ -1619,8 +1619,8 @@
       },
       "location": {
         "coordinates": [
-          35.47098397850365,
-          -97.05188676774515
+          35.3544839,
+          -94.4363895
         ],
         "state": "OK"
       },
@@ -1629,8 +1629,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/David_Holt_%28politician%29"
     },
     {
-      "id": "OK-873",
-      "shapeId": "csv-873",
+      "id": "OK-866",
+      "shapeId": "csv-866",
       "name": "Mickey Mantle Memorial Highway",
       "state": "OK",
       "honoree": {
@@ -1643,8 +1643,8 @@
       },
       "location": {
         "coordinates": [
-          36.3911976,
-          -95.0466277
+          38.8956596,
+          -76.9723657
         ],
         "state": "OK"
       },
@@ -1653,8 +1653,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Kelly_Mantle"
     },
     {
-      "id": "OK-874",
-      "shapeId": "csv-874",
+      "id": "OK-867",
+      "shapeId": "csv-867",
       "name": "E. W. Marland Memorial Highway",
       "state": "OK",
       "honoree": {
@@ -1673,8 +1673,8 @@
       },
       "location": {
         "coordinates": [
-          35.445133847198285,
-          -97.04912515280171
+          35.47698968779435,
+          -97.03751658069862
         ],
         "state": "OK"
       },
@@ -1683,8 +1683,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/E._W._Marland"
     },
     {
-      "id": "OK-875",
-      "shapeId": "csv-875",
+      "id": "OK-868",
+      "shapeId": "csv-868",
       "name": "S. S. McColgin Highway",
       "state": "OK",
       "honoree": {
@@ -1697,8 +1697,8 @@
       },
       "location": {
         "coordinates": [
-          35.261567,
-          -97.49709680000001
+          35.60240775,
+          -96.4284595
         ],
         "state": "OK"
       },
@@ -1707,8 +1707,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Bessie_S._McColgin"
     },
     {
-      "id": "OK-876",
-      "shapeId": "csv-876",
+      "id": "OK-869",
+      "shapeId": "csv-869",
       "name": "McIntosh County Korean Veterans Memorial Highway",
       "state": "OK",
       "honoree": {
@@ -1716,8 +1716,8 @@
       },
       "location": {
         "coordinates": [
-          36.1553883,
-          -95.9310007
+          35.9226156,
+          -96.39206605000001
         ],
         "state": "OK"
       },
@@ -1725,8 +1725,8 @@
       "highway": "US 69; I-40"
     },
     {
-      "id": "OK-877",
-      "shapeId": "csv-877",
+      "id": "OK-870",
+      "shapeId": "csv-870",
       "name": "Clem McSpadden Highway",
       "state": "OK",
       "honoree": {
@@ -1744,8 +1744,8 @@
       },
       "location": {
         "coordinates": [
-          36.2945659,
-          -95.6291552
+          36.2618342,
+          -95.42753139999999
         ],
         "state": "OK"
       },
@@ -1754,8 +1754,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Clem_McSpadden"
     },
     {
-      "id": "OK-878",
-      "shapeId": "csv-878",
+      "id": "OK-871",
+      "shapeId": "csv-871",
       "name": "Roger Miller Memorial Highway",
       "state": "OK",
       "honoree": {
@@ -1768,8 +1768,8 @@
       },
       "location": {
         "coordinates": [
-          35.212709,
-          -99.8690567
+          35.4128239,
+          -97.49782915
         ],
         "state": "OK"
       },
@@ -1778,9 +1778,141 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Jody_Miller"
     },
     {
+      "id": "OK-872",
+      "shapeId": "csv-872",
+      "name": "Shannon Miller Parkway",
+      "state": "OK",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          35.452062425536894,
+          -97.03471273719889
+        ],
+        "state": "OK"
+      },
+      "designation": {},
+      "highway": "I-35"
+    },
+    {
+      "id": "OK-873",
+      "shapeId": "csv-873",
+      "name": "John Miskelly Jr. Memorial Highway",
+      "state": "OK",
+      "honoree": {
+        "name": "John Miskelly Jr"
+      },
+      "location": {
+        "coordinates": [
+          36.3911976,
+          -95.0466277
+        ],
+        "state": "OK"
+      },
+      "designation": {},
+      "highway": "US 62"
+    },
+    {
+      "id": "OK-874",
+      "shapeId": "csv-874",
+      "name": "Jody S. Moad Highway",
+      "state": "OK",
+      "honoree": {
+        "name": "Jody S. Moad"
+      },
+      "location": {
+        "coordinates": [
+          35.426457118188225,
+          -97.02695265475953
+        ],
+        "state": "OK"
+      },
+      "designation": {},
+      "highway": "SH 47"
+    },
+    {
+      "id": "OK-875",
+      "shapeId": "csv-875",
+      "name": "Billy Fairl Morgan Memorial Highway",
+      "state": "OK",
+      "honoree": {
+        "name": "Billy Fairl Morgan",
+        "summary": "Narcotics Agent Billy Morgan, Corporal Ronnie Fox, and Detective David Sheehan were killed when their plane crashed into Jack Fork Mountain in southeastern Oklahoma. The officers were searching for marijuana fields at the time. Agent Morgan was to become the first agent in charge of the new McAlester Office of the Oklahoma Bureau of Narcotics and Dangerous Drugs Control that Monday. He was survived by his parents.",
+        "age": 29,
+        "causeOfDeath": "Aircraft accident",
+        "incidentDescription": "Cause: Aircraft accident",
+        "involvedInLawEnforcement": true
+      },
+      "location": {
+        "coordinates": [
+          35.261567,
+          -97.49709680000001
+        ],
+        "state": "OK"
+      },
+      "designation": {},
+      "highway": "US 59; US 259; US 271; US 62; SH 270",
+      "lawWebLink": "https://www.odmp.org/officer/9605-narcotics-agent-billy-fairl-morgan"
+    },
+    {
+      "id": "OK-876",
+      "shapeId": "csv-876",
+      "name": "George Nigh Expressway",
+      "state": "OK",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          36.1553883,
+          -95.9310007
+        ],
+        "state": "OK"
+      },
+      "designation": {},
+      "highway": "US 69"
+    },
+    {
+      "id": "OK-877",
+      "shapeId": "csv-877",
+      "name": "The Northwest Passage",
+      "state": "OK",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          36.2945659,
+          -95.6291552
+        ],
+        "state": "OK"
+      },
+      "designation": {},
+      "highway": "SH 3 N; SH 3"
+    },
+    {
+      "id": "OK-878",
+      "shapeId": "csv-878",
+      "name": "Old Greer County Highway",
+      "state": "OK",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          35.212709,
+          -99.8690567
+        ],
+        "state": "OK"
+      },
+      "designation": {},
+      "highway": "US 283"
+    },
+    {
       "id": "OK-879",
       "shapeId": "csv-879",
-      "name": "Shannon Miller Parkway",
+      "name": "Bertha Parker Bypass",
       "state": "OK",
       "honoree": {
         "name": "Unknown"
@@ -1793,15 +1925,15 @@
         "state": "OK"
       },
       "designation": {},
-      "highway": "I-35"
+      "highway": "US 62"
     },
     {
       "id": "OK-880",
       "shapeId": "csv-880",
-      "name": "John Miskelly Jr. Memorial Highway",
+      "name": "The Quanah Parker Trailway",
       "state": "OK",
       "honoree": {
-        "name": "John Miskelly Jr"
+        "name": "Unknown"
       },
       "location": {
         "coordinates": [
@@ -1816,138 +1948,6 @@
     {
       "id": "OK-881",
       "shapeId": "csv-881",
-      "name": "Jody S. Moad Highway",
-      "state": "OK",
-      "honoree": {
-        "name": "Jody S. Moad"
-      },
-      "location": {
-        "coordinates": [
-          35.261567,
-          -97.6720968
-        ],
-        "state": "OK"
-      },
-      "designation": {},
-      "highway": "SH 47"
-    },
-    {
-      "id": "OK-882",
-      "shapeId": "csv-882",
-      "name": "Billy Fairl Morgan Memorial Highway",
-      "state": "OK",
-      "honoree": {
-        "name": "Billy Fairl Morgan",
-        "summary": "Narcotics Agent Billy Morgan, Corporal Ronnie Fox, and Detective David Sheehan were killed when their plane crashed into Jack Fork Mountain in southeastern Oklahoma. The officers were searching for marijuana fields at the time. Agent Morgan was to become the first agent in charge of the new McAlester Office of the Oklahoma Bureau of Narcotics and Dangerous Drugs Control that Monday. He was survived by his parents.",
-        "age": 29,
-        "causeOfDeath": "Aircraft accident",
-        "incidentDescription": "Cause: Aircraft accident",
-        "involvedInLawEnforcement": true
-      },
-      "location": {
-        "coordinates": [
-          35.4352507,
-          -97.7828341
-        ],
-        "state": "OK"
-      },
-      "designation": {},
-      "highway": "US 59; US 259; US 271; US 62; SH 270",
-      "lawWebLink": "https://www.odmp.org/officer/9605-narcotics-agent-billy-fairl-morgan"
-    },
-    {
-      "id": "OK-883",
-      "shapeId": "csv-883",
-      "name": "George Nigh Expressway",
-      "state": "OK",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          35.418571632046124,
-          -97.04153786436662
-        ],
-        "state": "OK"
-      },
-      "designation": {},
-      "highway": "US 69"
-    },
-    {
-      "id": "OK-884",
-      "shapeId": "csv-884",
-      "name": "The Northwest Passage",
-      "state": "OK",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          37.63942985,
-          -86.51017575
-        ],
-        "state": "OK"
-      },
-      "designation": {},
-      "highway": "SH 3 N; SH 3"
-    },
-    {
-      "id": "OK-885",
-      "shapeId": "csv-885",
-      "name": "Old Greer County Highway",
-      "state": "OK",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          35.49605996769725,
-          -96.968917
-        ],
-        "state": "OK"
-      },
-      "designation": {},
-      "highway": "US 283"
-    },
-    {
-      "id": "OK-886",
-      "shapeId": "csv-886",
-      "name": "Bertha Parker Bypass",
-      "state": "OK",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          35.477573444411426,
-          -96.96527192607468
-        ],
-        "state": "OK"
-      },
-      "designation": {},
-      "highway": "US 62"
-    },
-    {
-      "id": "OK-887",
-      "shapeId": "csv-887",
-      "name": "The Quanah Parker Trailway",
-      "state": "OK",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          34.6322595,
-          -98.4741369
-        ],
-        "state": "OK"
-      },
-      "designation": {},
-      "highway": "US 62"
-    },
-    {
-      "id": "OK-888",
-      "shapeId": "csv-888",
       "name": "Pawnee Bill Memorial Highway",
       "state": "OK",
       "honoree": {
@@ -1960,8 +1960,8 @@
       },
       "location": {
         "coordinates": [
-          35.4714321,
-          -97.5171107
+          35.261567,
+          -97.6720968
         ],
         "state": "OK"
       },
@@ -1970,8 +1970,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Moses_Yellowhorse"
     },
     {
-      "id": "OK-889",
-      "shapeId": "csv-889",
+      "id": "OK-882",
+      "shapeId": "csv-882",
       "name": "Thomas D. Peace Memorial Highway",
       "state": "OK",
       "honoree": {
@@ -1984,8 +1984,8 @@
       },
       "location": {
         "coordinates": [
-          35.93673485,
-          -95.6382108
+          35.4352507,
+          -97.7828341
         ],
         "state": "OK"
       },
@@ -1994,8 +1994,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Jed_Johnson_%28Oklahoma_politician%29"
     },
     {
-      "id": "OK-890",
-      "shapeId": "csv-890",
+      "id": "OK-883",
+      "shapeId": "csv-883",
       "name": "Pearl Harbor Memorial Expressway",
       "state": "OK",
       "honoree": {
@@ -2003,8 +2003,8 @@
       },
       "location": {
         "coordinates": [
-          36.153428,
-          -95.9141595
+          35.40108323459556,
+          -97.01402903198026
         ],
         "state": "OK"
       },
@@ -2012,8 +2012,8 @@
       "highway": "US 169"
     },
     {
-      "id": "OK-891",
-      "shapeId": "csv-891",
+      "id": "OK-884",
+      "shapeId": "csv-884",
       "name": "Pearl Harbor/USS Oklahoma Memorial Highway",
       "state": "OK",
       "honoree": {
@@ -2021,8 +2021,8 @@
       },
       "location": {
         "coordinates": [
-          35.2220096,
-          -97.4843572
+          37.63942985,
+          -86.51017575
         ],
         "state": "OK"
       },
@@ -2030,8 +2030,8 @@
       "highway": "SH 77H; SH 9; I-240"
     },
     {
-      "id": "OK-892",
-      "shapeId": "csv-892",
+      "id": "OK-885",
+      "shapeId": "csv-885",
       "name": "Flavel D. Perry Highway",
       "state": "OK",
       "honoree": {
@@ -2044,8 +2044,8 @@
       },
       "location": {
         "coordinates": [
-          36.7389962,
-          -97.0714492
+          35.4899611262305,
+          -96.95570736897368
         ],
         "state": "OK"
       },
@@ -2054,8 +2054,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Bill_Tilghman"
     },
     {
-      "id": "OK-893",
-      "shapeId": "csv-893",
+      "id": "OK-886",
+      "shapeId": "csv-886",
       "name": "Perryman Memorial Highway",
       "state": "OK",
       "honoree": {
@@ -2063,8 +2063,8 @@
       },
       "location": {
         "coordinates": [
-          35.4590901591082,
-          -96.95738709496128
+          35.47232901167018,
+          -96.94824532124
         ],
         "state": "OK"
       },
@@ -2072,8 +2072,8 @@
       "highway": "US 75; I-44"
     },
     {
-      "id": "OK-894",
-      "shapeId": "csv-894",
+      "id": "OK-887",
+      "shapeId": "csv-887",
       "name": "Frank Phillips Boulevard",
       "state": "OK",
       "honoree": {
@@ -2089,8 +2089,8 @@
       },
       "location": {
         "coordinates": [
-          35.44141139232828,
-          -96.9452327740275
+          34.6322595,
+          -98.4741369
         ],
         "state": "OK"
       },
@@ -2099,8 +2099,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Waite_Phillips"
     },
     {
-      "id": "OK-895",
-      "shapeId": "csv-895",
+      "id": "OK-888",
+      "shapeId": "csv-888",
       "name": "Colonel Harold D. Pinney, U. S. Army Highway",
       "state": "OK",
       "honoree": {
@@ -2113,8 +2113,8 @@
       },
       "location": {
         "coordinates": [
-          35.2873764,
-          -95.67753019999999
+          35.4714321,
+          -97.5171107
         ],
         "state": "OK"
       },
@@ -2123,8 +2123,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Roland_B._Day"
     },
     {
-      "id": "OK-896",
-      "shapeId": "csv-896",
+      "id": "OK-889",
+      "shapeId": "csv-889",
       "name": "POW-MIA Memorial Highway",
       "state": "OK",
       "honoree": {
@@ -2132,8 +2132,8 @@
       },
       "location": {
         "coordinates": [
-          35.425342,
-          -96.928917
+          35.93673485,
+          -95.6382108
         ],
         "state": "OK"
       },
@@ -2141,13 +2141,145 @@
       "highway": "US 62; SH 82; SH 10"
     },
     {
-      "id": "OK-897",
-      "shapeId": "csv-897",
+      "id": "OK-890",
+      "shapeId": "csv-890",
       "name": "Tom Puckett Memorial Highway",
       "state": "OK",
       "honoree": {
         "name": "Tom Puckett",
         "summary": "[UNVERIFIED] The Wikipedia article is about Kirby Puckett, a famous baseball player from Minnesota, not Tom Puckett. The highway is named 'Tom Puckett Memorial Highway' in Oklahoma, and there is no indication in the article that Kirby Puckett is connected to Oklahoma or that the highway is named after him.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          36.153428,
+          -95.9141595
+        ],
+        "state": "OK"
+      },
+      "designation": {},
+      "highway": "I-44; SH 65; SH 7",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Kirby_Puckett"
+    },
+    {
+      "id": "OK-891",
+      "shapeId": "csv-891",
+      "name": "Jake Pullen Bypass",
+      "state": "OK",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          35.2220096,
+          -97.4843572
+        ],
+        "state": "OK"
+      },
+      "designation": {},
+      "highway": "US 70"
+    },
+    {
+      "id": "OK-892",
+      "shapeId": "csv-892",
+      "name": "Purple Heart Trail",
+      "state": "OK",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          36.7389962,
+          -97.0714492
+        ],
+        "state": "OK"
+      },
+      "designation": {},
+      "highway": "I-40; I-35"
+    },
+    {
+      "id": "OK-893",
+      "shapeId": "csv-893",
+      "name": "J. A. Richardson Loop",
+      "state": "OK",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          35.45559843538904,
+          -96.93642366547012
+        ],
+        "state": "OK"
+      },
+      "designation": {},
+      "highway": "SH 1; SH 3; SH 12; SH 3E"
+    },
+    {
+      "id": "OK-894",
+      "shapeId": "csv-894",
+      "name": "Santa Fe Trail Highway",
+      "state": "OK",
+      "honoree": {
+        "name": "Santa Fe Trail"
+      },
+      "location": {
+        "coordinates": [
+          35.44063340385119,
+          -96.92038669832941
+        ],
+        "state": "OK"
+      },
+      "designation": {},
+      "highway": "SH 82; US 56"
+    },
+    {
+      "id": "OK-895",
+      "shapeId": "csv-895",
+      "name": "Scenic SH77S Lake Murray and Vicinity",
+      "state": "OK",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          35.2873764,
+          -95.67753019999999
+        ],
+        "state": "OK"
+      },
+      "designation": {},
+      "highway": "SH 77S; SH 32"
+    },
+    {
+      "id": "OK-896",
+      "shapeId": "csv-896",
+      "name": "Scenic U.S. Highway 412 Cherokee Turnpike",
+      "state": "OK",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          35.428270227724475,
+          -96.90043315817263
+        ],
+        "state": "OK"
+      },
+      "designation": {},
+      "highway": "US 412"
+    },
+    {
+      "id": "OK-897",
+      "shapeId": "csv-897",
+      "name": "Seminole Nation Highway",
+      "state": "OK",
+      "honoree": {
+        "name": "Seminole Nation",
+        "summary": "[UNVERIFIED] The provided Wikipedia article snippet is only a generic navigation menu and does not contain any content about Sterlin Harjo. Without article content, it cannot be confirmed that the person is connected to Oklahoma or has a background suitable for a highway memorial (e.g., law enforcement, military, politics). The highway name 'Seminole Nation Highway' suggests a connection to Native American heritage or local Oklahoma history, which is not verified here.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -2161,31 +2293,31 @@
         "state": "OK"
       },
       "designation": {},
-      "highway": "I-44; SH 65; SH 7",
-      "lawWebLink": "https://en.wikipedia.org/wiki/Kirby_Puckett"
+      "highway": "SH 56",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Sterlin_Harjo"
     },
     {
       "id": "OK-898",
       "shapeId": "csv-898",
-      "name": "Jake Pullen Bypass",
+      "name": "Scenic Route of Western Oklahoma",
       "state": "OK",
       "honoree": {
         "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          35.41166804648706,
-          -96.90868544020589
+          35.41929155707158,
+          -96.8770106601135
         ],
         "state": "OK"
       },
       "designation": {},
-      "highway": "US 70"
+      "highway": "SH 152"
     },
     {
       "id": "OK-899",
       "shapeId": "csv-899",
-      "name": "Purple Heart Trail",
+      "name": "Sequoyah Memorial Highway",
       "state": "OK",
       "honoree": {
         "name": "Unknown"
@@ -2198,143 +2330,11 @@
         "state": "OK"
       },
       "designation": {},
-      "highway": "I-40; I-35"
+      "highway": "SH 101; SH 59; US 59; SH 64B"
     },
     {
       "id": "OK-900",
       "shapeId": "csv-900",
-      "name": "J. A. Richardson Loop",
-      "state": "OK",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          35.40113460953086,
-          -96.88491776233256
-        ],
-        "state": "OK"
-      },
-      "designation": {},
-      "highway": "SH 1; SH 3; SH 12; SH 3E"
-    },
-    {
-      "id": "OK-901",
-      "shapeId": "csv-901",
-      "name": "Santa Fe Trail Highway",
-      "state": "OK",
-      "honoree": {
-        "name": "Santa Fe Trail"
-      },
-      "location": {
-        "coordinates": [
-          35.5288375,
-          -97.5641041
-        ],
-        "state": "OK"
-      },
-      "designation": {},
-      "highway": "SH 82; US 56"
-    },
-    {
-      "id": "OK-902",
-      "shapeId": "csv-902",
-      "name": "Scenic SH77S Lake Murray and Vicinity",
-      "state": "OK",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          35.4237707,
-          -97.5976263
-        ],
-        "state": "OK"
-      },
-      "designation": {},
-      "highway": "SH 77S; SH 32"
-    },
-    {
-      "id": "OK-903",
-      "shapeId": "csv-903",
-      "name": "Scenic U.S. Highway 412 Cherokee Turnpike",
-      "state": "OK",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          36.178334,
-          -94.7421781
-        ],
-        "state": "OK"
-      },
-      "designation": {},
-      "highway": "US 412"
-    },
-    {
-      "id": "OK-904",
-      "shapeId": "csv-904",
-      "name": "Seminole Nation Highway",
-      "state": "OK",
-      "honoree": {
-        "name": "Seminole Nation",
-        "summary": "[UNVERIFIED] The provided Wikipedia article snippet is only a generic navigation menu and does not contain any content about Sterlin Harjo. Without article content, it cannot be confirmed that the person is connected to Oklahoma or has a background suitable for a highway memorial (e.g., law enforcement, military, politics). The highway name 'Seminole Nation Highway' suggests a connection to Native American heritage or local Oklahoma history, which is not verified here.",
-        "involvedInSports": false,
-        "involvedInPolitics": false,
-        "involvedInMilitary": false,
-        "involvedInMusic": false
-      },
-      "location": {
-        "coordinates": [
-          35.39442428648541,
-          -96.85812056501246
-        ],
-        "state": "OK"
-      },
-      "designation": {},
-      "highway": "SH 56",
-      "lawWebLink": "https://en.wikipedia.org/wiki/Sterlin_Harjo"
-    },
-    {
-      "id": "OK-905",
-      "shapeId": "csv-905",
-      "name": "Scenic Route of Western Oklahoma",
-      "state": "OK",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          35.2979543,
-          -99.6399648
-        ],
-        "state": "OK"
-      },
-      "designation": {},
-      "highway": "SH 152"
-    },
-    {
-      "id": "OK-906",
-      "shapeId": "csv-906",
-      "name": "Sequoyah Memorial Highway",
-      "state": "OK",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          35.49605996769725,
-          -96.88891699999999
-        ],
-        "state": "OK"
-      },
-      "designation": {},
-      "highway": "SH 101; SH 59; US 59; SH 64B"
-    },
-    {
-      "id": "OK-907",
-      "shapeId": "csv-907",
       "name": "Oscar F. Sewell Memorial Drive",
       "state": "OK",
       "honoree": {
@@ -2347,8 +2347,8 @@
       },
       "location": {
         "coordinates": [
-          36.2934416,
-          -95.8386158
+          35.4144015128716,
+          -96.85070594358571
         ],
         "state": "OK"
       },
@@ -2357,8 +2357,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Lillian_Gish"
     },
     {
-      "id": "OK-908",
-      "shapeId": "csv-908",
+      "id": "OK-901",
+      "shapeId": "csv-901",
       "name": "Southeastern Mountain Gateway",
       "state": "OK",
       "honoree": {
@@ -2366,8 +2366,8 @@
       },
       "location": {
         "coordinates": [
-          35.489973432672336,
-          -96.87108466424417
+          35.5288375,
+          -97.5641041
         ],
         "state": "OK"
       },
@@ -2375,8 +2375,8 @@
       "highway": "SH 3"
     },
     {
-      "id": "OK-909",
-      "shapeId": "csv-909",
+      "id": "OK-902",
+      "shapeId": "csv-902",
       "name": "Bixby Spartan Pass",
       "state": "OK",
       "honoree": {
@@ -2384,8 +2384,8 @@
       },
       "location": {
         "coordinates": [
-          35.48756025406948,
-          -96.85113525406948
+          35.4237707,
+          -97.5976263
         ],
         "state": "OK"
       },
@@ -2393,8 +2393,8 @@
       "highway": "US 64"
     },
     {
-      "id": "OK-910",
-      "shapeId": "csv-910",
+      "id": "OK-903",
+      "shapeId": "csv-903",
       "name": "Sand Springs Expressway",
       "state": "OK",
       "honoree": {
@@ -2402,8 +2402,8 @@
       },
       "location": {
         "coordinates": [
-          35.48924682137391,
-          -96.8297478324636
+          36.178334,
+          -94.7421781
         ],
         "state": "OK"
       },
@@ -2411,8 +2411,8 @@
       "highway": "US 412; US 64"
     },
     {
-      "id": "OK-911",
-      "shapeId": "csv-911",
+      "id": "OK-904",
+      "shapeId": "csv-904",
       "name": "Tom Steed Memorial Highway",
       "state": "OK",
       "honoree": {
@@ -2425,8 +2425,8 @@
       },
       "location": {
         "coordinates": [
-          35.4603613,
-          -97.4479968
+          35.41420256979307,
+          -96.82223114040875
         ],
         "state": "OK"
       },
@@ -2435,8 +2435,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Tom_Coburn"
     },
     {
-      "id": "OK-912",
-      "shapeId": "csv-912",
+      "id": "OK-905",
+      "shapeId": "csv-905",
       "name": "William Ross Stewart Memorial Highway",
       "state": "OK",
       "honoree": {
@@ -2459,8 +2459,8 @@
       },
       "location": {
         "coordinates": [
-          34.9278748,
-          -95.7158221
+          35.2979543,
+          -99.6399648
         ],
         "state": "OK"
       },
@@ -2469,8 +2469,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/William_H._Murray"
     },
     {
-      "id": "OK-913",
-      "shapeId": "csv-913",
+      "id": "OK-906",
+      "shapeId": "csv-906",
       "name": "W. R. 'Dick' Stubbs Memorial Highway",
       "state": "OK",
       "honoree": {
@@ -2478,8 +2478,8 @@
       },
       "location": {
         "coordinates": [
-          35.452154,
-          -96.76041285
+          35.50687512285775,
+          -96.87431274854251
         ],
         "state": "OK"
       },
@@ -2487,8 +2487,8 @@
       "highway": "US 75; US 266"
     },
     {
-      "id": "OK-914",
-      "shapeId": "csv-914",
+      "id": "OK-907",
+      "shapeId": "csv-907",
       "name": "Talimena Scenic Drive",
       "state": "OK",
       "honoree": {
@@ -2496,8 +2496,8 @@
       },
       "location": {
         "coordinates": [
-          35.093419,
-          -94.6302971
+          36.2934416,
+          -95.8386158
         ],
         "state": "OK"
       },
@@ -2505,8 +2505,8 @@
       "highway": "SH 1"
     },
     {
-      "id": "OK-915",
-      "shapeId": "csv-915",
+      "id": "OK-908",
+      "shapeId": "csv-908",
       "name": "Marjorie & Maria Tallchief Highway",
       "state": "OK",
       "honoree": {
@@ -2514,8 +2514,8 @@
       },
       "location": {
         "coordinates": [
-          35.495342,
-          -96.80767344347018
+          35.505388645289024,
+          -96.85522442738308
         ],
         "state": "OK"
       },
@@ -2523,8 +2523,8 @@
       "highway": "SH 18; US 60"
     },
     {
-      "id": "OK-916",
-      "shapeId": "csv-916",
+      "id": "OK-909",
+      "shapeId": "csv-909",
       "name": "Mick Thompson Road (Boulevard)",
       "state": "OK",
       "honoree": {
@@ -2532,8 +2532,8 @@
       },
       "location": {
         "coordinates": [
-          35.0633603,
-          -94.6224754
+          35.5081877654961,
+          -96.83493086549989
         ],
         "state": "OK"
       },
@@ -2541,8 +2541,8 @@
       "highway": "US 69; US 59"
     },
     {
-      "id": "OK-917",
-      "shapeId": "csv-917",
+      "id": "OK-910",
+      "shapeId": "csv-910",
       "name": "Jim Thorpe Memorial Highway",
       "state": "OK",
       "honoree": {
@@ -2561,8 +2561,8 @@
       },
       "location": {
         "coordinates": [
-          36.0902593,
-          -95.9217699
+          35.51554186376922,
+          -96.81426558731182
         ],
         "state": "OK"
       },
@@ -2571,13 +2571,157 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Jim_Thorpe"
     },
     {
-      "id": "OK-918",
-      "shapeId": "csv-918",
+      "id": "OK-911",
+      "shapeId": "csv-911",
       "name": "Major General Clarence L. Tinker Memorial Highway",
       "state": "OK",
       "honoree": {
         "name": "General Clarence L. Tinker",
         "summary": "[UNVERIFIED] The highway is named after Major General Clarence L. Tinker, but the Wikipedia article is for Jack N. Merritt, a different person. The article snippet does not mention Clarence L. Tinker or any connection to the highway in Oklahoma.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          35.4603613,
+          -97.4479968
+        ],
+        "state": "OK"
+      },
+      "designation": {},
+      "highway": "SH 20; SH 11; SH 18",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Jack_N._Merritt"
+    },
+    {
+      "id": "OK-912",
+      "shapeId": "csv-912",
+      "name": "Tom Tipps Highway",
+      "state": "OK",
+      "honoree": {
+        "name": "Tom Tipps",
+        "summary": "[UNVERIFIED] The provided Wikipedia article content is only a generic navigation menu and does not contain any information about a person named Houston Davis. Without article content confirming the person's identity, connection to Oklahoma, or relevance for a highway naming, it cannot be validated as the correct person.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          34.9278748,
+          -95.7158221
+        ],
+        "state": "OK"
+      },
+      "designation": {},
+      "highway": "US 70; US 77; SH 76",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Houston_Davis"
+    },
+    {
+      "id": "OK-913",
+      "shapeId": "csv-913",
+      "name": "Turner Turnpike",
+      "state": "OK",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          35.452154,
+          -96.76041285
+        ],
+        "state": "OK"
+      },
+      "designation": {},
+      "highway": "I-44"
+    },
+    {
+      "id": "OK-914",
+      "shapeId": "csv-914",
+      "name": "Veterans Memorial Highway",
+      "state": "OK",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          35.093419,
+          -94.6302971
+        ],
+        "state": "OK"
+      },
+      "designation": {},
+      "highway": "SH 99"
+    },
+    {
+      "id": "OK-915",
+      "shapeId": "csv-915",
+      "name": "Vietnam Veterans Highway",
+      "state": "OK",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          35.52757045203802,
+          -96.7941085797713
+        ],
+        "state": "OK"
+      },
+      "designation": {},
+      "highway": "I-35; I-40"
+    },
+    {
+      "id": "OK-916",
+      "shapeId": "csv-916",
+      "name": "Veterans  of Foreign Wars Highway",
+      "state": "OK",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          35.0633603,
+          -94.6224754
+        ],
+        "state": "OK"
+      },
+      "designation": {},
+      "highway": "SH 67"
+    },
+    {
+      "id": "OK-917",
+      "shapeId": "csv-917",
+      "name": "Hugh Warren Memorial Highway",
+      "state": "OK",
+      "honoree": {
+        "name": "Hugh Warren",
+        "summary": "[UNVERIFIED] The Wikipedia article is about Hugh Jackman, a famous Australian actor, not Hugh Warren, the likely namesake of the 'Hugh Warren Memorial Highway' in Oklahoma. There is no indication that Hugh Jackman has any connection to Oklahoma or a memorial highway named after him.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          36.0902593,
+          -95.9217699
+        ],
+        "state": "OK"
+      },
+      "designation": {},
+      "highway": "SH 99",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Hugh_Jackman"
+    },
+    {
+      "id": "OK-918",
+      "shapeId": "csv-918",
+      "name": "Dwight F. Whelan Memorial Highway",
+      "state": "OK",
+      "honoree": {
+        "name": "Dwight F. Whelan",
+        "summary": "[UNVERIFIED] The highway is named 'Dwight F. Whelan Memorial Highway' in Oklahoma, but the Wikipedia article is for 'Dwight W. Burney', a different person with a different middle initial and surname. There is no indication that Burney is connected to Whelan or the highway's namesake.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -2591,21 +2735,16 @@
         "state": "OK"
       },
       "designation": {},
-      "highway": "SH 20; SH 11; SH 18",
-      "lawWebLink": "https://en.wikipedia.org/wiki/Jack_N._Merritt"
+      "highway": "US 77",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Dwight_W._Burney"
     },
     {
       "id": "OK-919",
       "shapeId": "csv-919",
-      "name": "Tom Tipps Highway",
+      "name": "Will Rogers Turnpike",
       "state": "OK",
       "honoree": {
-        "name": "Tom Tipps",
-        "summary": "[UNVERIFIED] The provided Wikipedia article content is only a generic navigation menu and does not contain any information about a person named Houston Davis. Without article content confirming the person's identity, connection to Oklahoma, or relevance for a highway naming, it cannot be validated as the correct person.",
-        "involvedInSports": false,
-        "involvedInPolitics": false,
-        "involvedInMilitary": false,
-        "involvedInMusic": false
+        "name": "Unknown"
       },
       "location": {
         "coordinates": [
@@ -2615,13 +2754,12 @@
         "state": "OK"
       },
       "designation": {},
-      "highway": "US 70; US 77; SH 76",
-      "lawWebLink": "https://en.wikipedia.org/wiki/Houston_Davis"
+      "highway": "I-44"
     },
     {
       "id": "OK-920",
       "shapeId": "csv-920",
-      "name": "Turner Turnpike",
+      "name": "World War 1 Veterans Memorial Highway",
       "state": "OK",
       "honoree": {
         "name": "Unknown"
@@ -2634,149 +2772,11 @@
         "state": "OK"
       },
       "designation": {},
-      "highway": "I-44"
+      "highway": "I-35; I-40"
     },
     {
       "id": "OK-921",
       "shapeId": "csv-921",
-      "name": "Veterans Memorial Highway",
-      "state": "OK",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          35.50602606798341,
-          -96.78571567246075
-        ],
-        "state": "OK"
-      },
-      "designation": {},
-      "highway": "SH 99"
-    },
-    {
-      "id": "OK-922",
-      "shapeId": "csv-922",
-      "name": "Vietnam Veterans Highway",
-      "state": "OK",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          34.0908785,
-          -106.20810165
-        ],
-        "state": "OK"
-      },
-      "designation": {},
-      "highway": "I-35; I-40"
-    },
-    {
-      "id": "OK-923",
-      "shapeId": "csv-923",
-      "name": "Veterans  of Foreign Wars Highway",
-      "state": "OK",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          35.52134276233257,
-          -96.76470960953085
-        ],
-        "state": "OK"
-      },
-      "designation": {},
-      "highway": "SH 67"
-    },
-    {
-      "id": "OK-924",
-      "shapeId": "csv-924",
-      "name": "Hugh Warren Memorial Highway",
-      "state": "OK",
-      "honoree": {
-        "name": "Hugh Warren",
-        "summary": "[UNVERIFIED] The Wikipedia article is about Hugh Jackman, a famous Australian actor, not Hugh Warren, the likely namesake of the 'Hugh Warren Memorial Highway' in Oklahoma. There is no indication that Hugh Jackman has any connection to Oklahoma or a memorial highway named after him.",
-        "involvedInSports": false,
-        "involvedInPolitics": false,
-        "involvedInMilitary": false,
-        "involvedInMusic": false
-      },
-      "location": {
-        "coordinates": [
-          35.541194654439295,
-          -96.74549970064584
-        ],
-        "state": "OK"
-      },
-      "designation": {},
-      "highway": "SH 99",
-      "lawWebLink": "https://en.wikipedia.org/wiki/Hugh_Jackman"
-    },
-    {
-      "id": "OK-925",
-      "shapeId": "csv-925",
-      "name": "Dwight F. Whelan Memorial Highway",
-      "state": "OK",
-      "honoree": {
-        "name": "Dwight F. Whelan",
-        "summary": "[UNVERIFIED] The highway is named 'Dwight F. Whelan Memorial Highway' in Oklahoma, but the Wikipedia article is for 'Dwight W. Burney', a different person with a different middle initial and surname. There is no indication that Burney is connected to Whelan or the highway's namesake.",
-        "involvedInSports": false,
-        "involvedInPolitics": false,
-        "involvedInMilitary": false,
-        "involvedInMusic": false
-      },
-      "location": {
-        "coordinates": [
-          35.3912202,
-          -97.6060596
-        ],
-        "state": "OK"
-      },
-      "designation": {},
-      "highway": "US 77",
-      "lawWebLink": "https://en.wikipedia.org/wiki/Dwight_W._Burney"
-    },
-    {
-      "id": "OK-926",
-      "shapeId": "csv-926",
-      "name": "Will Rogers Turnpike",
-      "state": "OK",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          35.7935774,
-          -96.78094920000001
-        ],
-        "state": "OK"
-      },
-      "designation": {},
-      "highway": "I-44"
-    },
-    {
-      "id": "OK-927",
-      "shapeId": "csv-927",
-      "name": "World War 1 Veterans Memorial Highway",
-      "state": "OK",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          34.1024216,
-          -106.10106775000001
-        ],
-        "state": "OK"
-      },
-      "designation": {},
-      "highway": "I-35; I-40"
-    },
-    {
-      "id": "OK-928",
-      "shapeId": "csv-928",
       "name": "World War II Veterans Memorial Highway",
       "state": "OK",
       "honoree": {
@@ -2784,8 +2784,8 @@
       },
       "location": {
         "coordinates": [
-          34.1024216,
-          -106.27606775000001
+          35.54423616939008,
+          -96.77536067836436
         ],
         "state": "OK"
       },
@@ -2794,7 +2794,7 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-04-22T17:36:07.805Z",
+    "lastUpdated": "2026-04-22T18:34:53.610Z",
     "totalCount": 132,
     "states": [
       "OK"

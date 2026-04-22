@@ -1,9 +1,135 @@
 {
   "highways": [
     {
+      "id": "NY-922",
+      "shapeId": "csv-922",
+      "name": "27th Div. Memorial Highway",
+      "state": "NY",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          34.0908785,
+          -106.11310165
+        ],
+        "state": "NY"
+      },
+      "designation": {},
+      "highway": "NY 17"
+    },
+    {
+      "id": "NY-923",
+      "shapeId": "csv-923",
+      "name": "86th Blackhawk Infantry Division Memorial Highway",
+      "state": "NY",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          35.565342,
+          -96.848917
+        ],
+        "state": "NY"
+      },
+      "designation": {},
+      "highway": "NY 9W"
+    },
+    {
+      "id": "NY-924",
+      "shapeId": "csv-924",
+      "name": "87th Infantry Division Memorial Highway",
+      "state": "NY",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          35.565342,
+          -97.023917
+        ],
+        "state": "NY"
+      },
+      "designation": {},
+      "highway": "I 390"
+    },
+    {
+      "id": "NY-925",
+      "shapeId": "csv-925",
+      "name": "88th Infantry Division, the Blue Devils Memorial Highway",
+      "state": "NY",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          35.3912202,
+          -97.5110596
+        ],
+        "state": "NY"
+      },
+      "designation": {},
+      "highway": "NY 17"
+    },
+    {
+      "id": "NY-926",
+      "shapeId": "csv-926",
+      "name": "The 94th Infantry Division Memorial Highway",
+      "state": "NY",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          35.7935774,
+          -96.78094920000001
+        ],
+        "state": "NY"
+      },
+      "designation": {},
+      "highway": "NY 94"
+    },
+    {
+      "id": "NY-927",
+      "shapeId": "csv-927",
+      "name": "96th Infantry Division WW II Memorial Highway",
+      "state": "NY",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          34.1024216,
+          -106.10106775000001
+        ],
+        "state": "NY"
+      },
+      "designation": {},
+      "highway": "NY 96"
+    },
+    {
+      "id": "NY-928",
+      "shapeId": "csv-928",
+      "name": "100th Infantry Division Memorial Parkway",
+      "state": "NY",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          34.1024216,
+          -106.27606775000001
+        ],
+        "state": "NY"
+      },
+      "designation": {},
+      "highway": "Cross Island Parkway"
+    },
+    {
       "id": "NY-929",
       "shapeId": "csv-929",
-      "name": "27th Div. Memorial Highway",
+      "name": "156th Field Artillery Memorial Highway",
       "state": "NY",
       "honoree": {
         "name": "Unknown"
@@ -16,66 +142,65 @@
         "state": "NY"
       },
       "designation": {},
-      "highway": "NY 17"
+      "highway": "NY 32"
     },
     {
       "id": "NY-930",
       "shapeId": "csv-930",
-      "name": "86th Blackhawk Infantry Division Memorial Highway",
+      "name": "299th Engineer Combat Battalion Memorial Highway",
       "state": "NY",
       "honoree": {
         "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          42.17367539511657,
-          -74.8533841783713
+          42.17400579556103,
+          -74.85341250368128
         ],
         "state": "NY"
       },
       "designation": {},
-      "highway": "NY 9W"
+      "highway": "I 190 and Robert Moses State Parkway"
     },
     {
       "id": "NY-931",
       "shapeId": "csv-931",
-      "name": "87th Infantry Division Memorial Highway",
+      "name": "369th Harlem Hellfighter's Drive",
       "state": "NY",
       "honoree": {
         "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          42.18407056213877,
-          -74.83959143592224
+          42.184827299543365,
+          -74.83972214716866
         ],
         "state": "NY"
       },
-      "designation": {},
-      "highway": "I 390"
+      "designation": {}
     },
     {
       "id": "NY-932",
       "shapeId": "csv-932",
-      "name": "88th Infantry Division, the Blue Devils Memorial Highway",
+      "name": "6994th Security Squadron Memorial Highway",
       "state": "NY",
       "honoree": {
         "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          42.19681223589561,
-          -74.82697810485892
+          42.19807838063782,
+          -74.82731027171387
         ],
         "state": "NY"
       },
       "designation": {},
-      "highway": "NY 17"
+      "highway": "I 86"
     },
     {
       "id": "NY-933",
       "shapeId": "csv-933",
-      "name": "The 94th Infantry Division Memorial Highway",
+      "name": "Adirondack Veterans Memorial Highway",
       "state": "NY",
       "honoree": {
         "name": "Unknown"
@@ -88,87 +213,93 @@
         "state": "NY"
       },
       "designation": {},
-      "highway": "NY 94"
+      "highway": "I 87"
     },
     {
       "id": "NY-934",
       "shapeId": "csv-934",
-      "name": "96th Infantry Division WW II Memorial Highway",
+      "name": "Albany County Veterans Memorial Highway",
       "state": "NY",
       "honoree": {
         "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          42.2117673305434,
-          -74.81583830816676
+          42.213608820065595,
+          -74.81649403308998
         ],
         "state": "NY"
       },
       "designation": {},
-      "highway": "NY 96"
+      "highway": "I 787 and NY 787"
     },
     {
       "id": "NY-935",
       "shapeId": "csv-935",
-      "name": "100th Infantry Division Memorial Parkway",
+      "name": "Allegany County Veterans Memorial Highway",
       "state": "NY",
       "honoree": {
         "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          42.22877017967675,
-          -74.80645145406541
+          42.23123183056981,
+          -74.80757329300933
         ],
         "state": "NY"
       },
       "designation": {},
-      "highway": "Cross Island Parkway"
+      "highway": "I 86 (Southern Tier Expressway)"
     },
     {
       "id": "NY-936",
       "shapeId": "csv-936",
-      "name": "156th Field Artillery Memorial Highway",
+      "name": "Almond E. Fisher Memorial Highway",
       "state": "NY",
       "honoree": {
-        "name": "Unknown"
+        "name": "Almond E. Fisher",
+        "summary": "[UNVERIFIED] The Wikipedia article is for Harry Langdon Jr., a film actor/comedian from the early 20th century, not Almond E. Fisher. The name does not match, and there is no indication the person is connected to New York in a way that would warrant a memorial highway.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
       },
       "location": {
         "coordinates": [
-          42.247624124597294,
-          -74.79907886439256
+          42.250726,
+          -74.80082668135665
         ],
         "state": "NY"
       },
       "designation": {},
-      "highway": "NY 32"
+      "highway": "NY 19",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Harry_Langdon_Jr."
     },
     {
       "id": "NY-937",
       "shapeId": "csv-937",
-      "name": "299th Engineer Combat Battalion Memorial Highway",
+      "name": "Aluminum Workers' Memorial Highway",
       "state": "NY",
       "honoree": {
-        "name": "Unknown"
+        "name": "Aluminum Workers'"
       },
       "location": {
         "coordinates": [
-          42.26810343661002,
-          -74.79396057046864
+          42.27183764072494,
+          -74.79650787180654
         ],
         "state": "NY"
       },
       "designation": {},
-      "highway": "I 190 and Robert Moses State Parkway"
+      "highway": "NY 37"
     },
     {
       "id": "NY-938",
       "shapeId": "csv-938",
-      "name": "369th Harlem Hellfighter's Drive",
+      "name": "The American Legion Memorial Highway",
       "state": "NY",
       "honoree": {
-        "name": "Unknown"
+        "name": "The American Legion"
       },
       "location": {
         "coordinates": [
@@ -177,88 +308,107 @@
         ],
         "state": "NY"
       },
-      "designation": {}
+      "designation": {},
+      "highway": "I 81"
     },
     {
       "id": "NY-939",
       "shapeId": "csv-939",
-      "name": "6994th Security Squadron Memorial Highway",
+      "name": "AMVETS Memorial Highway",
       "state": "NY",
       "honoree": {
         "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          42.21541782242227,
-          -74.88535552341393
+          42.217149008774925,
+          -74.88676744455049
         ],
         "state": "NY"
       },
       "designation": {},
-      "highway": "I 86"
+      "highway": "I 90"
     },
     {
       "id": "NY-940",
       "shapeId": "csv-940",
-      "name": "Adirondack Veterans Memorial Highway",
+      "name": "Army Captain Clayton Carpenter Memorial Highway",
       "state": "NY",
       "honoree": {
-        "name": "Unknown"
+        "name": "Army Captain Clayton Carpenter",
+        "summary": "[UNVERIFIED] The Wikipedia article is about Douglas MacArthur, a famous U.S. General, but the highway is named 'Army Captain Clayton Carpenter Memorial Highway,' which clearly refers to a different person (Clayton Carpenter). The names do not match, and there is no indication that MacArthur is connected to this specific memorial designation in New York.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
       },
       "location": {
         "coordinates": [
-          42.23075797506323,
-          -74.87879898039498
+          42.23290114421272,
+          -74.88087585578728
         ],
         "state": "NY"
       },
       "designation": {},
-      "highway": "I 87"
+      "highway": "NY 118",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Douglas_MacArthur"
     },
     {
       "id": "NY-941",
       "shapeId": "csv-941",
-      "name": "Albany County Veterans Memorial Highway",
+      "name": "Arthur Benson Memorial Highway",
       "state": "NY",
       "honoree": {
-        "name": "Unknown"
+        "name": "Arthur Benson",
+        "summary": "[UNVERIFIED] The Wikipedia article is for Egbert Benson, but the highway is named 'Arthur Benson Memorial Highway'. The names do not match, and there is no indication in the provided text that Egbert Benson is connected to Arthur Benson or that the highway is named after Egbert.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
       },
       "location": {
         "coordinates": [
-          42.24747193080251,
-          -74.87444663330054
+          42.249990888743085,
+          -74.8773443629345
         ],
         "state": "NY"
       },
       "designation": {},
-      "highway": "I 787 and NY 787"
+      "highway": "US 219",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Egbert_Benson"
     },
     {
       "id": "NY-942",
       "shapeId": "csv-942",
-      "name": "Allegany County Veterans Memorial Highway",
+      "name": "Assemblyman Glenn H. Harris Memorial Highway",
       "state": "NY",
       "honoree": {
-        "name": "Unknown"
+        "name": "Assemblyman Glenn H. Harris",
+        "summary": "[UNVERIFIED] The highway is named after Assemblyman Glenn H. Harris, but the Wikipedia article is for Adam Clayton Powell Jr., a different person. While both were politicians in New York, the names do not match, indicating the article is not about the correct individual.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
       },
       "location": {
         "coordinates": [
-          42.26529223975302,
-          -74.87247611064221
+          42.268120005536126,
+          -74.87635394545613
         ],
         "state": "NY"
       },
       "designation": {},
-      "highway": "I 86 (Southern Tier Expressway)"
+      "highway": "NY 10",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Adam_Clayton_Powell_Jr."
     },
     {
       "id": "NY-943",
       "shapeId": "csv-943",
-      "name": "Almond E. Fisher Memorial Highway",
+      "name": "Assemblyman James D. Conte Memorial Highway",
       "state": "NY",
       "honoree": {
-        "name": "Almond E. Fisher",
-        "summary": "[UNVERIFIED] The Wikipedia article is for Harry Langdon Jr., a film actor/comedian from the early 20th century, not Almond E. Fisher. The name does not match, and there is no indication the person is connected to New York in a way that would warrant a memorial highway.",
+        "name": "Assemblyman James D. Conte",
+        "summary": "[UNVERIFIED] The highway is named after James D. Conte, a New York Assemblyman, but the Wikipedia article is for Chad Lupinacci, who is a different person and also a New York politician. The names do not match.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -272,49 +422,55 @@
         "state": "NY"
       },
       "designation": {},
-      "highway": "NY 19",
-      "lawWebLink": "https://en.wikipedia.org/wiki/Harry_Langdon_Jr."
+      "highway": "NY 110",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Chad_Lupinacci"
     },
     {
       "id": "NY-944",
       "shapeId": "csv-944",
-      "name": "Aluminum Workers' Memorial Highway",
+      "name": "Assemblyman Philip B. Healey Memorial Parkway",
       "state": "NY",
       "honoree": {
-        "name": "Aluminum Workers'"
+        "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          42.283931909570285,
-          -74.87303524870295
+          42.28696955652982,
+          -74.87805100000001
         ],
         "state": "NY"
       },
       "designation": {},
-      "highway": "NY 37"
+      "highway": "Bethpage State Parkway"
     },
     {
       "id": "NY-945",
       "shapeId": "csv-945",
-      "name": "The American Legion Memorial Highway",
+      "name": "Assemblyman Richard H. Miller Memorial Highway",
       "state": "NY",
       "honoree": {
-        "name": "The American Legion"
+        "name": "Assemblyman Richard H. Miller",
+        "summary": "[UNVERIFIED] The Wikipedia article is for Thomas J. Madison Jr., who was a Federal Highway Administrator, but the memorial highway is named after Assemblyman Richard H. Miller, a New York state politician. The names and roles do not match.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
       },
       "location": {
         "coordinates": [
-          42.30308755478084,
-          -74.87624011455642
+          42.30620370699068,
+          -74.8825451694302
         ],
         "state": "NY"
       },
       "designation": {},
-      "highway": "I 81"
+      "highway": "NY 201",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Thomas_J._Madison_Jr."
     },
     {
       "id": "NY-946",
       "shapeId": "csv-946",
-      "name": "AMVETS Memorial Highway",
+      "name": "Assemblyman Roger J. Robach Memorial Lakeway",
       "state": "NY",
       "honoree": {
         "name": "Unknown"
@@ -327,16 +483,16 @@
         "state": "NY"
       },
       "designation": {},
-      "highway": "I 90"
+      "highway": "NY 390"
     },
     {
       "id": "NY-947",
       "shapeId": "csv-947",
-      "name": "Army Captain Clayton Carpenter Memorial Highway",
+      "name": "Brigadier General James Kenney Memorial Highway",
       "state": "NY",
       "honoree": {
-        "name": "Army Captain Clayton Carpenter",
-        "summary": "[UNVERIFIED] The Wikipedia article is about Douglas MacArthur, a famous U.S. General, but the highway is named 'Army Captain Clayton Carpenter Memorial Highway,' which clearly refers to a different person (Clayton Carpenter). The names do not match, and there is no indication that MacArthur is connected to this specific memorial designation in New York.",
+        "name": "Brigadier General James Kenney",
+        "summary": "[UNVERIFIED] The highway is named 'Brigadier General James Kenney Memorial Highway' in New York, but the Wikipedia article is for Douglas MacArthur, a five-star general who is not named James Kenney and has no direct connection to this specific memorial highway designation in New York.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -350,168 +506,12 @@
         "state": "NY"
       },
       "designation": {},
-      "highway": "NY 118",
+      "highway": "NY 7",
       "lawWebLink": "https://en.wikipedia.org/wiki/Douglas_MacArthur"
     },
     {
       "id": "NY-948",
       "shapeId": "csv-948",
-      "name": "Arthur Benson Memorial Highway",
-      "state": "NY",
-      "honoree": {
-        "name": "Arthur Benson",
-        "summary": "[UNVERIFIED] The Wikipedia article is for Egbert Benson, but the highway is named 'Arthur Benson Memorial Highway'. The names do not match, and there is no indication in the provided text that Egbert Benson is connected to Arthur Benson or that the highway is named after Egbert.",
-        "involvedInSports": false,
-        "involvedInPolitics": false,
-        "involvedInMilitary": false,
-        "involvedInMusic": false
-      },
-      "location": {
-        "coordinates": [
-          42.322442735770046,
-          -74.88217335030315
-        ],
-        "state": "NY"
-      },
-      "designation": {},
-      "highway": "US 219",
-      "lawWebLink": "https://en.wikipedia.org/wiki/Egbert_Benson"
-    },
-    {
-      "id": "NY-949",
-      "shapeId": "csv-949",
-      "name": "Assemblyman Glenn H. Harris Memorial Highway",
-      "state": "NY",
-      "honoree": {
-        "name": "Assemblyman Glenn H. Harris",
-        "summary": "[UNVERIFIED] The highway is named after Assemblyman Glenn H. Harris, but the Wikipedia article is for Adam Clayton Powell Jr., a different person. While both were politicians in New York, the names do not match, indicating the article is not about the correct individual.",
-        "involvedInSports": false,
-        "involvedInPolitics": false,
-        "involvedInMilitary": false,
-        "involvedInMusic": false
-      },
-      "location": {
-        "coordinates": [
-          42.3416714555146,
-          -74.89088285604065
-        ],
-        "state": "NY"
-      },
-      "designation": {},
-      "highway": "NY 10",
-      "lawWebLink": "https://en.wikipedia.org/wiki/Adam_Clayton_Powell_Jr."
-    },
-    {
-      "id": "NY-950",
-      "shapeId": "csv-950",
-      "name": "Assemblyman James D. Conte Memorial Highway",
-      "state": "NY",
-      "honoree": {
-        "name": "Assemblyman James D. Conte",
-        "summary": "[UNVERIFIED] The highway is named after James D. Conte, a New York Assemblyman, but the Wikipedia article is for Chad Lupinacci, who is a different person and also a New York politician. The names do not match.",
-        "involvedInSports": false,
-        "involvedInPolitics": false,
-        "involvedInMilitary": false,
-        "involvedInMusic": false
-      },
-      "location": {
-        "coordinates": [
-          40.8536609,
-          -73.365672
-        ],
-        "state": "NY"
-      },
-      "designation": {},
-      "highway": "NY 110",
-      "lawWebLink": "https://en.wikipedia.org/wiki/Chad_Lupinacci"
-    },
-    {
-      "id": "NY-951",
-      "shapeId": "csv-951",
-      "name": "Assemblyman Philip B. Healey Memorial Parkway",
-      "state": "NY",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          40.7696568,
-          -73.4998608
-        ],
-        "state": "NY"
-      },
-      "designation": {},
-      "highway": "Bethpage State Parkway"
-    },
-    {
-      "id": "NY-952",
-      "shapeId": "csv-952",
-      "name": "Assemblyman Richard H. Miller Memorial Highway",
-      "state": "NY",
-      "honoree": {
-        "name": "Assemblyman Richard H. Miller",
-        "summary": "[UNVERIFIED] The Wikipedia article is for Thomas J. Madison Jr., who was a Federal Highway Administrator, but the memorial highway is named after Assemblyman Richard H. Miller, a New York state politician. The names and roles do not match.",
-        "involvedInSports": false,
-        "involvedInPolitics": false,
-        "involvedInMilitary": false,
-        "involvedInMusic": false
-      },
-      "location": {
-        "coordinates": [
-          42.1157038,
-          -75.9587873
-        ],
-        "state": "NY"
-      },
-      "designation": {},
-      "highway": "NY 201",
-      "lawWebLink": "https://en.wikipedia.org/wiki/Thomas_J._Madison_Jr."
-    },
-    {
-      "id": "NY-953",
-      "shapeId": "csv-953",
-      "name": "Assemblyman Roger J. Robach Memorial Lakeway",
-      "state": "NY",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          43.15148941335952,
-          -76.1250064
-        ],
-        "state": "NY"
-      },
-      "designation": {},
-      "highway": "NY 390"
-    },
-    {
-      "id": "NY-954",
-      "shapeId": "csv-954",
-      "name": "Brigadier General James Kenney Memorial Highway",
-      "state": "NY",
-      "honoree": {
-        "name": "Brigadier General James Kenney",
-        "summary": "[UNVERIFIED] The highway is named 'Brigadier General James Kenney Memorial Highway' in New York, but the Wikipedia article is for Douglas MacArthur, a five-star general who is not named James Kenney and has no direct connection to this specific memorial highway designation in New York.",
-        "involvedInSports": false,
-        "involvedInPolitics": false,
-        "involvedInMilitary": false,
-        "involvedInMusic": false
-      },
-      "location": {
-        "coordinates": [
-          42.8350778,
-          -73.485114
-        ],
-        "state": "NY"
-      },
-      "designation": {},
-      "highway": "NY 7",
-      "lawWebLink": "https://en.wikipedia.org/wiki/Douglas_MacArthur"
-    },
-    {
-      "id": "NY-955",
-      "shapeId": "csv-955",
       "name": "Brighton Veterans Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -519,8 +519,8 @@
       },
       "location": {
         "coordinates": [
-          40.5772534,
-          -73.9639769
+          42.32547374553361,
+          -74.88990757563464
         ],
         "state": "NY"
       },
@@ -528,8 +528,8 @@
       "highway": "NY 15A"
     },
     {
-      "id": "NY-956",
-      "shapeId": "csv-956",
+      "id": "NY-949",
+      "shapeId": "csv-949",
       "name": "The Bronx Veterans' Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -537,8 +537,8 @@
       },
       "location": {
         "coordinates": [
-          42.24361231222985,
-          -74.92978293039116
+          42.34442227786348,
+          -74.90016947665605
         ],
         "state": "NY"
       },
@@ -546,8 +546,8 @@
       "highway": "Bronx River Parkway"
     },
     {
-      "id": "NY-957",
-      "shapeId": "csv-957",
+      "id": "NY-950",
+      "shapeId": "csv-950",
       "name": "C. V. Whitney Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -566,8 +566,8 @@
       },
       "location": {
         "coordinates": [
-          43.0821793,
-          -73.7853915
+          40.8536609,
+          -73.365672
         ],
         "state": "NY"
       },
@@ -576,8 +576,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/John_Hay_Whitney"
     },
     {
-      "id": "NY-958",
-      "shapeId": "csv-958",
+      "id": "NY-951",
+      "shapeId": "csv-951",
       "name": "Canadice Veterans Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -585,8 +585,8 @@
       },
       "location": {
         "coordinates": [
-          42.7370093,
-          -77.5416596
+          40.7696568,
+          -73.4998608
         ],
         "state": "NY"
       },
@@ -594,8 +594,8 @@
       "highway": "NY 15A"
     },
     {
-      "id": "NY-959",
-      "shapeId": "csv-959",
+      "id": "NY-952",
+      "shapeId": "csv-952",
       "name": "Captain John J. Levulis Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -603,8 +603,8 @@
       },
       "location": {
         "coordinates": [
-          42.6523734,
-          -78.8954064
+          42.1157038,
+          -75.9587873
         ],
         "state": "NY"
       },
@@ -612,8 +612,8 @@
       "highway": "NY 75"
     },
     {
-      "id": "NY-960",
-      "shapeId": "csv-960",
+      "id": "NY-953",
+      "shapeId": "csv-953",
       "name": "Captain Timothy J. Moshier Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -621,8 +621,8 @@
       },
       "location": {
         "coordinates": [
-          42.6,
-          -73.833333
+          43.15148941335952,
+          -76.1250064
         ],
         "state": "NY"
       },
@@ -630,8 +630,8 @@
       "highway": "NY 140"
     },
     {
-      "id": "NY-961",
-      "shapeId": "csv-961",
+      "id": "NY-954",
+      "shapeId": "csv-954",
       "name": "Charles Varese Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -644,8 +644,8 @@
       },
       "location": {
         "coordinates": [
-          40.9009595,
-          -73.343167
+          42.8350778,
+          -73.485114
         ],
         "state": "NY"
       },
@@ -654,8 +654,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Louise_Var%C3%A8se"
     },
     {
-      "id": "NY-962",
-      "shapeId": "csv-962",
+      "id": "NY-955",
+      "shapeId": "csv-955",
       "name": "Cattaraugus County Veterans Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -663,8 +663,8 @@
       },
       "location": {
         "coordinates": [
-          42.25970687163149,
-          -74.93417311228657
+          40.5772534,
+          -73.9639769
         ],
         "state": "NY"
       },
@@ -672,8 +672,8 @@
       "highway": "I 86 (Southern Tier Expressway)"
     },
     {
-      "id": "NY-963",
-      "shapeId": "csv-963",
+      "id": "NY-956",
+      "shapeId": "csv-956",
       "name": "Chautauqua County Veterans Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -681,8 +681,8 @@
       },
       "location": {
         "coordinates": [
-          27.7860223,
-          -80.4903885
+          42.24451062024097,
+          -74.93415914578665
         ],
         "state": "NY"
       },
@@ -690,8 +690,8 @@
       "highway": "I 86"
     },
     {
-      "id": "NY-964",
-      "shapeId": "csv-964",
+      "id": "NY-957",
+      "shapeId": "csv-957",
       "name": "Christopher J. Scott Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -704,8 +704,8 @@
       },
       "location": {
         "coordinates": [
-          42.27550894012711,
-          -74.94114404285179
+          43.0821793,
+          -73.7853915
         ],
         "state": "NY"
       },
@@ -714,8 +714,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Christopher_J._Scott"
     },
     {
-      "id": "NY-965",
-      "shapeId": "csv-965",
+      "id": "NY-958",
+      "shapeId": "csv-958",
       "name": "Clayton \"Peg Leg\" Bates Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -723,8 +723,8 @@
       },
       "location": {
         "coordinates": [
-          42.290698585434356,
-          -74.95066880248542
+          42.7370093,
+          -77.5416596
         ],
         "state": "NY"
       },
@@ -732,8 +732,8 @@
       "highway": "US 209"
     },
     {
-      "id": "NY-966",
-      "shapeId": "csv-966",
+      "id": "NY-959",
+      "shapeId": "csv-959",
       "name": "Col. David Ireland Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -751,8 +751,8 @@
       },
       "location": {
         "coordinates": [
-          42.0877998,
-          -75.9706607
+          42.6523734,
+          -78.8954064
         ],
         "state": "NY"
       },
@@ -761,8 +761,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/David_Ireland_%28colonel%29"
     },
     {
-      "id": "NY-967",
-      "shapeId": "csv-967",
+      "id": "NY-960",
+      "shapeId": "csv-960",
       "name": "Col. George F. Chandler Drive",
       "state": "NY",
       "honoree": {
@@ -775,8 +775,8 @@
       },
       "location": {
         "coordinates": [
-          41.9287812,
-          -74.0023825
+          42.6,
+          -73.833333
         ],
         "state": "NY"
       },
@@ -785,8 +785,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Zachariah_Chandler"
     },
     {
-      "id": "NY-968",
-      "shapeId": "csv-968",
+      "id": "NY-961",
+      "shapeId": "csv-961",
       "name": "Colonel William O'Brien and Sergeant Thomas Baker Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -794,8 +794,8 @@
       },
       "location": {
         "coordinates": [
-          42.7234387,
-          -73.6652589
+          40.9009595,
+          -73.343167
         ],
         "state": "NY"
       },
@@ -803,8 +803,8 @@
       "highway": "NY 40"
     },
     {
-      "id": "NY-969",
-      "shapeId": "csv-969",
+      "id": "NY-962",
+      "shapeId": "csv-962",
       "name": "Columbia County Veterans’ Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -812,8 +812,8 @@
       },
       "location": {
         "coordinates": [
-          42.30495906535156,
-          -74.96268498485748
+          42.260364496318715,
+          -74.93977120443898
         ],
         "state": "NY"
       },
@@ -821,8 +821,8 @@
       "highway": "NY 9H"
     },
     {
-      "id": "NY-970",
-      "shapeId": "csv-970",
+      "id": "NY-963",
+      "shapeId": "csv-963",
       "name": "Corporal Jason Dunham Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -840,8 +840,8 @@
       },
       "location": {
         "coordinates": [
-          42.31798052386294,
-          -74.97709510376079
+          27.7860223,
+          -80.4903885
         ],
         "state": "NY"
       },
@@ -850,8 +850,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Jason_Dunham"
     },
     {
-      "id": "NY-971",
-      "shapeId": "csv-971",
+      "id": "NY-964",
+      "shapeId": "csv-964",
       "name": "Corporal Nicholas K. Uzenski Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -859,8 +859,8 @@
       },
       "location": {
         "coordinates": [
-          44.5599139,
-          -74.3273735
+          42.275726,
+          -74.948051
         ],
         "state": "NY"
       },
@@ -868,8 +868,8 @@
       "highway": "NY 357"
     },
     {
-      "id": "NY-972",
-      "shapeId": "csv-972",
+      "id": "NY-965",
+      "shapeId": "csv-965",
       "name": "Davenport Veterans of Foreign Wars Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -877,8 +877,8 @@
       },
       "location": {
         "coordinates": [
-          42.4717451,
-          -74.8446009
+          42.29025033726147,
+          -74.95894546784346
         ],
         "state": "NY"
       },
@@ -886,8 +886,8 @@
       "highway": "NY 23"
     },
     {
-      "id": "NY-973",
-      "shapeId": "csv-973",
+      "id": "NY-966",
+      "shapeId": "csv-966",
       "name": "Deputy Kurt Wyman Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -901,8 +901,8 @@
       },
       "location": {
         "coordinates": [
-          43.2169801,
-          -76.9051618
+          42.0877998,
+          -75.9706607
         ],
         "state": "NY"
       },
@@ -911,8 +911,8 @@
       "lawWebLink": "https://www.odmp.org/officer/20866-deputy-sheriff-kurt-brian-wyman"
     },
     {
-      "id": "NY-974",
-      "shapeId": "csv-974",
+      "id": "NY-967",
+      "shapeId": "csv-967",
       "name": "Detective John M. Falcone Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -930,8 +930,8 @@
       },
       "location": {
         "coordinates": [
-          41.7065994,
-          -73.9288076
+          41.9287812,
+          -74.0023825
         ],
         "state": "NY"
       },
@@ -940,8 +940,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Melissa_McCarthy"
     },
     {
-      "id": "NY-975",
-      "shapeId": "csv-975",
+      "id": "NY-968",
+      "shapeId": "csv-968",
       "name": "Detective Michael Perry Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -959,8 +959,8 @@
       },
       "location": {
         "coordinates": [
-          42.3294636363556,
-          -74.9937673695046
+          42.7234387,
+          -73.6652589
         ],
         "state": "NY"
       },
@@ -969,9 +969,146 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/James_McCaffrey_%28actor%29"
     },
     {
+      "id": "NY-969",
+      "shapeId": "csv-969",
+      "name": "The Disabled American Veterans Memorial Highway",
+      "state": "NY",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          42.30359908542171,
+          -74.97236174487338
+        ],
+        "state": "NY"
+      },
+      "designation": {},
+      "highway": "US 20"
+    },
+    {
+      "id": "NY-970",
+      "shapeId": "csv-970",
+      "name": "Don and Tony DeMatteo Parkway",
+      "state": "NY",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          42.31544450307481,
+          -74.9881679519909
+        ],
+        "state": "NY"
+      },
+      "designation": {},
+      "highway": "Cross County Parkway"
+    },
+    {
+      "id": "NY-971",
+      "shapeId": "csv-971",
+      "name": "Don Reile Boulevard",
+      "state": "NY",
+      "honoree": {
+        "name": "Don Reile",
+        "summary": "[UNVERIFIED] The provided Wikipedia article content is only a generic Wikipedia interface and contains no information about Don Rominger, making it impossible to verify any connection to New York or a highway naming. The name 'Don Rominger' does not match the highway designation 'Don Reile Boulevard', suggesting a different person.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          44.5599139,
+          -74.3273735
+        ],
+        "state": "NY"
+      },
+      "designation": {},
+      "highway": "NY 28",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Don_Rominger"
+    },
+    {
+      "id": "NY-972",
+      "shapeId": "csv-972",
+      "name": "Dr. Martin Luther King, Jr. Expressway",
+      "state": "NY",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          42.4717451,
+          -74.8446009
+        ],
+        "state": "NY"
+      },
+      "designation": {},
+      "highway": "Willbrook Expressway"
+    },
+    {
+      "id": "NY-973",
+      "shapeId": "csv-973",
+      "name": "Dutchess County Veterans Memorial Highway",
+      "state": "NY",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          43.2169801,
+          -76.9051618
+        ],
+        "state": "NY"
+      },
+      "designation": {},
+      "highway": "I 84"
+    },
+    {
+      "id": "NY-974",
+      "shapeId": "csv-974",
+      "name": "Edward S. Tucker Memorial Boulevard",
+      "state": "NY",
+      "honoree": {
+        "name": "Edward S. Tucker",
+        "summary": "[UNVERIFIED] The Wikipedia article is for Benjamin B. Tucker, but the highway is named after Edward S. Tucker. The names do not match, and there is no indication in the provided text that Benjamin B. Tucker is connected to Edward S. Tucker or the memorial boulevard in New York.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          41.7065994,
+          -73.9288076
+        ],
+        "state": "NY"
+      },
+      "designation": {},
+      "highway": "NY 208",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Benjamin_B._Tucker"
+    },
+    {
+      "id": "NY-975",
+      "shapeId": "csv-975",
+      "name": "The Elmer G.H. Youngmann Memorial Highway",
+      "state": "NY",
+      "honoree": {
+        "name": "The Elmer G.H. Youngmann"
+      },
+      "location": {
+        "coordinates": [
+          42.32547374553361,
+          -75.00619442436538
+        ],
+        "state": "NY"
+      },
+      "designation": {}
+    },
+    {
       "id": "NY-976",
       "shapeId": "csv-976",
-      "name": "The Disabled American Veterans Memorial Highway",
+      "name": "Erie Canal Expressway",
       "state": "NY",
       "honoree": {
         "name": "Unknown"
@@ -984,12 +1121,12 @@
         "state": "NY"
       },
       "designation": {},
-      "highway": "US 20"
+      "highway": "I 490"
     },
     {
       "id": "NY-977",
       "shapeId": "csv-977",
-      "name": "Don and Tony DeMatteo Parkway",
+      "name": "Erie County Veterans Memorial Highway",
       "state": "NY",
       "honoree": {
         "name": "Unknown"
@@ -1002,16 +1139,16 @@
         "state": "NY"
       },
       "designation": {},
-      "highway": "Cross County Parkway"
+      "highway": "US 219"
     },
     {
       "id": "NY-978",
       "shapeId": "csv-978",
-      "name": "Don Reile Boulevard",
+      "name": "Father Joseph Champlin Memorial Highway",
       "state": "NY",
       "honoree": {
-        "name": "Don Reile",
-        "summary": "[UNVERIFIED] The provided Wikipedia article content is only a generic Wikipedia interface and contains no information about Don Rominger, making it impossible to verify any connection to New York or a highway naming. The name 'Don Rominger' does not match the highway designation 'Don Reile Boulevard', suggesting a different person.",
+        "name": "Father Joseph Champlin",
+        "summary": "[UNVERIFIED] The highway is named after Father Joseph Champlin, a Catholic priest from New York, but the Wikipedia article is for Katharine Ross, an actress known for films like 'The Graduate,' with no connection to New York or the highway's namesake.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -1025,149 +1162,12 @@
         "state": "NY"
       },
       "designation": {},
-      "highway": "NY 28",
-      "lawWebLink": "https://en.wikipedia.org/wiki/Don_Rominger"
-    },
-    {
-      "id": "NY-979",
-      "shapeId": "csv-979",
-      "name": "Dr. Martin Luther King, Jr. Expressway",
-      "state": "NY",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          40.6231741,
-          -74.147845
-        ],
-        "state": "NY"
-      },
-      "designation": {},
-      "highway": "Willbrook Expressway"
-    },
-    {
-      "id": "NY-980",
-      "shapeId": "csv-980",
-      "name": "Dutchess County Veterans Memorial Highway",
-      "state": "NY",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          42.339123168056,
-          -75.01253682875455
-        ],
-        "state": "NY"
-      },
-      "designation": {},
-      "highway": "I 84"
-    },
-    {
-      "id": "NY-981",
-      "shapeId": "csv-981",
-      "name": "Edward S. Tucker Memorial Boulevard",
-      "state": "NY",
-      "honoree": {
-        "name": "Edward S. Tucker",
-        "summary": "[UNVERIFIED] The Wikipedia article is for Benjamin B. Tucker, but the highway is named after Edward S. Tucker. The names do not match, and there is no indication in the provided text that Benjamin B. Tucker is connected to Edward S. Tucker or the memorial boulevard in New York.",
-        "involvedInSports": false,
-        "involvedInPolitics": false,
-        "involvedInMilitary": false,
-        "involvedInMusic": false
-      },
-      "location": {
-        "coordinates": [
-          41.6505042,
-          -74.4110298
-        ],
-        "state": "NY"
-      },
-      "designation": {},
-      "highway": "NY 208",
-      "lawWebLink": "https://en.wikipedia.org/wiki/Benjamin_B._Tucker"
-    },
-    {
-      "id": "NY-982",
-      "shapeId": "csv-982",
-      "name": "The Elmer G.H. Youngmann Memorial Highway",
-      "state": "NY",
-      "honoree": {
-        "name": "The Elmer G.H. Youngmann"
-      },
-      "location": {
-        "coordinates": [
-          42.23811216419728,
-          -74.98211334332521
-        ],
-        "state": "NY"
-      },
-      "designation": {}
-    },
-    {
-      "id": "NY-983",
-      "shapeId": "csv-983",
-      "name": "Erie Canal Expressway",
-      "state": "NY",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          42.24799841335952,
-          -74.995551
-        ],
-        "state": "NY"
-      },
-      "designation": {},
-      "highway": "I 490"
-    },
-    {
-      "id": "NY-984",
-      "shapeId": "csv-984",
-      "name": "Erie County Veterans Memorial Highway",
-      "state": "NY",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          42.25605241300471,
-          -75.0108294924453
-        ],
-        "state": "NY"
-      },
-      "designation": {},
-      "highway": "US 219"
-    },
-    {
-      "id": "NY-985",
-      "shapeId": "csv-985",
-      "name": "Father Joseph Champlin Memorial Highway",
-      "state": "NY",
-      "honoree": {
-        "name": "Father Joseph Champlin",
-        "summary": "[UNVERIFIED] The highway is named after Father Joseph Champlin, a Catholic priest from New York, but the Wikipedia article is for Katharine Ross, an actress known for films like 'The Graduate,' with no connection to New York or the highway's namesake.",
-        "involvedInSports": false,
-        "involvedInPolitics": false,
-        "involvedInMilitary": false,
-        "involvedInMusic": false
-      },
-      "location": {
-        "coordinates": [
-          43.039233,
-          -76.3040965
-        ],
-        "state": "NY"
-      },
-      "designation": {},
       "highway": "NY 174",
       "lawWebLink": "https://en.wikipedia.org/wiki/Katharine_Ross"
     },
     {
-      "id": "NY-986",
-      "shapeId": "csv-986",
+      "id": "NY-979",
+      "shapeId": "csv-979",
       "name": "The Frank A. Moore Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -1180,8 +1180,8 @@
       },
       "location": {
         "coordinates": [
-          43.4181062,
-          -73.4867037
+          40.6231741,
+          -74.147845
         ],
         "state": "NY"
       },
@@ -1190,8 +1190,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Frank_Moore_%28performance_artist%29"
     },
     {
-      "id": "NY-987",
-      "shapeId": "csv-987",
+      "id": "NY-980",
+      "shapeId": "csv-980",
       "name": "The Fort Drum Military Highway",
       "state": "NY",
       "honoree": {
@@ -1199,8 +1199,8 @@
       },
       "location": {
         "coordinates": [
-          42.26204015534697,
-          -75.02772899871859
+          42.33339294060178,
+          -75.02623537842203
         ],
         "state": "NY"
       },
@@ -1208,8 +1208,8 @@
       "highway": "NY 3"
     },
     {
-      "id": "NY-988",
-      "shapeId": "csv-988",
+      "id": "NY-981",
+      "shapeId": "csv-981",
       "name": "The General Casimir Pulaski Highway",
       "state": "NY",
       "honoree": {
@@ -1227,8 +1227,8 @@
       },
       "location": {
         "coordinates": [
-          43.1009031,
-          -75.1526641
+          41.6505042,
+          -74.4110298
         ],
         "state": "NY"
       },
@@ -1237,8 +1237,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Casimir_Pulaski"
     },
     {
-      "id": "NY-989",
-      "shapeId": "csv-989",
+      "id": "NY-982",
+      "shapeId": "csv-982",
       "name": "General Philip Schuyler Commemorative Highway",
       "state": "NY",
       "honoree": {
@@ -1251,8 +1251,8 @@
       },
       "location": {
         "coordinates": [
-          43.0903601,
-          -73.7213039
+          42.23500803230275,
+          -74.98805100000001
         ],
         "state": "NY"
       },
@@ -1261,8 +1261,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/William_Mulcaster"
     },
     {
-      "id": "NY-990",
-      "shapeId": "csv-990",
+      "id": "NY-983",
+      "shapeId": "csv-983",
       "name": "Genesee and Orleans Veterans’ Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -1270,8 +1270,8 @@
       },
       "location": {
         "coordinates": [
-          42.26575217514859,
-          -75.04600386767187
+          42.243545444207456,
+          -75.00254076145336
         ],
         "state": "NY"
       },
@@ -1279,8 +1279,8 @@
       "highway": "NY 98"
     },
     {
-      "id": "NY-991",
-      "shapeId": "csv-991",
+      "id": "NY-984",
+      "shapeId": "csv-984",
       "name": "Genesee River Parkway",
       "state": "NY",
       "honoree": {
@@ -1288,8 +1288,8 @@
       },
       "location": {
         "coordinates": [
-          42.1217938,
-          -77.9480013
+          42.249990888743085,
+          -75.01875763706552
         ],
         "state": "NY"
       },
@@ -1297,8 +1297,8 @@
       "highway": "NY 417"
     },
     {
-      "id": "NY-992",
-      "shapeId": "csv-992",
+      "id": "NY-985",
+      "shapeId": "csv-985",
       "name": "Grand Army of the Republic Highway",
       "state": "NY",
       "honoree": {
@@ -1306,8 +1306,8 @@
       },
       "location": {
         "coordinates": [
-          41.2963611,
-          -73.6778771
+          43.039233,
+          -76.3040965
         ],
         "state": "NY"
       },
@@ -1315,8 +1315,8 @@
       "highway": "US 6"
     },
     {
-      "id": "NY-993",
-      "shapeId": "csv-993",
+      "id": "NY-986",
+      "shapeId": "csv-986",
       "name": "Greene County Veterans Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -1324,8 +1324,8 @@
       },
       "location": {
         "coordinates": [
-          42.267006193618464,
-          -75.06538523362603
+          43.4181062,
+          -73.4867037
         ],
         "state": "NY"
       },
@@ -1333,8 +1333,8 @@
       "highway": "NY 23"
     },
     {
-      "id": "NY-994",
-      "shapeId": "csv-994",
+      "id": "NY-987",
+      "shapeId": "csv-987",
       "name": "Griffiss Veterans’ Memorial Parkway",
       "state": "NY",
       "honoree": {
@@ -1342,8 +1342,8 @@
       },
       "location": {
         "coordinates": [
-          43.2102196,
-          -75.4583956
+          42.25411434764832,
+          -75.03643934764833
         ],
         "state": "NY"
       },
@@ -1351,8 +1351,8 @@
       "highway": "NY 825"
     },
     {
-      "id": "NY-995",
-      "shapeId": "csv-995",
+      "id": "NY-988",
+      "shapeId": "csv-988",
       "name": "Hancock Veterans Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -1360,8 +1360,8 @@
       },
       "location": {
         "coordinates": [
-          41.9542233,
-          -75.2805401
+          43.1009031,
+          -75.1526641
         ],
         "state": "NY"
       },
@@ -1369,8 +1369,8 @@
       "highway": "NY 97"
     },
     {
-      "id": "NY-996",
-      "shapeId": "csv-996",
+      "id": "NY-989",
+      "shapeId": "csv-989",
       "name": "Harriet Tubman Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -1388,8 +1388,8 @@
       },
       "location": {
         "coordinates": [
-          42.26564949288972,
-          -75.08558388904375
+          43.0903601,
+          -73.7213039
         ],
         "state": "NY"
       },
@@ -1398,8 +1398,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Harriet_Tubman"
     },
     {
-      "id": "NY-997",
-      "shapeId": "csv-997",
+      "id": "NY-990",
+      "shapeId": "csv-990",
       "name": "Henrietta Veterans Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -1407,8 +1407,8 @@
       },
       "location": {
         "coordinates": [
-          43.0870477,
-          -77.6359892
+          42.255716265356114,
+          -75.05529722203666
         ],
         "state": "NY"
       },
@@ -1416,8 +1416,8 @@
       "highway": "NY 15A"
     },
     {
-      "id": "NY-998",
-      "shapeId": "csv-998",
+      "id": "NY-991",
+      "shapeId": "csv-991",
       "name": "Honorable Donald Olson Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -1430,8 +1430,8 @@
       },
       "location": {
         "coordinates": [
-          42.3073066,
-          -74.2520875
+          42.1217938,
+          -77.9480013
         ],
         "state": "NY"
       },
@@ -1440,8 +1440,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Jalen_Brunson"
     },
     {
-      "id": "NY-999",
-      "shapeId": "csv-999",
+      "id": "NY-992",
+      "shapeId": "csv-992",
       "name": "Hudson Valley POW/MIA Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -1449,8 +1449,8 @@
       },
       "location": {
         "coordinates": [
-          42.261560996734026,
-          -75.1062933881297
+          41.2963611,
+          -73.6778771
         ],
         "state": "NY"
       },
@@ -1458,8 +1458,8 @@
       "highway": "NY 9D"
     },
     {
-      "id": "NY-1000",
-      "shapeId": "csv-1000",
+      "id": "NY-993",
+      "shapeId": "csv-993",
       "name": "Jack Austen Highway",
       "state": "NY",
       "honoree": {
@@ -1472,8 +1472,8 @@
       },
       "location": {
         "coordinates": [
-          40.8939875,
-          -72.8959364
+          42.25463034763441,
+          -75.0750195668648
         ],
         "state": "NY"
       },
@@ -1482,26 +1482,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Chuck_Austen"
     },
     {
-      "id": "NY-1001",
-      "shapeId": "csv-1001",
-      "name": "Jewish War Veterans Memorial Highway",
-      "state": "NY",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          40.3849056,
-          -3.7081782
-        ],
-        "state": "NY"
-      },
-      "designation": {},
-      "highway": "I 287"
-    },
-    {
-      "id": "NY-1002",
-      "shapeId": "csv-1002",
+      "id": "NY-995",
+      "shapeId": "csv-995",
       "name": "Joe DiMaggio Highway",
       "state": "NY",
       "honoree": {
@@ -1519,8 +1501,8 @@
       },
       "location": {
         "coordinates": [
-          42.201296814334796,
-          -75.01970794081916
+          41.9542233,
+          -75.2805401
         ],
         "state": "NY"
       },
@@ -1529,8 +1511,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Joe_DiMaggio"
     },
     {
-      "id": "NY-1003",
-      "shapeId": "csv-1003",
+      "id": "NY-996",
+      "shapeId": "csv-996",
       "name": "John J. Okulsky Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -1538,8 +1520,8 @@
       },
       "location": {
         "coordinates": [
-          42.20069783250504,
-          -75.03637976615938
+          42.250726,
+          -75.09527531864336
         ],
         "state": "NY"
       },
@@ -1547,8 +1529,8 @@
       "highway": "NY 268"
     },
     {
-      "id": "NY-1004",
-      "shapeId": "csv-1004",
+      "id": "NY-997",
+      "shapeId": "csv-997",
       "name": "John Spear Way",
       "state": "NY",
       "honoree": {
@@ -1561,8 +1543,8 @@
       },
       "location": {
         "coordinates": [
-          41.4278716,
-          -74.1659798
+          43.0870477,
+          -77.6359892
         ],
         "state": "NY"
       },
@@ -1571,8 +1553,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Britney_Spears"
     },
     {
-      "id": "NY-1005",
-      "shapeId": "csv-1005",
+      "id": "NY-998",
+      "shapeId": "csv-998",
       "name": "Korean War Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -1580,8 +1562,8 @@
       },
       "location": {
         "coordinates": [
-          43.1251232,
-          -77.3733487
+          42.3073066,
+          -74.2520875
         ],
         "state": "NY"
       },
@@ -1589,8 +1571,8 @@
       "highway": "NY 441"
     },
     {
-      "id": "NY-1006",
-      "shapeId": "csv-1006",
+      "id": "NY-999",
+      "shapeId": "csv-999",
       "name": "The Korean War Veterans Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -1598,8 +1580,8 @@
       },
       "location": {
         "coordinates": [
-          42.19751949766389,
-          -75.05335614472854
+          42.24391037842203,
+          -75.11571794060178
         ],
         "state": "NY"
       },
@@ -1607,8 +1589,8 @@
       "highway": "NY 690"
     },
     {
-      "id": "NY-1007",
-      "shapeId": "csv-1007",
+      "id": "NY-1000",
+      "shapeId": "csv-1000",
       "name": "The Korean War Veterans Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -1616,8 +1598,8 @@
       },
       "location": {
         "coordinates": [
-          42.19171496135222,
-          -75.07031945009173
+          40.8939875,
+          -72.8959364
         ],
         "state": "NY"
       },
@@ -1625,26 +1607,8 @@
       "highway": "NY 59"
     },
     {
-      "id": "NY-1008",
-      "shapeId": "csv-1008",
-      "name": "The Korean War Veterans Memorial Parkway",
-      "state": "NY",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          42.183272652699,
-          -75.08694705818404
-        ],
-        "state": "NY"
-      },
-      "designation": {},
-      "highway": "Richmond Parkway"
-    },
-    {
-      "id": "NY-1009",
-      "shapeId": "csv-1009",
+      "id": "NY-1002",
+      "shapeId": "csv-1002",
       "name": "LCpl. Jeremy Lasher Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -1652,8 +1616,8 @@
       },
       "location": {
         "coordinates": [
-          43.0940841,
-          -75.6511005
+          42.193087611466055,
+          -75.02322640966288
         ],
         "state": "NY"
       },
@@ -1661,8 +1625,8 @@
       "highway": "NY 365"
     },
     {
-      "id": "NY-1010",
-      "shapeId": "csv-1010",
+      "id": "NY-1003",
+      "shapeId": "csv-1003",
       "name": "Lester R. Stone, Jr. Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -1675,8 +1639,8 @@
       },
       "location": {
         "coordinates": [
-          42.717433,
-          -77.998109
+          42.19031380928474,
+          -75.03981395349747
         ],
         "state": "NY"
       },
@@ -1685,8 +1649,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Lester_Johnson_%28artist%29"
     },
     {
-      "id": "NY-1011",
-      "shapeId": "csv-1011",
+      "id": "NY-1004",
+      "shapeId": "csv-1004",
       "name": "Levon Helm Memorial Boulevard",
       "state": "NY",
       "honoree": {
@@ -1704,8 +1668,8 @@
       },
       "location": {
         "coordinates": [
-          42.0300278,
-          -74.1074319
+          41.4278716,
+          -74.1659798
         ],
         "state": "NY"
       },
@@ -1714,13 +1678,151 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Levon_Helm"
     },
     {
-      "id": "NY-1012",
-      "shapeId": "csv-1012",
+      "id": "NY-1005",
+      "shapeId": "csv-1005",
       "name": "Lieutenant Colonel Todd J. Clark Memorial Highway",
       "state": "NY",
       "honoree": {
         "name": "Colonel Todd J. Clark",
         "summary": "[UNVERIFIED] The highway is named after Lieutenant Colonel Todd J. Clark, but the Wikipedia article is about Charles Carr Clark, a different person. The names do not match, and there is no indication in the provided text that Charles Carr Clark is connected to the memorial highway or has a military background relevant to the designation.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          43.1251232,
+          -77.3733487
+        ],
+        "state": "NY"
+      },
+      "designation": {},
+      "highway": "NY 146",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Charles_Carr_Clark"
+    },
+    {
+      "id": "NY-1006",
+      "shapeId": "csv-1006",
+      "name": "Lima Veterans Memorial Highway",
+      "state": "NY",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          42.184827299543365,
+          -75.05637985283136
+        ],
+        "state": "NY"
+      },
+      "designation": {},
+      "highway": "NY 15A"
+    },
+    {
+      "id": "NY-1007",
+      "shapeId": "csv-1007",
+      "name": "Livingston County Veterans Memorial Highway",
+      "state": "NY",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          42.176620467843456,
+          -75.07257533726147
+        ],
+        "state": "NY"
+      },
+      "designation": {},
+      "highway": "NY 20A"
+    },
+    {
+      "id": "NY-1008",
+      "shapeId": "csv-1008",
+      "name": "Livonia Veterans Memorial Highway",
+      "state": "NY",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          42.165726,
+          -75.08805100000001
+        ],
+        "state": "NY"
+      },
+      "designation": {},
+      "highway": "NY 15A"
+    },
+    {
+      "id": "NY-1009",
+      "shapeId": "csv-1009",
+      "name": "Lt. Joseph J. Theinert Memorial Way",
+      "state": "NY",
+      "honoree": {
+        "name": "Lt. Joseph J. Theinert"
+      },
+      "location": {
+        "coordinates": [
+          43.0940841,
+          -75.6511005
+        ],
+        "state": "NY"
+      },
+      "designation": {},
+      "highway": "NY 114"
+    },
+    {
+      "id": "NY-1010",
+      "shapeId": "csv-1010",
+      "name": "Lost At Sea Memorial Pike",
+      "state": "NY",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          42.717433,
+          -77.998109
+        ],
+        "state": "NY"
+      },
+      "designation": {},
+      "highway": "NY 114"
+    },
+    {
+      "id": "NY-1011",
+      "shapeId": "csv-1011",
+      "name": "M. Paul Keesler Memorial Highway",
+      "state": "NY",
+      "honoree": {
+        "name": "M. Paul Keesler",
+        "summary": "[UNVERIFIED] The highway is named 'M. Paul Keesler Memorial Highway' in New York, but the Wikipedia article is for 'Nicole Mitchell (politician)', who is a different person with no apparent connection to the name 'M. Paul Keesler' or the memorial highway.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          42.0300278,
+          -74.1074319
+        ],
+        "state": "NY"
+      },
+      "designation": {},
+      "highway": "NY 28",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Nicole_Mitchell_%28politician%29"
+    },
+    {
+      "id": "NY-1012",
+      "shapeId": "csv-1012",
+      "name": "Marine Captain Eric A. Jones Memorial Highway",
+      "state": "NY",
+      "honoree": {
+        "name": "Marine Captain Eric A. Jones",
+        "summary": "[UNVERIFIED] The Wikipedia article is about Clive Cussler, a famous author and underwater explorer, not Marine Captain Eric A. Jones. The highway is named after Eric A. Jones, a Marine Captain from New York, which does not match the subject of the article.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -1734,150 +1836,12 @@
         "state": "NY"
       },
       "designation": {},
-      "highway": "NY 146",
-      "lawWebLink": "https://en.wikipedia.org/wiki/Charles_Carr_Clark"
-    },
-    {
-      "id": "NY-1013",
-      "shapeId": "csv-1013",
-      "name": "Lima Veterans Memorial Highway",
-      "state": "NY",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          43.16447979441629,
-          -76.22750640000001
-        ],
-        "state": "NY"
-      },
-      "designation": {},
-      "highway": "NY 15A"
-    },
-    {
-      "id": "NY-1014",
-      "shapeId": "csv-1014",
-      "name": "Livingston County Veterans Memorial Highway",
-      "state": "NY",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          42.7532359,
-          -77.804246
-        ],
-        "state": "NY"
-      },
-      "designation": {},
-      "highway": "NY 20A"
-    },
-    {
-      "id": "NY-1015",
-      "shapeId": "csv-1015",
-      "name": "Livonia Veterans Memorial Highway",
-      "state": "NY",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          42.8214525,
-          -77.6686097
-        ],
-        "state": "NY"
-      },
-      "designation": {},
-      "highway": "NY 15A"
-    },
-    {
-      "id": "NY-1016",
-      "shapeId": "csv-1016",
-      "name": "Lt. Joseph J. Theinert Memorial Way",
-      "state": "NY",
-      "honoree": {
-        "name": "Lt. Joseph J. Theinert"
-      },
-      "location": {
-        "coordinates": [
-          41.0682649,
-          -72.3388956
-        ],
-        "state": "NY"
-      },
-      "designation": {},
-      "highway": "NY 114"
-    },
-    {
-      "id": "NY-1017",
-      "shapeId": "csv-1017",
-      "name": "Lost At Sea Memorial Pike",
-      "state": "NY",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          40.9978727,
-          -72.2922292
-        ],
-        "state": "NY"
-      },
-      "designation": {},
-      "highway": "NY 114"
-    },
-    {
-      "id": "NY-1018",
-      "shapeId": "csv-1018",
-      "name": "M. Paul Keesler Memorial Highway",
-      "state": "NY",
-      "honoree": {
-        "name": "M. Paul Keesler",
-        "summary": "[UNVERIFIED] The highway is named 'M. Paul Keesler Memorial Highway' in New York, but the Wikipedia article is for 'Nicole Mitchell (politician)', who is a different person with no apparent connection to the name 'M. Paul Keesler' or the memorial highway.",
-        "involvedInSports": false,
-        "involvedInPolitics": false,
-        "involvedInMilitary": false,
-        "involvedInMusic": false
-      },
-      "location": {
-        "coordinates": [
-          42.172216726328024,
-          -75.10291503866533
-        ],
-        "state": "NY"
-      },
-      "designation": {},
-      "highway": "NY 28",
-      "lawWebLink": "https://en.wikipedia.org/wiki/Nicole_Mitchell_%28politician%29"
-    },
-    {
-      "id": "NY-1019",
-      "shapeId": "csv-1019",
-      "name": "Marine Captain Eric A. Jones Memorial Highway",
-      "state": "NY",
-      "honoree": {
-        "name": "Marine Captain Eric A. Jones",
-        "summary": "[UNVERIFIED] The Wikipedia article is about Clive Cussler, a famous author and underwater explorer, not Marine Captain Eric A. Jones. The highway is named after Eric A. Jones, a Marine Captain from New York, which does not match the subject of the article.",
-        "involvedInSports": false,
-        "involvedInPolitics": false,
-        "involvedInMilitary": false,
-        "involvedInMusic": false
-      },
-      "location": {
-        "coordinates": [
-          41.2087066,
-          -73.5748483
-        ],
-        "state": "NY"
-      },
-      "designation": {},
       "highway": "NY 137",
       "lawWebLink": "https://en.wikipedia.org/wiki/Clive_Cussler"
     },
     {
-      "id": "NY-1020",
-      "shapeId": "csv-1020",
+      "id": "NY-1013",
+      "shapeId": "csv-1013",
       "name": "Marine Corps League Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -1890,8 +1854,8 @@
       },
       "location": {
         "coordinates": [
-          42.15860713886604,
-          -75.11790188111681
+          43.16447979441629,
+          -76.22750640000001
         ],
         "state": "NY"
       },
@@ -1900,8 +1864,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Jerry_Coleman"
     },
     {
-      "id": "NY-1021",
-      "shapeId": "csv-1021",
+      "id": "NY-1014",
+      "shapeId": "csv-1014",
       "name": "Marine Lance Corporal James J. Jackowski Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -1909,8 +1873,8 @@
       },
       "location": {
         "coordinates": [
-          41.2381511,
-          -73.5226245
+          42.7532359,
+          -77.804246
         ],
         "state": "NY"
       },
@@ -1918,8 +1882,8 @@
       "highway": "NY 35"
     },
     {
-      "id": "NY-1022",
-      "shapeId": "csv-1022",
+      "id": "NY-1015",
+      "shapeId": "csv-1015",
       "name": "Marine Lance Cpl. Blaise Oleski Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -1927,8 +1891,8 @@
       },
       "location": {
         "coordinates": [
-          43.241952,
-          -75.257034
+          42.8214525,
+          -77.6686097
         ],
         "state": "NY"
       },
@@ -1936,8 +1900,8 @@
       "highway": "NY 365"
     },
     {
-      "id": "NY-1023",
-      "shapeId": "csv-1023",
+      "id": "NY-1016",
+      "shapeId": "csv-1016",
       "name": "Mayor Harvey W. Mansfield Highway",
       "state": "NY",
       "honoree": {
@@ -1950,8 +1914,8 @@
       },
       "location": {
         "coordinates": [
-          43.006075,
-          -74.3720027
+          41.0682649,
+          -72.3388956
         ],
         "state": "NY"
       },
@@ -1960,9 +1924,135 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/John_W._Davis"
     },
     {
+      "id": "NY-1017",
+      "shapeId": "csv-1017",
+      "name": "Mendon Veterans Memorial Highway",
+      "state": "NY",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          40.9978727,
+          -72.2922292
+        ],
+        "state": "NY"
+      },
+      "designation": {},
+      "highway": "NY 15A"
+    },
+    {
+      "id": "NY-1018",
+      "shapeId": "csv-1018",
+      "name": "Military Highway",
+      "state": "NY",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          42.15221685987411,
+          -75.10246117820422
+        ],
+        "state": "NY"
+      },
+      "designation": {},
+      "highway": "NY 69"
+    },
+    {
+      "id": "NY-1019",
+      "shapeId": "csv-1019",
+      "name": "Monroe County American Legion Memorial Highway",
+      "state": "NY",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          41.2087066,
+          -73.5748483
+        ],
+        "state": "NY"
+      },
+      "designation": {},
+      "highway": "NY 104"
+    },
+    {
+      "id": "NY-1020",
+      "shapeId": "csv-1020",
+      "name": "Mount Morris Veterans Memorial Highway",
+      "state": "NY",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          42.13620580979662,
+          -75.11546831801208
+        ],
+        "state": "NY"
+      },
+      "designation": {},
+      "highway": "NY 36"
+    },
+    {
+      "id": "NY-1021",
+      "shapeId": "csv-1021",
+      "name": "Mount Pleasant Veterans Memorial Highway",
+      "state": "NY",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          41.2381511,
+          -73.5226245
+        ],
+        "state": "NY"
+      },
+      "designation": {},
+      "highway": "NY 141"
+    },
+    {
+      "id": "NY-1022",
+      "shapeId": "csv-1022",
+      "name": "National Veterans Highway",
+      "state": "NY",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          43.241952,
+          -75.257034
+        ],
+        "state": "NY"
+      },
+      "designation": {},
+      "highway": "US 62"
+    },
+    {
+      "id": "NY-1023",
+      "shapeId": "csv-1023",
+      "name": "New York State Troopers T. Michael Kelly and Kenneth A. Poormon Memorial Highway",
+      "state": "NY",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          43.006075,
+          -74.3720027
+        ],
+        "state": "NY"
+      },
+      "designation": {},
+      "highway": "NY 28"
+    },
+    {
       "id": "NY-1024",
       "shapeId": "csv-1024",
-      "name": "Mendon Veterans Memorial Highway",
+      "name": "New York State Vietnam Veterans’ Memorial Highway of Valor",
       "state": "NY",
       "honoree": {
         "name": "Unknown"
@@ -1975,137 +2065,11 @@
         "state": "NY"
       },
       "designation": {},
-      "highway": "NY 15A"
+      "highway": "NY 38"
     },
     {
       "id": "NY-1025",
       "shapeId": "csv-1025",
-      "name": "Military Highway",
-      "state": "NY",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          43.3359303,
-          -75.7361035
-        ],
-        "state": "NY"
-      },
-      "designation": {},
-      "highway": "NY 69"
-    },
-    {
-      "id": "NY-1026",
-      "shapeId": "csv-1026",
-      "name": "Monroe County American Legion Memorial Highway",
-      "state": "NY",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          42.1425393517906,
-          -75.13159221974318
-        ],
-        "state": "NY"
-      },
-      "designation": {},
-      "highway": "NY 104"
-    },
-    {
-      "id": "NY-1027",
-      "shapeId": "csv-1027",
-      "name": "Mount Morris Veterans Memorial Highway",
-      "state": "NY",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          42.7532359,
-          -77.979246
-        ],
-        "state": "NY"
-      },
-      "designation": {},
-      "highway": "NY 36"
-    },
-    {
-      "id": "NY-1028",
-      "shapeId": "csv-1028",
-      "name": "Mount Pleasant Veterans Memorial Highway",
-      "state": "NY",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          42.14909306473458,
-          -75.02630280805872
-        ],
-        "state": "NY"
-      },
-      "designation": {},
-      "highway": "NY 141"
-    },
-    {
-      "id": "NY-1029",
-      "shapeId": "csv-1029",
-      "name": "National Veterans Highway",
-      "state": "NY",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          42.138267979290276,
-          -75.03899635226556
-        ],
-        "state": "NY"
-      },
-      "designation": {},
-      "highway": "US 62"
-    },
-    {
-      "id": "NY-1030",
-      "shapeId": "csv-1030",
-      "name": "New York State Troopers T. Michael Kelly and Kenneth A. Poormon Memorial Highway",
-      "state": "NY",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          41.910209,
-          -74.062247
-        ],
-        "state": "NY"
-      },
-      "designation": {},
-      "highway": "NY 28"
-    },
-    {
-      "id": "NY-1031",
-      "shapeId": "csv-1031",
-      "name": "New York State Vietnam Veterans’ Memorial Highway of Valor",
-      "state": "NY",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          42.12523229920468,
-          -75.05032641344772
-        ],
-        "state": "NY"
-      },
-      "designation": {},
-      "highway": "NY 38"
-    },
-    {
-      "id": "NY-1032",
-      "shapeId": "csv-1032",
       "name": "The Norman J. Levy Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -2118,8 +2082,8 @@
       },
       "location": {
         "coordinates": [
-          42.11014660260189,
-          -75.06001497002994
+          43.3359303,
+          -75.7361035
         ],
         "state": "NY"
       },
@@ -2128,8 +2092,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Norman_J._Levy"
     },
     {
-      "id": "NY-1033",
-      "shapeId": "csv-1033",
+      "id": "NY-1026",
+      "shapeId": "csv-1026",
       "name": "North Tonawanda POW-MIA Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -2137,8 +2101,8 @@
       },
       "location": {
         "coordinates": [
-          43.0428526,
-          -78.8846327
+          42.11784447665603,
+          -75.12674727786349
         ],
         "state": "NY"
       },
@@ -2146,8 +2110,8 @@
       "highway": "River Road"
     },
     {
-      "id": "NY-1034",
-      "shapeId": "csv-1034",
+      "id": "NY-1027",
+      "shapeId": "csv-1027",
       "name": "Officer Aldo Rossi Junior Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -2155,8 +2119,8 @@
       },
       "location": {
         "coordinates": [
-          42.093202218687765,
-          -75.06780199642247
+          42.7532359,
+          -77.979246
         ],
         "state": "NY"
       },
@@ -2164,8 +2128,8 @@
       "highway": "NY 7"
     },
     {
-      "id": "NY-1035",
-      "shapeId": "csv-1035",
+      "id": "NY-1028",
+      "shapeId": "csv-1028",
       "name": "Officer Joseph D. Corr Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -2183,8 +2147,8 @@
       },
       "location": {
         "coordinates": [
-          43.094492,
-          -75.2777628
+          42.138364388533944,
+          -75.02322640966288
         ],
         "state": "NY"
       },
@@ -2193,8 +2157,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Frances_Farmer"
     },
     {
-      "id": "NY-1036",
-      "shapeId": "csv-1036",
+      "id": "NY-1029",
+      "shapeId": "csv-1029",
       "name": "Officer Thomas M. Lindsey Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -2212,8 +2176,8 @@
       },
       "location": {
         "coordinates": [
-          43.1009031,
-          -75.32766409999999
+          42.12557726513463,
+          -75.0341502397685
         ],
         "state": "NY"
       },
@@ -2222,8 +2186,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/John_Lindsay"
     },
     {
-      "id": "NY-1037",
-      "shapeId": "csv-1037",
+      "id": "NY-1030",
+      "shapeId": "csv-1030",
       "name": "Oneida County Vietnam Veterans Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -2231,8 +2195,8 @@
       },
       "location": {
         "coordinates": [
-          42.07461928589466,
-          -75.07344863412813
+          41.910209,
+          -74.062247
         ],
         "state": "NY"
       },
@@ -2240,8 +2204,8 @@
       "highway": "NY 49"
     },
     {
-      "id": "NY-1038",
-      "shapeId": "csv-1038",
+      "id": "NY-1031",
+      "shapeId": "csv-1031",
       "name": "Orange County Purple Heart Highway",
       "state": "NY",
       "honoree": {
@@ -2249,8 +2213,8 @@
       },
       "location": {
         "coordinates": [
-          42.05464449732168,
-          -75.07674015946081
+          42.110726,
+          -75.04331379441629
         ],
         "state": "NY"
       },
@@ -2258,8 +2222,8 @@
       "highway": "I 84"
     },
     {
-      "id": "NY-1039",
-      "shapeId": "csv-1039",
+      "id": "NY-1032",
+      "shapeId": "csv-1032",
       "name": "Orleans County American Legion Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -2267,8 +2231,8 @@
       },
       "location": {
         "coordinates": [
-          42.03354855426793,
-          -75.07748871799498
+          42.09402894545612,
+          -75.05044500553613
         ],
         "state": "NY"
       },
@@ -2276,8 +2240,8 @@
       "highway": "NY 104"
     },
     {
-      "id": "NY-1040",
-      "shapeId": "csv-1040",
+      "id": "NY-1033",
+      "shapeId": "csv-1033",
       "name": "line – Orleans County.",
       "state": "NY",
       "honoree": {
@@ -2285,8 +2249,8 @@
       },
       "location": {
         "coordinates": [
-          42.104084940577934,
-          -74.99904491917991
+          43.0428526,
+          -78.8846327
         ],
         "state": "NY"
       },
@@ -2294,8 +2258,8 @@
       "highway": "Paul Cerjan Memorial Highway I 781"
     },
     {
-      "id": "NY-1041",
-      "shapeId": "csv-1041",
+      "id": "NY-1034",
+      "shapeId": "csv-1034",
       "name": "Past V.F.W. Commander Alfred Bleich Highway",
       "state": "NY",
       "honoree": {
@@ -2303,16 +2267,16 @@
       },
       "location": {
         "coordinates": [
-          42.0877168251323,
-          -75.00226878893002
+          42.075735734643885,
+          -75.05529722203666
         ],
         "state": "NY"
       },
       "designation": {}
     },
     {
-      "id": "NY-1042",
-      "shapeId": "csv-1042",
+      "id": "NY-1035",
+      "shapeId": "csv-1035",
       "name": "Pearl Harbor Memorial Expressway",
       "state": "NY",
       "honoree": {
@@ -2320,8 +2284,8 @@
       },
       "location": {
         "coordinates": [
-          42.070463205583714,
-          -75.00305100000001
+          43.094492,
+          -75.2777628
         ],
         "state": "NY"
       },
@@ -2329,8 +2293,8 @@
       "highway": "NY 440"
     },
     {
-      "id": "NY-1043",
-      "shapeId": "csv-1043",
+      "id": "NY-1036",
+      "shapeId": "csv-1036",
       "name": "Pearl Harbor Veterans Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -2338,8 +2302,8 @@
       },
       "location": {
         "coordinates": [
-          42.052622618441745,
-          -75.00127341144564
+          43.1009031,
+          -75.32766409999999
         ],
         "state": "NY"
       },
@@ -2347,9 +2311,141 @@
       "highway": "NY 36"
     },
     {
+      "id": "NY-1037",
+      "shapeId": "csv-1037",
+      "name": "Phelps Way",
+      "state": "NY",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          42.05612444891609,
+          -75.05765255108392
+        ],
+        "state": "NY"
+      },
+      "designation": {},
+      "highway": "NY 117"
+    },
+    {
+      "id": "NY-1038",
+      "shapeId": "csv-1038",
+      "name": "POW-MIA Memorial Highway",
+      "state": "NY",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          42.03549844466977,
+          -75.05732489364672
+        ],
+        "state": "NY"
+      },
+      "designation": {},
+      "highway": "Shore Parkway, Belt Parkway, Sunrise Highway and NY 27"
+    },
+    {
+      "id": "NY-1039",
+      "shapeId": "csv-1039",
+      "name": "POW-MIA Memorial Highway",
+      "state": "NY",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          42.01418287180653,
+          -75.05416264072495
+        ],
+        "state": "NY"
+      },
+      "designation": {},
+      "highway": "Macedon Center Road"
+    },
+    {
+      "id": "NY-1040",
+      "shapeId": "csv-1040",
+      "name": "POW-MIA Memorial Highway",
+      "state": "NY",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          42.09644396769725,
+          -74.98805100000001
+        ],
+        "state": "NY"
+      },
+      "designation": {},
+      "highway": "I 278"
+    },
+    {
+      "id": "NY-1041",
+      "shapeId": "csv-1041",
+      "name": "POW-MIA Memorial Highway",
+      "state": "NY",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          42.07962676023152,
+          -74.98819973486538
+        ],
+        "state": "NY"
+      },
+      "designation": {},
+      "highway": "NY 12"
+    },
+    {
+      "id": "NY-1042",
+      "shapeId": "csv-1042",
+      "name": "Private First Class Douglas Cordo Memorial Highway",
+      "state": "NY",
+      "honoree": {
+        "name": "Private First Class Douglas Cordo"
+      },
+      "location": {
+        "coordinates": [
+          42.06235981171355,
+          -74.98567321576583
+        ],
+        "state": "NY"
+      },
+      "designation": {},
+      "highway": "NY 32"
+    },
+    {
+      "id": "NY-1043",
+      "shapeId": "csv-1043",
+      "name": "Private First Class Duane C. Scott Memorial Highway",
+      "state": "NY",
+      "honoree": {
+        "name": "Private First Class Duane C. Scott",
+        "summary": "[UNVERIFIED] The Wikipedia article provided is for Duane Jones, but the highway is named after Private First Class Duane C. Scott. The names do not match (Jones vs. Scott), and the article does not mention a military rank or connection to New York that would align with the memorial highway's designation.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
+      },
+      "location": {
+        "coordinates": [
+          42.04498527171386,
+          -74.98040338063782
+        ],
+        "state": "NY"
+      },
+      "designation": {},
+      "highway": "NY 275",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Duane_Jones"
+    },
+    {
       "id": "NY-1044",
       "shapeId": "csv-1044",
-      "name": "Phelps Way",
+      "name": "Purple Heart Highway",
       "state": "NY",
       "honoree": {
         "name": "Unknown"
@@ -2362,30 +2458,30 @@
         "state": "NY"
       },
       "designation": {},
-      "highway": "NY 117"
+      "highway": "NY 5"
     },
     {
       "id": "NY-1045",
       "shapeId": "csv-1045",
-      "name": "POW-MIA Memorial Highway",
+      "name": "Purple Heart Way",
       "state": "NY",
       "honoree": {
         "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          42.03450652147114,
-          -74.99685108662506
+          42.02785291457829,
+          -74.97236174487338
         ],
         "state": "NY"
       },
       "designation": {},
-      "highway": "Shore Parkway, Belt Parkway, Sunrise Highway and NY 27"
+      "highway": "NY 908G (Northern State Parkway)"
     },
     {
       "id": "NY-1046",
       "shapeId": "csv-1046",
-      "name": "POW-MIA Memorial Highway",
+      "name": "The Putnam County Veterans Memorial Highway",
       "state": "NY",
       "honoree": {
         "name": "Unknown"
@@ -2398,51 +2494,51 @@
         "state": "NY"
       },
       "designation": {},
-      "highway": "Macedon Center Road"
+      "highway": "I 84"
     },
     {
       "id": "NY-1047",
       "shapeId": "csv-1047",
-      "name": "POW-MIA Memorial Highway",
+      "name": "Ralph J. Marino Expressway",
       "state": "NY",
       "honoree": {
         "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          42.01643580214636,
-          -74.98973357219538
+          42.011315821795776,
+          -74.9615601401259
         ],
         "state": "NY"
       },
       "designation": {},
-      "highway": "I 278"
+      "highway": "NY 135 (Seaford-Oyster Bay Expressway)"
     },
     {
       "id": "NY-1048",
       "shapeId": "csv-1048",
-      "name": "POW-MIA Memorial Highway",
+      "name": "Rensselaer County Korean War Vererans Memorial Highway",
       "state": "NY",
       "honoree": {
         "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          41.99873716737612,
-          -74.97990582347958
+          41.995726,
+          -74.948051
         ],
         "state": "NY"
       },
       "designation": {},
-      "highway": "NY 12"
+      "highway": "NY 7"
     },
     {
       "id": "NY-1049",
       "shapeId": "csv-1049",
-      "name": "Private First Class Douglas Cordo Memorial Highway",
+      "name": "Rensselaer County Veterans' Memorial Highway",
       "state": "NY",
       "honoree": {
-        "name": "Private First Class Douglas Cordo"
+        "name": "Unknown"
       },
       "location": {
         "coordinates": [
@@ -2452,16 +2548,16 @@
         "state": "NY"
       },
       "designation": {},
-      "highway": "NY 32"
+      "highway": "I 90"
     },
     {
       "id": "NY-1050",
       "shapeId": "csv-1050",
-      "name": "Private First Class Duane C. Scott Memorial Highway",
+      "name": "Reverend Dr. Bennett W. Smith, Sr. Way",
       "state": "NY",
       "honoree": {
-        "name": "Private First Class Duane C. Scott",
-        "summary": "[UNVERIFIED] The Wikipedia article provided is for Duane Jones, but the highway is named after Private First Class Duane C. Scott. The names do not match (Jones vs. Scott), and the article does not mention a military rank or connection to New York that would align with the memorial highway's designation.",
+        "name": "Bennett W. Smith",
+        "summary": "[UNVERIFIED] The highway is named 'Reverend Dr. Bennett W. Smith, Sr. Way' after a person with the name 'Bennett W. Smith', but the Wikipedia article is for 'Charles Bennett Smith', a U.S. Representative from New York. The names do not match, and while the state (New York) aligns, the article subject is a politician, not a reverend or doctor as the designation suggests.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -2475,31 +2571,31 @@
         "state": "NY"
       },
       "designation": {},
-      "highway": "NY 275",
-      "lawWebLink": "https://en.wikipedia.org/wiki/Duane_Jones"
+      "highway": "Goodell Street",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Charles_Bennett_Smith"
     },
     {
       "id": "NY-1051",
       "shapeId": "csv-1051",
-      "name": "Purple Heart Highway",
+      "name": "Reverend Dr. Martin Luther King, Jr. Expressway",
       "state": "NY",
       "honoree": {
         "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          41.981739449356866,
-          -74.96738876570453
+          41.98142998085303,
+          -74.9319271875917
         ],
         "state": "NY"
       },
       "designation": {},
-      "highway": "NY 5"
+      "highway": "Kensington Expressway"
     },
     {
       "id": "NY-1052",
       "shapeId": "csv-1052",
-      "name": "Purple Heart Way",
+      "name": "Rush Veterans Memorial Highway",
       "state": "NY",
       "honoree": {
         "name": "Unknown"
@@ -2512,30 +2608,30 @@
         "state": "NY"
       },
       "designation": {},
-      "highway": "NY 908G (Northern State Parkway)"
+      "highway": "NY 15A"
     },
     {
       "id": "NY-1053",
       "shapeId": "csv-1053",
-      "name": "The Putnam County Veterans Memorial Highway",
+      "name": "Sampson Veterans Memorial Highway",
       "state": "NY",
       "honoree": {
         "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          42.08574354532201,
-          -74.94972639359068
+          42.086941379759025,
+          -74.93415914578665
         ],
         "state": "NY"
       },
       "designation": {},
-      "highway": "I 84"
+      "highway": "NY 96A"
     },
     {
       "id": "NY-1054",
       "shapeId": "csv-1054",
-      "name": "Ralph J. Marino Expressway",
+      "name": "Saratoga County Veterans’ Memorial Highway",
       "state": "NY",
       "honoree": {
         "name": "Unknown"
@@ -2548,12 +2644,12 @@
         "state": "NY"
       },
       "designation": {},
-      "highway": "NY 135 (Seaford-Oyster Bay Expressway)"
+      "highway": "NY 4"
     },
     {
       "id": "NY-1055",
       "shapeId": "csv-1055",
-      "name": "Rensselaer County Korean War Vererans Memorial Highway",
+      "name": "Schenectady County Veterans Memorial Highway",
       "state": "NY",
       "honoree": {
         "name": "Unknown"
@@ -2566,34 +2662,40 @@
         "state": "NY"
       },
       "designation": {},
-      "highway": "NY 7"
+      "highway": "I 890"
     },
     {
       "id": "NY-1056",
       "shapeId": "csv-1056",
-      "name": "Rensselaer County Veterans' Memorial Highway",
+      "name": "Senator Jess J. Present Memorial Highway",
       "state": "NY",
       "honoree": {
-        "name": "Unknown"
+        "name": "Senator Jess J. Present",
+        "summary": "[UNVERIFIED] The provided Wikipedia article content appears to be a generic Wikipedia interface and navigation menu, not a biographical article about a person named Jess J. Present. There is no information indicating the article subject is a New York politician or connected to a memorial highway.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
       },
       "location": {
         "coordinates": [
-          42.07091346079931,
-          -74.94208590064473
+          42.07396304650254,
+          -74.92346319071527
         ],
         "state": "NY"
       },
       "designation": {},
-      "highway": "I 90"
+      "highway": "NY 430",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Jess_J._Present"
     },
     {
       "id": "NY-1057",
       "shapeId": "csv-1057",
-      "name": "Reverend Dr. Bennett W. Smith, Sr. Way",
+      "name": "Senator Patricia K. McGee Memorial Highway",
       "state": "NY",
       "honoree": {
-        "name": "Bennett W. Smith",
-        "summary": "[UNVERIFIED] The highway is named 'Reverend Dr. Bennett W. Smith, Sr. Way' after a person with the name 'Bennett W. Smith', but the Wikipedia article is for 'Charles Bennett Smith', a U.S. Representative from New York. The names do not match, and while the state (New York) aligns, the article subject is a politician, not a reverend or doctor as the designation suggests.",
+        "name": "Senator Patricia K. McGee",
+        "summary": "[UNVERIFIED] The provided text is only the Wikipedia site navigation menu and does not contain any article content about a person. Without article content, it cannot be verified that the subject is Patricia McGee, connected to New York, or that the person's background justifies a highway memorial.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -2607,16 +2709,21 @@
         "state": "NY"
       },
       "designation": {},
-      "highway": "Goodell Street",
-      "lawWebLink": "https://en.wikipedia.org/wiki/Charles_Bennett_Smith"
+      "highway": "NY 16",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Patricia_McGee"
     },
     {
       "id": "NY-1058",
       "shapeId": "csv-1058",
-      "name": "Reverend Dr. Martin Luther King, Jr. Expressway",
+      "name": "Senator Ralph Quattrociocchi Memorial Highway",
       "state": "NY",
       "honoree": {
-        "name": "Unknown"
+        "name": "Senator Ralph Quattrociocchi",
+        "summary": "[UNVERIFIED] The provided Wikipedia article text is only a generic navigation menu and does not contain any content about Ralph E. Quattrociocchi, such as his biography, profession, or connection to New York. Without substantive content, it cannot be verified that this article is about the person the highway was named after.",
+        "involvedInSports": false,
+        "involvedInPolitics": false,
+        "involvedInMilitary": false,
+        "involvedInMusic": false
       },
       "location": {
         "coordinates": [
@@ -2626,12 +2733,13 @@
         "state": "NY"
       },
       "designation": {},
-      "highway": "Kensington Expressway"
+      "highway": "NY 531",
+      "lawWebLink": "https://en.wikipedia.org/wiki/Ralph_E._Quattrociocchi"
     },
     {
       "id": "NY-1059",
       "shapeId": "csv-1059",
-      "name": "Rush Veterans Memorial Highway",
+      "name": "Senator Warren M. Anderson Expressway",
       "state": "NY",
       "honoree": {
         "name": "Unknown"
@@ -2644,48 +2752,48 @@
         "state": "NY"
       },
       "designation": {},
-      "highway": "NY 15A"
+      "highway": "I 88"
     },
     {
       "id": "NY-1060",
       "shapeId": "csv-1060",
-      "name": "Sampson Veterans Memorial Highway",
+      "name": "Seneca Trail",
       "state": "NY",
       "honoree": {
         "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          42.05690604337407,
-          -74.93198186685814
+          42.06235981171355,
+          -74.91042878423418
         ],
         "state": "NY"
       },
       "designation": {},
-      "highway": "NY 96A"
+      "highway": "US 62, NY 353, NY 17, and US 219"
     },
     {
       "id": "NY-1061",
       "shapeId": "csv-1061",
-      "name": "Saratoga County Veterans’ Memorial Highway",
+      "name": "Sergeant Devin Snyder Memorial Highway",
       "state": "NY",
       "honoree": {
-        "name": "Unknown"
+        "name": "Devin Snyder"
       },
       "location": {
         "coordinates": [
-          42.044028637140855,
-          -74.91950714123618
+          42.052437526620416,
+          -74.89522371728242
         ],
         "state": "NY"
       },
       "designation": {},
-      "highway": "NY 4"
+      "highway": "I-390"
     },
     {
       "id": "NY-1062",
       "shapeId": "csv-1062",
-      "name": "Schenectady County Veterans Memorial Highway",
+      "name": "Sergeant Elisha R. Parker Veterans Memorial Highway",
       "state": "NY",
       "honoree": {
         "name": "Unknown"
@@ -2698,16 +2806,16 @@
         "state": "NY"
       },
       "designation": {},
-      "highway": "I 890"
+      "highway": "NY 13"
     },
     {
       "id": "NY-1063",
       "shapeId": "csv-1063",
-      "name": "Senator Jess J. Present Memorial Highway",
+      "name": "Sergeant Major Daniel Joseph Daly Memorial Highway",
       "state": "NY",
       "honoree": {
-        "name": "Senator Jess J. Present",
-        "summary": "[UNVERIFIED] The provided Wikipedia article content appears to be a generic Wikipedia interface and navigation menu, not a biographical article about a person named Jess J. Present. There is no information indicating the article subject is a New York politician or connected to a memorial highway.",
+        "name": "Major Daniel Joseph Daly",
+        "summary": "[UNVERIFIED] The provided Wikipedia article text is only a generic navigation menu and does not contain any content about a person named Daniel Daly. Without article content, it cannot be confirmed that this is the Daniel Daly (Sergeant Major, USMC) for whom the New York highway is named. The highway designation 'Sergeant Major Daniel Joseph Daly Memorial Highway' strongly suggests a military figure, and the most famous Daniel Daly is a highly decorated US Marine Corps sergeant major, but the provided text does not confirm this.",
         "involvedInSports": false,
         "involvedInPolitics": false,
         "involvedInMilitary": false,
@@ -2721,156 +2829,12 @@
         "state": "NY"
       },
       "designation": {},
-      "highway": "NY 430",
-      "lawWebLink": "https://en.wikipedia.org/wiki/Jess_J._Present"
-    },
-    {
-      "id": "NY-1064",
-      "shapeId": "csv-1064",
-      "name": "Senator Patricia K. McGee Memorial Highway",
-      "state": "NY",
-      "honoree": {
-        "name": "Senator Patricia K. McGee",
-        "summary": "[UNVERIFIED] The provided text is only the Wikipedia site navigation menu and does not contain any article content about a person. Without article content, it cannot be verified that the subject is Patricia McGee, connected to New York, or that the person's background justifies a highway memorial.",
-        "involvedInSports": false,
-        "involvedInPolitics": false,
-        "involvedInMilitary": false,
-        "involvedInMusic": false
-      },
-      "location": {
-        "coordinates": [
-          42.032578087718676,
-          -74.90478862078751
-        ],
-        "state": "NY"
-      },
-      "designation": {},
-      "highway": "NY 16",
-      "lawWebLink": "https://en.wikipedia.org/wiki/Patricia_McGee"
-    },
-    {
-      "id": "NY-1065",
-      "shapeId": "csv-1065",
-      "name": "Senator Ralph Quattrociocchi Memorial Highway",
-      "state": "NY",
-      "honoree": {
-        "name": "Senator Ralph Quattrociocchi",
-        "summary": "[UNVERIFIED] The provided Wikipedia article text is only a generic navigation menu and does not contain any content about Ralph E. Quattrociocchi, such as his biography, profession, or connection to New York. Without substantive content, it cannot be verified that this article is about the person the highway was named after.",
-        "involvedInSports": false,
-        "involvedInPolitics": false,
-        "involvedInMilitary": false,
-        "involvedInMusic": false
-      },
-      "location": {
-        "coordinates": [
-          43.047639805583714,
-          -77.768702
-        ],
-        "state": "NY"
-      },
-      "designation": {},
-      "highway": "NY 531",
-      "lawWebLink": "https://en.wikipedia.org/wiki/Ralph_E._Quattrociocchi"
-    },
-    {
-      "id": "NY-1066",
-      "shapeId": "csv-1066",
-      "name": "Senator Warren M. Anderson Expressway",
-      "state": "NY",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          42.022837211503784,
-          -74.88798608409994
-        ],
-        "state": "NY"
-      },
-      "designation": {},
-      "highway": "I 88"
-    },
-    {
-      "id": "NY-1067",
-      "shapeId": "csv-1067",
-      "name": "Seneca Trail",
-      "state": "NY",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          42.878522,
-          -76.9602913
-        ],
-        "state": "NY"
-      },
-      "designation": {},
-      "highway": "US 62, NY 353, NY 17, and US 219"
-    },
-    {
-      "id": "NY-1068",
-      "shapeId": "csv-1068",
-      "name": "Sergeant Devin Snyder Memorial Highway",
-      "state": "NY",
-      "honoree": {
-        "name": "Devin Snyder"
-      },
-      "location": {
-        "coordinates": [
-          42.01507139153069,
-          -74.86929067402963
-        ],
-        "state": "NY"
-      },
-      "designation": {},
-      "highway": "I-390"
-    },
-    {
-      "id": "NY-1069",
-      "shapeId": "csv-1069",
-      "name": "Sergeant Elisha R. Parker Veterans Memorial Highway",
-      "state": "NY",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          43.334668,
-          -75.747986
-        ],
-        "state": "NY"
-      },
-      "designation": {},
-      "highway": "NY 13"
-    },
-    {
-      "id": "NY-1070",
-      "shapeId": "csv-1070",
-      "name": "Sergeant Major Daniel Joseph Daly Memorial Highway",
-      "state": "NY",
-      "honoree": {
-        "name": "Major Daniel Joseph Daly",
-        "summary": "[UNVERIFIED] The provided Wikipedia article text is only a generic navigation menu and does not contain any content about a person named Daniel Daly. Without article content, it cannot be confirmed that this is the Daniel Daly (Sergeant Major, USMC) for whom the New York highway is named. The highway designation 'Sergeant Major Daniel Joseph Daly Memorial Highway' strongly suggests a military figure, and the most famous Daniel Daly is a highly decorated US Marine Corps sergeant major, but the provided text does not confirm this.",
-        "involvedInSports": false,
-        "involvedInPolitics": false,
-        "involvedInMilitary": false,
-        "involvedInMusic": false
-      },
-      "location": {
-        "coordinates": [
-          40.8099837,
-          -73.6283662
-        ],
-        "state": "NY"
-      },
-      "designation": {},
       "highway": "NY 107",
       "lawWebLink": "https://en.wikipedia.org/wiki/Daniel_Daly"
     },
     {
-      "id": "NY-1071",
-      "shapeId": "csv-1071",
+      "id": "NY-1064",
+      "shapeId": "csv-1064",
       "name": "Sergeant Omar G. Blowers Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -2883,8 +2847,8 @@
       },
       "location": {
         "coordinates": [
-          42.00952533378213,
-          -74.84892304292889
+          42.04448244347018,
+          -74.87805100000001
         ],
         "state": "NY"
       },
@@ -2893,8 +2857,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Daniel_Ellsberg"
     },
     {
-      "id": "NY-1072",
-      "shapeId": "csv-1072",
+      "id": "NY-1065",
+      "shapeId": "csv-1065",
       "name": "Sergeant Shawn Michael Farrell II Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -2902,8 +2866,8 @@
       },
       "location": {
         "coordinates": [
-          42.102003606558064,
-          -74.89968307081102
+          43.047639805583714,
+          -77.768702
         ],
         "state": "NY"
       },
@@ -2911,8 +2875,8 @@
       "highway": "US 44/NY 55"
     },
     {
-      "id": "NY-1073",
-      "shapeId": "csv-1073",
+      "id": "NY-1066",
+      "shapeId": "csv-1066",
       "name": "Sgt. Albert Ireland Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -2925,8 +2889,8 @@
       },
       "location": {
         "coordinates": [
-          40.8601065,
-          -73.4529025
+          42.0387574331352,
+          -74.8591466523656
         ],
         "state": "NY"
       },
@@ -2935,8 +2899,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Edward_Woodward"
     },
     {
-      "id": "NY-1074",
-      "shapeId": "csv-1074",
+      "id": "NY-1067",
+      "shapeId": "csv-1067",
       "name": "Specialist Anthony N. Kalladeen Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -2949,8 +2913,8 @@
       },
       "location": {
         "coordinates": [
-          40.7256555,
-          -73.7033997
+          42.878522,
+          -76.9602913
         ],
         "state": "NY"
       },
@@ -2959,8 +2923,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Robert_Castelli"
     },
     {
-      "id": "NY-1075",
-      "shapeId": "csv-1075",
+      "id": "NY-1068",
+      "shapeId": "csv-1068",
       "name": "Springwater Veterans Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -2968,8 +2932,8 @@
       },
       "location": {
         "coordinates": [
-          42.6355686,
-          -77.5946276
+          42.03549844466977,
+          -74.83877710635329
         ],
         "state": "NY"
       },
@@ -2977,8 +2941,8 @@
       "highway": "NY 15A"
     },
     {
-      "id": "NY-1076",
-      "shapeId": "csv-1076",
+      "id": "NY-1069",
+      "shapeId": "csv-1069",
       "name": "Staff Sergeant William R. Wilson III Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -2991,8 +2955,8 @@
       },
       "location": {
         "coordinates": [
-          43.0007502,
-          -78.7887138
+          43.334668,
+          -75.747986
         ],
         "state": "NY"
       },
@@ -3001,8 +2965,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/John_Jacob_Astor_III"
     },
     {
-      "id": "NY-1077",
-      "shapeId": "csv-1077",
+      "id": "NY-1070",
+      "shapeId": "csv-1070",
       "name": "St. Lawrence County Veterans Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -3010,8 +2974,8 @@
       },
       "location": {
         "coordinates": [
-          42.09512724157965,
-          -74.88448359239591
+          40.8099837,
+          -73.6283662
         ],
         "state": "NY"
       },
@@ -3019,8 +2983,8 @@
       "highway": "NY 37"
     },
     {
-      "id": "NY-1078",
-      "shapeId": "csv-1078",
+      "id": "NY-1071",
+      "shapeId": "csv-1071",
       "name": "Steuben County Veterans of Foreign Wars Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -3028,8 +2992,8 @@
       },
       "location": {
         "coordinates": [
-          42.3098651,
-          -77.6594987
+          42.03491124548049,
+          -74.8172362454805
         ],
         "state": "NY"
       },
@@ -3037,8 +3001,8 @@
       "highway": "NY 36"
     },
     {
-      "id": "NY-1079",
-      "shapeId": "csv-1079",
+      "id": "NY-1072",
+      "shapeId": "csv-1072",
       "name": "Timothy J. Russert Highway",
       "state": "NY",
       "honoree": {
@@ -3051,8 +3015,8 @@
       },
       "location": {
         "coordinates": [
-          42.7670376,
-          -78.7435517
+          42.114302991225074,
+          -74.88676744455049
         ],
         "state": "NY"
       },
@@ -3061,8 +3025,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Byron_Brown"
     },
     {
-      "id": "NY-1080",
-      "shapeId": "csv-1080",
+      "id": "NY-1073",
+      "shapeId": "csv-1073",
       "name": "Trooper David C. Brinkerhoff Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -3080,8 +3044,8 @@
       },
       "location": {
         "coordinates": [
-          42.1487726,
-          -74.6487018
+          40.8601065,
+          -73.4529025
         ],
         "state": "NY"
       },
@@ -3090,8 +3054,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Clancy_Brown"
     },
     {
-      "id": "NY-1081",
-      "shapeId": "csv-1081",
+      "id": "NY-1074",
+      "shapeId": "csv-1074",
       "name": "Trooper David J. Lane Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -3109,8 +3073,8 @@
       },
       "location": {
         "coordinates": [
-          42.94797344347018,
-          -76.2425064
+          40.7256555,
+          -73.7033997
         ],
         "state": "NY"
       },
@@ -3119,8 +3083,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Assata_Shakur"
     },
     {
-      "id": "NY-1082",
-      "shapeId": "csv-1082",
+      "id": "NY-1075",
+      "shapeId": "csv-1075",
       "name": "Trooper Shawn W. Snow Street",
       "state": "NY",
       "honoree": {
@@ -3134,8 +3098,8 @@
       },
       "location": {
         "coordinates": [
-          44.6975256,
-          -75.4924943
+          42.6355686,
+          -77.5946276
         ],
         "state": "NY"
       },
@@ -3144,8 +3108,8 @@
       "lawWebLink": "https://www.odmp.org/officer/19489-trooper-shawn-w-snow"
     },
     {
-      "id": "NY-1083",
-      "shapeId": "csv-1083",
+      "id": "NY-1076",
+      "shapeId": "csv-1076",
       "name": "Turning Point Trail",
       "state": "NY",
       "honoree": {
@@ -3153,8 +3117,8 @@
       },
       "location": {
         "coordinates": [
-          42.090425818347846,
-          -74.86786445098365
+          43.0007502,
+          -78.7887138
         ],
         "state": "NY"
       },
@@ -3162,9 +3126,135 @@
       "highway": "US 4"
     },
     {
+      "id": "NY-1077",
+      "shapeId": "csv-1077",
+      "name": "Twin Cities Vietnam Veterans Memorial Highway",
+      "state": "NY",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          42.11123623854665,
+          -74.87023155579256
+        ],
+        "state": "NY"
+      },
+      "designation": {},
+      "highway": "NY 425"
+    },
+    {
+      "id": "NY-1078",
+      "shapeId": "csv-1078",
+      "name": "U.S. Army 77th Infantry Division Expressway",
+      "state": "NY",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          42.3098651,
+          -77.6594987
+        ],
+        "state": "NY"
+      },
+      "designation": {},
+      "highway": "I 295 (Clearview Expressway)"
+    },
+    {
+      "id": "NY-1079",
+      "shapeId": "csv-1079",
+      "name": "U.S. Navy Seabee Parkway",
+      "state": "NY",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          42.7670376,
+          -78.7435517
+        ],
+        "state": "NY"
+      },
+      "designation": {},
+      "highway": "Lake Ontario State Parkway"
+    },
+    {
+      "id": "NY-1080",
+      "shapeId": "csv-1080",
+      "name": "United States Army 77th Infantry Division Memorial Highway",
+      "state": "NY",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          42.1487726,
+          -74.6487018
+        ],
+        "state": "NY"
+      },
+      "designation": {},
+      "highway": "NY 352"
+    },
+    {
+      "id": "NY-1081",
+      "shapeId": "csv-1081",
+      "name": "United States Submarine Veterans Memorial Highway",
+      "state": "NY",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          42.94797344347018,
+          -76.2425064
+        ],
+        "state": "NY"
+      },
+      "designation": {},
+      "highway": "NY 25"
+    },
+    {
+      "id": "NY-1082",
+      "shapeId": "csv-1082",
+      "name": "United States Submarine Veterans Memorial Highway – Saratoga County",
+      "state": "NY",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          44.6975256,
+          -75.4924943
+        ],
+        "state": "NY"
+      },
+      "designation": {},
+      "highway": "US 9"
+    },
+    {
+      "id": "NY-1083",
+      "shapeId": "csv-1083",
+      "name": "The Veterans of Foreign Wars Memorial Highway",
+      "state": "NY",
+      "honoree": {
+        "name": "Unknown"
+      },
+      "location": {
+        "coordinates": [
+          42.110726,
+          -74.85278820558372
+        ],
+        "state": "NY"
+      },
+      "designation": {},
+      "highway": "NY 11"
+    },
+    {
       "id": "NY-1084",
       "shapeId": "csv-1084",
-      "name": "Twin Cities Vietnam Veterans Memorial Highway",
+      "name": "Veterans Memorial Highway",
       "state": "NY",
       "honoree": {
         "name": "Unknown"
@@ -3177,12 +3267,12 @@
         "state": "NY"
       },
       "designation": {},
-      "highway": "NY 425"
+      "highway": "I 481, NY 481"
     },
     {
       "id": "NY-1085",
       "shapeId": "csv-1085",
-      "name": "U.S. Army 77th Infantry Division Expressway",
+      "name": "Vietnam Veterans Memorial Highway",
       "state": "NY",
       "honoree": {
         "name": "Unknown"
@@ -3195,12 +3285,12 @@
         "state": "NY"
       },
       "designation": {},
-      "highway": "I 295 (Clearview Expressway)"
+      "highway": "US 9W"
     },
     {
       "id": "NY-1086",
       "shapeId": "csv-1086",
-      "name": "U.S. Navy Seabee Parkway",
+      "name": "Waterloo: Birthplace of Memorial Day Highway",
       "state": "NY",
       "honoree": {
         "name": "Unknown"
@@ -3213,30 +3303,30 @@
         "state": "NY"
       },
       "designation": {},
-      "highway": "Lake Ontario State Parkway"
+      "highway": "NY 96"
     },
     {
       "id": "NY-1087",
       "shapeId": "csv-1087",
-      "name": "United States Army 77th Infantry Division Memorial Highway",
+      "name": "Wayne C. Speenburgh Memorial Highway",
       "state": "NY",
       "honoree": {
-        "name": "Unknown"
+        "name": "Wayne C. Speenburgh"
       },
       "location": {
         "coordinates": [
-          42.08808252746521,
-          -74.85008931783427
+          42.11289871728241,
+          -74.83476252662042
         ],
         "state": "NY"
       },
       "designation": {},
-      "highway": "NY 352"
+      "highway": "NY 23"
     },
     {
       "id": "NY-1088",
       "shapeId": "csv-1088",
-      "name": "United States Submarine Veterans Memorial Highway",
+      "name": "Wayne County Veteran's Memorial Highway",
       "state": "NY",
       "honoree": {
         "name": "Unknown"
@@ -3249,30 +3339,30 @@
         "state": "NY"
       },
       "designation": {},
-      "highway": "NY 25"
+      "highway": "NY 31"
     },
     {
       "id": "NY-1089",
       "shapeId": "csv-1089",
-      "name": "United States Submarine Veterans Memorial Highway – Saratoga County",
+      "name": "Westchester County Korean War Veterans Memorial Highway",
       "state": "NY",
       "honoree": {
         "name": "Unknown"
       },
       "location": {
         "coordinates": [
-          42.08825118310593,
-          -74.83144202630059
+          42.117843179934404,
+          -74.81649403308998
         ],
         "state": "NY"
       },
       "designation": {},
-      "highway": "US 9"
+      "highway": "Taconic State Parkway"
     },
     {
       "id": "NY-1090",
       "shapeId": "csv-1090",
-      "name": "The Veterans of Foreign Wars Memorial Highway",
+      "name": "Westchester County Veterans Memorial Highway",
       "state": "NY",
       "honoree": {
         "name": "Unknown"
@@ -3285,137 +3375,11 @@
         "state": "NY"
       },
       "designation": {},
-      "highway": "NY 11"
+      "highway": "I 287"
     },
     {
       "id": "NY-1091",
       "shapeId": "csv-1091",
-      "name": "Veterans Memorial Highway",
-      "state": "NY",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          42.091054180514234,
-          -74.8122234645932
-        ],
-        "state": "NY"
-      },
-      "designation": {},
-      "highway": "I 481, NY 481"
-    },
-    {
-      "id": "NY-1092",
-      "shapeId": "csv-1092",
-      "name": "Vietnam Veterans Memorial Highway",
-      "state": "NY",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          32.5434322,
-          -117.0420544
-        ],
-        "state": "NY"
-      },
-      "designation": {},
-      "highway": "US 9W"
-    },
-    {
-      "id": "NY-1093",
-      "shapeId": "csv-1093",
-      "name": "Waterloo: Birthplace of Memorial Day Highway",
-      "state": "NY",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          42.096580770677114,
-          -74.79274827220077
-        ],
-        "state": "NY"
-      },
-      "designation": {},
-      "highway": "NY 96"
-    },
-    {
-      "id": "NY-1094",
-      "shapeId": "csv-1094",
-      "name": "Wayne C. Speenburgh Memorial Highway",
-      "state": "NY",
-      "honoree": {
-        "name": "Wayne C. Speenburgh"
-      },
-      "location": {
-        "coordinates": [
-          42.3063106,
-          -74.2554018
-        ],
-        "state": "NY"
-      },
-      "designation": {},
-      "highway": "NY 23"
-    },
-    {
-      "id": "NY-1095",
-      "shapeId": "csv-1095",
-      "name": "Wayne County Veteran's Memorial Highway",
-      "state": "NY",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          42.10488567035336,
-          -74.77334137150608
-        ],
-        "state": "NY"
-      },
-      "designation": {},
-      "highway": "NY 31"
-    },
-    {
-      "id": "NY-1096",
-      "shapeId": "csv-1096",
-      "name": "Westchester County Korean War Veterans Memorial Highway",
-      "state": "NY",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          42.14583080902681,
-          -74.87056434710972
-        ],
-        "state": "NY"
-      },
-      "designation": {},
-      "highway": "Taconic State Parkway"
-    },
-    {
-      "id": "NY-1097",
-      "shapeId": "csv-1097",
-      "name": "Westchester County Veterans Memorial Highway",
-      "state": "NY",
-      "honoree": {
-        "name": "Unknown"
-      },
-      "location": {
-        "coordinates": [
-          42.14988296906197,
-          -74.85438137647832
-        ],
-        "state": "NY"
-      },
-      "designation": {},
-      "highway": "I 287"
-    },
-    {
-      "id": "NY-1098",
-      "shapeId": "csv-1098",
       "name": "West Seneca Veterans Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -3423,8 +3387,8 @@
       },
       "location": {
         "coordinates": [
-          43.0008131,
-          -75.9793541
+          42.12560904800911,
+          -74.7983324969252
         ],
         "state": "NY"
       },
@@ -3432,8 +3396,8 @@
       "highway": "NY 227"
     },
     {
-      "id": "NY-1099",
-      "shapeId": "csv-1099",
+      "id": "NY-1092",
+      "shapeId": "csv-1092",
       "name": "William C. Hennessy Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -3446,8 +3410,8 @@
       },
       "location": {
         "coordinates": [
-          42.1206243,
-          -77.927191
+          32.5434322,
+          -117.0420544
         ],
         "state": "NY"
       },
@@ -3456,8 +3420,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Larry_Hennessy"
     },
     {
-      "id": "NY-1100",
-      "shapeId": "csv-1100",
+      "id": "NY-1093",
+      "shapeId": "csv-1093",
       "name": "William Gregory Bypass",
       "state": "NY",
       "honoree": {
@@ -3465,8 +3429,8 @@
       },
       "location": {
         "coordinates": [
-          43.1687104,
-          -78.696567
+          42.13620580979662,
+          -74.78063368198794
         ],
         "state": "NY"
       },
@@ -3474,8 +3438,8 @@
       "highway": "NY 93"
     },
     {
-      "id": "NY-1101",
-      "shapeId": "csv-1101",
+      "id": "NY-1094",
+      "shapeId": "csv-1094",
       "name": "Wyoming County Veterans Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -3483,8 +3447,8 @@
       },
       "location": {
         "coordinates": [
-          42.156521437233444,
-          -74.83843678548256
+          42.3063106,
+          -74.2554018
         ],
         "state": "NY"
       },
@@ -3492,8 +3456,8 @@
       "highway": "US 20A"
     },
     {
-      "id": "NY-1102",
-      "shapeId": "csv-1102",
+      "id": "NY-1095",
+      "shapeId": "csv-1095",
       "name": "Youngstown Veterans of Foreign Wars Memorial Highway",
       "state": "NY",
       "honoree": {
@@ -3501,8 +3465,8 @@
       },
       "location": {
         "coordinates": [
-          43.2474804,
-          -79.0501083
+          42.14960218759168,
+          -74.76375498085304
         ],
         "state": "NY"
       },
@@ -3511,8 +3475,8 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-04-22T17:36:07.805Z",
-    "totalCount": 174,
+    "lastUpdated": "2026-04-22T18:34:53.610Z",
+    "totalCount": 172,
     "states": [
       "NY"
     ]

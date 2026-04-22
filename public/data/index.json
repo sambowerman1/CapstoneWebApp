@@ -35,8 +35,8 @@
     "WI",
     "WY"
   ],
-  "lastUpdated": "2026-04-22T17:36:07.805Z",
-  "totalHighways": 5335,
+  "lastUpdated": "2026-04-22T18:34:53.610Z",
+  "totalHighways": 5324,
   "stateInfo": {
     "AK": {
       "name": "Alaska",
@@ -103,7 +103,7 @@
     },
     "HI": {
       "name": "Hawaii",
-      "count": 41,
+      "count": 32,
       "center": [
         20.2927,
         -156.3737
@@ -256,7 +256,7 @@
     },
     "NY": {
       "name": "New York",
-      "count": 174,
+      "count": 172,
       "center": [
         42.9538,
         -75.5268

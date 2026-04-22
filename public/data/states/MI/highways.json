@@ -1,8 +1,8 @@
 {
   "highways": [
     {
-      "id": "MI-1103",
-      "shapeId": "csv-1103",
+      "id": "MI-1096",
+      "shapeId": "csv-1096",
       "name": "Charles J. Rogers Interchange",
       "state": "MI",
       "honoree": {
@@ -10,8 +10,8 @@
       },
       "location": {
         "coordinates": [
-          43.326618,
-          -84.456095
+          42.165726,
+          -74.86805100000001
         ],
         "state": "MI"
       },
@@ -19,8 +19,8 @@
       "highway": "I-75,M-8"
     },
     {
-      "id": "MI-1104",
-      "shapeId": "csv-1104",
+      "id": "MI-1097",
+      "shapeId": "csv-1097",
       "name": "SPC Robert Friese Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -28,8 +28,8 @@
       },
       "location": {
         "coordinates": [
-          43.329726312868075,
-          -84.44114586418975
+          42.24799841335952,
+          -74.995551
         ],
         "state": "MI"
       },
@@ -37,8 +37,8 @@
       "highway": "BR-127"
     },
     {
-      "id": "MI-1105",
-      "shapeId": "csv-1105",
+      "id": "MI-1098",
+      "shapeId": "csv-1098",
       "name": "Tuskegee Airmen Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -46,8 +46,8 @@
       },
       "location": {
         "coordinates": [
-          43.33381234421532,
-          -84.42633051844376
+          43.0008131,
+          -75.9793541
         ],
         "state": "MI"
       },
@@ -55,8 +55,8 @@
       "highway": "I-75"
     },
     {
-      "id": "MI-1106",
-      "shapeId": "csv-1106",
+      "id": "MI-1099",
+      "shapeId": "csv-1099",
       "name": "David Warsen Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -64,8 +64,8 @@
       },
       "location": {
         "coordinates": [
-          43.3388701425412,
-          -84.41169690916598
+          42.1206243,
+          -77.927191
         ],
         "state": "MI"
       },
@@ -73,8 +73,8 @@
       "highway": "M-6"
     },
     {
-      "id": "MI-1107",
-      "shapeId": "csv-1107",
+      "id": "MI-1100",
+      "shapeId": "csv-1100",
       "name": "Earle Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -82,8 +82,8 @@
       },
       "location": {
         "coordinates": [
-          43.34489166691081,
-          -84.39729271940767
+          43.1687104,
+          -78.696567
         ],
         "state": "MI"
       },
@@ -91,8 +91,8 @@
       "highway": "M-53"
     },
     {
-      "id": "MI-1108",
-      "shapeId": "csv-1108",
+      "id": "MI-1101",
+      "shapeId": "csv-1101",
       "name": "G. Mennen Williams Highway and Prentiss M. Brown Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -111,8 +111,8 @@
       },
       "location": {
         "coordinates": [
-          43.351866798376165,
-          -84.38316528352685
+          42.070463205583714,
+          -75.00305100000001
         ],
         "state": "MI"
       },
@@ -121,8 +121,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/G._Mennen_Williams"
     },
     {
-      "id": "MI-1109",
-      "shapeId": "csv-1109",
+      "id": "MI-1102",
+      "shapeId": "csv-1102",
       "name": "Specialist 5 Michael May and Corporal Chris Esckelson Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -130,8 +130,8 @@
       },
       "location": {
         "coordinates": [
-          43.359783354742746,
-          -84.36936150233146
+          43.2474804,
+          -79.0501083
         ],
         "state": "MI"
       },
@@ -139,8 +139,8 @@
       "highway": "M-15"
     },
     {
-      "id": "MI-1110",
-      "shapeId": "csv-1110",
+      "id": "MI-1103",
+      "shapeId": "csv-1103",
       "name": "Pulaski Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -148,8 +148,8 @@
       },
       "location": {
         "coordinates": [
-          43.368627108661364,
-          -84.3559277588337
+          43.326618,
+          -84.456095
         ],
         "state": "MI"
       },
@@ -157,8 +157,8 @@
       "highway": "US-12"
     },
     {
-      "id": "MI-1111",
-      "shapeId": "csv-1111",
+      "id": "MI-1104",
+      "shapeId": "csv-1104",
       "name": "American Legion Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -171,8 +171,8 @@
       },
       "location": {
         "coordinates": [
-          43.3473235236082,
-          -84.45882093389687
+          43.32984388030607,
+          -84.44114978581703
         ],
         "state": "MI"
       },
@@ -181,8 +181,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Aric_Nesbitt"
     },
     {
-      "id": "MI-1112",
-      "shapeId": "csv-1112",
+      "id": "MI-1105",
+      "shapeId": "csv-1105",
       "name": "Adler Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -190,8 +190,8 @@
       },
       "location": {
         "coordinates": [
-          43.35419504433918,
-          -84.44518566810544
+          43.334084151495794,
+          -84.42634867167034
         ],
         "state": "MI"
       },
@@ -199,8 +199,8 @@
       "highway": "M-10"
     },
     {
-      "id": "MI-1113",
-      "shapeId": "csv-1113",
+      "id": "MI-1106",
+      "shapeId": "csv-1106",
       "name": "Marine Lance Corporal Ryan Burgess Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -213,8 +213,8 @@
       },
       "location": {
         "coordinates": [
-          43.36197634118335,
-          -84.43193268575554
+          43.33933216114967,
+          -84.41174328064615
         ],
         "state": "MI"
       },
@@ -223,8 +223,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/JD_Vance"
     },
     {
-      "id": "MI-1114",
-      "shapeId": "csv-1114",
+      "id": "MI-1107",
+      "shapeId": "csv-1107",
       "name": "Gold Star Mothers Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -232,8 +232,8 @@
       },
       "location": {
         "coordinates": [
-          43.37064925599016,
-          -84.41910675915534
+          43.34557892229392,
+          -84.39738493033755
         ],
         "state": "MI"
       },
@@ -241,8 +241,8 @@
       "highway": "M-55"
     },
     {
-      "id": "MI-1115",
-      "shapeId": "csv-1115",
+      "id": "MI-1108",
+      "shapeId": "csv-1108",
       "name": "Iron Brigade Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -261,8 +261,8 @@
       },
       "location": {
         "coordinates": [
-          43.380193680531114,
-          -84.40675186544843
+          43.35281312714989,
+          -84.38332453389611
         ],
         "state": "MI"
       },
@@ -271,8 +271,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Strong_Vincent"
     },
     {
-      "id": "MI-1116",
-      "shapeId": "csv-1116",
+      "id": "MI-1109",
+      "shapeId": "csv-1109",
       "name": "Moses J. Jones Parkway",
       "state": "MI",
       "honoree": {
@@ -280,8 +280,8 @@
       },
       "location": {
         "coordinates": [
-          43.390587589619685,
-          -84.39491110713722
+          43.36102116490849,
+          -84.36961250168778
         ],
         "state": "MI"
       },
@@ -289,8 +289,8 @@
       "highway": "US-31"
     },
     {
-      "id": "MI-1117",
-      "shapeId": "csv-1117",
+      "id": "MI-1110",
+      "shapeId": "csv-1110",
       "name": "Sheriff Robert Radden Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -304,8 +304,8 @@
       },
       "location": {
         "coordinates": [
-          43.40180707733723,
-          -84.38362663393944
+          43.37018714350357,
+          -84.35629864371221
         ],
         "state": "MI"
       },
@@ -314,8 +314,8 @@
       "lawWebLink": "https://www.odmp.org/officer/17654-sheriff-robert-charles-radden"
     },
     {
-      "id": "MI-1118",
-      "shapeId": "csv-1118",
+      "id": "MI-1111",
+      "shapeId": "csv-1111",
       "name": "Marine Corps League Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -332,8 +332,8 @@
       },
       "location": {
         "coordinates": [
-          43.413826396312814,
-          -84.37293956609555
+          43.34808796614085,
+          -84.45902982917744
         ],
         "state": "MI"
       },
@@ -342,8 +342,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Jack_Bergman"
     },
     {
-      "id": "MI-1119",
-      "shapeId": "csv-1119",
+      "id": "MI-1112",
+      "shapeId": "csv-1112",
       "name": "United Spanish War Veterans' Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -351,8 +351,8 @@
       },
       "location": {
         "coordinates": [
-          43.366618,
-          -84.46681296769725
+          43.355206419382306,
+          -84.44549862988937
         ],
         "state": "MI"
       },
@@ -360,8 +360,8 @@
       "highway": "US-23"
     },
     {
-      "id": "MI-1120",
-      "shapeId": "csv-1120",
+      "id": "MI-1113",
+      "shapeId": "csv-1113",
       "name": "Staff Sergeant Ergin V. Osman Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -374,8 +374,8 @@
       },
       "location": {
         "coordinates": [
-          43.376784445811786,
-          -84.45542079275498
+          43.36326337742163,
+          -84.43237848099929
         ],
         "state": "MI"
       },
@@ -384,8 +384,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Alp_Arslan"
     },
     {
-      "id": "MI-1121",
-      "shapeId": "csv-1121",
+      "id": "MI-1114",
+      "shapeId": "csv-1114",
       "name": "Veteran's Memorial Causeway",
       "state": "MI",
       "honoree": {
@@ -393,8 +393,8 @@
       },
       "location": {
         "coordinates": [
-          43.38773072563216,
-          -84.44463334264672
+          43.37223857756186,
+          -84.41971732644136
         ],
         "state": "MI"
       },
@@ -402,8 +402,8 @@
       "highway": "M-120"
     },
     {
-      "id": "MI-1122",
-      "shapeId": "csv-1122",
+      "id": "MI-1115",
+      "shapeId": "csv-1115",
       "name": "Ronald W. Reagan Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -422,8 +422,8 @@
       },
       "location": {
         "coordinates": [
-          43.399427712108476,
-          -84.43448916442605
+          43.382109590182274,
+          -84.40756218932879
         ],
         "state": "MI"
       },
@@ -432,8 +432,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Ronald_Reagan"
     },
     {
-      "id": "MI-1123",
-      "shapeId": "csv-1123",
+      "id": "MI-1116",
+      "shapeId": "csv-1116",
       "name": "Philip A. Hart Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -446,8 +446,8 @@
       },
       "location": {
         "coordinates": [
-          43.41184460006122,
-          -84.42502553235923
+          43.39285185853871,
+          -84.3959590803253
         ],
         "state": "MI"
       },
@@ -456,8 +456,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Jane_Briggs_Hart"
     },
     {
-      "id": "MI-1124",
-      "shapeId": "csv-1124",
+      "id": "MI-1117",
+      "shapeId": "csv-1117",
       "name": "Corporal Matthew Edwards Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -471,8 +471,8 @@
       },
       "location": {
         "coordinates": [
-          43.424948959045366,
-          -84.41627837972878
+          43.40443874227896,
+          -84.38495290767906
         ],
         "state": "MI"
       },
@@ -481,8 +481,8 @@
       "lawWebLink": "https://www.odmp.org/officer/20472-corporal-matthew-lloyd-edwards"
     },
     {
-      "id": "MI-1125",
-      "shapeId": "csv-1125",
+      "id": "MI-1118",
+      "shapeId": "csv-1118",
       "name": "Columbus Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -490,8 +490,8 @@
       },
       "location": {
         "coordinates": [
-          43.43870678856702,
-          -84.40828223272858
+          43.41684156460553,
+          -84.37458738906518
         ],
         "state": "MI"
       },
@@ -499,8 +499,8 @@
       "highway": "M-102"
     },
     {
-      "id": "MI-1126",
-      "shapeId": "csv-1126",
+      "id": "MI-1119",
+      "shapeId": "csv-1119",
       "name": "World War II Veterans Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -508,8 +508,8 @@
       },
       "location": {
         "coordinates": [
-          43.453082575874234,
-          -84.40107014655091
+          43.36798266520498,
+          -84.46761898615223
         ],
         "state": "MI"
       },
@@ -517,8 +517,8 @@
       "highway": "M-37"
     },
     {
-      "id": "MI-1127",
-      "shapeId": "csv-1127",
+      "id": "MI-1120",
+      "shapeId": "csv-1120",
       "name": "Blue Star Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -526,8 +526,8 @@
       },
       "location": {
         "coordinates": [
-          43.383186542494926,
-          -84.47952645750507
+          43.37847140527504,
+          -84.45649459572098
         ],
         "state": "MI"
       },
@@ -535,8 +535,8 @@
       "highway": "US-31"
     },
     {
-      "id": "MI-1128",
-      "shapeId": "csv-1128",
+      "id": "MI-1121",
+      "shapeId": "csv-1121",
       "name": "David Dunbar Buick Freeway and The UAW Freeway",
       "state": "MI",
       "honoree": {
@@ -544,8 +544,8 @@
       },
       "location": {
         "coordinates": [
-          43.3959550869063,
-          -84.47115373130784
+          43.38975390527559,
+          -84.44601804698186
         ],
         "state": "MI"
       },
@@ -553,8 +553,8 @@
       "highway": "I-475"
     },
     {
-      "id": "MI-1129",
-      "shapeId": "csv-1129",
+      "id": "MI-1122",
+      "shapeId": "csv-1122",
       "name": "Tim Sanborn Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -567,8 +567,8 @@
       },
       "location": {
         "coordinates": [
-          43.40932037882269,
-          -84.463566960339
+          43.401797778921036,
+          -84.43623008703563
         ],
         "state": "MI"
       },
@@ -577,8 +577,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Buzz_Williams"
     },
     {
-      "id": "MI-1130",
-      "shapeId": "csv-1130",
+      "id": "MI-1123",
+      "shapeId": "csv-1123",
       "name": "Walter P. Chrysler Freeway",
       "state": "MI",
       "honoree": {
@@ -586,8 +586,8 @@
       },
       "location": {
         "coordinates": [
-          43.42324430667035,
-          -84.45679583947955
+          43.41456879962139,
+          -84.42716999439543
         ],
         "state": "MI"
       },
@@ -595,8 +595,8 @@
       "highway": "I-75"
     },
     {
-      "id": "MI-1131",
-      "shapeId": "csv-1131",
+      "id": "MI-1124",
+      "shapeId": "csv-1124",
       "name": "John Wayne \"Dusty\" Marcum Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -604,8 +604,8 @@
       },
       "location": {
         "coordinates": [
-          43.43768746764078,
-          -84.45086839993878
+          43.4280309634132,
+          -84.4188755014012
         ],
         "state": "MI"
       },
@@ -613,8 +613,8 @@
       "highway": "I-75"
     },
     {
-      "id": "MI-1132",
-      "shapeId": "csv-1132",
+      "id": "MI-1125",
+      "shapeId": "csv-1125",
       "name": "Vietnam Veterans Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -622,8 +622,8 @@
       },
       "location": {
         "coordinates": [
-          43.452609236111705,
-          -84.4458109569855
+          43.44214655502318,
+          -84.4113827192324
         ],
         "state": "MI"
       },
@@ -631,8 +631,8 @@
       "highway": "M-59"
     },
     {
-      "id": "MI-1133",
-      "shapeId": "csv-1133",
+      "id": "MI-1126",
+      "shapeId": "csv-1126",
       "name": "Purple Heart Highway",
       "state": "MI",
       "honoree": {
@@ -640,8 +640,8 @@
       },
       "location": {
         "coordinates": [
-          43.46796783409144,
-          -84.44164806038667
+          43.45687621696006,
+          -84.4047260656419
         ],
         "state": "MI"
       },
@@ -649,8 +649,8 @@
       "highway": "I-69"
     },
     {
-      "id": "MI-1134",
-      "shapeId": "csv-1134",
+      "id": "MI-1127",
+      "shapeId": "csv-1127",
       "name": "Holocaust Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -658,8 +658,8 @@
       },
       "location": {
         "coordinates": [
-          43.48372040358242,
-          -84.43840244762968
+          43.38484240861015,
+          -84.48123227821189
         ],
         "state": "MI"
       },
@@ -667,8 +667,8 @@
       "highway": "M-10"
     },
     {
-      "id": "MI-1135",
-      "shapeId": "csv-1135",
+      "id": "MI-1128",
+      "shapeId": "csv-1128",
       "name": "Sydney Ouwinga Memorial Bypass",
       "state": "MI",
       "honoree": {
@@ -676,8 +676,8 @@
       },
       "location": {
         "coordinates": [
-          43.395900032302755,
-          -84.496095
+          43.39793186899901,
+          -84.47333090127795
         ],
         "state": "MI"
       },
@@ -685,8 +685,8 @@
       "highway": "US-131"
     },
     {
-      "id": "MI-1136",
-      "shapeId": "csv-1136",
+      "id": "MI-1129",
+      "shapeId": "csv-1129",
       "name": "Firefighter Brian Woehlke Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -694,8 +694,8 @@
       },
       "location": {
         "coordinates": [
-          43.4104005201131,
-          -84.49131231000153
+          43.411612105705885,
+          -84.46626662471274
         ],
         "state": "MI"
       },
@@ -703,8 +703,8 @@
       "highway": "M-153"
     },
     {
-      "id": "MI-1137",
-      "shapeId": "csv-1137",
+      "id": "MI-1130",
+      "shapeId": "csv-1130",
       "name": "Veterans of Foreign Wars Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -712,8 +712,8 @@
       },
       "location": {
         "coordinates": [
-          43.425274001568596,
-          -84.48744324407592
+          43.42584098506195,
+          -84.46007000913913
         ],
         "state": "MI"
       },
@@ -721,8 +721,8 @@
       "highway": "M-81"
     },
     {
-      "id": "MI-1138",
-      "shapeId": "csv-1138",
+      "id": "MI-1131",
+      "shapeId": "csv-1131",
       "name": "AmVets Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -730,8 +730,8 @@
       },
       "location": {
         "coordinates": [
-          43.44047597811515,
-          -84.48450662127445
+          43.44057499473782,
+          -84.45476970657708
         ],
         "state": "MI"
       },
@@ -739,8 +739,8 @@
       "highway": "I-96"
     },
     {
-      "id": "MI-1139",
-      "shapeId": "csv-1139",
+      "id": "MI-1132",
+      "shapeId": "csv-1132",
       "name": "Cesar E. Chavez Way",
       "state": "MI",
       "honoree": {
@@ -758,8 +758,8 @@
       },
       "location": {
         "coordinates": [
-          43.455961134551586,
-          -84.48251931946889
+          43.455769325187795,
+          -84.45039240259341
         ],
         "state": "MI"
       },
@@ -768,8 +768,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Cesar_Chavez"
     },
     {
-      "id": "MI-1140",
-      "shapeId": "csv-1140",
+      "id": "MI-1133",
+      "shapeId": "csv-1133",
       "name": "Bernie Borden Memorial Overpass",
       "state": "MI",
       "honoree": {
@@ -777,8 +777,8 @@
       },
       "location": {
         "coordinates": [
-          43.47168341864739,
-          -84.4814962425722
+          43.47137795341467,
+          -84.44696276179528
         ],
         "state": "MI"
       },
@@ -786,8 +786,8 @@
       "highway": "Overpass at I-75 and M-57"
     },
     {
-      "id": "MI-1141",
-      "shapeId": "csv-1141",
+      "id": "MI-1134",
+      "shapeId": "csv-1134",
       "name": "Clara Barton Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -800,8 +800,8 @@
       },
       "location": {
         "coordinates": [
-          43.487596122014175,
-          -84.48145029089847
+          43.48735372892122,
+          -84.44450337675767
         ],
         "state": "MI"
       },
@@ -810,8 +810,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Eleanor_Josaitis"
     },
     {
-      "id": "MI-1142",
-      "shapeId": "csv-1142",
+      "id": "MI-1135",
+      "shapeId": "csv-1135",
       "name": "Matt McNeely Boulevard",
       "state": "MI",
       "honoree": {
@@ -824,8 +824,8 @@
       },
       "location": {
         "coordinates": [
-          43.50365196211046,
-          -84.48239233470792
+          43.39743018468461,
+          -84.498870888188
         ],
         "state": "MI"
       },
@@ -834,8 +834,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Matt_Groening"
     },
     {
-      "id": "MI-1143",
-      "shapeId": "csv-1143",
+      "id": "MI-1136",
+      "shapeId": "csv-1136",
       "name": "Pere Marquette Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -854,8 +854,8 @@
       },
       "location": {
         "coordinates": [
-          43.403892066103126,
-          -84.5153894763918
+          43.41215998213563,
+          -84.49477225454052
         ],
         "state": "MI"
       },
@@ -864,8 +864,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Jacques_Marquette"
     },
     {
-      "id": "MI-1144",
-      "shapeId": "csv-1144",
+      "id": "MI-1137",
+      "shapeId": "csv-1137",
       "name": "POW/MIA Memorial Freeway",
       "state": "MI",
       "honoree": {
@@ -873,8 +873,8 @@
       },
       "location": {
         "coordinates": [
-          43.41913631303135,
-          -84.51452275501174
+          43.427234226602785,
+          -84.49163856127379
         ],
         "state": "MI"
       },
@@ -882,8 +882,8 @@
       "highway": "M-53"
     },
     {
-      "id": "MI-1145",
-      "shapeId": "csv-1145",
+      "id": "MI-1138",
+      "shapeId": "csv-1138",
       "name": "PFC Shane Cantu Veterans Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -891,8 +891,8 @@
       },
       "location": {
         "coordinates": [
-          43.43450438084436,
-          -84.51463506457823
+          43.442604128412064,
+          -84.48948794027747
         ],
         "state": "MI"
       },
@@ -900,8 +900,8 @@
       "highway": "M-71"
     },
     {
-      "id": "MI-1146",
-      "shapeId": "csv-1146",
+      "id": "MI-1139",
+      "shapeId": "csv-1139",
       "name": "Sergeant Joe Johnson Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -914,8 +914,8 @@
       },
       "location": {
         "coordinates": [
-          43.449948416510615,
-          -84.51573306582569
+          43.45822008202601,
+          -84.48833631485876
         ],
         "state": "MI"
       },
@@ -924,8 +924,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Joe_Foss"
     },
     {
-      "id": "MI-1147",
-      "shapeId": "csv-1147",
+      "id": "MI-1140",
+      "shapeId": "csv-1140",
       "name": "Trooper Jeffrey Werda Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -939,8 +939,8 @@
       },
       "location": {
         "coordinates": [
-          43.46542028059234,
-          -84.5178213330892
+          43.47403176002575,
+          -84.48819736587188
         ],
         "state": "MI"
       },
@@ -949,8 +949,8 @@
       "lawWebLink": "https://www.odmp.org/officer/20805-trooper-jeffrey-james-werda"
     },
     {
-      "id": "MI-1148",
-      "shapeId": "csv-1148",
+      "id": "MI-1141",
+      "shapeId": "csv-1141",
       "name": "Gerald R. Ford Freeway",
       "state": "MI",
       "honoree": {
@@ -958,8 +958,8 @@
       },
       "location": {
         "coordinates": [
-          43.48087163263419,
-          -84.52090234324892
+          43.489988208431015,
+          -84.48908250169148
         ],
         "state": "MI"
       },
@@ -967,8 +967,8 @@
       "highway": "I-196"
     },
     {
-      "id": "MI-1149",
-      "shapeId": "csv-1149",
+      "id": "MI-1142",
+      "shapeId": "csv-1142",
       "name": "Graham Barlow Jr., WWII Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -976,8 +976,8 @@
       },
       "location": {
         "coordinates": [
-          43.496254016950566,
-          -84.52497646803089
+          43.506037943205015,
+          -84.49100083208096
         ],
         "state": "MI"
       },
@@ -985,8 +985,8 @@
       "highway": "M-71"
     },
     {
-      "id": "MI-1150",
-      "shapeId": "csv-1150",
+      "id": "MI-1143",
+      "shapeId": "csv-1143",
       "name": "D. H. Day Highway",
       "state": "MI",
       "honoree": {
@@ -999,8 +999,8 @@
       },
       "location": {
         "coordinates": [
-          43.51151894868313,
-          -84.53004196967798
+          43.40482241911582,
+          -84.51924065840035
         ],
         "state": "MI"
       },
@@ -1009,8 +1009,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/William_H._Day"
     },
     {
-      "id": "MI-1151",
-      "shapeId": "csv-1151",
+      "id": "MI-1144",
+      "shapeId": "csv-1144",
       "name": "Brian Derks Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -1023,8 +1023,8 @@
       },
       "location": {
         "coordinates": [
-          43.406618,
-          -84.536095
+          43.420111817645555,
+          -84.51924548777977
         ],
         "state": "MI"
       },
@@ -1033,8 +1033,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Richard_Muller_%28theologian%29"
     },
     {
-      "id": "MI-1152",
-      "shapeId": "csv-1152",
+      "id": "MI-1145",
+      "shapeId": "csv-1145",
       "name": "Christopher Columbus Freeway",
       "state": "MI",
       "honoree": {
@@ -1042,8 +1042,8 @@
       },
       "location": {
         "coordinates": [
-          43.42156713581026,
-          -84.53920331286807
+          43.43547406156075,
+          -84.52027229917228
         ],
         "state": "MI"
       },
@@ -1051,8 +1051,8 @@
       "highway": "M-53"
     },
     {
-      "id": "MI-1153",
-      "shapeId": "csv-1153",
+      "id": "MI-1146",
+      "shapeId": "csv-1146",
       "name": "Veteran's Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -1060,8 +1060,8 @@
       },
       "location": {
         "coordinates": [
-          43.43638248155625,
-          -84.54328934421532
+          43.45085728491614,
+          -84.5223254653845
         ],
         "state": "MI"
       },
@@ -1069,8 +1069,8 @@
       "highway": "M-18"
     },
     {
-      "id": "MI-1154",
-      "shapeId": "csv-1154",
+      "id": "MI-1147",
+      "shapeId": "csv-1147",
       "name": "PFC Harold R. Cooley WWII Marine Corps League Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -1078,8 +1078,8 @@
       },
       "location": {
         "coordinates": [
-          43.45101609083403,
-          -84.5483471425412
+          43.46620942856067,
+          -84.52540701270615
         ],
         "state": "MI"
       },
@@ -1087,8 +1087,8 @@
       "highway": "M-21"
     },
     {
-      "id": "MI-1155",
-      "shapeId": "csv-1155",
+      "id": "MI-1148",
+      "shapeId": "csv-1148",
       "name": "Auxiliary Lieutenant Dan Kromer Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -1102,8 +1102,8 @@
       },
       "location": {
         "coordinates": [
-          43.46542028059234,
-          -84.5543686669108
+          43.48147833976173,
+          -84.5295166135046
         ],
         "state": "MI"
       },
@@ -1112,8 +1112,8 @@
       "lawWebLink": "https://www.odmp.org/officer/23537-auxiliary-lieutenant-danny-john-kromer"
     },
     {
-      "id": "MI-1156",
-      "shapeId": "csv-1156",
+      "id": "MI-1149",
+      "shapeId": "csv-1149",
       "name": "Trooper Vicki Moreau DeVries Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -1127,8 +1127,8 @@
       },
       "location": {
         "coordinates": [
-          43.47954771647316,
-          -84.56134379837617
+          43.49661187208668,
+          -84.5346515828812
         ],
         "state": "MI"
       },
@@ -1137,8 +1137,8 @@
       "lawWebLink": "https://www.odmp.org/officer/4057-trooper-vicki-moreau-devries"
     },
     {
-      "id": "MI-1157",
-      "shapeId": "csv-1157",
+      "id": "MI-1150",
+      "shapeId": "csv-1150",
       "name": "Veteran's Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -1146,8 +1146,8 @@
       },
       "location": {
         "coordinates": [
-          43.493351497668556,
-          -84.56926035474274
+          43.511557985380506,
+          -84.54080687939778
         ],
         "state": "MI"
       },
@@ -1155,8 +1155,8 @@
       "highway": "US-27"
     },
     {
-      "id": "MI-1158",
-      "shapeId": "csv-1158",
+      "id": "MI-1151",
+      "shapeId": "csv-1151",
       "name": "Officer Martin 'Marty' Chivas Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -1164,8 +1164,8 @@
       },
       "location": {
         "coordinates": [
-          43.50678524116631,
-          -84.57810410866136
+          43.40647673827139,
+          -84.54084704395002
         ],
         "state": "MI"
       },
@@ -1173,8 +1173,8 @@
       "highway": "I-75"
     },
     {
-      "id": "MI-1159",
-      "shapeId": "csv-1159",
+      "id": "MI-1152",
+      "shapeId": "csv-1152",
       "name": "94th Combat Infantry Division Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -1182,8 +1182,8 @@
       },
       "location": {
         "coordinates": [
-          43.403892066103126,
-          -84.5568005236082
+          43.42120394355708,
+          -84.54495498202124
         ],
         "state": "MI"
       },
@@ -1191,8 +1191,8 @@
       "highway": "I-94"
     },
     {
-      "id": "MI-1160",
-      "shapeId": "csv-1160",
+      "id": "MI-1153",
+      "shapeId": "csv-1153",
       "name": "Carleton Road",
       "state": "MI",
       "honoree": {
@@ -1200,8 +1200,8 @@
       },
       "location": {
         "coordinates": [
-          43.41752733189456,
-          -84.56367204433917
+          43.43572704787848,
+          -84.55006696017216
         ],
         "state": "MI"
       },
@@ -1209,8 +1209,8 @@
       "highway": "US-223"
     },
     {
-      "id": "MI-1161",
-      "shapeId": "csv-1161",
+      "id": "MI-1154",
+      "shapeId": "csv-1154",
       "name": "PFC Andrew H. Nelson Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -1218,8 +1218,8 @@
       },
       "location": {
         "coordinates": [
-          43.430780314244466,
-          -84.57145334118336
+          43.449994914461314,
+          -84.55617327129028
         ],
         "state": "MI"
       },
@@ -1227,8 +1227,8 @@
       "highway": "BR-127"
     },
     {
-      "id": "MI-1162",
-      "shapeId": "csv-1162",
+      "id": "MI-1155",
+      "shapeId": "csv-1155",
       "name": "AmVets Memorial Parkway",
       "state": "MI",
       "honoree": {
@@ -1236,8 +1236,8 @@
       },
       "location": {
         "coordinates": [
-          43.443606240844666,
-          -84.58012625599015
+          43.46395685015882,
+          -84.5632618959775
         ],
         "state": "MI"
       },
@@ -1245,8 +1245,8 @@
       "highway": "BL I-94"
     },
     {
-      "id": "MI-1163",
-      "shapeId": "csv-1163",
+      "id": "MI-1156",
+      "shapeId": "csv-1156",
       "name": "Jacobetti Highway",
       "state": "MI",
       "honoree": {
@@ -1254,8 +1254,8 @@
       },
       "location": {
         "coordinates": [
-          43.455961134551586,
-          -84.58967068053111
+          43.477562703408694,
+          -84.57131852215299
         ],
         "state": "MI"
       },
@@ -1263,8 +1263,8 @@
       "highway": "M-28"
     },
     {
-      "id": "MI-1164",
-      "shapeId": "csv-1164",
+      "id": "MI-1157",
+      "shapeId": "csv-1157",
       "name": "Trooper Calvin R. Jones Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -1282,8 +1282,8 @@
       },
       "location": {
         "coordinates": [
-          43.46780189286279,
-          -84.60006458961968
+          43.49076296134771,
+          -84.58032656863779
         ],
         "state": "MI"
       },
@@ -1292,8 +1292,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/James_Reeb"
     },
     {
-      "id": "MI-1165",
-      "shapeId": "csv-1165",
+      "id": "MI-1158",
+      "shapeId": "csv-1158",
       "name": "AmVets Memorial Drive",
       "state": "MI",
       "honoree": {
@@ -1301,8 +1301,8 @@
       },
       "location": {
         "coordinates": [
-          43.479086366060564,
-          -84.61128407733723
+          43.50350884592677,
+          -84.59026721268617
         ],
         "state": "MI"
       },
@@ -1310,8 +1310,8 @@
       "highway": "US-2,US-41,M-35"
     },
     {
-      "id": "MI-1166",
-      "shapeId": "csv-1166",
+      "id": "MI-1159",
+      "shapeId": "csv-1159",
       "name": "Joseph H. Meagher Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -1324,8 +1324,8 @@
       },
       "location": {
         "coordinates": [
-          43.489773433904446,
-          -84.6233033963128
+          43.40227176354815,
+          -84.56210476856877
         ],
         "state": "MI"
       },
@@ -1334,8 +1334,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Joseph_A._McCahery"
     },
     {
-      "id": "MI-1167",
-      "shapeId": "csv-1167",
+      "id": "MI-1160",
+      "shapeId": "csv-1160",
       "name": "James Bondsteel Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -1348,8 +1348,8 @@
       },
       "location": {
         "coordinates": [
-          43.395900032302755,
-          -84.57609500000001
+          43.41535622979544,
+          -84.57001441291902
         ],
         "state": "MI"
       },
@@ -1358,8 +1358,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Elmer_Gedeon"
     },
     {
-      "id": "MI-1168",
-      "shapeId": "csv-1168",
+      "id": "MI-1161",
+      "shapeId": "csv-1161",
       "name": "Underground Railroad Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -1377,8 +1377,8 @@
       },
       "location": {
         "coordinates": [
-          43.40729220724503,
-          -84.58626144581179
+          43.42797462376531,
+          -84.57883648826255
         ],
         "state": "MI"
       },
@@ -1387,8 +1387,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/George_DeBaptiste"
     },
     {
-      "id": "MI-1169",
-      "shapeId": "csv-1169",
+      "id": "MI-1162",
+      "shapeId": "csv-1162",
       "name": "Chief Ed Switalski Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -1396,8 +1396,8 @@
       },
       "location": {
         "coordinates": [
-          43.41807965735328,
-          -84.59720772563216
+          43.44008028979692,
+          -84.58854791978567
         ],
         "state": "MI"
       },
@@ -1405,8 +1405,8 @@
       "highway": "I-94"
     },
     {
-      "id": "MI-1170",
-      "shapeId": "csv-1170",
+      "id": "MI-1163",
+      "shapeId": "csv-1163",
       "name": "Frank D. Fitzgerald Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -1419,8 +1419,8 @@
       },
       "location": {
         "coordinates": [
-          43.42822383557395,
-          -84.60890471210848
+          43.45162762014094,
+          -84.59912352427448
         ],
         "state": "MI"
       },
@@ -1429,8 +1429,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Frank_Fitzgerald"
     },
     {
-      "id": "MI-1171",
-      "shapeId": "csv-1171",
+      "id": "MI-1164",
+      "shapeId": "csv-1164",
       "name": "Earl DeMarse Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -1444,8 +1444,8 @@
       },
       "location": {
         "coordinates": [
-          43.43768746764078,
-          -84.62132160006122
+          43.46257214406208,
+          -84.61053605528772
         ],
         "state": "MI"
       },
@@ -1454,8 +1454,8 @@
       "lawWebLink": "https://www.odmp.org/officer/4011-correctional-officer-earl-f-demarse"
     },
     {
-      "id": "MI-1172",
-      "shapeId": "csv-1172",
+      "id": "MI-1165",
+      "shapeId": "csv-1165",
       "name": "Veterans Memorial Road",
       "state": "MI",
       "honoree": {
@@ -1463,8 +1463,8 @@
       },
       "location": {
         "coordinates": [
-          43.446434620271226,
-          -84.63442595904537
+          43.47287061506143,
+          -84.62275625193934
         ],
         "state": "MI"
       },
@@ -1472,8 +1472,8 @@
       "highway": "M-125"
     },
     {
-      "id": "MI-1173",
-      "shapeId": "csv-1173",
+      "id": "MI-1166",
+      "shapeId": "csv-1166",
       "name": "Underground Railroad Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -1491,8 +1491,8 @@
       },
       "location": {
         "coordinates": [
-          43.45443076727143,
-          -84.64818378856701
+          43.48248109607684,
+          -84.63575289121461
         ],
         "state": "MI"
       },
@@ -1501,8 +1501,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/George_DeBaptiste"
     },
     {
-      "id": "MI-1174",
-      "shapeId": "csv-1174",
+      "id": "MI-1167",
+      "shapeId": "csv-1167",
       "name": "Trooper Larry Forreider Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -1516,8 +1516,8 @@
       },
       "location": {
         "coordinates": [
-          43.461642853449106,
-          -84.66255957587424
+          43.392516017008816,
+          -84.58145413749519
         ],
         "state": "MI"
       },
@@ -1526,8 +1526,8 @@
       "lawWebLink": "https://www.odmp.org/officer/5011-trooper-larry-lee-forreider"
     },
     {
-      "id": "MI-1175",
-      "shapeId": "csv-1175",
+      "id": "MI-1168",
+      "shapeId": "csv-1168",
       "name": "Detective Lavern S. Brann Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -1541,8 +1541,8 @@
       },
       "location": {
         "coordinates": [
-          43.383186542494926,
-          -84.59266354249493
+          43.402997727384864,
+          -84.5925851517489
         ],
         "state": "MI"
       },
@@ -1551,8 +1551,8 @@
       "lawWebLink": "https://www.odmp.org/officer/17752-detective-lavern-steven-brann"
     },
     {
-      "id": "MI-1176",
-      "shapeId": "csv-1176",
+      "id": "MI-1169",
+      "shapeId": "csv-1169",
       "name": "Peter A. Pettalia Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -1568,8 +1568,8 @@
       },
       "location": {
         "coordinates": [
-          43.39155926869218,
-          -84.60543208690629
+          43.41278559023332,
+          -84.60447004218196
         ],
         "state": "MI"
       },
@@ -1578,8 +1578,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Peter_Pettalia"
     },
     {
-      "id": "MI-1177",
-      "shapeId": "csv-1177",
+      "id": "MI-1170",
+      "shapeId": "csv-1170",
       "name": "Lansing Firefighter Dennis E. Rodeman Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -1587,8 +1587,8 @@
       },
       "location": {
         "coordinates": [
-          43.39914603966101,
-          -84.61879737882269
+          43.421840854166646,
+          -84.61707405929535
         ],
         "state": "MI"
       },
@@ -1596,8 +1596,8 @@
       "highway": "I-96"
     },
     {
-      "id": "MI-1178",
-      "shapeId": "csv-1178",
+      "id": "MI-1171",
+      "shapeId": "csv-1171",
       "name": "107th Engineer Memorial Road",
       "state": "MI",
       "honoree": {
@@ -1605,8 +1605,8 @@
       },
       "location": {
         "coordinates": [
-          43.40591716052046,
-          -84.63272130667035
+          43.430126343106814,
+          -84.63036070377017
         ],
         "state": "MI"
       },
@@ -1614,8 +1614,8 @@
       "highway": "M-107"
     },
     {
-      "id": "MI-1179",
-      "shapeId": "csv-1179",
+      "id": "MI-1172",
+      "shapeId": "csv-1172",
       "name": "Mitchel A. Kiefer Foundation for Distracted Driver Awareness Highway",
       "state": "MI",
       "honoree": {
@@ -1623,8 +1623,8 @@
       },
       "location": {
         "coordinates": [
-          43.41184460006122,
-          -84.64716446764078
+          43.43760652999579,
+          -84.644291793896
         ],
         "state": "MI"
       },
@@ -1632,8 +1632,8 @@
       "highway": "I-96"
     },
     {
-      "id": "MI-1180",
-      "shapeId": "csv-1180",
+      "id": "MI-1173",
+      "shapeId": "csv-1173",
       "name": "United Spanish War Veterans' Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -1641,8 +1641,8 @@
       },
       "location": {
         "coordinates": [
-          43.41690204301451,
-          -84.6620862361117
+          43.44424760772618,
+          -84.65882753597228
         ],
         "state": "MI"
       },
@@ -1650,8 +1650,8 @@
       "highway": "US-2,M-35,M-41,M-95,M-69"
     },
     {
-      "id": "MI-1181",
-      "shapeId": "csv-1181",
+      "id": "MI-1174",
+      "shapeId": "csv-1174",
       "name": "Veteran's Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -1659,8 +1659,8 @@
       },
       "location": {
         "coordinates": [
-          43.42106493961334,
-          -84.67744483409143
+          43.45001755717562,
+          -84.6739265975706
         ],
         "state": "MI"
       },
@@ -1668,8 +1668,8 @@
       "highway": "M-62"
     },
     {
-      "id": "MI-1182",
-      "shapeId": "csv-1182",
+      "id": "MI-1175",
+      "shapeId": "csv-1175",
       "name": "Dr. Martin Luther King Jr. Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -1688,8 +1688,8 @@
       },
       "location": {
         "coordinates": [
-          43.42431055237032,
-          -84.69319740358242
+          43.37792528489316,
+          -84.59747547341698
         ],
         "state": "MI"
       },
@@ -1698,8 +1698,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr."
     },
     {
-      "id": "MI-1183",
-      "shapeId": "csv-1183",
+      "id": "MI-1176",
+      "shapeId": "csv-1176",
       "name": "Fallen Soldiers of Iraqi Freedom Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -1707,8 +1707,8 @@
       },
       "location": {
         "coordinates": [
-          43.366618,
-          -84.60537703230275
+          43.38503518866194,
+          -84.61101116693904
         ],
         "state": "MI"
       },
@@ -1716,8 +1716,8 @@
       "highway": "US-24"
     },
     {
-      "id": "MI-1184",
-      "shapeId": "csv-1184",
+      "id": "MI-1177",
+      "shapeId": "csv-1177",
       "name": "Major Andrew Becker USAF Memorial Hwy",
       "state": "MI",
       "honoree": {
@@ -1725,8 +1725,8 @@
       },
       "location": {
         "coordinates": [
-          43.371400689998474,
-          -84.61987752011309
+          43.391274377752175,
+          -84.62508686938125
         ],
         "state": "MI"
       },
@@ -1734,8 +1734,8 @@
       "highway": "US-23"
     },
     {
-      "id": "MI-1185",
-      "shapeId": "csv-1185",
+      "id": "MI-1178",
+      "shapeId": "csv-1178",
       "name": "Veterans Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -1743,8 +1743,8 @@
       },
       "location": {
         "coordinates": [
-          43.375269755924094,
-          -84.6347510015686
+          43.396614848267205,
+          -84.63965870615549
         ],
         "state": "MI"
       },
@@ -1752,8 +1752,8 @@
       "highway": "M-28"
     },
     {
-      "id": "MI-1186",
-      "shapeId": "csv-1186",
+      "id": "MI-1179",
+      "shapeId": "csv-1179",
       "name": "Sojourner Truth Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -1766,8 +1766,8 @@
       },
       "location": {
         "coordinates": [
-          43.37820637872555,
-          -84.64995297811515
+          43.40103058343623,
+          -84.65468153981944
         ],
         "state": "MI"
       },
@@ -1776,8 +1776,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Jonathan_Walker_%28abolitionist%29"
     },
     {
-      "id": "MI-1187",
-      "shapeId": "csv-1187",
+      "id": "MI-1180",
+      "shapeId": "csv-1180",
       "name": "Harry Gast Parkway",
       "state": "MI",
       "honoree": {
@@ -1785,8 +1785,8 @@
       },
       "location": {
         "coordinates": [
-          43.380193680531114,
-          -84.66543813455158
+          43.40449760652469,
+          -84.67010905481352
         ],
         "state": "MI"
       },
@@ -1794,8 +1794,8 @@
       "highway": "M-63"
     },
     {
-      "id": "MI-1188",
-      "shapeId": "csv-1188",
+      "id": "MI-1181",
+      "shapeId": "csv-1181",
       "name": "Trooper Robert J. Mihalik Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -1809,8 +1809,8 @@
       },
       "location": {
         "coordinates": [
-          43.381216757427794,
-          -84.6811604186474
+          43.40699403026881,
+          -84.6858938443154
         ],
         "state": "MI"
       },
@@ -1819,8 +1819,8 @@
       "lawWebLink": "https://www.odmp.org/officer/9283-trooper-robert-j-mihalik"
     },
     {
-      "id": "MI-1189",
-      "shapeId": "csv-1189",
+      "id": "MI-1182",
+      "shapeId": "csv-1182",
       "name": "Kenneth J. Moraska Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -1834,8 +1834,8 @@
       },
       "location": {
         "coordinates": [
-          43.38126270910154,
-          -84.69707312201417
+          43.408500102752356,
+          -84.70198749907351
         ],
         "state": "MI"
       },
@@ -1844,8 +1844,8 @@
       "lawWebLink": "https://www.odmp.org/officer/9595-patrolman-kenneth-joseph-moraska"
     },
     {
-      "id": "MI-1190",
-      "shapeId": "csv-1190",
+      "id": "MI-1183",
+      "shapeId": "csv-1183",
       "name": "Roberts-Linton Highway and Veterans of World War I Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -1853,8 +1853,8 @@
       },
       "location": {
         "coordinates": [
-          43.38032066529208,
-          -84.71312896211046
+          43.359570099859525,
+          -84.60899327923106
         ],
         "state": "MI"
       },
@@ -1862,8 +1862,8 @@
       "highway": "I-75,US-23"
     },
     {
-      "id": "MI-1191",
-      "shapeId": "csv-1191",
+      "id": "MI-1184",
+      "shapeId": "csv-1184",
       "name": "Tpr. Steven B. Devries Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -1876,8 +1876,8 @@
       },
       "location": {
         "coordinates": [
-          43.3473235236082,
-          -84.61336906610313
+          43.36278653819529,
+          -84.6239405283143
         ],
         "state": "MI"
       },
@@ -1886,8 +1886,8 @@
       "lawWebLink": "https://www.odmp.org/officer/4056-trooper-steven-b-devries"
     },
     {
-      "id": "MI-1192",
-      "shapeId": "csv-1192",
+      "id": "MI-1185",
+      "shapeId": "csv-1185",
       "name": "Leif Erikson Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -1900,8 +1900,8 @@
       },
       "location": {
         "coordinates": [
-          43.34819024498827,
-          -84.62861331303135
+          43.36501927967267,
+          -84.63917429821018
         ],
         "state": "MI"
       },
@@ -1910,8 +1910,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Leif_Erickson_%28actor%29"
     },
     {
-      "id": "MI-1193",
-      "shapeId": "csv-1193",
+      "id": "MI-1186",
+      "shapeId": "csv-1186",
       "name": "Deputy Grant Whitaker Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -1929,8 +1929,8 @@
       },
       "location": {
         "coordinates": [
-          43.34807793542178,
-          -84.64398138084435
+          43.36625312255218,
+          -84.6546448083519
         ],
         "state": "MI"
       },
@@ -1939,8 +1939,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Peter_Whitaker"
     },
     {
-      "id": "MI-1194",
-      "shapeId": "csv-1194",
+      "id": "MI-1187",
+      "shapeId": "csv-1187",
       "name": "Candice Dunn Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -1957,8 +1957,8 @@
       },
       "location": {
         "coordinates": [
-          43.34697993417433,
-          -84.65942541651062
+          43.36647511823973,
+          -84.67030159494088
         ],
         "state": "MI"
       },
@@ -1967,8 +1967,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Candice_Miller"
     },
     {
-      "id": "MI-1195",
-      "shapeId": "csv-1195",
+      "id": "MI-1188",
+      "shapeId": "csv-1188",
       "name": "Veterans Highway",
       "state": "MI",
       "honoree": {
@@ -1976,8 +1976,8 @@
       },
       "location": {
         "coordinates": [
-          43.34489166691081,
-          -84.67489728059233
+          43.3656745995147,
+          -84.68609360677469
         ],
         "state": "MI"
       },
@@ -1985,8 +1985,8 @@
       "highway": "M-66"
     },
     {
-      "id": "MI-1196",
-      "shapeId": "csv-1196",
+      "id": "MI-1189",
+      "shapeId": "csv-1189",
       "name": "Louis Chevrolet Freeway",
       "state": "MI",
       "honoree": {
@@ -1994,8 +1994,8 @@
       },
       "location": {
         "coordinates": [
-          43.341810656751086,
-          -84.6903486326342
+          43.36384320484145,
+          -84.70196930218245
         ],
         "state": "MI"
       },
@@ -2003,8 +2003,8 @@
       "highway": "I-69"
     },
     {
-      "id": "MI-1197",
-      "shapeId": "csv-1197",
+      "id": "MI-1190",
+      "shapeId": "csv-1190",
       "name": "Walter P. Reuther Highway",
       "state": "MI",
       "honoree": {
@@ -2017,8 +2017,8 @@
       },
       "location": {
         "coordinates": [
-          43.33773653196913,
-          -84.70573101695057
+          43.360974898722404,
+          -84.71787674691146
         ],
         "state": "MI"
       },
@@ -2027,8 +2027,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Max_Fisher"
     },
     {
-      "id": "MI-1198",
-      "shapeId": "csv-1198",
+      "id": "MI-1191",
+      "shapeId": "csv-1191",
       "name": "Olds Freeway",
       "state": "MI",
       "honoree": {
@@ -2036,8 +2036,8 @@
       },
       "location": {
         "coordinates": [
-          43.33267103032203,
-          -84.72099594868313
+          43.338797195222746,
+          -84.61516248512332
         ],
         "state": "MI"
       },
@@ -2045,8 +2045,8 @@
       "highway": "I-496"
     },
     {
-      "id": "MI-1199",
-      "shapeId": "csv-1199",
+      "id": "MI-1192",
+      "shapeId": "csv-1192",
       "name": "Veterans Memorial Freeway",
       "state": "MI",
       "honoree": {
@@ -2054,8 +2054,8 @@
       },
       "location": {
         "coordinates": [
-          43.326618,
-          -84.616095
+          43.337884175698626,
+          -84.63042459919944
         ],
         "state": "MI"
       },
@@ -2063,8 +2063,8 @@
       "highway": "M-59"
     },
     {
-      "id": "MI-1200",
-      "shapeId": "csv-1200",
+      "id": "MI-1193",
+      "shapeId": "csv-1193",
       "name": "Veterans Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -2072,8 +2072,8 @@
       },
       "location": {
         "coordinates": [
-          43.32350968713193,
-          -84.63104413581026
+          43.33594665169231,
+          -84.64569872373968
         ],
         "state": "MI"
       },
@@ -2081,8 +2081,8 @@
       "highway": "I-69"
     },
     {
-      "id": "MI-1201",
-      "shapeId": "csv-1201",
+      "id": "MI-1194",
+      "shapeId": "csv-1194",
       "name": "DeWayne T. Williams Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -2095,8 +2095,8 @@
       },
       "location": {
         "coordinates": [
-          43.31942365578469,
-          -84.64585948155624
+          43.33298333898422,
+          -84.66093282463507
         ],
         "state": "MI"
       },
@@ -2105,8 +2105,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Brandon_T._Jackson"
     },
     {
-      "id": "MI-1202",
-      "shapeId": "csv-1202",
+      "id": "MI-1195",
+      "shapeId": "csv-1195",
       "name": "Fort Custer Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -2125,8 +2125,8 @@
       },
       "location": {
         "coordinates": [
-          43.31436585745881,
-          -84.66049309083402
+          43.32899530720476,
+          -84.6760748142964
         ],
         "state": "MI"
       },
@@ -2135,8 +2135,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/George_Armstrong_Custer"
     },
     {
-      "id": "MI-1203",
-      "shapeId": "csv-1203",
+      "id": "MI-1196",
+      "shapeId": "csv-1196",
       "name": "Haskell L. Nichols Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -2149,8 +2149,8 @@
       },
       "location": {
         "coordinates": [
-          43.308344333089195,
-          -84.67489728059233
+          43.32398598130902,
+          -84.69107265154244
         ],
         "state": "MI"
       },
@@ -2159,8 +2159,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Francis_H._Snow"
     },
     {
-      "id": "MI-1204",
-      "shapeId": "csv-1204",
+      "id": "MI-1197",
+      "shapeId": "csv-1197",
       "name": "117th Quartermaster Battalion",
       "state": "MI",
       "honoree": {
@@ -2168,8 +2168,8 @@
       },
       "location": {
         "coordinates": [
-          43.30136920162384,
-          -84.68902471647316
+          43.31796113898147,
+          -84.7058744415037
         ],
         "state": "MI"
       },
@@ -2177,8 +2177,8 @@
       "highway": "M-117"
     },
     {
-      "id": "MI-1205",
-      "shapeId": "csv-1205",
+      "id": "MI-1198",
+      "shapeId": "csv-1198",
       "name": "St. Joseph Valley Parkway",
       "state": "MI",
       "honoree": {
@@ -2186,8 +2186,8 @@
       },
       "location": {
         "coordinates": [
-          43.29345264525726,
-          -84.70282849766855
+          43.310928903972034,
+          -84.72042853538036
         ],
         "state": "MI"
       },
@@ -2195,8 +2195,8 @@
       "highway": "US-31"
     },
     {
-      "id": "MI-1206",
-      "shapeId": "csv-1206",
+      "id": "MI-1199",
+      "shapeId": "csv-1199",
       "name": "Disabled American Veterans Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -2204,8 +2204,8 @@
       },
       "location": {
         "coordinates": [
-          43.28460889133864,
-          -84.7162622411663
+          43.31713069414853,
+          -84.61553045195743
         ],
         "state": "MI"
       },
@@ -2213,8 +2213,8 @@
       "highway": "I-275"
     },
     {
-      "id": "MI-1207",
-      "shapeId": "csv-1207",
+      "id": "MI-1200",
+      "shapeId": "csv-1200",
       "name": "Paul B. Henry Freeway",
       "state": "MI",
       "honoree": {
@@ -2222,8 +2222,8 @@
       },
       "location": {
         "coordinates": [
-          43.3059124763918,
-          -84.61336906610313
+          43.312155205672994,
+          -84.62998763858394
         ],
         "state": "MI"
       },
@@ -2231,8 +2231,8 @@
       "highway": "M-6"
     },
     {
-      "id": "MI-1208",
-      "shapeId": "csv-1208",
+      "id": "MI-1201",
+      "shapeId": "csv-1201",
       "name": "Keith Deacon Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -2245,8 +2245,8 @@
       },
       "location": {
         "coordinates": [
-          43.29904095566083,
-          -84.62700433189457
+          43.30618957373263,
+          -84.64418144410952
         ],
         "state": "MI"
       },
@@ -2255,8 +2255,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Jesse_Jackson"
     },
     {
-      "id": "MI-1209",
-      "shapeId": "csv-1209",
+      "id": "MI-1202",
+      "shapeId": "csv-1202",
       "name": "Veterans' Memorial Drive",
       "state": "MI",
       "honoree": {
@@ -2264,8 +2264,8 @@
       },
       "location": {
         "coordinates": [
-          43.29125965881666,
-          -84.64025731424447
+          43.299246525851885,
+          -84.65806139866356
         ],
         "state": "MI"
       },
@@ -2273,8 +2273,8 @@
       "highway": "M-33"
     },
     {
-      "id": "MI-1210",
-      "shapeId": "csv-1210",
+      "id": "MI-1203",
+      "shapeId": "csv-1203",
       "name": "Pearl Harbor Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -2287,8 +2287,8 @@
       },
       "location": {
         "coordinates": [
-          43.28258674400985,
-          -84.65308324084467
+          43.29134107140609,
+          -84.67157761257069
         ],
         "state": "MI"
       },
@@ -2297,8 +2297,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Geno_Morosi"
     },
     {
-      "id": "MI-1211",
-      "shapeId": "csv-1211",
+      "id": "MI-1204",
+      "shapeId": "csv-1204",
       "name": "James G. O'Hara Freeway",
       "state": "MI",
       "honoree": {
@@ -2306,8 +2306,8 @@
       },
       "location": {
         "coordinates": [
-          43.27304231946889,
-          -84.66543813455158
+          43.28249047623459,
+          -84.68468087297026
         ],
         "state": "MI"
       },
@@ -2315,8 +2315,8 @@
       "highway": "I-94"
     },
     {
-      "id": "MI-1212",
-      "shapeId": "csv-1212",
+      "id": "MI-1205",
+      "shapeId": "csv-1205",
       "name": "James M. Pelton Firefighters Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -2324,8 +2324,8 @@
       },
       "location": {
         "coordinates": [
-          43.26264841038032,
-          -84.67727889286279
+          43.27271423332905,
+          -84.6973227393586
         ],
         "state": "MI"
       },
@@ -2333,8 +2333,8 @@
       "highway": "US-127"
     },
     {
-      "id": "MI-1213",
-      "shapeId": "csv-1213",
+      "id": "MI-1206",
+      "shapeId": "csv-1206",
       "name": "Gary Priess Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -2348,8 +2348,8 @@
       },
       "location": {
         "coordinates": [
-          43.251428922662775,
-          -84.68856336606056
+          43.26203402964143,
+          -84.70945563789893
         ],
         "state": "MI"
       },
@@ -2358,8 +2358,8 @@
       "lawWebLink": "https://www.odmp.org/officer/15352-police-officer-gary-neil-priess"
     },
     {
-      "id": "MI-1214",
-      "shapeId": "csv-1214",
+      "id": "MI-1207",
+      "shapeId": "csv-1207",
       "name": "Eric Zapata Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -2377,8 +2377,8 @@
       },
       "location": {
         "coordinates": [
-          43.23940960368719,
-          -84.69925043390445
+          43.29616028362503,
+          -84.61007018173835
         ],
         "state": "MI"
       },
@@ -2387,8 +2387,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Francis_Collins"
     },
     {
-      "id": "MI-1215",
-      "shapeId": "csv-1215",
+      "id": "MI-1208",
+      "shapeId": "csv-1208",
       "name": "Oscar G. Johnson Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -2401,8 +2401,8 @@
       },
       "location": {
         "coordinates": [
-          43.286618000000004,
-          -84.60537703230275
+          43.287487381416824,
+          -84.62266170658688
         ],
         "state": "MI"
       },
@@ -2411,8 +2411,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Oscar_Nunez"
     },
     {
-      "id": "MI-1216",
-      "shapeId": "csv-1216",
+      "id": "MI-1209",
+      "shapeId": "csv-1209",
       "name": "Purple Heart Trail",
       "state": "MI",
       "honoree": {
@@ -2420,8 +2420,8 @@
       },
       "location": {
         "coordinates": [
-          43.27645155418822,
-          -84.61676920724503
+          43.277931344309415,
+          -84.6347337832329
         ],
         "state": "MI"
       },
@@ -2429,8 +2429,8 @@
       "highway": "I-69"
     },
     {
-      "id": "MI-1217",
-      "shapeId": "csv-1217",
+      "id": "MI-1210",
+      "shapeId": "csv-1210",
       "name": "Veterans Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -2438,8 +2438,8 @@
       },
       "location": {
         "coordinates": [
-          43.26550527436785,
-          -84.62755665735328
+          43.26751797774353,
+          -84.64624120905545
         ],
         "state": "MI"
       },
@@ -2447,8 +2447,8 @@
       "highway": "US-10"
     },
     {
-      "id": "MI-1218",
-      "shapeId": "csv-1218",
+      "id": "MI-1211",
+      "shapeId": "csv-1211",
       "name": "Elgie G. Hanna Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -2456,8 +2456,8 @@
       },
       "location": {
         "coordinates": [
-          43.25380828789153,
-          -84.63770083557395
+          43.256275129590605,
+          -84.6571399527348
         ],
         "state": "MI"
       },
@@ -2465,8 +2465,8 @@
       "highway": "M-188"
     },
     {
-      "id": "MI-1219",
-      "shapeId": "csv-1219",
+      "id": "MI-1212",
+      "shapeId": "csv-1212",
       "name": "Trooper Paul K. Butterfield II Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -2479,8 +2479,8 @@
       },
       "location": {
         "coordinates": [
-          43.241391399938784,
-          -84.64716446764078
+          43.244232639767034,
+          -84.66738724051437
         ],
         "state": "MI"
       },
@@ -2489,8 +2489,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/John_Lewis"
     },
     {
-      "id": "MI-1220",
-      "shapeId": "csv-1220",
+      "id": "MI-1213",
+      "shapeId": "csv-1213",
       "name": "Kevin Sherwood Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -2508,8 +2508,8 @@
       },
       "location": {
         "coordinates": [
-          43.22828704095464,
-          -84.65591162027123
+          43.23142228635661,
+          -84.67694164037145
         ],
         "state": "MI"
       },
@@ -2518,8 +2518,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Sean_Young"
     },
     {
-      "id": "MI-1221",
-      "shapeId": "csv-1221",
+      "id": "MI-1214",
+      "shapeId": "csv-1214",
       "name": "Korean War Veterans Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -2527,8 +2527,8 @@
       },
       "location": {
         "coordinates": [
-          43.21452921143299,
-          -84.66390776727143
+          43.217877728325895,
+          -84.68576314395936
         ],
         "state": "MI"
       },
@@ -2536,8 +2536,8 @@
       "highway": "M-82"
     },
     {
-      "id": "MI-1222",
-      "shapeId": "csv-1222",
+      "id": "MI-1215",
+      "shapeId": "csv-1215",
       "name": "102nd United States Colored Troops (U.S.C.T.) Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -2545,8 +2545,8 @@
       },
       "location": {
         "coordinates": [
-          43.20015342412577,
-          -84.6711198534491
+          43.2774245779689,
+          -84.59918229847497
         ],
         "state": "MI"
       },
@@ -2554,8 +2554,8 @@
       "highway": "I-375"
     },
     {
-      "id": "MI-1223",
-      "shapeId": "csv-1223",
+      "id": "MI-1216",
+      "shapeId": "csv-1216",
       "name": "Clare County Veterans Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -2563,8 +2563,8 @@
       },
       "location": {
         "coordinates": [
-          43.27004945750508,
-          -84.59266354249493
+          43.26569059918938,
+          -84.60898431218267
         ],
         "state": "MI"
       },
@@ -2572,8 +2572,8 @@
       "highway": "US-10"
     },
     {
-      "id": "MI-1224",
-      "shapeId": "csv-1224",
+      "id": "MI-1217",
+      "shapeId": "csv-1217",
       "name": "10th Mountain Division Highway",
       "state": "MI",
       "honoree": {
@@ -2581,8 +2581,8 @@
       },
       "location": {
         "coordinates": [
-          43.25728091309371,
-          -84.60103626869217
+          43.25324529032802,
+          -84.61804892287981
         ],
         "state": "MI"
       },
@@ -2590,8 +2590,8 @@
       "highway": "US-24"
     },
     {
-      "id": "MI-1225",
-      "shapeId": "csv-1225",
+      "id": "MI-1218",
+      "shapeId": "csv-1218",
       "name": "Joseph Prentler Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -2599,8 +2599,8 @@
       },
       "location": {
         "coordinates": [
-          43.243915621177315,
-          -84.60862303966101
+          43.24012564137781,
+          -84.62633951174432
         ],
         "state": "MI"
       },
@@ -2608,8 +2608,8 @@
       "highway": "M-57"
     },
     {
-      "id": "MI-1226",
-      "shapeId": "csv-1226",
+      "id": "MI-1219",
+      "shapeId": "csv-1219",
       "name": "AMVETS Memorial Scenic Drive",
       "state": "MI",
       "honoree": {
@@ -2617,8 +2617,8 @@
       },
       "location": {
         "coordinates": [
-          43.22999169332966,
-          -84.61539416052045
+          43.226370295487676,
+          -84.6338211364222
         ],
         "state": "MI"
       },
@@ -2626,8 +2626,8 @@
       "highway": "M-46"
     },
     {
-      "id": "MI-1227",
-      "shapeId": "csv-1227",
+      "id": "MI-1220",
+      "shapeId": "csv-1220",
       "name": "Rosa Parks Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -2646,8 +2646,8 @@
       },
       "location": {
         "coordinates": [
-          43.21554853235923,
-          -84.62132160006122
+          43.21201947727461,
+          -84.64046060060268
         ],
         "state": "MI"
       },
@@ -2656,8 +2656,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Rosa_Parks"
     },
     {
-      "id": "MI-1228",
-      "shapeId": "csv-1228",
+      "id": "MI-1221",
+      "shapeId": "csv-1221",
       "name": "Officer Trevor Slot Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -2675,8 +2675,8 @@
       },
       "location": {
         "coordinates": [
-          43.2006267638883,
-          -84.62637904301451
+          43.19711491833337,
+          -84.64622652064166
         ],
         "state": "MI"
       },
@@ -2685,8 +2685,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Gillian_Anderson"
     },
     {
-      "id": "MI-1229",
-      "shapeId": "csv-1229",
+      "id": "MI-1222",
+      "shapeId": "csv-1222",
       "name": "Trooper Rick L. Johnson Memorial Freeway",
       "state": "MI",
       "honoree": {
@@ -2694,8 +2694,8 @@
       },
       "location": {
         "coordinates": [
-          43.18526816590857,
-          -84.63054193961334
+          43.181699780062154,
+          -84.6510893891242
         ],
         "state": "MI"
       },
@@ -2703,8 +2703,8 @@
       "highway": "I-94"
     },
     {
-      "id": "MI-1230",
-      "shapeId": "csv-1230",
+      "id": "MI-1223",
+      "shapeId": "csv-1223",
       "name": "Mark V. Ingram II Freeway",
       "state": "MI",
       "honoree": {
@@ -2712,8 +2712,8 @@
       },
       "location": {
         "coordinates": [
-          43.16951559641759,
-          -84.63378755237032
+          43.262298229570646,
+          -84.58366565410435
         ],
         "state": "MI"
       },
@@ -2721,8 +2721,8 @@
       "highway": "M-21"
     },
     {
-      "id": "MI-1231",
-      "shapeId": "csv-1231",
+      "id": "MI-1224",
+      "shapeId": "csv-1224",
       "name": "Medal of Honor Recipients Highway",
       "state": "MI",
       "honoree": {
@@ -2730,8 +2730,8 @@
       },
       "location": {
         "coordinates": [
-          43.25733596769725,
-          -84.57609500000001
+          43.24836410480204,
+          -84.58995897577553
         ],
         "state": "MI"
       },
@@ -2739,8 +2739,8 @@
       "highway": "US-31"
     },
     {
-      "id": "MI-1232",
-      "shapeId": "csv-1232",
+      "id": "MI-1225",
+      "shapeId": "csv-1225",
       "name": "William Davidson Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -2753,8 +2753,8 @@
       },
       "location": {
         "coordinates": [
-          43.24283547988691,
-          -84.58087768999847
+          43.23394264557594,
+          -84.5953510434249
         ],
         "state": "MI"
       },
@@ -2763,8 +2763,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Ilana_Davidson"
     },
     {
-      "id": "MI-1233",
-      "shapeId": "csv-1233",
+      "id": "MI-1226",
+      "shapeId": "csv-1226",
       "name": "George Edward (Ted) Seman Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -2772,8 +2772,8 @@
       },
       "location": {
         "coordinates": [
-          43.22796199843141,
-          -84.58474675592409
+          43.21907931245484,
+          -84.59981650877893
         ],
         "state": "MI"
       },
@@ -2781,8 +2781,8 @@
       "highway": "US-10"
     },
     {
-      "id": "MI-1234",
-      "shapeId": "csv-1234",
+      "id": "MI-1227",
+      "shapeId": "csv-1227",
       "name": "Hazen Shirley 'Kiki\" Cuyler Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -2790,8 +2790,8 @@
       },
       "location": {
         "coordinates": [
-          43.212760021884854,
-          -84.58768337872556
+          43.2038207085891,
+          -84.60333208219537
         ],
         "state": "MI"
       },
@@ -2799,8 +2799,8 @@
       "highway": "US-10"
     },
     {
-      "id": "MI-1235",
-      "shapeId": "csv-1235",
+      "id": "MI-1228",
+      "shapeId": "csv-1228",
       "name": "Violet T. Lewis Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -2813,8 +2813,8 @@
       },
       "location": {
         "coordinates": [
-          43.19727486544842,
-          -84.58967068053111
+          43.18821449198682,
+          -84.60587658044675
         ],
         "state": "MI"
       },
@@ -2823,8 +2823,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Gretchen_Whitmer"
     },
     {
-      "id": "MI-1236",
-      "shapeId": "csv-1236",
+      "id": "MI-1229",
+      "shapeId": "csv-1229",
       "name": "PFC Nicholas H. Blodgett Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -2832,8 +2832,8 @@
       },
       "location": {
         "coordinates": [
-          43.18155258135262,
-          -84.5906937574278
+          43.1723092858762,
+          -84.60743097090851
         ],
         "state": "MI"
       },
@@ -2841,8 +2841,8 @@
       "highway": "US-131"
     },
     {
-      "id": "MI-1237",
-      "shapeId": "csv-1237",
+      "id": "MI-1230",
+      "shapeId": "csv-1230",
       "name": "CPL Ross A. Smith Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -2855,8 +2855,8 @@
       },
       "location": {
         "coordinates": [
-          43.16563987798583,
-          -84.59073970910154
+          43.1561545873038,
+          -84.60797841207793
         ],
         "state": "MI"
       },
@@ -2865,8 +2865,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Michael_Bailey_Smith"
     },
     {
-      "id": "MI-1238",
-      "shapeId": "csv-1238",
+      "id": "MI-1231",
+      "shapeId": "csv-1231",
       "name": "Deputy Eric Overall Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -2880,8 +2880,8 @@
       },
       "location": {
         "coordinates": [
-          43.14958403788955,
-          -84.58979766529208
+          43.25189106964595,
+          -84.56465871614235
         ],
         "state": "MI"
       },
@@ -2890,8 +2890,8 @@
       "lawWebLink": "https://www.odmp.org/officer/23453-deputy-sheriff-eric-brian-overall"
     },
     {
-      "id": "MI-1239",
-      "shapeId": "csv-1239",
+      "id": "MI-1232",
+      "shapeId": "csv-1232",
       "name": "Gunnery Sgt. Daniel Price Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -2899,8 +2899,8 @@
       },
       "location": {
         "coordinates": [
-          43.24934393389688,
-          -84.5568005236082
+          43.23677915578658,
+          -84.56698160017542
         ],
         "state": "MI"
       },
@@ -2908,8 +2908,8 @@
       "highway": "I-196"
     },
     {
-      "id": "MI-1240",
-      "shapeId": "csv-1240",
+      "id": "MI-1233",
+      "shapeId": "csv-1233",
       "name": "Trooper Craig A. Scott Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -2923,8 +2923,8 @@
       },
       "location": {
         "coordinates": [
-          43.234099686968655,
-          -84.55766724498827
+          43.221439659178685,
+          -84.56830550484042
         ],
         "state": "MI"
       },
@@ -2933,8 +2933,8 @@
       "lawWebLink": "https://www.odmp.org/officer/11951-trooper-craig-a-scott"
     },
     {
-      "id": "MI-1241",
-      "shapeId": "csv-1241",
+      "id": "MI-1234",
+      "shapeId": "csv-1234",
       "name": "Det. Sgt. Christopher M. Wouters Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -2942,8 +2942,8 @@
       },
       "location": {
         "coordinates": [
-          43.21873161915565,
-          -84.55755493542178
+          43.20592317547963,
+          -84.56861821223367
         ],
         "state": "MI"
       },
@@ -2951,8 +2951,8 @@
       "highway": "M-53"
     },
     {
-      "id": "MI-1242",
-      "shapeId": "csv-1242",
+      "id": "MI-1235",
+      "shapeId": "csv-1235",
       "name": "Chief Petty Officer Jason Freiwald Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -2960,8 +2960,8 @@
       },
       "location": {
         "coordinates": [
-          43.20328758348939,
-          -84.55645693417432
+          43.19028084853409,
+          -84.5679097942027
         ],
         "state": "MI"
       },
@@ -2969,8 +2969,8 @@
       "highway": "M-53"
     },
     {
-      "id": "MI-1243",
-      "shapeId": "csv-1243",
+      "id": "MI-1236",
+      "shapeId": "csv-1236",
       "name": "Staff Sergeant Duane J. Dreasky Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -2978,8 +2978,8 @@
       },
       "location": {
         "coordinates": [
-          43.187815719407666,
-          -84.5543686669108
+          43.17456427303845,
+          -84.56617263483224
         ],
         "state": "MI"
       },
@@ -2987,8 +2987,8 @@
       "highway": "M-5"
     },
     {
-      "id": "MI-1244",
-      "shapeId": "csv-1244",
+      "id": "MI-1237",
+      "shapeId": "csv-1237",
       "name": "Michigan State Trooper Timothy O'Neill Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -3001,8 +3001,8 @@
       },
       "location": {
         "coordinates": [
-          43.172364367365816,
-          -84.55128765675109
+          43.15882539633262,
+          -84.56340144895478
         ],
         "state": "MI"
       },
@@ -3011,8 +3011,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Bill_Clinton"
     },
     {
-      "id": "MI-1245",
-      "shapeId": "csv-1245",
+      "id": "MI-1238",
+      "shapeId": "csv-1238",
       "name": "PFC Alan Robert Blohm Memorial Hwy",
       "state": "MI",
       "honoree": {
@@ -3020,8 +3020,8 @@
       },
       "location": {
         "coordinates": [
-          43.15698198304944,
-          -84.54721353196912
+          43.14311641947711,
+          -84.55959329665318
         ],
         "state": "MI"
       },
@@ -3029,8 +3029,8 @@
       "highway": "M-13"
     },
     {
-      "id": "MI-1246",
-      "shapeId": "csv-1246",
+      "id": "MI-1239",
+      "shapeId": "csv-1239",
       "name": "Corrections Officers Jack Budd and Josephine McCallum Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -3038,8 +3038,8 @@
       },
       "location": {
         "coordinates": [
-          43.141717051316874,
-          -84.54214803032202
+          43.24696667910983,
+          -84.54355603749157
         ],
         "state": "MI"
       },
@@ -3047,8 +3047,8 @@
       "highway": "I-94"
     },
     {
-      "id": "MI-1247",
-      "shapeId": "csv-1247",
+      "id": "MI-1240",
+      "shapeId": "csv-1240",
       "name": "Sergeant Collin Rose Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -3062,8 +3062,8 @@
       },
       "location": {
         "coordinates": [
-          43.246618000000005,
-          -84.536095
+          43.231785748302734,
+          -84.54173805219065
         ],
         "state": "MI"
       },
@@ -3072,8 +3072,8 @@
       "lawWebLink": "https://www.odmp.org/officer/23039-sergeant-collin-james-rose"
     },
     {
-      "id": "MI-1248",
-      "shapeId": "csv-1248",
+      "id": "MI-1241",
+      "shapeId": "csv-1241",
       "name": "Purple Heart Trail",
       "state": "MI",
       "honoree": {
@@ -3081,8 +3081,8 @@
       },
       "location": {
         "coordinates": [
-          43.23166886418975,
-          -84.53298668713194
+          43.21665368436835,
+          -84.5388966580203
         ],
         "state": "MI"
       },
@@ -3090,8 +3090,8 @@
       "highway": "M-15"
     },
     {
-      "id": "MI-1249",
-      "shapeId": "csv-1249",
+      "id": "MI-1242",
+      "shapeId": "csv-1242",
       "name": "Marine Sergeant Michael P. Hodshire Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -3099,8 +3099,8 @@
       },
       "location": {
         "coordinates": [
-          43.216853518443756,
-          -84.52890065578468
+          43.20162250581863,
+          -84.53503366388323
         ],
         "state": "MI"
       },
@@ -3108,8 +3108,8 @@
       "highway": "M-49"
     },
     {
-      "id": "MI-1250",
-      "shapeId": "csv-1250",
+      "id": "MI-1243",
+      "shapeId": "csv-1243",
       "name": "“Sgt. Craig S. Frank Memorial Highway.”",
       "state": "MI",
       "honoree": {
@@ -3117,8 +3117,8 @@
       },
       "location": {
         "coordinates": [
-          43.202219909165976,
-          -84.5238428574588
+          43.18674414473135,
+          -84.53015323155255
         ],
         "state": "MI"
       },
@@ -3126,8 +3126,8 @@
       "highway": "M-85"
     },
     {
-      "id": "MI-1251",
-      "shapeId": "csv-1251",
+      "id": "MI-1244",
+      "shapeId": "csv-1244",
       "name": "Trooper Byron J Erickson Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -3141,8 +3141,8 @@
       },
       "location": {
         "coordinates": [
-          43.187815719407666,
-          -84.5178213330892
+          43.1720703469507,
+          -84.52426187121038
         ],
         "state": "MI"
       },
@@ -3151,8 +3151,8 @@
       "lawWebLink": "https://www.odmp.org/officer/535-trooper-byron-j-erickson"
     },
     {
-      "id": "MI-1252",
-      "shapeId": "csv-1252",
+      "id": "MI-1245",
+      "shapeId": "csv-1245",
       "name": "PFC Brett Witteveen Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -3160,8 +3160,8 @@
       },
       "location": {
         "coordinates": [
-          43.17368828352685,
-          -84.51084620162383
+          43.15765257251406,
+          -84.51736843292292
         ],
         "state": "MI"
       },
@@ -3169,8 +3169,8 @@
       "highway": "US-31"
     },
     {
-      "id": "MI-1253",
-      "shapeId": "csv-1253",
+      "id": "MI-1246",
+      "shapeId": "csv-1246",
       "name": "Marine Lance Corporal Steven J Szymanski Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -3178,8 +3178,8 @@
       },
       "location": {
         "coordinates": [
-          43.15988450233145,
-          -84.50292964525727
+          43.143541896466026,
+          -84.50948409406247
         ],
         "state": "MI"
       },
@@ -3187,8 +3187,8 @@
       "highway": "US-10"
     },
     {
-      "id": "MI-1254",
-      "shapeId": "csv-1254",
+      "id": "MI-1247",
+      "shapeId": "csv-1247",
       "name": "Cpl Casey P Zylman Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -3196,8 +3196,8 @@
       },
       "location": {
         "coordinates": [
-          43.146450758833694,
-          -84.49408589133864
+          43.24788636408796,
+          -84.52190593707769
         ],
         "state": "MI"
       },
@@ -3205,8 +3205,8 @@
       "highway": "US-10"
     },
     {
-      "id": "MI-1255",
-      "shapeId": "csv-1255",
+      "id": "MI-1248",
+      "shapeId": "csv-1248",
       "name": "Deputy Gate Keeper George W Haight Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -3214,8 +3214,8 @@
       },
       "location": {
         "coordinates": [
-          43.24934393389688,
-          -84.5153894763918
+          43.23375025229997,
+          -84.51608046935041
         ],
         "state": "MI"
       },
@@ -3223,8 +3223,8 @@
       "highway": "I-94"
     },
     {
-      "id": "MI-1256",
-      "shapeId": "csv-1256",
+      "id": "MI-1249",
+      "shapeId": "csv-1249",
       "name": "SPC Holly McGeogh Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -3232,8 +3232,8 @@
       },
       "location": {
         "coordinates": [
-          43.235708668105445,
-          -84.50851795566084
+          43.21993587160784,
+          -84.5092822515076
         ],
         "state": "MI"
       },
@@ -3241,8 +3241,8 @@
       "highway": "I-75"
     },
     {
-      "id": "MI-1257",
-      "shapeId": "csv-1257",
+      "id": "MI-1250",
+      "shapeId": "csv-1250",
       "name": "Ensign Francis Flaherty Medal of Honor Recipient Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -3250,8 +3250,8 @@
       },
       "location": {
         "coordinates": [
-          43.22245568575554,
-          -84.50073665881665
+          43.20649284674191,
+          -84.50152698653785
         ],
         "state": "MI"
       },
@@ -3259,8 +3259,8 @@
       "highway": "M-50"
     },
     {
-      "id": "MI-1258",
-      "shapeId": "csv-1258",
+      "id": "MI-1251",
+      "shapeId": "csv-1251",
       "name": "Sergeant Matthew R Soper Memorial Highway Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -3268,8 +3268,8 @@
       },
       "location": {
         "coordinates": [
-          43.20962975915534,
-          -84.49206374400985
+          43.19347008771868,
+          -84.49283262078751
         ],
         "state": "MI"
       },
@@ -3277,8 +3277,8 @@
       "highway": "M-60"
     },
     {
-      "id": "MI-1259",
-      "shapeId": "csv-1259",
+      "id": "MI-1252",
+      "shapeId": "csv-1252",
       "name": "Lance Corporal Justin Ellsworth Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -3286,8 +3286,8 @@
       },
       "location": {
         "coordinates": [
-          43.19727486544842,
-          -84.48251931946889
+          43.18091569489978,
+          -84.48321931287934
         ],
         "state": "MI"
       },
@@ -3295,8 +3295,8 @@
       "highway": "US-127"
     },
     {
-      "id": "MI-1260",
-      "shapeId": "csv-1260",
+      "id": "MI-1253",
+      "shapeId": "csv-1253",
       "name": "Staff Sergeant Eugene H. E. Alex Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -3309,8 +3309,8 @@
       },
       "location": {
         "coordinates": [
-          43.18543410713722,
-          -84.47212541038033
+          43.1688768653596,
+          -84.47270939877735
         ],
         "state": "MI"
       },
@@ -3319,8 +3319,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Eugene_Vindman"
     },
     {
-      "id": "MI-1261",
-      "shapeId": "csv-1261",
+      "id": "MI-1254",
+      "shapeId": "csv-1254",
       "name": "Aretha L Franklin Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -3338,8 +3338,8 @@
       },
       "location": {
         "coordinates": [
-          43.17414963393944,
-          -84.46090592266277
+          43.15739980071351,
+          -84.46132735305136
         ],
         "state": "MI"
       },
@@ -3348,8 +3348,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Aretha_Franklin"
     },
     {
-      "id": "MI-1262",
-      "shapeId": "csv-1262",
+      "id": "MI-1255",
+      "shapeId": "csv-1255",
       "name": "Trooper Rodger M Adams Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -3362,8 +3362,8 @@
       },
       "location": {
         "coordinates": [
-          43.16346256609556,
-          -84.4488866036872
+          43.25458264662264,
+          -84.50129689856044
         ],
         "state": "MI"
       },
@@ -3372,8 +3372,8 @@
       "lawWebLink": "https://www.odmp.org/officer/1062-trooper-rodger-m-adams"
     },
     {
-      "id": "MI-1263",
-      "shapeId": "csv-1263",
+      "id": "MI-1256",
+      "shapeId": "csv-1256",
       "name": "Michigan Desert Storm Veterans Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -3381,8 +3381,8 @@
       },
       "location": {
         "coordinates": [
-          43.25733596769725,
-          -84.496095
+          43.24252853068703,
+          -84.49189136722325
         ],
         "state": "MI"
       },
@@ -3390,8 +3390,8 @@
       "highway": "M-52"
     },
     {
-      "id": "MI-1264",
-      "shapeId": "csv-1264",
+      "id": "MI-1257",
+      "shapeId": "csv-1257",
       "name": "Deputy Ernest W. Heikkila Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -3403,8 +3403,8 @@
       },
       "location": {
         "coordinates": [
-          43.24594379275498,
-          -84.48592855418822
+          43.231045404425224,
+          -84.48163511590997
         ],
         "state": "MI"
       },
@@ -3413,8 +3413,8 @@
       "lawWebLink": "https://www.odmp.org/officer/780-deputy-ernest-w-heikkila"
     },
     {
-      "id": "MI-1265",
-      "shapeId": "csv-1265",
+      "id": "MI-1258",
+      "shapeId": "csv-1258",
       "name": "Patrolman Bobby Lynn Williams Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -3428,8 +3428,8 @@
       },
       "location": {
         "coordinates": [
-          43.235156342646725,
-          -84.47498227436785
+          43.220176857783336,
+          -84.47055658955534
         ],
         "state": "MI"
       },
@@ -3438,8 +3438,8 @@
       "lawWebLink": "https://www.odmp.org/officer/14216-patrolman-bobby-lynn-williams"
     },
     {
-      "id": "MI-1266",
-      "shapeId": "csv-1266",
+      "id": "MI-1259",
+      "shapeId": "csv-1259",
       "name": "\"Trooper James R. DeLoach and Trooper Steven J. Niewiek Memorial Highway\"",
       "state": "MI",
       "honoree": {
@@ -3447,8 +3447,8 @@
       },
       "location": {
         "coordinates": [
-          43.225012164426055,
-          -84.46328528789152
+          43.209965190152964,
+          -84.45868620234243
         ],
         "state": "MI"
       },
@@ -3456,8 +3456,8 @@
       "highway": "Scott Lake Rd."
     },
     {
-      "id": "MI-1267",
-      "shapeId": "csv-1267",
+      "id": "MI-1260",
+      "shapeId": "csv-1260",
       "name": "\"Army Specialist Deangelo Snow Memorial Highway\"",
       "state": "MI",
       "honoree": {
@@ -3465,8 +3465,8 @@
       },
       "location": {
         "coordinates": [
-          43.21554853235923,
-          -84.45086839993878
+          43.20045132725456,
+          -84.44605628228176
         ],
         "state": "MI"
       },
@@ -3474,8 +3474,8 @@
       "highway": "I-75"
     },
     {
-      "id": "MI-1268",
-      "shapeId": "csv-1268",
+      "id": "MI-1261",
+      "shapeId": "csv-1261",
       "name": "\"Officer Jessica Nagle-Wilson Memorial Highway\".",
       "state": "MI",
       "honoree": {
@@ -3483,8 +3483,8 @@
       },
       "location": {
         "coordinates": [
-          43.20680137972878,
-          -84.43776404095463
+          43.19167474031575,
+          -84.43270101242922
         ],
         "state": "MI"
       },
@@ -3492,8 +3492,8 @@
       "highway": "I-75"
     },
     {
-      "id": "MI-1269",
-      "shapeId": "csv-1269",
+      "id": "MI-1262",
+      "shapeId": "csv-1262",
       "name": "“Sergeant Ryan J. Proxmire Memorial Highway.”",
       "state": "MI",
       "honoree": {
@@ -3501,8 +3501,8 @@
       },
       "location": {
         "coordinates": [
-          43.198805232728574,
-          -84.424006211433
+          43.18367336767648,
+          -84.41865636883507
         ],
         "state": "MI"
       },
@@ -3510,8 +3510,8 @@
       "highway": "US-131"
     },
     {
-      "id": "MI-1270",
-      "shapeId": "csv-1270",
+      "id": "MI-1263",
+      "shapeId": "csv-1263",
       "name": "Trooper Caleb Starr Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -3519,8 +3519,8 @@
       },
       "location": {
         "coordinates": [
-          43.1915931465509,
-          -84.40963042412577
+          43.266564215579784,
+          -84.4832410221288
         ],
         "state": "MI"
       },
@@ -3528,8 +3528,8 @@
       "highway": "US-127"
     },
     {
-      "id": "MI-1271",
-      "shapeId": "csv-1271",
+      "id": "MI-1264",
+      "shapeId": "csv-1264",
       "name": "Kevin D. White Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -3542,8 +3542,8 @@
       },
       "location": {
         "coordinates": [
-          43.27004945750508,
-          -84.47952645750507
+          43.25747651477546,
+          -84.47094551787663
         ],
         "state": "MI"
       },
@@ -3552,8 +3552,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Kevin_Harvick"
     },
     {
-      "id": "MI-1272",
-      "shapeId": "csv-1272",
+      "id": "MI-1265",
+      "shapeId": "csv-1265",
       "name": "Firefighter Coleman A. Tate Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -3566,8 +3566,8 @@
       },
       "location": {
         "coordinates": [
-          43.26167673130783,
-          -84.46675791309372
+          43.24916716829402,
+          -84.45798374173302
         ],
         "state": "MI"
       },
@@ -3576,8 +3576,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Joe_Tate_%28politician%29"
     },
     {
-      "id": "MI-1273",
-      "shapeId": "csv-1273",
+      "id": "MI-1266",
+      "shapeId": "csv-1266",
       "name": "Veterans' Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -3585,8 +3585,8 @@
       },
       "location": {
         "coordinates": [
-          43.254089960338995,
-          -84.45339262117731
+          43.2416705330712,
+          -84.44439479355323
         ],
         "state": "MI"
       },
@@ -3594,8 +3594,8 @@
       "highway": "M-32"
     },
     {
-      "id": "MI-1274",
-      "shapeId": "csv-1274",
+      "id": "MI-1267",
+      "shapeId": "csv-1267",
       "name": "Julie Plawecki Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -3608,8 +3608,8 @@
       },
       "location": {
         "coordinates": [
-          43.24731883947955,
-          -84.43946869332966
+          43.23501919433647,
+          -84.43021932384625
         ],
         "state": "MI"
       },
@@ -3618,8 +3618,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Julie_Plawecki"
     },
     {
-      "id": "MI-1275",
-      "shapeId": "csv-1275",
+      "id": "MI-1268",
+      "shapeId": "csv-1268",
       "name": "Army Sergeant First Class Michael Cathcart Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -3632,8 +3632,8 @@
       },
       "location": {
         "coordinates": [
-          43.241391399938784,
-          -84.42502553235923
+          43.22924390041918,
+          -84.41549945808065
         ],
         "state": "MI"
       },
@@ -3642,8 +3642,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Dan_Quayle"
     },
     {
-      "id": "MI-1276",
-      "shapeId": "csv-1276",
+      "id": "MI-1269",
+      "shapeId": "csv-1269",
       "name": "Bataan and Corregidor Veterans Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -3651,8 +3651,8 @@
       },
       "location": {
         "coordinates": [
-          43.2363339569855,
-          -84.4101037638883
+          43.2243735006674,
+          -84.40027871836844
         ],
         "state": "MI"
       },
@@ -3660,8 +3660,8 @@
       "highway": "I-69"
     },
     {
-      "id": "MI-1277",
-      "shapeId": "csv-1277",
+      "id": "MI-1270",
+      "shapeId": "csv-1270",
       "name": "BEN LAUREN AND DON RILING MEMORIAL HIGHWAY",
       "state": "MI",
       "honoree": {
@@ -3669,8 +3669,8 @@
       },
       "location": {
         "coordinates": [
-          43.23217106038667,
-          -84.39474516590857
+          43.22043488658197,
+          -84.38460194265132
         ],
         "state": "MI"
       },
@@ -3678,8 +3678,8 @@
       "highway": "M-35"
     },
     {
-      "id": "MI-1278",
-      "shapeId": "csv-1278",
+      "id": "MI-1271",
+      "shapeId": "csv-1271",
       "name": "Darryl M. Rantanen Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -3693,8 +3693,8 @@
       },
       "location": {
         "coordinates": [
-          43.228925447629685,
-          -84.37899259641759
+          43.28295197450523,
+          -84.46906308060714
         ],
         "state": "MI"
       },
@@ -3703,8 +3703,8 @@
       "lawWebLink": "https://www.odmp.org/officer/11007-trooper-darryl-m-rantanen"
     },
     {
-      "id": "MI-1279",
-      "shapeId": "csv-1279",
+      "id": "MI-1272",
+      "shapeId": "csv-1272",
       "name": "Officer Mason Samborski Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -3718,8 +3718,8 @@
       },
       "location": {
         "coordinates": [
-          43.286618000000004,
-          -84.46681296769725
+          43.27749746006909,
+          -84.45477973355577
         ],
         "state": "MI"
       },
@@ -3728,8 +3728,8 @@
       "lawWebLink": "https://www.odmp.org/officer/19722-public-safety-officer-mason-james-samborski"
     },
     {
-      "id": "MI-1280",
-      "shapeId": "csv-1280",
+      "id": "MI-1273",
+      "shapeId": "csv-1273",
       "name": "Officer Scott Flahive Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -3743,8 +3743,8 @@
       },
       "location": {
         "coordinates": [
-          43.28183531000153,
-          -84.45231247988691
+          43.2729715561805,
+          -84.44006344755228
         ],
         "state": "MI"
       },
@@ -3753,8 +3753,8 @@
       "lawWebLink": "https://www.odmp.org/officer/755-officer-scott-anthony-flahive"
     },
     {
-      "id": "MI-1281",
-      "shapeId": "csv-1281",
+      "id": "MI-1274",
+      "shapeId": "csv-1274",
       "name": "PFC Kenneth Coates Memorial Interchange",
       "state": "MI",
       "honoree": {
@@ -3762,8 +3762,8 @@
       },
       "location": {
         "coordinates": [
-          43.27796624407591,
-          -84.4374389984314
+          43.26939686597136,
+          -84.42496110858755
         ],
         "state": "MI"
       },
@@ -3771,8 +3771,8 @@
       "highway": "I-75"
     },
     {
-      "id": "MI-1282",
-      "shapeId": "csv-1282",
+      "id": "MI-1275",
+      "shapeId": "csv-1275",
       "name": "Trooper Manuel H. Fields Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -3790,8 +3790,8 @@
       },
       "location": {
         "coordinates": [
-          43.275029621274456,
-          -84.42223702188485
+          43.26679386970697,
+          -84.40952062093898
         ],
         "state": "MI"
       },
@@ -3800,8 +3800,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Benjamin_Crump"
     },
     {
-      "id": "MI-1283",
-      "shapeId": "csv-1283",
+      "id": "MI-1276",
+      "shapeId": "csv-1276",
       "name": "Samuel R. Costello Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -3814,8 +3814,8 @@
       },
       "location": {
         "coordinates": [
-          43.27304231946889,
-          -84.40675186544843
+          43.2651808822982,
+          -84.39379081675688
         ],
         "state": "MI"
       },
@@ -3824,8 +3824,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Samuel_Myron_Brainerd"
     },
     {
-      "id": "MI-1284",
-      "shapeId": "csv-1284",
+      "id": "MI-1277",
+      "shapeId": "csv-1277",
       "name": "\"Peter A. Pettalia Memorial Highway\"",
       "state": "MI",
       "honoree": {
@@ -3833,8 +3833,8 @@
       },
       "location": {
         "coordinates": [
-          43.27201924257221,
-          -84.39102958135261
+          43.26457401451588,
+          -84.37782136396024
         ],
         "state": "MI"
       },
@@ -3842,8 +3842,8 @@
       "highway": "US-23"
     },
     {
-      "id": "MI-1285",
-      "shapeId": "csv-1285",
+      "id": "MI-1278",
+      "shapeId": "csv-1278",
       "name": "\"Peter C. Lemon Highway\"",
       "state": "MI",
       "honoree": {
@@ -3851,8 +3851,8 @@
       },
       "location": {
         "coordinates": [
-          43.271973290898465,
-          -84.37511687798583
+          43.264987137972724,
+          -84.3616626725897
         ],
         "state": "MI"
       },
@@ -3860,8 +3860,8 @@
       "highway": "US-23"
     },
     {
-      "id": "MI-1286",
-      "shapeId": "csv-1286",
+      "id": "MI-1279",
+      "shapeId": "csv-1279",
       "name": "UAW Sitdown Strike Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -3879,8 +3879,8 @@
       },
       "location": {
         "coordinates": [
-          43.272915334707925,
-          -84.35906103788955
+          43.302543541572796,
+          -84.45980331990684
         ],
         "state": "MI"
       },
@@ -3889,8 +3889,8 @@
       "lawWebLink": "https://en.wikipedia.org/wiki/Genora_Johnson_Dollinger"
     },
     {
-      "id": "MI-1287",
-      "shapeId": "csv-1287",
+      "id": "MI-1280",
+      "shapeId": "csv-1280",
       "name": "Disabled American Veterans Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -3898,8 +3898,8 @@
       },
       "location": {
         "coordinates": [
-          43.3059124763918,
-          -84.45882093389687
+          43.30112241520775,
+          -84.44458010964821
         ],
         "state": "MI"
       },
@@ -3907,8 +3907,8 @@
       "highway": "I-275"
     },
     {
-      "id": "MI-1288",
-      "shapeId": "csv-1288",
+      "id": "MI-1281",
+      "shapeId": "csv-1281",
       "name": "Disabled American Veterans Highway",
       "state": "MI",
       "honoree": {
@@ -3916,8 +3916,8 @@
       },
       "location": {
         "coordinates": [
-          43.30504575501174,
-          -84.44357668696865
+          43.30071202278167,
+          -84.42918905842347
         ],
         "state": "MI"
       },
@@ -3925,8 +3925,8 @@
       "highway": "M-121"
     },
     {
-      "id": "MI-1289",
-      "shapeId": "csv-1289",
+      "id": "MI-1282",
+      "shapeId": "csv-1282",
       "name": "Barry Lyn Hause Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -3934,8 +3934,8 @@
       },
       "location": {
         "coordinates": [
-          43.30515806457823,
-          -84.42820861915565
+          43.30132155521435,
+          -84.41368139829984
         ],
         "state": "MI"
       },
@@ -3943,8 +3943,8 @@
       "highway": "I-96"
     },
     {
-      "id": "MI-1290",
-      "shapeId": "csv-1290",
+      "id": "MI-1283",
+      "shapeId": "csv-1283",
       "name": "Captain Joseph M. Liedel Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -3952,8 +3952,8 @@
       },
       "location": {
         "coordinates": [
-          43.30625606582568,
-          -84.41276458348939
+          43.302957885154946,
+          -84.39810877255132
         ],
         "state": "MI"
       },
@@ -3961,8 +3961,8 @@
       "highway": "M-125"
     },
     {
-      "id": "MI-1291",
-      "shapeId": "csv-1291",
+      "id": "MI-1284",
+      "shapeId": "csv-1284",
       "name": "Officer Leroy Imus Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -3976,8 +3976,8 @@
       },
       "location": {
         "coordinates": [
-          43.308344333089195,
-          -84.39729271940767
+          43.30562555031745,
+          -84.38252313715942
         ],
         "state": "MI"
       },
@@ -3986,8 +3986,8 @@
       "lawWebLink": "https://www.odmp.org/officer/6924-police-officer-leroy-hugh-imus"
     },
     {
-      "id": "MI-1292",
-      "shapeId": "csv-1292",
+      "id": "MI-1285",
+      "shapeId": "csv-1285",
       "name": "PFC Ronald James Fitch Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -3995,8 +3995,8 @@
       },
       "location": {
         "coordinates": [
-          43.31142534324892,
-          -84.38184136736581
+          43.309326740836454,
+          -84.36697666167876
         ],
         "state": "MI"
       },
@@ -4004,8 +4004,8 @@
       "highway": "US-127"
     },
     {
-      "id": "MI-1293",
-      "shapeId": "csv-1293",
+      "id": "MI-1286",
+      "shapeId": "csv-1286",
       "name": "Private Wesley Vietti Karna Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -4013,8 +4013,8 @@
       },
       "location": {
         "coordinates": [
-          43.31549946803088,
-          -84.36645898304944
+          43.31406129066618,
+          -84.35152162962738
         ],
         "state": "MI"
       },
@@ -4022,8 +4022,8 @@
       "highway": "M-26"
     },
     {
-      "id": "MI-1294",
-      "shapeId": "csv-1294",
+      "id": "MI-1287",
+      "shapeId": "csv-1287",
       "name": "Senior Chief Petty Officer Jason P. May Memorial Highway",
       "state": "MI",
       "honoree": {
@@ -4036,8 +4036,8 @@
       },
       "location": {
         "coordinates": [
-          43.320564969677974,
-          -84.35119405131688
+          43.32390146921594,
+          -84.45614113542487
         ],
         "state": "MI"
       },
@@ -4047,7 +4047,7 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-04-22T17:36:07.805Z",
+    "lastUpdated": "2026-04-22T18:34:53.610Z",
     "totalCount": 192,
     "states": [
       "MI"

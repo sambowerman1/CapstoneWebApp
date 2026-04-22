@@ -12,21 +12,19 @@ import * as fs from "fs";
 import * as path from "path";
 import { parse } from "csv-parse/sync";
 
-const REPO_ROOT = path.resolve(__dirname, "..", "..");
-const CSV_SOURCE = path.join(
-  REPO_ROOT,
-  "Capstone",
-  "openclaw",
-  "all_states_summarized.csv"
-);
-const CSV_GEOCODED = path.join(
-  REPO_ROOT,
-  "Capstone",
-  "geocode",
-  "output",
-  "highways_geocoded.csv"
-);
+const SOURCE_DATA = path.resolve(__dirname, "source-data");
+const CSV_SOURCE = path.join(SOURCE_DATA, "all_states_summarized.csv");
+const CSV_GEOCODED = path.join(SOURCE_DATA, "highways_geocoded.csv");
 const PUBLIC_DATA = path.resolve(__dirname, "..", "public", "data");
+
+// Anomalies to suppress from the map: matched by (state code, exact highway_name).
+// Matching by name keeps removals stable across CSV re-parses.
+const EXCLUDE_BY_NAME = new Set<string>([
+  "HI|Farrington Highway",
+  "HI|Kalanianaole Highway",
+  "NY|The Korean War Veterans Memorial Parkway",
+  "NY|Jewish War Veterans Memorial Highway",
+]);
 const STATES_DIR = path.join(PUBLIC_DATA, "states");
 
 interface StateMeta {
@@ -251,6 +249,7 @@ function main() {
   const byState = new Map<string, Highway[]>();
   let unknownState = 0;
   let noCentroid = 0;
+  let excluded = 0;
   let built = 0;
 
   srcRows.forEach((row, idx) => {
@@ -261,6 +260,11 @@ function main() {
       return;
     }
 
+    const highwayName = (row.highway_name || "").trim();
+    if (EXCLUDE_BY_NAME.has(`${stateCode}|${highwayName}`)) {
+      excluded++;
+      return;
+    }
     const geoKey = String(idx + 1);
     const geo = geoById.get(geoKey);
     const synthetic = { ...row, id: geoKey };
@@ -276,7 +280,7 @@ function main() {
     built++;
   });
 
-  console.log(`Built ${built} highways (${unknownState} unknown-state, ${noCentroid} no-centroid skipped)`);
+  console.log(`Built ${built} highways (${unknownState} unknown-state, ${noCentroid} no-centroid, ${excluded} excluded)`);
 
   if (!fs.existsSync(STATES_DIR)) fs.mkdirSync(STATES_DIR, { recursive: true });
 
