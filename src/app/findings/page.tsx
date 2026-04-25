@@ -8,6 +8,9 @@ type ShinyStatus = {
   reason?: string
 }
 
+const SHINY_EMBED_URL =
+  process.env.NEXT_PUBLIC_SHINY_EMBED_URL || "http://127.0.0.1:3838"
+
 export default function FindingsPage() {
   const [loadingStatus, setLoadingStatus] = useState(true)
   const [shinyStatus, setShinyStatus] = useState<ShinyStatus | null>(null)
@@ -44,10 +47,10 @@ export default function FindingsPage() {
           <div className="max-w-xl text-center">
             <h1 className="text-2xl font-semibold mb-2">Shiny dashboard is unavailable</h1>
             <p className="text-gray-600 mb-3">
-              The embedded dashboard at <code>/shiny</code> could not be loaded.
+              The embedded dashboard could not be loaded.
             </p>
             <p className="text-sm text-gray-500 mb-4">
-              Target: <code>{shinyStatus?.target ?? "http://127.0.0.1:3838"}</code>
+              Target: <code>{shinyStatus?.target ?? SHINY_EMBED_URL}</code>
               {shinyStatus?.reason ? ` | ${shinyStatus.reason}` : ""}
             </p>
             <button
@@ -61,7 +64,7 @@ export default function FindingsPage() {
         </div>
       ) : (
         <iframe
-          src="/shiny/"
+          src={SHINY_EMBED_URL}
           title="Memorial Highways Shiny Dashboard"
           className="w-full h-full border-0"
           allow="fullscreen"
