@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start -p 3001",
     "lint": "next lint",
-    "process-data": "tsx scripts/process-florida-data.ts"
+    "process-data": "tsx scripts/process-florida-data.ts",
+    "export-rshiny-findings": "Rscript scripts/export-rshiny-findings-artifacts.R"
   },
   "dependencies": {
     "@radix-ui/react-collapsible": "^1.1.12",
