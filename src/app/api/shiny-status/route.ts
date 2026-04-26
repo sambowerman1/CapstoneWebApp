@@ -1,9 +1,12 @@
 import { NextResponse } from "next/server"
 
-const DEFAULT_SHINY_TARGET = "http://127.0.0.1:3838"
+const DEFAULT_SHINY_TARGET = "https://memorialhighway.shinyapps.io/rshiny-capstone/"
 
 export async function GET() {
-  const target = process.env.SHINY_PROXY_TARGET || DEFAULT_SHINY_TARGET
+  const target =
+    process.env.SHINY_STATUS_TARGET ||
+    process.env.NEXT_PUBLIC_SHINY_EMBED_URL ||
+    DEFAULT_SHINY_TARGET
 
   try {
     const controller = new AbortController()

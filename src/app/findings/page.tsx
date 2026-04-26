@@ -9,7 +9,8 @@ type ShinyStatus = {
 }
 
 const SHINY_EMBED_URL =
-  process.env.NEXT_PUBLIC_SHINY_EMBED_URL || "http://127.0.0.1:3838"
+  process.env.NEXT_PUBLIC_SHINY_EMBED_URL ||
+  "https://memorialhighway.shinyapps.io/rshiny-capstone/"
 
 export default function FindingsPage() {
   const [loadingStatus, setLoadingStatus] = useState(true)
@@ -24,7 +25,7 @@ export default function FindingsPage() {
       setShinyStatus(status)
     } catch (error) {
       const reason = error instanceof Error ? error.message : "Unknown error"
-      setShinyStatus({ ok: false, target: "/shiny", reason })
+      setShinyStatus({ ok: false, target: SHINY_EMBED_URL, reason })
     } finally {
       setLoadingStatus(false)
     }
