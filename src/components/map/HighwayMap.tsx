@@ -170,12 +170,12 @@ export default function HighwayMap({ highways, selectedState }: HighwayMapProps)
           opacity: 0.7,
         }).addTo(map)
 
-        polyline.bindPopup(createPopupContent(highway))
+        polyline.bindPopup(createPopupContent(highway), { maxWidth: 420 })
         polyline.on("click", () => setSelectedHighway(highway))
       } else {
         // Single point marker
         const marker = L.marker(coordinates as [number, number]).addTo(map)
-        marker.bindPopup(createPopupContent(highway))
+        marker.bindPopup(createPopupContent(highway), { maxWidth: 420 })
         marker.on("click", () => setSelectedHighway(highway))
       }
     })
@@ -193,11 +193,8 @@ export default function HighwayMap({ highways, selectedState }: HighwayMapProps)
     // @ts-ignore
     if (highway.honoree.involvedInFireService) badges.push('<span style="background:#ea580c;color:white;padding:2px 6px;border-radius:4px;font-size:11px;margin-right:4px;">Fire Service</span>');
 
-    // Truncate summary if too long
-    let summary = highway.honoree.summary || '';
-    if (summary.length > 200) {
-      summary = summary.substring(0, 200) + '...';
-    }
+    // Keep the full summary and constrain the popup content area instead.
+    const summary = highway.honoree.summary || '';
 
     // Dynamic state badge
     const stateColor = STATE_COLORS[highway.state] || '#6b7280';
@@ -217,7 +214,7 @@ export default function HighwayMap({ highways, selectedState }: HighwayMapProps)
         ${highway.honoree.education ? `<p style="margin-bottom:4px;font-size:13px;"><strong>Education:</strong> ${highway.honoree.education}</p>` : ""}
         ${highway.honoree.causeOfDeath ? `<p style="margin-bottom:4px;font-size:13px;"><strong>Cause of Death:</strong> ${highway.honoree.causeOfDeath}</p>` : ""}
         ${badges.length > 0 ? `<div style="margin-top:8px;margin-bottom:8px;">${badges.join('')}</div>` : ""}
-        ${summary ? `<p style="font-size:12px;color:#4b5563;margin-top:8px;line-height:1.4;">${summary}</p>` : ""}
+        ${summary ? `<div style="font-size:12px;color:#4b5563;margin-top:8px;line-height:1.4;max-height:180px;overflow-y:auto;padding-right:4px;">${summary}</div>` : ""}
       </div>
     `
   }
